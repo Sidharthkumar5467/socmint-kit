@@ -139,8 +139,3 @@ alongside this submission.
   staged changes.
 - Payment-card and credential data in collected posts is masked at write time.
 - The server only ever listens on `127.0.0.1`.
-
-## Attribution
-
-The bundled Telegram leak/underground channel list is derived from
-[deepdarkCTI](https://github.com/fastfire/deepdarkCTI) (GPL-3.0); see `NOTICE`.
