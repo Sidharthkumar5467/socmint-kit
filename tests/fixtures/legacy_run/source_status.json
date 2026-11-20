@@ -1,0 +1,72 @@
+[
+  {
+    "source": "x",
+    "query": "(\"bank of america\") since_time:1794528000 until_time:1795132800",
+    "state": "ok",
+    "count": 300,
+    "reason": "web_session (owner's logged-in account): collected 300 post(s) across 7 time slice(s), newest first, sharing the per-source limit of 300; per-day: 2026-11-19 43, 2026-11-18 43, 2026-11-17 43, 2026-11-16 43, 2026-11-15 43, 2026-11-14 43, 2026-11-13 42; slices: 2026-11-19: reached its share of 43 post(s); 17 post(s) on the last page were not kept; resume from the slice's saved cursor, which re-fetches that page, so up to 20 post(s) repeat | 2026-11-18: reached its share of 43 post(s); 17 post(s) on the last page were not kept; resume from the slice's saved cursor, which re-fetches that page, so up to 20 post(s) repeat | 2026-11-17: reached its share of 43 post(s); 17 post(s) on the last page were not kept; resume from the slice's saved cursor, which re-fetches that page, so up to 20 post(s) repeat | 2026-11-16: reached its share of 43 post(s); 17 post(s) on the last page were not kept; resume from the slice's saved cursor, which re-fetches that page, so up to 20 post(s) repeat | 2026-11-15: reached its share of 43 post(s); 17 post(s) on the last page were not kept; resume from the slice's saved cursor, which re-fetches that page, so up to 20 post(s) repeat | 2026-11-14: reached its share of 43 post(s); 17 post(s) on the last page were not kept; resume from the slice's saved cursor, which re-fetches that page, so up to 20 post(s) repeat | 2026-11-13: reached its share of 42 post(s); 18 post(s) on the last page were not kept; resume from the slice's saved cursor, which re-fetches that page, so up to 20 post(s) repeat; 21 SearchTimeline response(s), 21 used as search pages; headless browser (X_BROWSER_HEADLESS=true; its user agent identifies as HeadlessChrome); coverage: posts on 7 of 7 days",
+    "cursor": null,
+    "date_filtered": true,
+    "requests": 21,
+    "cost_usd": 0.0,
+    "quota_units": null,
+    "started_at": "2026-11-19T14:19:09Z",
+    "finished_at": "2026-11-19T14:20:22Z"
+  },
+  {
+    "source": "telegram",
+    "query": "bank of america",
+    "state": "partial",
+    "count": 300,
+    "reason": "API mode; global search (channels.searchPosts, results walked newest first and spread across days by platform timestamps); global search has no date filter; reached back to 2026-11-19 03:59 UTC; 7 result(s) without the exact phrase were not kept (topic match: phrase); 10 duplicate result(s) ignored; 983 in-window candidate(s); the cap of 300 was split across the days reached, keeping the newest posts within each day; page cap (10) reached before the window start; per-day: 2026-11-19 300, 2026-11-18 not reached, 2026-11-17 not reached, 2026-11-16 not reached, 2026-11-15 not reached, 2026-11-14 not reached, 2026-11-13 not reached; coverage: posts on 1 of 7 days (no posts: 2026-11-13, 2026-11-14, 2026-11-15, 2026-11-16, 2026-11-17, 2026-11-18)",
+    "cursor": "2026-11-19:global:offset_rate=1795060748:offset_id=3058",
+    "date_filtered": false,
+    "requests": 11,
+    "cost_usd": 0.0,
+    "quota_units": null,
+    "started_at": "2026-11-19T14:19:10Z",
+    "finished_at": "2026-11-19T14:19:21Z"
+  },
+  {
+    "source": "youtube",
+    "query": "bank of america",
+    "state": "ok",
+    "count": 800,
+    "reason": "stopped at the per-slice share of the post limit 300; more results exist for 2026-11-19, 2026-11-18, 2026-11-17, 2026-11-16, 2026-11-15, 2026-11-14, 2026-11-13; per-day: 2026-11-19 43, 2026-11-18 43, 2026-11-17 43, 2026-11-16 43, 2026-11-15 43, 2026-11-14 43, 2026-11-13 42; comments for _iFweJTNUHw: first 100 threads only; comments for 9KZVjjtJzkQ: first 100 threads only; comments for aeGQ5xoShmY: first 100 threads only; comments for -tB3ZpmyVEk: first 100 threads only; comments for NYnAaSmaLJc: first 100 threads only; coverage: posts on 7 of 7 days",
+    "cursor": null,
+    "date_filtered": true,
+    "requests": 28,
+    "cost_usd": 0.0,
+    "quota_units": 1117,
+    "started_at": "2026-11-19T14:19:09Z",
+    "finished_at": "2026-11-19T14:19:17Z"
+  },
+  {
+    "source": "linkedin",
+    "query": "\"bank of america\"",
+    "state": "partial",
+    "count": 235,
+    "reason": "LinkedIn Voyager content search API (owner's logged-in account): datePosted=past-week, sortBy=date_posted, keywords \"bank of america\", queryId voyagerSearchDashClusters.5ba32757c00b31aea747c8bebb92855c; LinkedIn's results ended (paging.total 245) at 2026-11-19 06:01 UTC, before the window start: LinkedIn caps search results, so older days were not reached (not the same as no posts); results walked newest first (no custom date range on LinkedIn), reached back to 2026-11-19 05:45 UTC; 10 result(s) without the exact phrase were not kept (topic match: phrase; LinkedIn's own matching is looser); 10 page(s) of 25 parsed of paging.total 245; published_at decoded from post IDs, checked against each card's relative time label; per-day: 2026-11-19 235 (fewer than its share of 300), 2026-11-18 not reached, 2026-11-17 not reached, 2026-11-16 not reached, 2026-11-15 not reached, 2026-11-14 not reached, 2026-11-13 not reached; coverage: posts on 1 of 7 days (no posts: 2026-11-13, 2026-11-14, 2026-11-15, 2026-11-16, 2026-11-17, 2026-11-18)",
+    "cursor": "2026-11-19:start=250",
+    "date_filtered": false,
+    "requests": 10,
+    "cost_usd": 0.0,
+    "quota_units": null,
+    "started_at": "2026-11-19T14:19:09Z",
+    "finished_at": "2026-11-19T14:20:06Z"
+  },
+  {
+    "source": "linkedin_ads",
+    "query": "bank of america",
+    "state": "partial",
+    "count": 300,
+    "reason": "stopped at post limit 300; dateOption=last-30-days (window reaches today); fetched without LINKEDIN_COOKIE: the LinkedIn posts source uses that account in this run; 12 retrieved ad(s) dropped by the post limit; 13 page(s); detail pages fetched for 40/300 ads, 9 with run dates; coverage: posts on 1 of 7 days (no posts: 2026-11-13, 2026-11-14, 2026-11-15, 2026-11-16, 2026-11-18, 2026-11-19)",
+    "cursor": "1684023496-1794262750589",
+    "date_filtered": false,
+    "requests": 53,
+    "cost_usd": 0.0,
+    "quota_units": null,
+    "started_at": "2026-11-19T14:19:09Z",
+    "finished_at": "2026-11-19T14:21:25Z"
+  }
+]

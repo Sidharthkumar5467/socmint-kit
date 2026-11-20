@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "Bank of America India has job openings in Mumbai, Gurugram, Chennai, and Hyderabad for finance and banking professionals.",
+ "params": {
+  "query": "Bank of America India has job openings in Mumbai, Gurugram, Chennai, and Hyderabad for finance and banking professionals.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:48Z",
+ "error": null,
+ "response": {}
+}

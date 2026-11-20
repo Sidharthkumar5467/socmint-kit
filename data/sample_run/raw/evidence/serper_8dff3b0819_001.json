@@ -1,0 +1,93 @@
+{
+ "provider": "serper",
+ "query": "Ripple and Bank of America have officially confirmed a partnership.",
+ "params": {
+  "q": "Ripple and Bank of America have officially confirmed a partnership.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:12Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Ripple and Bank of America have officially confirmed a partnership.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Ripple's RLUSD Enters US Banking Rails Through Cross River Partnership",
+    "link": "https://finance.biggo.com/news/a3418db0-1bb5-427e-a868-5bc3311686ce",
+    "date": "1 month ago",
+    "source": "BigGo Finance",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "XRP News Today : Ripple and Jeonbuk Bank Partner To Bring Faster Payments to Korea",
+    "link": "https://www.tradingview.com/news/coinpedia:c485d1425094b:***",
+    "date": "Aug 17, 2026",
+    "source": "TradingView",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "XRP: The Case For The Most Deeply Entrenched Payment Network In Crypto (NYSEARCA:XRP)",
+    "link": "https://seekingalpha.com/article/4915500-xrp-the-case-for-the-most-deeply-entrenched-payment-network-in-crypto",
+    "date": "Jun 16, 2026",
+    "source": "Seeking Alpha",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "SWIFT-Ripple Partnership Rumor Sends XRP Community Into Overdrive, But What’s Actually Confirmed?",
+    "link": "https://www.ccn.com/news/crypto/swift-ripple-partnership-2026-xrp-rumors-sibos/",
+    "date": "1 month ago",
+    "source": "CCN.com",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Companies Using Ripple for Cross-Border Payments: The Full 2026 Picture",
+    "link": "https://memeburn.com/companies-using-ripple-for-cross-border-payments/",
+    "date": "Jun 17, 2026",
+    "source": "Memeburn",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "XRP’s Banking Partnerships Hit 300: Why Wall Street Is Watching",
+    "link": "https://finance.yahoo.com/news/xrp-banking-partnerships-hit-300-182604128.html",
+    "date": "Nov 11, 2025",
+    "source": "Yahoo Finance",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Ripple’s Early Banking Ally Now Connected To X Money Expansion",
+    "link": "https://www.tradingview.com/news/newsbtc:0ea5ee98d094b:***",
+    "date": "May 18, 2026",
+    "source": "TradingView",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "XRP’s Banking Partnerships Hit 300: Why Wall Street Is Watching",
+    "link": "https://247wallst.com/investing/2025/11/11/xrps-banking-partnerships-hit-300-why-wall-street-is-watching/",
+    "date": "Nov 11, 2025",
+    "source": "24/7 Wall St.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Ripple applies for US national bank charter as crypto eyes next frontier",
+    "link": "https://www.reuters.com/business/finance/ripple-applies-us-national-bank-charter-crypto-eyes-next-frontier-2025-07-02/",
+    "date": "Jul 2, 2025",
+    "source": "Reuters",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "SWIFT-Ripple Partnership Rumor Sends XRP Community Into Overdrive, But What’s Actually Confirmed?",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/swift-ripple-partnership-rumor-sends-144715710.html",
+    "date": "1 month ago",
+    "source": "Yahoo Finance",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

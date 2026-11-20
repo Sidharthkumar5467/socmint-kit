@@ -1,0 +1,49 @@
+{
+  "_note": "DOC EXAMPLE, NOT LIVE. Same provenance as doc_example_advanced_search.json. Page 2 of 2: a retweet (embedded retweeted_tweet) and a tweet whose createdAt is missing.",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "1900000000000000003",
+      "url": "https://x.com/amplifier/status/1900000000000000003",
+      "text": "RT @source_acct: Original claim about the topic",
+      "retweetCount": 50,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Tue Nov 10 09:00:00 +0000 2026",
+      "lang": "en",
+      "isReply": false,
+      "isRetweet": true,
+      "isQuote": false,
+      "inReplyToId": "",
+      "author": {"type": "user", "userName": "amplifier", "id": "444", "name": "Amplifier",
+                 "profilePicture": "https://pbs.twimg.com/profile_images/444/a_normal.jpg",
+                 "createdAt": "Sun Nov 01 00:00:05 +0000 2026"},
+      "entities": {"hashtags": [], "urls": [],
+                   "user_mentions": [{"id_str": "222", "name": "Source Account", "screen_name": "source_acct"}]},
+      "quoted_tweet": null,
+      "retweeted_tweet": {
+        "type": "tweet",
+        "id": "1899999999999999999",
+        "url": "https://x.com/source_acct/status/1899999999999999999",
+        "text": "Original claim about the topic",
+        "createdAt": "Mon Nov 09 12:00:00 +0000 2026",
+        "lang": "en",
+        "author": {"type": "user", "userName": "source_acct", "id": "222", "name": "Source Account"},
+        "entities": {}
+      }
+    },
+    {
+      "type": "tweet",
+      "id": "1900000000000000004",
+      "text": "A tweet without a createdAt value",
+      "createdAt": "",
+      "lang": "",
+      "author": {"type": "user", "userName": "no_time", "id": "555", "name": "No Time"},
+      "entities": {}
+    }
+  ],
+  "has_next_page": false,
+  "next_cursor": ""
+}

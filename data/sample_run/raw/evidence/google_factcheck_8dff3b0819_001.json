@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "Ripple and Bank of America have officially confirmed a partnership.",
+ "params": {
+  "query": "Ripple and Bank of America have officially confirmed a partnership.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:52Z",
+ "error": null,
+ "response": {}
+}

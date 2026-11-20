@@ -1,0 +1,24 @@
+{
+  "_fixture_note": "Built by hand from the documented searchListResponse shape (developers.google.com/youtube/v3/docs/search). Last page: no nextPageToken. Synthetic data.",
+  "kind": "youtube#searchListResponse",
+  "etag": "etag-p2",
+  "prevPageToken": "CDIQAQ",
+  "regionCode": "US",
+  "pageInfo": {"totalResults": 3, "resultsPerPage": 1},
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "etag-c",
+      "id": {"kind": "youtube#video", "videoId": "vidCCCCCCC3"},
+      "snippet": {
+        "publishedAt": "2026-11-02T08:00:00Z",
+        "channelId": "UCchannelOne0000000000",
+        "title": "Follow-up on the barrier",
+        "description": "Short",
+        "thumbnails": {"high": {"url": "https://i.ytimg.com/vi/vidCCCCCCC3/hqdefault.jpg", "width": 480, "height": 360}},
+        "channelTitle": "Channel One",
+        "liveBroadcastContent": "none"
+      }
+    }
+  ]
+}

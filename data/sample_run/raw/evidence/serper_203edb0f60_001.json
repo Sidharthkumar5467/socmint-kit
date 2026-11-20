@@ -1,0 +1,37 @@
+{
+ "provider": "serper",
+ "query": "Bank of America has appeared on Ripple's institutional network listings, with a history dating back to 2016.",
+ "params": {
+  "q": "Bank of America has appeared on Ripple's institutional network listings, with a history dating back to 2016.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:07Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Bank of America has appeared on Ripple's institutional network listings, with a history dating back to 2016.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "10 Biggest Banks in the World",
+    "link": "https://www.investopedia.com/articles/investing/122315/worlds-top-10-banks-jpm-wfc.asp",
+    "date": "Mar 25, 2017",
+    "source": "Investopedia",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "What Banks Use XRP in 2026? Every Confirmed and Claimed Institution",
+    "link": "https://www.mexc.com/learn/article/what-banks-use-xrp-complete-list-of-financial-institutions-using-ripple/1",
+    "date": "4 days ago",
+    "source": "MEXC",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

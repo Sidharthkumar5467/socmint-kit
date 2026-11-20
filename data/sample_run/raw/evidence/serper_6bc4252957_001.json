@@ -1,0 +1,30 @@
+{
+ "provider": "serper",
+ "query": "Bank of America is hiring for a Team Leader full-time role in Gurugram, Haryana, India.",
+ "params": {
+  "q": "Bank of America is hiring for a Team Leader full-time role in Gurugram, Haryana, India.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:57Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Bank of America is hiring for a Team Leader full-time role in Gurugram, Haryana, India.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Sumeet Kumar Mishra Elevated to AVP – Talent Acquisition at NatWest Group",
+    "link": "https://hrtoday.in/sumeet-kumar-mishra-elevated-to-avp-talent-acquisition-at-natwest-group/",
+    "date": "1 month ago",
+    "source": "https://hrtoday.in/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

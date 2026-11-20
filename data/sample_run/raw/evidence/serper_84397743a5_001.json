@@ -1,0 +1,22 @@
+{
+ "provider": "serper",
+ "query": "Partially masked Bank of America card numbers with expiry dates are listed for sale on Telegram in groups labeled 2B-EXTRAS.",
+ "params": {
+  "q": "Partially masked Bank of America card numbers with expiry dates are listed for sale on Telegram in groups labeled 2B-EXTRAS.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:16Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Partially masked Bank of America card numbers with expiry dates are listed for sale on Telegram in groups labeled 2B-EXTRAS.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [],
+  "credits": 1
+ }
+}

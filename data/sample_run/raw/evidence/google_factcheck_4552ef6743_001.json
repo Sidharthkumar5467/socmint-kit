@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "Goldman Sachs held $144 million in spot XRP exchange-traded funds at the end of the third quarter, up from $87 million in the second quarter.",
+ "params": {
+  "query": "Goldman Sachs held $144 million in spot XRP exchange-traded funds at the end of the third quarter, up from $87 million in the second quarter.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:50Z",
+ "error": null,
+ "response": {}
+}

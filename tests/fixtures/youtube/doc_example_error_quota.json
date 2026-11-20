@@ -1,0 +1,10 @@
+{
+  "_fixture_note": "Standard Google API JSON error envelope with the quotaExceeded reason listed at developers.google.com/youtube/v3/docs/errors. The envelope itself is not shown on that page. Not a live response.",
+  "error": {
+    "code": 403,
+    "message": "The request cannot be completed because you have exceeded your quota.",
+    "errors": [
+      {"message": "The request cannot be completed because you have exceeded your quota.", "domain": "youtube.quota", "reason": "quotaExceeded"}
+    ]
+  }
+}

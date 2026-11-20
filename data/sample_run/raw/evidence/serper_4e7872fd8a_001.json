@@ -1,0 +1,93 @@
+{
+ "provider": "serper",
+ "query": "Bank of America was fined about $1.2 billion over anti-money laundering and sanctions compliance failures.",
+ "params": {
+  "q": "Bank of America was fined about $1.2 billion over anti-money laundering and sanctions compliance failures.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:45Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Bank of America was fined about $1.2 billion over anti-money laundering and sanctions compliance failures.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Bank of America fined $1.2 billion over money laundering violations",
+    "link": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
+    "date": "1 month ago",
+    "source": "CNBC",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "U.S. hits Bank of America with $1.2 billion fine, saying it violated money laundering and sanctions laws",
+    "link": "https://www.pbs.org/newshour/economy/u-s-hits-bank-of-america-with-1-2-billion-fine-saying-it-violated-money-laundering-and-sanctions-laws",
+    "date": "1 month ago",
+    "source": "PBS",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America hit with $1.2 billion penalty over money laundering failures",
+    "link": "https://finance.yahoo.com/markets/article/bank-of-america-hit-with-12-billion-penalty-over-money-laundering-failures-201623796.html",
+    "date": "1 month ago",
+    "source": "Yahoo Finance",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America fined $1.2 billion by US government for failing to police suspicious activity",
+    "link": "https://www.reuters.com/legal/legalindustry/bofa-fined-12-billion-by-us-government-failing-police-suspicious-activity-2026-10-13/",
+    "date": "1 month ago",
+    "source": "Reuters",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America fined $1.2 billion over money-laundering failures",
+    "link": "https://iclg.com/news/bank-of-america-fined-1-2-billion-over-money-laundering-failures/",
+    "date": "1 month ago",
+    "source": "ICLG",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "BofA fined $1.21B over AML flaws",
+    "link": "https://www.bankingdive.com/news/bofa-fined-1-21-billion-over-aml-bsa-occ-treasury/832915/",
+    "date": "1 month ago",
+    "source": "Banking Dive",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America Hit With Historic $1.2 Billion Fine for Illicit Finance Failures",
+    "link": "https://www.fdd.org/analysis/bank-of-america-hit-with-historic-1-2-billion-fine-for-illicit-finance-failures/",
+    "date": "1 month ago",
+    "source": "Foundation for Defense of Democracies",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Treasury fines Bank of America $1.2B for violating money laundering, sanctions law",
+    "link": "https://thehill.com/business/6146632-bank-america-treasury-fine/",
+    "date": "1 month ago",
+    "source": "The Hill",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America fined $1.2bn for money-laundering failures",
+    "link": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering",
+    "date": "1 month ago",
+    "source": "The Guardian",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+    "link": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations",
+    "date": "1 month ago",
+    "source": "Al Jazeera",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

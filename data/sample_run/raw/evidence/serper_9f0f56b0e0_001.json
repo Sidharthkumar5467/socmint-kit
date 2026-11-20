@@ -1,0 +1,51 @@
+{
+ "provider": "serper",
+ "query": "Downdetector showed more than 4,300 reports for Chase alone on a Monday during a banking outage.",
+ "params": {
+  "q": "Downdetector showed more than 4,300 reports for Chase alone on a Monday during a banking outage.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:35Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Downdetector showed more than 4,300 reports for Chase alone on a Monday during a banking outage.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Days after Microsoft and the FAA went dark, Chase and Wells Fargo customers can’t get to their money",
+    "link": "https://fortune.com/2026/11/16/chase-bank-wells-fargo-capital-one-bank-outages/",
+    "date": "3 days ago",
+    "source": "Fortune",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Chase, Bank of America, Wells Fargo down: online banking frozen for hours and nobody's saying why",
+    "link": "https://www.ilpoliticoweb.it/en/chase-bank-of-america-wells-fargo-outage-online-banking-down/",
+    "date": "3 days ago",
+    "source": "Il Politico Web",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Chase Says Bug, Not Cyberattack, Behind 4,700-Report Outage",
+    "link": "https://fourweekmba.com/ai-chase-says-bug-not-cyberattack-behind-4700-report-outage/",
+    "date": "3 days ago",
+    "source": "FourWeekMBA",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "United Airlines Suffers ‘Widespread System Outage’ Days After FAA Ground Stop",
+    "link": "https://www.newsbreak.com/gizmodo-399763864/5011144042441-united-airlines-suffers-widespread-system-outage-days-after-faa-ground-stop",
+    "date": "3 days ago",
+    "source": "NewsBreak: Local News & Alerts",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

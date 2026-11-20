@@ -1,0 +1,22 @@
+{
+ "provider": "serper",
+ "query": "The US government is using a movie script from Leave the World Behind to deceive Americans into believing Iran is behind false flag cyber-attacks and banking issues.",
+ "params": {
+  "q": "The US government is using a movie script from Leave the World Behind to deceive Americans into believing Iran is behind false flag cyber-attacks and banking issues.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:31Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "The US government is using a movie script from Leave the World Behind to deceive Americans into believing Iran is behind false flag cyber-attacks and banking issues.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [],
+  "credits": 1
+ }
+}

@@ -1,0 +1,32 @@
+# gitleaks configuration for socmint.
+#
+# Extends gitleaks' default ruleset (so every secret pattern stays active across the repo)
+# and allowlists ONLY the bundled replay fixtures under data/sample_run/raw/. Those files
+# are external-platform API *response* bodies (YouTube, X, LinkedIn, evidence providers)
+# that the offline replay reads back. They carry no credentials: API keys and session
+# cookies travel in request URLs and headers, which socmint never stores — only response
+# bodies are saved, and the sample was manually scanned for the collecting account's
+# identity, cookie/token values and local paths before it was committed (none present).
+# Their high-entropy fields — YouTube `nextPageToken` and `etag`, tweet IDs — otherwise trip
+# the generic-api-key rule as false positives. Every other path (source, config, docs, the
+# rest of the sample run) is still fully scanned.
+
+title = "socmint gitleaks config"
+
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Bundled replay API-response fixtures (no credentials; manually verified)"
+paths = [
+  '''data/sample_run/raw/.*''',
+]
+
+[[allowlists]]
+description = """Test fixtures and test code: captured platform responses (LinkedIn RSC
+component keys, YouTube pagination tokens, tweet IDs) and deliberately fake credential
+literals (e.g. TELEGRAM_API_HASH="0123456789abcdef"). No real secrets live under tests/ —
+the tracked tree is key-free by design."""
+paths = [
+  '''tests/.*''',
+]

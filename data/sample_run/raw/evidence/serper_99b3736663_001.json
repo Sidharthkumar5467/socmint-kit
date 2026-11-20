@@ -1,0 +1,50 @@
+{
+ "provider": "serper",
+ "query": "Bank of America is offering multiple remote full-time or contract technology positions in the USA for candidates with 0–5 years of experience.",
+ "params": {
+  "q": "Bank of America is offering multiple remote full-time or contract technology positions in the USA for candidates with 0–5 years of experience.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:54Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Bank of America is offering multiple remote full-time or contract technology positions in the USA for candidates with 0–5 years of experience.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Legit Work-From-Home Jobs: 38 Companies That Hire Remotely in 2026",
+    "link": "https://www.thepennyhoarder.com/make-money/career/work-from-home-companies/",
+    "snippet": "Find legit work-from-home jobs: common roles and pay, vetted companies that hire remotely, where to find listings and how to spot scams.",
+    "date": "1 month ago",
+    "source": "The Penny Hoarder",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 1
+   },
+   {
+    "title": "30 High-Paying Remote Jobs With $100,000 (or Higher) Salaries",
+    "link": "https://www.moneytalksnews.com/slideshows/26-work-from-home-jobs-that-can-pay-100000-or-more/",
+    "snippet": "Editor's Note: This story originally appeared on FlexJobs.com. Many professionals, especially those with sought-after credentials and...",
+    "date": "4 months ago",
+    "source": "Money Talks News",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 2
+   },
+   {
+    "title": "20 Jobs That Will Be in Demand in 2026 and Beyond",
+    "link": "https://www.aarp.org/work/job-search/in-demand-jobs-2026/",
+    "snippet": "Seasonal opportunities are expected to spike with the World Cup and a milestone July 4th ahead, with many roles offering part-time and...",
+    "date": "10 months ago",
+    "source": "AARP",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 3
+   }
+  ],
+  "credits": 1
+ }
+}

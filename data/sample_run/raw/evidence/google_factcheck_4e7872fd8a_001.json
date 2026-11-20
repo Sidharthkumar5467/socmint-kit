@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "Bank of America was fined about $1.2 billion over anti-money laundering and sanctions compliance failures.",
+ "params": {
+  "query": "Bank of America was fined about $1.2 billion over anti-money laundering and sanctions compliance failures.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:00Z",
+ "error": null,
+ "response": {}
+}

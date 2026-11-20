@@ -1,0 +1,8 @@
+{
+  "_fixture_note": "Built by hand from the documented searchListResponse shape: a query with no results. Synthetic.",
+  "kind": "youtube#searchListResponse",
+  "etag": "etag-empty",
+  "regionCode": "US",
+  "pageInfo": {"totalResults": 0, "resultsPerPage": 0},
+  "items": []
+}

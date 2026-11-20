@@ -1,0 +1,65 @@
+{
+ "provider": "serper",
+ "query": "Bank of America India has job openings in Mumbai, Gurugram, Chennai, and Hyderabad for finance and banking professionals.",
+ "params": {
+  "q": "Bank of America India has job openings in Mumbai, Gurugram, Chennai, and Hyderabad for finance and banking professionals.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:59Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Bank of America India has job openings in Mumbai, Gurugram, Chennai, and Hyderabad for finance and banking professionals.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "29 Fintech Companies in India to Know",
+    "link": "https://builtin.com/articles/fintech-companies-in-india",
+    "date": "Mar 6, 2024",
+    "source": "Built In",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "American banking giant JP Morgan to set up Asia's largest GCC in India",
+    "link": "https://www.business-standard.com/companies/news/us-banking-giant-jp-morganchase-to-set-up-asia-s-largest-gcc-in-india-125121601102_1.html",
+    "date": "Dec 22, 2025",
+    "source": "Business Standard",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Investment Banker Salary in India 2026: Freshers Guide",
+    "link": "https://www.jaroeducation.com/blog/investment-banker-salary",
+    "date": "May 23, 2026",
+    "source": "Jaro Education",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "GCC hiring outlook: 40,000 jobs, 120 new mid-sized centres by 2026; Bengaluru, Hyderabad among top hubs",
+    "link": "https://timesofindia.indiatimes.com/business/india-business/gcc-hiring-outlook-40000-jobs-120-new-mid-sized-centres-by-2026-bengaluru-hyderabad-among-top-hubs/articleshow/122155395.cms",
+    "date": "Jun 30, 2025",
+    "source": "The Times of India",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Top 10 Highest Paying Jobs in India in 2025",
+    "link": "https://www.shiksha.com/online-courses/articles/highest-paying-jobs-in-india/",
+    "date": "Jun 14, 2023",
+    "source": "Shiksha.com",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "PSB Reforms under EASE 9.0",
+    "link": "https://www.drishtiias.com/daily-updates/daily-news-analysis/psb-reforms-under-ease-90",
+    "date": "Mar 3, 2026",
+    "source": "Drishti IAS",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

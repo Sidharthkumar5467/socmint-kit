@@ -1,0 +1,93 @@
+{
+ "provider": "serper",
+ "query": "JPMorgan Chase attributed its November 16 banking disruption to a internal software bug and said it was not cyber-related.",
+ "params": {
+  "q": "JPMorgan Chase attributed its November 16 banking disruption to a internal software bug and said it was not cyber-related.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:43Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "JPMorgan Chase attributed its November 16 banking disruption to a internal software bug and said it was not cyber-related.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Are We Being Hacked? Major Technology Outages Hit U.S. Banks, Airlines, Apple, Microsoft and National Security Systems",
+    "link": "https://thekatynews.com/2026/11/17/are-we-being-hacked-major-technology-outages-hit-u-s-banks-airlines-apple-microsoft-and-national-security-systems/",
+    "date": "2 days ago",
+    "source": "The Katy News",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Homeland Security chief relays unverified AI theory for recent outages",
+    "link": "https://superpowerdaily.com/posts/homeland-security-chief-relays-unverified-ai-theory-for-recent-outages",
+    "date": "1 day ago",
+    "source": "Superpower Daily",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "JPMorgan Chase outage disrupts banking services across the US",
+    "link": "https://beinsure.com/news/jpmorgan-chase-outage-disrupts-banking-services-across-the-us/",
+    "date": "2 days ago",
+    "source": "Beinsure",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Chase Bank Outage: Zelle Delays, AI and What to Do",
+    "link": "https://hacked.com/news/chase-bank-outage-zelle-ai-dependencies-november-2026/",
+    "date": "3 days ago",
+    "source": "Hacked.com",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Chase Software Bug Delays Zelle Payments: What Went Wrong?",
+    "link": "https://www.techrepublic.com/article/news-chase-software-bug-zelle-payment-delays/",
+    "date": "2 days ago",
+    "source": "TechRepublic",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Microsoft, Apple, Banks and FAA Face Outages Across Six Days",
+    "link": "https://cwibc.co.id/en/microsoft-apple-faa-outage-crisis",
+    "date": "22 hours ago",
+    "source": "cwibc.co.id",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Major outage hits NSA's secret communications network",
+    "link": "https://gulfnews.com/world/americas/major-outage-hits-nsas-secret-communications-network-1.500751001",
+    "date": "2 days ago",
+    "source": "Gulf News",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "JPMorgan says software bug slows its transactions",
+    "link": "https://www.reuters.com/legal/transactional/downdetector-reports-outages-major-us-banks-2026-11-16/",
+    "date": "3 days ago",
+    "source": "Reuters",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Chase Bank Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions",
+    "link": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
+    "date": "3 days ago",
+    "source": "The New York Times",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Apple, banks, FAA and Microsoft outages raise questions: A cybersecurity expert weighs in",
+    "link": "https://www.wmtv15news.com/2026/11/18/apple-banks-faa-microsoft-outages-raise-questions-cybersecurity-expert-weighs/",
+    "date": "2 days ago",
+    "source": "WMTV 15 NEWS",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

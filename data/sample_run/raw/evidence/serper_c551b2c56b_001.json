@@ -1,0 +1,93 @@
+{
+ "provider": "serper",
+ "query": "On October 13, 2026, the U.S. Treasury announced more than $1.21 billion in penalties against Bank of America across three agencies.",
+ "params": {
+  "q": "On October 13, 2026, the U.S. Treasury announced more than $1.21 billion in penalties against Bank of America across three agencies.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:48Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "On October 13, 2026, the U.S. Treasury announced more than $1.21 billion in penalties against Bank of America across three agencies.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "AML Penalties-Related Securities Suit Hits Bank of America",
+    "link": "https://www.dandodiary.com/2026/10/articles/securities-litigation/aml-penalties-related-securities-suit-hits-bank-of-america/",
+    "date": "1 month ago",
+    "source": "The D&O Diary",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America fined $1.2 billion over money laundering violations",
+    "link": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
+    "date": "1 month ago",
+    "source": "CNBC",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "US Fines Bank of America $1.2 Billion, Alleging AML and Sanctions Violations",
+    "link": "https://www.pymnts.com/legal/bank-regulation/2026/us-fines-bank-of-america-1-2-billion-alleging-aml-and-sanctions-violations/",
+    "date": "1 month ago",
+    "source": "PYMNTS.com",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+    "link": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations",
+    "date": "1 month ago",
+    "source": "Al Jazeera",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "BANK SECRECY ACT—Bank of America sanctions penalties top $1.21 billion (Oct 14, 2026)",
+    "link": "https://www.vitallaw.com/news/bank-secrecy-act-bank-of-america-sanctions-penalties-top-1-21-billion/blw0114c8f554bedb4f8e88b79b58df4335b8",
+    "date": "1 month ago",
+    "source": "VitalLaw.com",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America hit with $1.2 billion fine for overlooking money laundering",
+    "link": "https://www.wsbradio.com/news/trending/bank-america-hit-with-12-billion-fine-overlooking-money-laundering/IETBJDFDDRFSHGIC7QZROTX3GE/",
+    "date": "1 month ago",
+    "source": "95.5 WSB",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Treasury imposes $1.21B in penalties on Bank of America",
+    "link": "https://www.upi.com/Top_News/US/2026/10/13/Bank-of-American-Treasury-fines/3341791941940/",
+    "date": "1 month ago",
+    "source": "upi",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Treasury Hits Bank of America With $1.2 Billion Fine a Day Before Earnings Beat",
+    "link": "https://startupfortune.com/treasury-hits-bank-of-america-with-12-billion-fine-a-day-before-earnings-beat/",
+    "date": "1 month ago",
+    "source": "Startup Fortune",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America’s $1.21 billion fine highlights US banks’ anti-money laundering failures",
+    "link": "https://qazinform.com/news/bank-of-americas-121-billion-fine-highlights-us-banks-anti-money-laundering-failures-2bb5c6",
+    "date": "1 month ago",
+    "source": "Qazinform",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Why Has US Treasury Fined Bank of America $1.21 Billion Over $5 Billion in Suspicious Transactions? Check Money Laundering Allegations, Sanctions Violations And Key Details",
+    "link": "https://sundayguardianlive.com/business/why-has-us-treasury-fined-bank-of-america-121-billion-over-5-billion-in-suspicious-transactions-check-money-laundering-allegations-sanctions-violations-and-key-details-305335/",
+    "date": "1 month ago",
+    "source": "The Sunday Guardian",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "provider": "serper",
+ "query": "Bank of America has filed blockchain settlement patents exploring Ripple-related technology.",
+ "params": {
+  "q": "Bank of America has filed blockchain settlement patents exploring Ripple-related technology.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:09Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Bank of America has filed blockchain settlement patents exploring Ripple-related technology.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Banking giant Wells Fargo (WFC) readies deeper move into digital assets",
+    "link": "https://www.coindesk.com/business/2026/03/11/wells-fargo-signals-deeper-push-into-crypto-filing-trademark-for-wfusd",
+    "date": "Mar 11, 2026",
+    "source": "CoinDesk",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Is Bank of America Really Using Ripple (XRP) for All Internal Transactions?",
+    "link": "https://www.binance.com/en/square/post/18756498780457",
+    "date": "Jan 10, 2025",
+    "source": "Binance",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America Patents Method Using Ripple Technology",
+    "link": "https://www.ccn.com/archive/crypto/bank-of-america-patents-method-using-ripple-technology/",
+    "date": "Mar 4, 2021",
+    "source": "CCN.com",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "RBC exploring cryptocurrency trading platform for investments and online purchases",
+    "link": "https://thelogic.co/news/exclusive/rbc-exploring-cryptocurrency-trading-platform-for-investments-and-online-purchases/",
+    "date": "Nov 11, 2019",
+    "source": "The Logic",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America XRP: The Ripple Connection Explained",
+    "link": "https://www.mexc.com/learn/article/bank-of-america-xrp-the-ripple-connection-explained/1",
+    "date": "Mar 30, 2026",
+    "source": "MEXC",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "What Banks Use XRP in 2026? Every Confirmed and Claimed Institution",
+    "link": "https://www.mexc.com/learn/article/what-banks-use-xrp-complete-list-of-financial-institutions-using-ripple/1",
+    "date": "4 days ago",
+    "source": "MEXC",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America Uses XRP for 100% Internal Transactions",
+    "link": "https://www.cryptotimes.io/2025/01/09/bank-of-america-uses-xrp-for-100-internal-transactions/",
+    "date": "Jan 9, 2025",
+    "source": "The Crypto Times",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America Conducts All Internal Transactions Using XRP, Secures 83 Patents",
+    "link": "https://cryptodnes.bg/en/bank-of-america-conducts-all-internal-transactions-using-xrp-secures-83-patents/",
+    "date": "Jan 9, 2025",
+    "source": "CryptoDnes.bg",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

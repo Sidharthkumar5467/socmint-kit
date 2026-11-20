@@ -1,0 +1,5176 @@
+{
+  "narrative_ranks": [
+    {
+      "narrative_id": "N5",
+      "rank": 1,
+      "score": 10.864,
+      "main": true,
+      "tags": [
+        "severity:high",
+        "threat",
+        "multi_platform",
+        "surging",
+        "coordinated",
+        "supported_claim"
+      ],
+      "reasons": [
+        "high severity",
+        "threat-relevant",
+        "53 posts",
+        "4 platforms",
+        "surge on 20 Nov (4.0x other days, per hour, fully covered sources)",
+        "coordinated group C19",
+        "2 supported claims"
+      ],
+      "cluster_ids": [
+        "C19"
+      ],
+      "claim_ids": [
+        "CL1",
+        "CL2",
+        "CL3"
+      ],
+      "peak_day": "2026-11-19",
+      "peak_count": 26,
+      "severity": "high"
+    },
+    {
+      "narrative_id": "N7",
+      "rank": 2,
+      "score": 8.949,
+      "main": true,
+      "tags": [
+        "severity:high",
+        "threat",
+        "surging",
+        "coordinated"
+      ],
+      "reasons": [
+        "high severity",
+        "threat-relevant",
+        "31 posts",
+        "2 platforms",
+        "surge on 20 Nov (10.1x other days, per hour, fully covered sources)",
+        "coordinated groups C14, C17"
+      ],
+      "cluster_ids": [
+        "C14",
+        "C17"
+      ],
+      "claim_ids": [
+        "CL4",
+        "CL5",
+        "CL6"
+      ],
+      "peak_day": "2026-11-20",
+      "peak_count": 12,
+      "severity": "high"
+    },
+    {
+      "narrative_id": "N24",
+      "rank": 3,
+      "score": 4.065,
+      "main": true,
+      "tags": [
+        "severity:high",
+        "multi_platform",
+        "coordinated"
+      ],
+      "reasons": [
+        "high severity",
+        "12 posts",
+        "3 platforms",
+        "coordinated group C29"
+      ],
+      "cluster_ids": [
+        "C29"
+      ],
+      "claim_ids": [
+        "CL7",
+        "CL8",
+        "CL9"
+      ],
+      "peak_day": "2026-11-19",
+      "peak_count": 4,
+      "severity": "high"
+    },
+    {
+      "narrative_id": "N28",
+      "rank": 4,
+      "score": 5.546,
+      "main": true,
+      "tags": [
+        "severity:high",
+        "threat",
+        "multi_platform",
+        "coordinated"
+      ],
+      "reasons": [
+        "high severity",
+        "threat-relevant",
+        "8 posts",
+        "3 platforms",
+        "coordinated group C6"
+      ],
+      "cluster_ids": [
+        "C6"
+      ],
+      "claim_ids": [
+        "CL10",
+        "CL11",
+        "CL12"
+      ],
+      "peak_day": "2026-11-20",
+      "peak_count": 4,
+      "severity": "high"
+    },
+    {
+      "narrative_id": "N41",
+      "rank": 5,
+      "score": 5.785,
+      "main": true,
+      "tags": [
+        "severity:high",
+        "threat",
+        "surging",
+        "disputed_claim"
+      ],
+      "reasons": [
+        "high severity",
+        "threat-relevant",
+        "6 posts",
+        "surge on 17 Nov (5.0x other days, per hour, fully covered sources)",
+        "1 disputed claim"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [
+        "CL16",
+        "CL17",
+        "CL18"
+      ],
+      "peak_day": "2026-11-17",
+      "peak_count": 5,
+      "severity": "high"
+    },
+    {
+      "narrative_id": "N47",
+      "rank": 6,
+      "score": 4.044,
+      "main": true,
+      "tags": [
+        "severity:high",
+        "threat",
+        "disputed_claim"
+      ],
+      "reasons": [
+        "high severity",
+        "threat-relevant",
+        "6 posts",
+        "1 disputed claim"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [
+        "CL19",
+        "CL20",
+        "CL21"
+      ],
+      "peak_day": "2026-11-17",
+      "peak_count": 3,
+      "severity": "high"
+    },
+    {
+      "narrative_id": "N2",
+      "rank": 7,
+      "score": 13.81,
+      "main": true,
+      "tags": [
+        "severity:medium",
+        "threat",
+        "multi_platform",
+        "surging",
+        "coordinated",
+        "supported_claim"
+      ],
+      "reasons": [
+        "medium severity",
+        "threat-relevant",
+        "230 posts",
+        "4 platforms",
+        "surge on 16 Nov (4.1x other days, per hour, fully covered sources)",
+        "coordinated groups C2, C3, C5, C13, C20, C21, C22, C23, C24, C27, C28",
+        "1 supported claim"
+      ],
+      "cluster_ids": [
+        "C2",
+        "C3",
+        "C5",
+        "C13",
+        "C20",
+        "C21",
+        "C22",
+        "C23",
+        "C24",
+        "C27",
+        "C28"
+      ],
+      "claim_ids": [
+        "CL22",
+        "CL23",
+        "CL24"
+      ],
+      "peak_day": "2026-11-19",
+      "peak_count": 78,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N4",
+      "rank": 8,
+      "score": 11.34,
+      "main": true,
+      "tags": [
+        "severity:medium",
+        "threat",
+        "multi_platform",
+        "surging",
+        "coordinated",
+        "supported_claim"
+      ],
+      "reasons": [
+        "medium severity",
+        "threat-relevant",
+        "66 posts",
+        "4 platforms",
+        "surge on 17 Nov (4.6x other days, per hour, fully covered sources)",
+        "coordinated group C32",
+        "1 supported claim"
+      ],
+      "cluster_ids": [
+        "C32"
+      ],
+      "claim_ids": [
+        "CL25",
+        "CL26",
+        "CL27"
+      ],
+      "peak_day": "2026-11-17",
+      "peak_count": 27,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N12",
+      "rank": 9,
+      "score": 5.937,
+      "main": true,
+      "tags": [
+        "severity:medium",
+        "threat",
+        "multi_platform",
+        "supported_claim"
+      ],
+      "reasons": [
+        "medium severity",
+        "threat-relevant",
+        "14 posts",
+        "3 platforms",
+        "1 supported claim"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [
+        "CL28",
+        "CL29",
+        "CL30"
+      ],
+      "peak_day": "2026-11-13",
+      "peak_count": 3,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N22",
+      "rank": 10,
+      "score": 4.477,
+      "main": true,
+      "tags": [
+        "severity:medium",
+        "threat"
+      ],
+      "reasons": [
+        "medium severity",
+        "threat-relevant",
+        "11 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 3,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N260",
+      "rank": 11,
+      "score": 4.954,
+      "main": false,
+      "tags": [
+        "severity:critical",
+        "threat",
+        "multi_platform"
+      ],
+      "reasons": [
+        "critical severity",
+        "threat-relevant",
+        "9 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [
+        "CL13",
+        "CL14",
+        "CL15"
+      ],
+      "peak_day": "2026-11-19",
+      "peak_count": 3,
+      "severity": "critical"
+    },
+    {
+      "narrative_id": "N67",
+      "rank": 12,
+      "score": 3.914,
+      "main": false,
+      "tags": [
+        "severity:critical",
+        "threat",
+        "multi_platform"
+      ],
+      "reasons": [
+        "critical severity",
+        "threat-relevant",
+        "4 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": "critical"
+    },
+    {
+      "narrative_id": "N55",
+      "rank": 13,
+      "score": 2.414,
+      "main": false,
+      "tags": [
+        "severity:high",
+        "threat"
+      ],
+      "reasons": [
+        "high severity",
+        "threat-relevant",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 3,
+      "severity": "high"
+    },
+    {
+      "narrative_id": "N78",
+      "rank": 14,
+      "score": 2.414,
+      "main": false,
+      "tags": [
+        "severity:high",
+        "threat"
+      ],
+      "reasons": [
+        "high severity",
+        "threat-relevant",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 3,
+      "severity": "high"
+    },
+    {
+      "narrative_id": "N106",
+      "rank": 15,
+      "score": 2.829,
+      "main": false,
+      "tags": [
+        "severity:high",
+        "threat"
+      ],
+      "reasons": [
+        "high severity",
+        "threat-relevant",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": "high"
+    },
+    {
+      "narrative_id": "N133",
+      "rank": 16,
+      "score": 2.079,
+      "main": false,
+      "tags": [
+        "severity:high",
+        "threat"
+      ],
+      "reasons": [
+        "high severity",
+        "threat-relevant",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": "high"
+    },
+    {
+      "narrative_id": "N137",
+      "rank": 17,
+      "score": 2.079,
+      "main": false,
+      "tags": [
+        "severity:high",
+        "threat"
+      ],
+      "reasons": [
+        "high severity",
+        "threat-relevant",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": "high"
+    },
+    {
+      "narrative_id": "N139",
+      "rank": 18,
+      "score": 2.079,
+      "main": false,
+      "tags": [
+        "severity:high",
+        "threat"
+      ],
+      "reasons": [
+        "high severity",
+        "threat-relevant",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": "high"
+    },
+    {
+      "narrative_id": "N54",
+      "rank": 19,
+      "score": 2.829,
+      "main": false,
+      "tags": [
+        "severity:high",
+        "threat"
+      ],
+      "reasons": [
+        "high severity",
+        "threat-relevant",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": "high"
+    },
+    {
+      "narrative_id": "N92",
+      "rank": 20,
+      "score": 2.079,
+      "main": false,
+      "tags": [
+        "severity:high",
+        "threat"
+      ],
+      "reasons": [
+        "high severity",
+        "threat-relevant",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 3,
+      "severity": "high"
+    },
+    {
+      "narrative_id": "N34",
+      "rank": 21,
+      "score": 3.579,
+      "main": false,
+      "tags": [
+        "severity:medium",
+        "multi_platform",
+        "coordinated"
+      ],
+      "reasons": [
+        "medium severity",
+        "7 posts",
+        "3 platforms",
+        "coordinated group C12"
+      ],
+      "cluster_ids": [
+        "C12"
+      ],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 3,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N29",
+      "rank": 22,
+      "score": 6.088,
+      "main": false,
+      "tags": [
+        "severity:medium",
+        "threat",
+        "surging"
+      ],
+      "reasons": [
+        "medium severity",
+        "threat-relevant",
+        "10 posts",
+        "2 platforms",
+        "surge on 17 Nov (5.0x other days, per hour, fully covered sources)"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 5,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N46",
+      "rank": 23,
+      "score": 2.446,
+      "main": false,
+      "tags": [
+        "severity:medium"
+      ],
+      "reasons": [
+        "medium severity",
+        "6 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N30",
+      "rank": 24,
+      "score": 1.792,
+      "main": false,
+      "tags": [
+        "severity:medium"
+      ],
+      "reasons": [
+        "medium severity",
+        "5 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 3,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N262",
+      "rank": 25,
+      "score": 2.109,
+      "main": false,
+      "tags": [
+        "severity:medium"
+      ],
+      "reasons": [
+        "medium severity",
+        "4 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 2,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N74",
+      "rank": 26,
+      "score": 2.414,
+      "main": false,
+      "tags": [
+        "severity:medium",
+        "threat"
+      ],
+      "reasons": [
+        "medium severity",
+        "threat-relevant",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N107",
+      "rank": 27,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:medium"
+      ],
+      "reasons": [
+        "medium severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N122",
+      "rank": 28,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:medium"
+      ],
+      "reasons": [
+        "medium severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 3,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N126",
+      "rank": 29,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:medium"
+      ],
+      "reasons": [
+        "medium severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N128",
+      "rank": 30,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:medium"
+      ],
+      "reasons": [
+        "medium severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N132",
+      "rank": 31,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:medium"
+      ],
+      "reasons": [
+        "medium severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N136",
+      "rank": 32,
+      "score": 2.079,
+      "main": false,
+      "tags": [
+        "severity:medium",
+        "threat"
+      ],
+      "reasons": [
+        "medium severity",
+        "threat-relevant",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N138",
+      "rank": 33,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:medium"
+      ],
+      "reasons": [
+        "medium severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 1,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N93",
+      "rank": 34,
+      "score": 2.386,
+      "main": false,
+      "tags": [
+        "severity:medium",
+        "multi_platform"
+      ],
+      "reasons": [
+        "medium severity",
+        "3 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": "medium"
+    },
+    {
+      "narrative_id": "N3",
+      "rank": 35,
+      "score": 8.271,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform",
+        "surging",
+        "coordinated"
+      ],
+      "reasons": [
+        "low severity",
+        "117 posts",
+        "4 platforms",
+        "surge on 20 Nov (13.8x other days, per hour, fully covered sources)",
+        "coordinated groups C9, C16, C25"
+      ],
+      "cluster_ids": [
+        "C9",
+        "C16",
+        "C25"
+      ],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 49,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N8",
+      "rank": 36,
+      "score": 6.219,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform",
+        "surging",
+        "coordinated"
+      ],
+      "reasons": [
+        "low severity",
+        "24 posts",
+        "3 platforms",
+        "surge on 20 Nov (52.0x other days, per hour, fully covered sources)",
+        "coordinated group C15"
+      ],
+      "cluster_ids": [
+        "C15"
+      ],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 20,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N15",
+      "rank": 37,
+      "score": 5.773,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform",
+        "surging",
+        "coordinated"
+      ],
+      "reasons": [
+        "low severity",
+        "15 posts",
+        "3 platforms",
+        "surge on 15 Nov (11.0x other days, per hour, fully covered sources)",
+        "coordinated groups C7, C10"
+      ],
+      "cluster_ids": [
+        "C7",
+        "C10"
+      ],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 11,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N25",
+      "rank": 38,
+      "score": 3.065,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "coordinated"
+      ],
+      "reasons": [
+        "low severity",
+        "12 posts",
+        "coordinated group C8"
+      ],
+      "cluster_ids": [
+        "C8"
+      ],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N23",
+      "rank": 39,
+      "score": 3.898,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform",
+        "coordinated"
+      ],
+      "reasons": [
+        "low severity",
+        "10 posts",
+        "3 platforms",
+        "coordinated group C26"
+      ],
+      "cluster_ids": [
+        "C26"
+      ],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 6,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N35",
+      "rank": 40,
+      "score": 3.079,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "coordinated"
+      ],
+      "reasons": [
+        "low severity",
+        "7 posts",
+        "2 platforms",
+        "coordinated group C18"
+      ],
+      "cluster_ids": [
+        "C18"
+      ],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 4,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N108",
+      "rank": 41,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "coordinated"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "coordinated group C31"
+      ],
+      "cluster_ids": [
+        "C31"
+      ],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N6",
+      "rank": 42,
+      "score": 6.117,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform",
+        "surging"
+      ],
+      "reasons": [
+        "low severity",
+        "44 posts",
+        "4 platforms",
+        "surge on 20 Nov (3.1x other days, per hour, fully covered sources)"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 8,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N9",
+      "rank": 43,
+      "score": 4.496,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform"
+      ],
+      "reasons": [
+        "low severity",
+        "19 posts",
+        "4 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 7,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N13",
+      "rank": 44,
+      "score": 4.444,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "surging"
+      ],
+      "reasons": [
+        "low severity",
+        "18 posts",
+        "surge on 13 Nov (11.9x other days, per hour, fully covered sources)"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 10,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N10",
+      "rank": 45,
+      "score": 3.333,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "16 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 5,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N11",
+      "rank": 46,
+      "score": 3.773,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform"
+      ],
+      "reasons": [
+        "low severity",
+        "15 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 6,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N17",
+      "rank": 47,
+      "score": 4.273,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform"
+      ],
+      "reasons": [
+        "low severity",
+        "15 posts",
+        "4 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 7,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N18",
+      "rank": 48,
+      "score": 2.773,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "15 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 4,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N14",
+      "rank": 49,
+      "score": 5.708,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform",
+        "surging"
+      ],
+      "reasons": [
+        "low severity",
+        "14 posts",
+        "4 platforms",
+        "surge on 13 Nov (9.7x other days, per hour, fully covered sources)"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 7,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N21",
+      "rank": 50,
+      "score": 5.139,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform",
+        "surging"
+      ],
+      "reasons": [
+        "low severity",
+        "13 posts",
+        "3 platforms",
+        "surge on 20 Nov (28.6x other days, per hour, fully covered sources)"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 11,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N20",
+      "rank": 51,
+      "score": 4.639,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "surging"
+      ],
+      "reasons": [
+        "low severity",
+        "13 posts",
+        "2 platforms",
+        "surge on 20 Nov (10.5x other days, per hour, fully covered sources)"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 5,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N19",
+      "rank": 52,
+      "score": 4.639,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "surging"
+      ],
+      "reasons": [
+        "low severity",
+        "13 posts",
+        "2 platforms",
+        "surge on 15 Nov (9.0x other days, per hour, fully covered sources)"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 9,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N16",
+      "rank": 53,
+      "score": 5.335,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform",
+        "surging"
+      ],
+      "reasons": [
+        "low severity",
+        "12 posts",
+        "4 platforms",
+        "surge on 15 Nov (5.8x other days, per hour, fully covered sources)"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 6,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N27",
+      "rank": 54,
+      "score": 3.777,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "surging"
+      ],
+      "reasons": [
+        "low severity",
+        "11 posts",
+        "surge on 14 Nov (6.0x other days, per hour, fully covered sources)"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 6,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N32",
+      "rank": 55,
+      "score": 3.697,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "surging"
+      ],
+      "reasons": [
+        "low severity",
+        "8 posts",
+        "surge on 20 Nov (13.0x other days, per hour, fully covered sources)"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 5,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N33",
+      "rank": 56,
+      "score": 4.697,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform",
+        "surging"
+      ],
+      "reasons": [
+        "low severity",
+        "8 posts",
+        "3 platforms",
+        "surge on 20 Nov (13.0x other days, per hour, fully covered sources)"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 5,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N26",
+      "rank": 57,
+      "score": 3.197,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform"
+      ],
+      "reasons": [
+        "low severity",
+        "8 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N39",
+      "rank": 58,
+      "score": 2.579,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "7 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N40",
+      "rank": 59,
+      "score": 2.579,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "7 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N36",
+      "rank": 60,
+      "score": 2.946,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform"
+      ],
+      "reasons": [
+        "low severity",
+        "6 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N52",
+      "rank": 61,
+      "score": 4.292,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform",
+        "surging"
+      ],
+      "reasons": [
+        "low severity",
+        "5 posts",
+        "3 platforms",
+        "surge on 20 Nov (13.0x other days, per hour, fully covered sources)"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 5,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N264",
+      "rank": 62,
+      "score": 1.792,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "5 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N38",
+      "rank": 63,
+      "score": 2.792,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform"
+      ],
+      "reasons": [
+        "low severity",
+        "5 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N42",
+      "rank": 64,
+      "score": 2.292,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "5 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N56",
+      "rank": 65,
+      "score": 2.292,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "5 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N261",
+      "rank": 66,
+      "score": 2.609,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N266",
+      "rank": 67,
+      "score": 1.609,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 4,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N268",
+      "rank": 68,
+      "score": 2.109,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N37",
+      "rank": 69,
+      "score": 2.109,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N45",
+      "rank": 70,
+      "score": 2.609,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N49",
+      "rank": 71,
+      "score": 2.609,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N51",
+      "rank": 72,
+      "score": 1.609,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N53",
+      "rank": 73,
+      "score": 2.609,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N57",
+      "rank": 74,
+      "score": 2.109,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N62",
+      "rank": 75,
+      "score": 2.109,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N65",
+      "rank": 76,
+      "score": 2.609,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N66",
+      "rank": 77,
+      "score": 2.109,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N70",
+      "rank": 78,
+      "score": 2.109,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N71",
+      "rank": 79,
+      "score": 1.609,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N73",
+      "rank": 80,
+      "score": 1.609,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N76",
+      "rank": 81,
+      "score": 1.609,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 4,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N77",
+      "rank": 82,
+      "score": 1.609,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N79",
+      "rank": 83,
+      "score": 1.609,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N82",
+      "rank": 84,
+      "score": 2.414,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "threat"
+      ],
+      "reasons": [
+        "low severity",
+        "threat-relevant",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N100",
+      "rank": 85,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N101",
+      "rank": 86,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 1,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N103",
+      "rank": 87,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 1,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N104",
+      "rank": 88,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 1,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N109",
+      "rank": 89,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 1,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N110",
+      "rank": 90,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N111",
+      "rank": 91,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N113",
+      "rank": 92,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N116",
+      "rank": 93,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N121",
+      "rank": 94,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N124",
+      "rank": 95,
+      "score": 2.079,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "threat"
+      ],
+      "reasons": [
+        "low severity",
+        "threat-relevant",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N127",
+      "rank": 96,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N129",
+      "rank": 97,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N130",
+      "rank": 98,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N131",
+      "rank": 99,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N265",
+      "rank": 100,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N267",
+      "rank": 101,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N269",
+      "rank": 102,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N61",
+      "rank": 103,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N63",
+      "rank": 104,
+      "score": 2.386,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N64",
+      "rank": 105,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N85",
+      "rank": 106,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N86",
+      "rank": 107,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N88",
+      "rank": 108,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N89",
+      "rank": 109,
+      "score": 2.386,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N90",
+      "rank": 110,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N91",
+      "rank": 111,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 3,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N94",
+      "rank": 112,
+      "score": 2.386,
+      "main": false,
+      "tags": [
+        "severity:low",
+        "multi_platform"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N96",
+      "rank": 113,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N97",
+      "rank": 114,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N98",
+      "rank": 115,
+      "score": 1.386,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 1,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N99",
+      "rank": 116,
+      "score": 1.886,
+      "main": false,
+      "tags": [
+        "severity:low"
+      ],
+      "reasons": [
+        "low severity",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 2,
+      "severity": "low"
+    },
+    {
+      "narrative_id": "N140",
+      "rank": 117,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N143",
+      "rank": 118,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N144",
+      "rank": 119,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N146",
+      "rank": 120,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N147",
+      "rank": 121,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N149",
+      "rank": 122,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N154",
+      "rank": 123,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N155",
+      "rank": 124,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N156",
+      "rank": 125,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N162",
+      "rank": 126,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N163",
+      "rank": 127,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N164",
+      "rank": 128,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N169",
+      "rank": 129,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N170",
+      "rank": 130,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N171",
+      "rank": 131,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N172",
+      "rank": 132,
+      "score": 1.599,
+      "main": false,
+      "tags": [
+        "coordinated"
+      ],
+      "reasons": [
+        "2 posts",
+        "coordinated group C30"
+      ],
+      "cluster_ids": [
+        "C30"
+      ],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N173",
+      "rank": 133,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N181",
+      "rank": 134,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N183",
+      "rank": 135,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N184",
+      "rank": 136,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N185",
+      "rank": 137,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N187",
+      "rank": 138,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N188",
+      "rank": 139,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N192",
+      "rank": 140,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N193",
+      "rank": 141,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N195",
+      "rank": 142,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N196",
+      "rank": 143,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N197",
+      "rank": 144,
+      "score": 1.599,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N141",
+      "rank": 145,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N142",
+      "rank": 146,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N145",
+      "rank": 147,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N148",
+      "rank": 148,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N150",
+      "rank": 149,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N151",
+      "rank": 150,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N152",
+      "rank": 151,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N153",
+      "rank": 152,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N157",
+      "rank": 153,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N158",
+      "rank": 154,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N159",
+      "rank": 155,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N160",
+      "rank": 156,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N161",
+      "rank": 157,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N165",
+      "rank": 158,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N166",
+      "rank": 159,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N167",
+      "rank": 160,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N168",
+      "rank": 161,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N174",
+      "rank": 162,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N175",
+      "rank": 163,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N176",
+      "rank": 164,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N177",
+      "rank": 165,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N178",
+      "rank": 166,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N179",
+      "rank": 167,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N180",
+      "rank": 168,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N182",
+      "rank": 169,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N186",
+      "rank": 170,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N189",
+      "rank": 171,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N190",
+      "rank": 172,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N191",
+      "rank": 173,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N194",
+      "rank": 174,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N198",
+      "rank": 175,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N199",
+      "rank": 176,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N200",
+      "rank": 177,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N201",
+      "rank": 178,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N202",
+      "rank": 179,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N203",
+      "rank": 180,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N204",
+      "rank": 181,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N205",
+      "rank": 182,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N206",
+      "rank": 183,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N207",
+      "rank": 184,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N208",
+      "rank": 185,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N209",
+      "rank": 186,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N210",
+      "rank": 187,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N211",
+      "rank": 188,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N212",
+      "rank": 189,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N213",
+      "rank": 190,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N214",
+      "rank": 191,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N215",
+      "rank": 192,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N216",
+      "rank": 193,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N217",
+      "rank": 194,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N218",
+      "rank": 195,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N219",
+      "rank": 196,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N220",
+      "rank": 197,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N221",
+      "rank": 198,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N222",
+      "rank": 199,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N223",
+      "rank": 200,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N224",
+      "rank": 201,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N225",
+      "rank": 202,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N226",
+      "rank": 203,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N227",
+      "rank": 204,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N228",
+      "rank": 205,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N229",
+      "rank": 206,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N230",
+      "rank": 207,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N231",
+      "rank": 208,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N232",
+      "rank": 209,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N233",
+      "rank": 210,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N234",
+      "rank": 211,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N235",
+      "rank": 212,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N236",
+      "rank": 213,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N237",
+      "rank": 214,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N238",
+      "rank": 215,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N239",
+      "rank": 216,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N240",
+      "rank": 217,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N241",
+      "rank": 218,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N242",
+      "rank": 219,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N243",
+      "rank": 220,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N244",
+      "rank": 221,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N245",
+      "rank": 222,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N246",
+      "rank": 223,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N247",
+      "rank": 224,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N248",
+      "rank": 225,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N249",
+      "rank": 226,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N250",
+      "rank": 227,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N251",
+      "rank": 228,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N252",
+      "rank": 229,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N253",
+      "rank": 230,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N254",
+      "rank": 231,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N255",
+      "rank": 232,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N256",
+      "rank": 233,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N257",
+      "rank": 234,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N258",
+      "rank": 235,
+      "score": 1.099,
+      "main": false,
+      "tags": [],
+      "reasons": [
+        "2 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N1",
+      "rank": 236,
+      "score": 1.985,
+      "main": false,
+      "tags": [
+        "off_topic",
+        "coordinated"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "274 posts",
+        "coordinated groups C1, C4"
+      ],
+      "cluster_ids": [
+        "C1",
+        "C4"
+      ],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 267,
+      "severity": null
+    },
+    {
+      "narrative_id": "N259",
+      "rank": 237,
+      "score": 0.838,
+      "main": false,
+      "tags": [
+        "off_topic",
+        "multi_platform"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "5 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N263",
+      "rank": 238,
+      "score": 0.838,
+      "main": false,
+      "tags": [
+        "off_topic",
+        "multi_platform"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "5 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 3,
+      "severity": null
+    },
+    {
+      "narrative_id": "N50",
+      "rank": 239,
+      "score": 0.838,
+      "main": false,
+      "tags": [
+        "off_topic",
+        "multi_platform"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "5 posts",
+        "3 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N44",
+      "rank": 240,
+      "score": 0.734,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "6 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 3,
+      "severity": null
+    },
+    {
+      "narrative_id": "N31",
+      "rank": 241,
+      "score": 0.691,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "9 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 3,
+      "severity": null
+    },
+    {
+      "narrative_id": "N68",
+      "rank": 242,
+      "score": 0.633,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "4 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-13",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N48",
+      "rank": 243,
+      "score": 0.584,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "6 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N102",
+      "rank": 244,
+      "score": 0.566,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N112",
+      "rank": 245,
+      "score": 0.566,
+      "main": false,
+      "tags": [
+        "off_topic",
+        "coordinated"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts",
+        "coordinated group C11"
+      ],
+      "cluster_ids": [
+        "C11"
+      ],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 3,
+      "severity": null
+    },
+    {
+      "narrative_id": "N84",
+      "rank": 246,
+      "score": 0.566,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N87",
+      "rank": 247,
+      "score": 0.566,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N95",
+      "rank": 248,
+      "score": 0.566,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts",
+        "2 platforms"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 3,
+      "severity": null
+    },
+    {
+      "narrative_id": "N59",
+      "rank": 249,
+      "score": 0.538,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "5 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 3,
+      "severity": null
+    },
+    {
+      "narrative_id": "N60",
+      "rank": 250,
+      "score": 0.538,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "5 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 4,
+      "severity": null
+    },
+    {
+      "narrative_id": "N43",
+      "rank": 251,
+      "score": 0.483,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 4,
+      "severity": null
+    },
+    {
+      "narrative_id": "N72",
+      "rank": 252,
+      "score": 0.483,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-18",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N75",
+      "rank": 253,
+      "score": 0.483,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 4,
+      "severity": null
+    },
+    {
+      "narrative_id": "N80",
+      "rank": 254,
+      "score": 0.483,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N81",
+      "rank": 255,
+      "score": 0.483,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 3,
+      "severity": null
+    },
+    {
+      "narrative_id": "N83",
+      "rank": 256,
+      "score": 0.483,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "4 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N105",
+      "rank": 257,
+      "score": 0.416,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N114",
+      "rank": 258,
+      "score": 0.416,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N115",
+      "rank": 259,
+      "score": 0.416,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N117",
+      "rank": 260,
+      "score": 0.416,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-14",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N118",
+      "rank": 261,
+      "score": 0.416,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 1,
+      "severity": null
+    },
+    {
+      "narrative_id": "N119",
+      "rank": 262,
+      "score": 0.416,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-19",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N120",
+      "rank": 263,
+      "score": 0.416,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N123",
+      "rank": 264,
+      "score": 0.416,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N125",
+      "rank": 265,
+      "score": 0.416,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N134",
+      "rank": 266,
+      "score": 0.416,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-17",
+      "peak_count": 3,
+      "severity": null
+    },
+    {
+      "narrative_id": "N135",
+      "rank": 267,
+      "score": 0.416,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-16",
+      "peak_count": 3,
+      "severity": null
+    },
+    {
+      "narrative_id": "N58",
+      "rank": 268,
+      "score": 0.416,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-20",
+      "peak_count": 2,
+      "severity": null
+    },
+    {
+      "narrative_id": "N69",
+      "rank": 269,
+      "score": 0.416,
+      "main": false,
+      "tags": [
+        "off_topic"
+      ],
+      "reasons": [
+        "off-topic (ranked down)",
+        "3 posts"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "peak_day": "2026-11-15",
+      "peak_count": 1,
+      "severity": null
+    }
+  ],
+  "main_cluster_ids": [
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5"
+  ],
+  "cluster_narratives": {
+    "C1": [
+      "N1"
+    ],
+    "C2": [
+      "N2"
+    ],
+    "C3": [
+      "N2"
+    ],
+    "C4": [
+      "N1"
+    ],
+    "C5": [
+      "N2"
+    ],
+    "C6": [
+      "N28"
+    ],
+    "C7": [
+      "N15"
+    ],
+    "C8": [
+      "N25"
+    ],
+    "C9": [
+      "N3"
+    ],
+    "C10": [
+      "N15"
+    ],
+    "C11": [
+      "N112"
+    ],
+    "C12": [
+      "N34"
+    ],
+    "C13": [
+      "N2"
+    ],
+    "C14": [
+      "N7"
+    ],
+    "C15": [
+      "N8"
+    ],
+    "C16": [
+      "N3"
+    ],
+    "C17": [
+      "N7"
+    ],
+    "C18": [
+      "N35"
+    ],
+    "C19": [
+      "N5"
+    ],
+    "C20": [
+      "N2"
+    ],
+    "C21": [
+      "N2"
+    ],
+    "C22": [
+      "N2"
+    ],
+    "C23": [
+      "N2"
+    ],
+    "C24": [
+      "N2"
+    ],
+    "C25": [
+      "N3"
+    ],
+    "C26": [
+      "N23"
+    ],
+    "C27": [
+      "N2"
+    ],
+    "C28": [
+      "N2"
+    ],
+    "C29": [
+      "N24"
+    ],
+    "C30": [
+      "N172"
+    ],
+    "C31": [
+      "N108"
+    ],
+    "C32": [
+      "N4"
+    ]
+  },
+  "findings": [
+    {
+      "id": "F1",
+      "kind": "narrative",
+      "headline": "Most severe narrative “Posts list cyberattacks and outages including Bank of America account lockouts” (high severity): 53 posts (Telegram 26, X 13, YouTube 9, LinkedIn 5); most on 19 Nov (26 posts), but Telegram did not cover every day (peak on fully covered sources: 17 Nov, 10 posts).",
+      "detail": "Rated high by the labeller: Coordinated near-identical alarm posts about account lockouts and attacks could cause panic. Telegram did not cover every day, so 19 Nov counts are not comparable across days. Claims: 2 supported, 1 unverified. First observed in collected data: 13 Nov.",
+      "narrative_ids": [
+        "N5"
+      ],
+      "cluster_ids": [
+        "C19"
+      ],
+      "claim_ids": [
+        "CL1",
+        "CL2",
+        "CL3"
+      ],
+      "post_ids": [
+        "x:2121388441955082657",
+        "telegram:probudeni:1495",
+        "x:2122830573567963543",
+        "linkedin:7528808206735888385",
+        "youtube:-IasfzBIznY",
+        "telegram:kraftfeldspirit:108703"
+      ]
+    },
+    {
+      "id": "F2",
+      "kind": "narrative",
+      "headline": "Also high severity: narrative “Mass-posted Bank of America job listings across LinkedIn”: 31 posts (LinkedIn 29, Telegram 2); 12 of them on 20 Nov (partial day, 9 h in the window).",
+      "detail": "Rated high by the labeller: Coordinated identical job ads from many accounts; possible lure using the bank's name. Telegram did not cover every day, so 20 Nov counts are not comparable across days. On the fully covered sources (LinkedIn, X, YouTube) it peaked on 20 Nov (11 posts).",
+      "narrative_ids": [
+        "N7"
+      ],
+      "cluster_ids": [
+        "C14",
+        "C17"
+      ],
+      "claim_ids": [
+        "CL4",
+        "CL5",
+        "CL6"
+      ],
+      "post_ids": [
+        "linkedin:7529191281005338624",
+        "telegram:coursejoiner:44613",
+        "linkedin:7528829920505008128",
+        "linkedin:7529230903869456384",
+        "linkedin:7528882919193522176"
+      ]
+    },
+    {
+      "id": "F3",
+      "kind": "coordination",
+      "headline": "Strongest coordinated group C1: 267 Telegram accounts with 3 signal types (near-identical text, near-simultaneous posting, accounts created close together) over 267 supporting posts; 267 of those posts are in narrative “Telegram ads offering USDT conversion and cross-border fiat exchange”.",
+      "detail": "267 Telegram accounts posted near-identical text, a median 20 s apart; all 267 were created within 3 days of each other. Group C4 (7 more accounts) also post mainly into “Telegram ads offering USDT conversion and cross-border fiat exchange”. 5 groups have 5+ accounts. Coordination is not proof of inauthentic behaviour; check the benign explanations.",
+      "narrative_ids": [
+        "N1"
+      ],
+      "cluster_ids": [
+        "C1",
+        "C4"
+      ],
+      "claim_ids": [],
+      "post_ids": [
+        "telegram:america_bank_account_hong:276",
+        "telegram:america_buy_usdt_hong_kong_buy_u:39",
+        "telegram:america_c2c_p2p_canada_c2c_p2p_m:39",
+        "telegram:america_convert_to_usdt_hong:39",
+        "telegram:america_convert_to_usdt_hong_kon:39",
+        "telegram:america_funds_canada_funds_mexic:39",
+        "telegram:america_funds_hong_kong_funds:39",
+        "telegram:america_money_hong_kong_money:39",
+        "telegram:america_purchase_usdt_canada_pur:39",
+        "telegram:america_usdt_exchange_hongkong:39",
+        "telegram:america_usdt_rate_canada_usdt_ra:39",
+        "telegram:america_usdt_rate_hong_kong:39",
+        "telegram:asdkjhfiua:35",
+        "telegram:asfasret:35",
+        "telegram:asgreds:35",
+        "telegram:asjniugi:35",
+        "telegram:asldihf:35",
+        "telegram:asshnfhg:35",
+        "telegram:australian_c2c_p2p_malaysia:39",
+        "telegram:australian_c2c_p2p_malaysia_c2c:39",
+        "telegram:australian_convert_to_usdt:275",
+        "telegram:australian_convert_to_usdt_malay:39",
+        "telegram:australian_purchase_usdt_malaysi:39",
+        "telegram:australian_to_usdt_malaysia_to_u:39",
+        "telegram:bdfghdfj:35",
+        "telegram:bdfgsfs:35",
+        "telegram:bdfujyt:40",
+        "telegram:bdiashid:36",
+        "telegram:bfdhrtgr:35",
+        "telegram:bfdsuty:36",
+        "telegram:bghyrer:35",
+        "telegram:brazil_crypto_exchange_brazil_us:60",
+        "telegram:brazil_crypto_seller_brazil_fund:59",
+        "telegram:brazil_local_usdt_usdt_serv:39",
+        "telegram:brazil_local_usdt_usdt_service:59",
+        "telegram:brazil_money_brazil_withdrawal:39",
+        "telegram:brazil_p2p_crypto_brazil_usdt:59",
+        "telegram:brazil_p2p_crypto_brazil_usdt_ca:59",
+        "telegram:brazil_payment_gateway_brazil_bu:59",
+        "telegram:brazil_purchases_usdt_brazil_sel:39",
+        "telegram:brazil_tether_usdt_avail:19",
+        "telegram:brazil_tether_usdt_available:59",
+        "telegram:brazil_usdt_acceptance_the_pr:59",
+        "telegram:brazil_usdt_best_rate_brazil_sta:59",
+        "telegram:brazil_usdt_channel_brazi:39",
+        "telegram:brazil_usdt_channel_brazil:59",
+        "telegram:brazil_usdt_dealer_brazil_usdt_s:39",
+        "telegram:brazil_usdt_platform_brazil_usdt:39",
+        "telegram:buy_usdt_cash_in_person:48",
+        "telegram:buy_usdt_in_hong_kongsell_usdt:39"
+      ]
+    },
+    {
+      "id": "F4",
+      "kind": "claims",
+      "headline": "30 claims checked: 5 supported, 0 contradicted, 2 disputed, 23 unverified.",
+      "detail": "Most notable: “Iran is behind the cyber-attacks and banking issues affecting Bank of America.” is disputed (confidence 0.40). Reports confirm outages at major US banks including Bank of America, but DHS suggested AI could be responsible, while Iran is only linked to general cyberattacks on US infrastructure, not these bank outages.",
+      "narrative_ids": [
+        "N47"
+      ],
+      "cluster_ids": [],
+      "claim_ids": [
+        "CL19",
+        "CL1",
+        "CL2",
+        "CL3",
+        "CL4",
+        "CL5",
+        "CL6",
+        "CL7",
+        "CL8",
+        "CL9",
+        "CL10",
+        "CL11",
+        "CL12",
+        "CL13",
+        "CL14",
+        "CL15",
+        "CL16",
+        "CL17",
+        "CL18",
+        "CL20",
+        "CL21",
+        "CL22",
+        "CL23",
+        "CL24",
+        "CL25",
+        "CL26",
+        "CL27",
+        "CL28",
+        "CL29",
+        "CL30"
+      ],
+      "post_ids": [
+        "youtube:comment:Ugx5peMib-WKHrIWmSd4AaABAg",
+        "youtube:comment:UgziScxQx9QN6xCH3g94AaABAg",
+        "youtube:comment:UgwCWQuEBuXUmtg9X7x4AaABAg",
+        "youtube:comment:Ugz5dKBhGP3_5E369Pd4AaABAg",
+        "youtube:comment:UgwFu55hl2RO-aKBBZZ4AaABAg",
+        "youtube:comment:UgwhKvU_dRUdTErBoDF4AaABAg"
+      ]
+    },
+    {
+      "id": "F5",
+      "kind": "coverage",
+      "headline": "Not every source covered the whole window: Telegram 4 of 8 days (posts on 4 of 8 UTC days (none on 13 Nov (partial), 14 Nov, 15 Nov, 17 Nov)).",
+      "detail": "Full coverage: X, YouTube, LinkedIn. Days a source did not reach are not evidence of silence.",
+      "narrative_ids": [],
+      "cluster_ids": [],
+      "claim_ids": [],
+      "post_ids": []
+    }
+  ],
+  "coverage": [
+    {
+      "source": "x",
+      "state": "ok",
+      "days_with_posts": 8,
+      "days_total": 8,
+      "note": "whole window covered (last 7 days: 8 UTC days, first and last partial)"
+    },
+    {
+      "source": "telegram",
+      "state": "partial",
+      "days_with_posts": 4,
+      "days_total": 8,
+      "note": "posts on 4 of 8 UTC days (none on 13 Nov (partial), 14 Nov, 15 Nov, 17 Nov)"
+    },
+    {
+      "source": "youtube",
+      "state": "ok",
+      "days_with_posts": 8,
+      "days_total": 8,
+      "note": "whole window covered (last 7 days: 8 UTC days, first and last partial)"
+    },
+    {
+      "source": "linkedin",
+      "state": "ok",
+      "days_with_posts": 8,
+      "days_total": 8,
+      "note": "whole window covered (last 7 days: 8 UTC days, first and last partial)"
+    }
+  ],
+  "verdict_counts": {
+    "supported": 5,
+    "contradicted": 0,
+    "disputed": 2,
+    "unverified": 23
+  }
+}

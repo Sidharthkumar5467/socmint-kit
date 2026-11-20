@@ -1,0 +1,3334 @@
+{
+ "data": {
+  "data": {
+   "searchDashClustersByAll": {
+    "metadata": {
+     "totalResultCount": 248,
+     "$type": "com.linkedin.voyager.dash.search.SearchClusterCollectionMetadata"
+    },
+    "paging": {
+     "count": 10,
+     "start": 0,
+     "total": 248,
+     "$type": "com.linkedin.restli.common.CollectionMetadata"
+    },
+    "elements": [
+     {
+      "clusterRenderType": "LIST",
+      "dismissable": false,
+      "$type": "com.linkedin.voyager.dash.search.SearchClusterViewModel",
+      "position": 1,
+      "items": [
+       {
+        "item": {
+         "simpleTextV2": {
+          "showDashes": false,
+          "textAlignment": "LEFT",
+          "numDashes": 0,
+          "text": {
+           "textDirection": "USER_LOCALE",
+           "text": "248 results",
+           "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+          },
+          "renderStyle": "PLAIN",
+          "$type": "com.linkedin.voyager.dash.search.SimpleText"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       }
+      ],
+      "trackingId": "m\u0017ñ\u0018\r0GA¨»rK\u001bB"
+     },
+     {
+      "clusterRenderType": "LIST",
+      "dismissable": false,
+      "$type": "com.linkedin.voyager.dash.search.SearchClusterViewModel",
+      "position": 2,
+      "items": [
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7527064226281021440,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "28WEKX05RTOvGe3/hgMNQg==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7527988676832686081,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "Q8SJ3R1uT0OOtsjLNusdnw==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7527008663375421441,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "lCDLTQAOSMmsfcrHj2fPkg==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7521566724303978496,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "k+1qoEZQRFOyu8hKlZCATw==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7528492546617069568,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "Wh0fT7NGSTaERGug7GwUzw==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7525564806528024577,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "E1OPQM7FQdec2oqHd3lFSA==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7523306187291783168,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "L23jSzbcRECcnj9CuGP9iw==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7528482349140008960,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "p4qup42tSjOwUxmhuzwmig==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7522930538379341825,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "MqaBuZ5/RVWOclJ5tqvT6A==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7528543623265640448,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "MZ23/BZZQM61gZp9eXgtFg==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       }
+      ],
+      "trackingId": "þ§}ûgK¤ã¡gÐ\u000e\u0011|"
+     },
+     {
+      "clusterRenderType": "LIST",
+      "dismissable": false,
+      "$type": "com.linkedin.voyager.dash.search.SearchClusterViewModel",
+      "position": 3,
+      "items": [
+       {
+        "item": {
+         "*feedbackCard": "urn:li:fsd_feedbackCard:SRP_FEEDBACK_CONTENT"
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       }
+      ],
+      "trackingId": ">éà:ÿJIHH6ÿ.í\n"
+     }
+    ],
+    "$type": "com.linkedin.restli.common.CollectionResponse"
+   }
+  }
+ },
+ "included": [
+  {
+   "numLikes": 86,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:ugcPost:7528482348200448000",
+   "numComments": 4,
+   "reactionTypeCounts": [
+    {
+     "count": 83,
+     "reactionType": "LIKE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    },
+    {
+     "count": 2,
+     "reactionType": "PRAISE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    },
+    {
+     "count": 1,
+     "reactionType": "EMPATHY",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    }
+   ],
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:ugcPost:7528482348200448000",
+   "numShares": 9,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:ugcPost:7528482348200448000"
+  },
+  {
+   "numLikes": 3,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:ugcPost:7524627306473066496",
+   "numComments": 3,
+   "reactionTypeCounts": [
+    {
+     "count": 3,
+     "reactionType": "LIKE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    }
+   ],
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:ugcPost:7524627306473066496",
+   "numShares": 0,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:ugcPost:7524627306473066496"
+  },
+  {
+   "numLikes": 5,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:ugcPost:7521566723708436480",
+   "numComments": 0,
+   "reactionTypeCounts": [
+    {
+     "count": 5,
+     "reactionType": "LIKE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    }
+   ],
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:ugcPost:7521566723708436480",
+   "numShares": 0,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:ugcPost:7521566723708436480"
+  },
+  {
+   "numLikes": 25,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:activity:7527064226281021440",
+   "numComments": 2,
+   "reactionTypeCounts": [
+    {
+     "count": 25,
+     "reactionType": "LIKE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    }
+   ],
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7527064226281021440",
+   "numShares": 1,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7527064226281021440"
+  },
+  {
+   "numLikes": 5,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:ugcPost:7522930537574076416",
+   "numComments": 4,
+   "reactionTypeCounts": [
+    {
+     "count": 5,
+     "reactionType": "LIKE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    }
+   ],
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:ugcPost:7522930537574076416",
+   "numShares": 0,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:ugcPost:7522930537574076416"
+  },
+  {
+   "numLikes": 10,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:ugcPost:7523306185475858433",
+   "numComments": 18,
+   "reactionTypeCounts": [
+    {
+     "count": 10,
+     "reactionType": "LIKE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    }
+   ],
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:ugcPost:7523306185475858433",
+   "numShares": 0,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:ugcPost:7523306185475858433"
+  },
+  {
+   "numLikes": 32,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:activity:7527988676832686081",
+   "numComments": 1,
+   "reactionTypeCounts": [
+    {
+     "count": 31,
+     "reactionType": "LIKE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    },
+    {
+     "count": 1,
+     "reactionType": "APPRECIATION",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    }
+   ],
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7527988676832686081",
+   "numShares": 3,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7527988676832686081"
+  },
+  {
+   "numLikes": 91,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:ugcPost:7528492546155515904",
+   "numComments": 52,
+   "reactionTypeCounts": [
+    {
+     "count": 22,
+     "reactionType": "EMPATHY",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    },
+    {
+     "count": 19,
+     "reactionType": "LIKE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    },
+    {
+     "count": 19,
+     "reactionType": "PRAISE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    },
+    {
+     "count": 18,
+     "reactionType": "APPRECIATION",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    },
+    {
+     "count": 13,
+     "reactionType": "INTEREST",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    }
+   ],
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:ugcPost:7528492546155515904",
+   "numShares": 0,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:ugcPost:7528492546155515904"
+  },
+  {
+   "numLikes": 57,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:activity:7525564806528024577",
+   "numComments": 3,
+   "reactionTypeCounts": [
+    {
+     "count": 57,
+     "reactionType": "LIKE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    }
+   ],
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7525564806528024577",
+   "numShares": 0,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7525564806528024577"
+  },
+  {
+   "numLikes": 77,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:activity:7528543623265640448",
+   "numComments": 31,
+   "reactionTypeCounts": [
+    {
+     "count": 69,
+     "reactionType": "LIKE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    },
+    {
+     "count": 5,
+     "reactionType": "INTEREST",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    },
+    {
+     "count": 1,
+     "reactionType": "ENTERTAINMENT",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    },
+    {
+     "count": 1,
+     "reactionType": "EMPATHY",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    },
+    {
+     "count": 1,
+     "reactionType": "APPRECIATION",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    }
+   ],
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7528543623265640448",
+   "numShares": 1,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7528543623265640448"
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7528543623265640448",
+    "shareUrn": "urn:li:share:7528543622414311424",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/stu-rogers_some-of-the-companies-that-announced-theyre-activity-7528543623265640448-JVSd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7528543623265640448,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAAAYcY8oBX9pWqEHDr_EsGWiCATn7s8YBfRg",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4E03AQGFRImZZuLJZg",
+          "artifacts": [
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "scale_200_200/B4EZ6VIPw6IcAc-/0/1780618428054?e=1796860800&v=beta&t=9mvtBygJz8n6PENnsqS6eKn_2NwEDYZyJlhtvs-MSmw",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "scale_100_100/B4EZ6VIPw6IcAY-/0/1780618428054?e=1796860800&v=beta&t=HsctFWfe6VPkoevzZk0KRS6pfRqclW0SiFzFJXX0s1c",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "crop_800_800/B4EZ6VIPw6IcAI-/0/1780618428054?e=1796860800&v=beta&t=t3PrcnhZvsthQT7inQKzsb0KBUjbgKR-r2E4MbMjGUI",
+            "expiresAt": 1796860800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "scale_400_400/B4EZ6VIPw6IcAg-/0/1780618428054?e=1796860800&v=beta&t=thFcrg4x2NOfMKmgsroBut4DWZHHNv7T90ZXs83-C1w",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGFRImZZuLJZg/profile-displayphoto-",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Stu Rogers💡’s  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": "   • 3rd+",
+     "attributesV2": [
+      {
+       "start": 1,
+       "length": 1,
+       "detailData": {
+        "systemImage": "LOGOS_BUGS_LINKEDIN_BUG_PREMIUM_V2_XXSMALL"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Premium • 3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "Co-founder and CEO @ Spread",
+     "accessibilityText": "Co-founder and CEO @ Spread",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:102523850",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAAAYcY8oBX9pWqEHDr_EsGWiCATn7s8YBfRg",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Stu Rogers💡",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 11,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAAYcY8oBX9pWqEHDr_EsGWiCATn7s8YBfRg"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 11,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAAYcY8oBX9pWqEHDr_EsGWiCATn7s8YBfRg"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Stu Rogers💡",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "1d •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "1 day ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/stu-rogers?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAYcY8oBX9pWqEHDr_EsGWiCATn7s8YBfRg",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View Stu Rogers💡’s profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7528543623265640448,urn:li:activity:7528543623265640448,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Some of the companies that announced they're \"banning\" AI agents:\nUnited Airlines\nBooking\nAmazon\neBay\nJPMorgan Chase\nBank of America\nYelp\n\nI say \"banning\" because while they're trying to keep AI agents out, those same agents are only getting better at bypassing the barriers designed to stop them.\n\nYou are soon going to see Proof of Human layers verifying that important actions are authorized by a person, rather than an unattested agent.\n\nTrying to ban bots will always be a losing game of whack-a-mole. My take? Find ways to let approved agents do the work but empower humans to stay in control when it matters.",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7528492546617069568",
+    "shareUrn": "urn:li:ugcPost:7528492546155515904",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/dspatterson_outlook-went-down-for-12-hours-the-faa-activity-7528492546617069568-fZ62?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "articleComponent": {
+     "headlineBackgroundColor": "DEFAULT",
+     "newsletterNavigationContext": {
+      "actionTarget": "https://www.linkedin.com/newsletters/the-recruiting-contrarian-7412640051139862528",
+      "urlViewingBehavior": "DEFAULT",
+      "trackingActionType": "viewSeries",
+      "accessibilityText": "View newsletter: The Recruiting Contrarian",
+      "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+     },
+     "largeImage": {
+      "attributes": [
+       {
+        "scalingType": "ASPECT_FILL",
+        "detailData": {
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4E12AQFiBWQF6kIv_A",
+          "artifacts": [
+           {
+            "width": 1280,
+            "fileIdentifyingUrlPathSegment": "720_1280/B4EaHqHiATGkAQ-/0/1794929208594?e=1796860800&v=beta&t=i-JKzq2CYKU6R33wiYLANca41ny3szdKF9kBCt3YC4U",
+            "expiresAt": 1796860800000,
+            "height": 720,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 752,
+            "fileIdentifyingUrlPathSegment": "423_752/B4EaHqHiATGkAY-/0/1794929208594?e=1796860800&v=beta&t=Bi7F4AB_tTISZ81uQjO4iXx9EKklVBRXbPuTiozSAyY",
+            "expiresAt": 1796860800000,
+            "height": 423,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 1066,
+            "fileIdentifyingUrlPathSegment": "600_2000/B4EaHqHiATGkAM-/0/1794929208594?e=1796860800&v=beta&t=hVxd6g1TxjvSsBFEg7l6NSYB3dA3lPauid7scTlF6pg",
+            "expiresAt": 1796860800000,
+            "height": 600,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 320,
+            "fileIdentifyingUrlPathSegment": "180_320/B4EaHqHiATGkAU-/0/1794929208594?e=1796860800&v=beta&t=MnqY2Yj5L6uXg2_WNVwGc50QEO0ULmR1vVYh_Obvij0",
+            "expiresAt": 1796860800000,
+            "height": 180,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4E12AQFiBWQF6kIv_A/article-cover_image-shrink_",
+          "$type": "com.linkedin.common.VectorImage"
+         }
+        },
+        "displayAspectRatio": 0.5625,
+        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+       }
+      ],
+      "editableAccessibilityText": false,
+      "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+     },
+     "description": {
+      "textDirection": "FIRST_STRONG",
+      "text": "How to Keep Building a Practice When Everything Else BreaksLast Thursday, Outlook went down around the world for more than 12 hours.Friday afternoon, ",
+      "accessibilityText": "How to Keep Building a Practice When Everything Else BreaksLast Thursday, Outlook went down around the world for more than 12 hours.Friday afternoon, ",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "type": "FIRST_PARTY",
+     "title": {
+      "textDirection": "FIRST_STRONG",
+      "text": "The World Lost Its Mind. Your Desk Doesn't Have To.",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "articleUrn": "urn:li:linkedInArticle:7528478761982291969",
+     "*subscribeAction": "urn:li:fsd_subscribeAction:urn:li:fsd_contentSeries:7412640051139862528",
+     "swapTitleAndSubtitle": false,
+     "showChevron": false,
+     "showSmallTitle": false,
+     "newsletterLogo": {
+      "attributes": [
+       {
+        "detailData": {
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4E12AQHiQClwLfzvaA",
+          "artifacts": [
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/B4EZuAmzH8IgAY-/0/1767389214233?e=1796860800&v=beta&t=LY8wMPTVON9JlEqIWuxxx9LFJSsHHsSDe4CuHT_9COI",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 300,
+            "fileIdentifyingUrlPathSegment": "300_300/B4EZuAmzH8IgAQ-/0/1767389214233?e=1796860800&v=beta&t=aiWfYQjDFgWwzi-8u8t03QGnaYOU45llpMs8rLYSMEI",
+            "expiresAt": 1796860800000,
+            "height": 300,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/B4EZuAmzH8IgAU-/0/1767389214233?e=1796860800&v=beta&t=oJNTFNxwpdtWYCjP-RsWy97Dr6CM7BBPhZHXDz-q5s4",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4E12AQHiQClwLfzvaA/series-logo_image-shrink_",
+          "$type": "com.linkedin.common.VectorImage"
+         }
+        },
+        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+       }
+      ],
+      "editableAccessibilityText": false,
+      "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+     },
+     "$type": "com.linkedin.voyager.dash.feed.component.article.ArticleComponent",
+     "newsletterTitle": {
+      "textDirection": "FIRST_STRONG",
+      "text": "The Recruiting Contrarian",
+      "accessibilityText": "The Recruiting Contrarian",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "subtitle": {
+      "textDirection": "USER_LOCALE",
+      "text": "David Stephen Patterson",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "navigationContext": {
+      "actionTarget": "https://www.linkedin.com/pulse/world-lost-its-mind-your-desk-doesnt-have-david-stephen-patterson-ypdce?trackingId=LWP2qHzaQEu%2BLJCSzH5sNA%3D%3D",
+      "urlViewingBehavior": "DEFAULT",
+      "trackingActionType": "viewLink",
+      "accessibilityText": "Open article: The World Lost Its Mind. Your Desk Doesn't Have To. by David Stephen Patterson • 10 min read",
+      "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+     }
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7528492546617069568,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAAABcgDwBRAFuffYSb7tJ-3LsGITtykN95w8",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4E03AQFm8U1C-KOoGg",
+          "artifacts": [
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "scale_100_100/B4EZkz5v_OKkAg-/0/1757512401813?e=1796860800&v=beta&t=Bl8yhjcP3j2AyZvJjuQpTohK1K6U1EfJOaOSYqmy2ZE",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "crop_800_800/B4EZkz5v_OKkAM-/0/1757512401631?e=1796860800&v=beta&t=ldsY5OE5UAuadxfEZ6mRjN9-3nhBE3gf_iwNgCpsxwA",
+            "expiresAt": 1796860800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "scale_200_200/B4EZkz5v_OKkAc-/0/1757512401813?e=1796860800&v=beta&t=q2vozkmFAMnXgHwXgXOSCQENg7AjqSHyQG8avaXqt1M",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "scale_400_400/B4EZkz5v_OKkAk-/0/1757512401813?e=1796860800&v=beta&t=256NLRwUWp9rfdTeFZBEE69RDfMtGAAnpAJ0sasZhoU",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFm8U1C-KOoGg/profile-displayphoto-",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View David Stephen Patterson’s  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": "   • 3rd+",
+     "attributesV2": [
+      {
+       "start": 1,
+       "length": 1,
+       "detailData": {
+        "systemImage": "LOGOS_BUGS_LINKEDIN_BUG_PREMIUM_V2_XXSMALL"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Premium • 3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "Recruiting veteran. Marketing obsessive. I install the machine that ends feast-and-famine. | The Digital Headhunter",
+     "accessibilityText": "Recruiting veteran. Marketing obsessive. I install the machine that ends feast-and-famine. | The Digital Headhunter",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:6062140",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAAABcgDwBRAFuffYSb7tJ-3LsGITtykN95w8",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "subDescriptionButton": {
+     "navigationContext": {
+      "actionTarget": "https://realdsp.me/build",
+      "urlViewingBehavior": "DEFAULT",
+      "trackingActionType": "viewPremiumLink",
+      "accessibilityText": "Visit my website",
+      "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+     },
+     "text": "Visit my website",
+     "$type": "com.linkedin.voyager.dash.feed.component.button.ButtonComponent"
+    },
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "David Stephen Patterson",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 23,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAABcgDwBRAFuffYSb7tJ-3LsGITtykN95w8"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 23,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAABcgDwBRAFuffYSb7tJ-3LsGITtykN95w8"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "David Stephen Patterson",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "1d •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "1 day ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/dspatterson?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAABcgDwBRAFuffYSb7tJ-3LsGITtykN95w8",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View David Stephen Patterson’s profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7528492546155515904,urn:li:ugcPost:7528492546155515904,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Outlook went down for 12 hours.\n\nThe FAA grounded every departing flight in the country.\n\nA bomb squad defused a device at an ethanol plant in Peoria.\n\nChase, Wells Fargo and Bank of America customers couldn’t see their balances.\n\nAnd somewhere in all that, you’re supposed to fill a search with a smile on your face.\n\nThis week’s Recruiting Contrarian: The World Lost Its Mind. Your Desk Doesn’t Have To.\n\nRead it here 👇",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7527008663375421441",
+    "shareUrn": "urn:li:ugcPost:7524627306473066496",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/chuckgallagher_amlcompliance-businessethics-complianceleadership-activity-7527008663375421441-bgEG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "articleComponent": {
+     "headlineBackgroundColor": "DEFAULT",
+     "largeImage": {
+      "attributes": [
+       {
+        "scalingType": "ASPECT_FILL",
+        "detailData": {
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4E12AQECjve_p1AB9g",
+          "artifacts": [
+           {
+            "width": 1066,
+            "fileIdentifyingUrlPathSegment": "600_2000/B4EaGzWXaUHAAM-/0/1794010349863?e=1796860800&v=beta&t=jgjO7AQ45FKdwRLBbcdqGVZ3kQb-A13m_Zg_6qhU6NM",
+            "expiresAt": 1796860800000,
+            "height": 600,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 319,
+            "fileIdentifyingUrlPathSegment": "180_320/B4EaGzWXaUHAAU-/0/1794010349864?e=1796860800&v=beta&t=4qi_6hkTMgKgzgvR6194nF9aWNGoGxtD_ivgQYrLlKk",
+            "expiresAt": 1796860800000,
+            "height": 180,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 751,
+            "fileIdentifyingUrlPathSegment": "423_752/B4EaGzWXaUHAAY-/0/1794010349863?e=1796860800&v=beta&t=W3kxoitFjNyCiTABFT43KRNChlS3xOZ5WD6ZynY2Mf4",
+            "expiresAt": 1796860800000,
+            "height": 423,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 1279,
+            "fileIdentifyingUrlPathSegment": "720_1280/B4EaGzWXaUHAAQ-/0/1794010349864?e=1796860800&v=beta&t=HRYpEJSvydkiZv8RQJFDTtnCZfhnIUULKs6EVPnaXHE",
+            "expiresAt": 1796860800000,
+            "height": 720,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4E12AQECjve_p1AB9g/article-cover_image-shrink_",
+          "$type": "com.linkedin.common.VectorImage"
+         }
+        },
+        "displayAspectRatio": 0.5625,
+        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+       }
+      ],
+      "editableAccessibilityText": false,
+      "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+     },
+     "description": {
+      "textDirection": "FIRST_STRONG",
+      "text": "TL;DR: Chuck Gallagher, business ethics keynote speaker, argues that Bank of America's $1.2 billion anti-money laundering penalty proves the costliest",
+      "accessibilityText": "TL;DR: Chuck Gallagher, business ethics keynote speaker, argues that Bank of America's $1.2 billion anti-money laundering penalty proves the costliest",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "type": "FIRST_PARTY",
+     "title": {
+      "textDirection": "FIRST_STRONG",
+      "text": "Bank of America's $1.2B AML Fine: 5 Signs of Real Compliance",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "articleUrn": "urn:li:linkedInArticle:7524624339464290305",
+     "swapTitleAndSubtitle": false,
+     "showChevron": false,
+     "showSmallTitle": false,
+     "$type": "com.linkedin.voyager.dash.feed.component.article.ArticleComponent",
+     "subtitle": {
+      "textDirection": "USER_LOCALE",
+      "text": "Chuck Gallagher, CSP",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "navigationContext": {
+      "actionTarget": "https://www.linkedin.com/pulse/bank-americas-12b-aml-fine-5-signs-real-compliance-gallagher-csp-rjwue?trackingId=m1I%2FA1LOQhyV3Rl6if3oqw%3D%3D",
+      "urlViewingBehavior": "DEFAULT",
+      "trackingActionType": "viewLink",
+      "accessibilityText": "Open article: Bank of America's $1.2B AML Fine: 5 Signs of Real Compliance by Chuck Gallagher, CSP • 7 min read",
+      "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+     }
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7527008663375421441,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAAACLwJ8BV8J4iTd1_HeYWv-9pung-dbonYI",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:C4E03AQF3724RCgL4aQ",
+          "artifacts": [
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1516286238881?e=1796860800&v=beta&t=FzBb5IPSf8lE95bsfQvcwjjOQy5K6tYfRPjbV0jSZu4",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1516286238337?e=1796860800&v=beta&t=g-TQUiN9A-ukNhGxwnVyiqZoio7HGH-c5NWJIgsWC68",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 331,
+            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1516286238474?e=1796860800&v=beta&t=urFNmVdk-7TB_jsK4QxBbTYUxvPW-okUdIINHTfQMcg",
+            "expiresAt": 1796860800000,
+            "height": 331,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 331,
+            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1516286238836?e=1796860800&v=beta&t=1gz5kn_E9hUPUxIRmfgo3mHf4SZQfRtFccjScBpfUZA",
+            "expiresAt": 1796860800000,
+            "height": 331,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF3724RCgL4aQ/profile-displayphoto-shrink_",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Chuck Gallagher, CSP’s  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": "   • 3rd+",
+     "attributesV2": [
+      {
+       "start": 1,
+       "length": 1,
+       "detailData": {
+        "systemImage": "LOGOS_BUGS_LINKEDIN_BUG_PREMIUM_V2_XXSMALL"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Premium • 3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "Ethics and AI keynote speaker | Author | Primeau Productions | Virtual Training Associates | President Sports Ethics | VP American Funeral Financial",
+     "accessibilityText": "Ethics and AI keynote speaker | Author | Primeau Productions | Virtual Training Associates | President Sports Ethics | VP American Funeral Financial",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:9158815",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAAACLwJ8BV8J4iTd1_HeYWv-9pung-dbonYI",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "subDescriptionButton": {
+     "navigationContext": {
+      "actionTarget": "https://chuckgallagher.com",
+      "urlViewingBehavior": "DEFAULT",
+      "trackingActionType": "viewPremiumLink",
+      "accessibilityText": "Visit my website",
+      "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+     },
+     "text": "Visit my website",
+     "$type": "com.linkedin.voyager.dash.feed.component.button.ButtonComponent"
+    },
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Chuck Gallagher, CSP",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 20,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAACLwJ8BV8J4iTd1_HeYWv-9pung-dbonYI"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 20,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAACLwJ8BV8J4iTd1_HeYWv-9pung-dbonYI"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Chuck Gallagher, CSP",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "5d •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "5 days ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/chuckgallagher?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAACLwJ8BV8J4iTd1_HeYWv-9pung-dbonYI",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View Chuck Gallagher, CSP’s profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7524627306473066496,urn:li:ugcPost:7524627306473066496,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Bank of America's $1.2 billion penalty sends a powerful message to every organization: Ignoring a known compliance problem doesn't make it go away.\n\nThe biggest compliance failures often aren't the ones nobody saw coming. They're the ones someone identified, reported, and chose not to fix.\n\nIn my latest article, I explore five signs of an effective anti-money laundering compliance program and why real compliance requires more than policies, paperwork, and technology. It requires leadership, accountability, and a culture where people take red flags seriously.\n\nCompliance isn't about having rules. It's about making sure people follow them.\n\n#AMLCompliance #BusinessEthics #ComplianceLeadership #EthicalLeadership #ChuckGallagher",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7527064226281021440",
+    "shareUrn": "urn:li:share:7527064225685590016",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/nitendrapratapsingh_hiring-bankofamerica-teamleader-activity-7527064226281021440-7VZx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "entityComponent": {
+     "ctaButton": {
+      "navigationContext": {
+       "actionTarget": "https://www.linkedin.com/jobs/view/4490760363/?refId=oLj1KPXBSmS18jY0DkWOkA%3D%3D&trackingId=oLj1KPXBSmS18jY0DkWOkA%3D%3D",
+       "urlViewingBehavior": "DEFAULT",
+       "trackingActionType": "viewJob",
+       "accessibilityText": "View job",
+       "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+      },
+      "text": "View job",
+      "$type": "com.linkedin.voyager.dash.feed.component.button.ButtonComponent"
+     },
+     "image": {
+      "attributes": [
+       {
+        "detailData": {
+         "nonEntityCompanyLogo": {
+          "*company": "urn:li:fsd_company:1123",
+          "vectorImage": {
+           "digitalmediaAsset": "urn:li:digitalmediaAsset:C4D0BAQEL1rI2h3XGxg",
+           "artifacts": [
+            {
+             "width": 200,
+             "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1676325271208/bank_of_america_logo?e=1796860800&v=beta&t=8KAeqP-YYaGJK8D67HFNwEkFk4fy4g_54veZx5bG7Z8",
+             "expiresAt": 1796860800000,
+             "height": 200,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 100,
+             "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1676325271208/bank_of_america_logo?e=1796860800&v=beta&t=stMya8BO0r3f_pMB5_WKu_9RB47ixkFOUqo-aBToOR4",
+             "expiresAt": 1796860800000,
+             "height": 100,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 400,
+             "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1676325271208/bank_of_america_logo?e=1796860800&v=beta&t=GNc9wobT9nkegk5BdCqbQwJdP4pA6zRpcPYdfWtJpfU",
+             "expiresAt": 1796860800000,
+             "height": 400,
+             "$type": "com.linkedin.common.VectorArtifact"
+            }
+           ],
+           "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEL1rI2h3XGxg/company-logo_",
+           "$type": "com.linkedin.common.VectorImage"
+          },
+          "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+         }
+        },
+        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+       }
+      ],
+      "editableAccessibilityText": false,
+      "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+     },
+     "description": {
+      "textDirection": "USER_LOCALE",
+      "text": "Gurugram, Haryana, India",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "title": {
+      "textDirection": "FIRST_STRONG",
+      "text": "Team Leader  ",
+      "attributesV2": [
+       {
+        "start": 12,
+        "length": 1,
+        "detailData": {
+         "systemImage": "SYS_ICN_VERIFIED_SMALL"
+        },
+        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+       }
+      ],
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "$type": "com.linkedin.voyager.dash.feed.component.entity.EntityComponent",
+     "subtitle": {
+      "textDirection": "USER_LOCALE",
+      "text": "Job by Bank of America",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "navigationContext": {
+      "actionTarget": "https://www.linkedin.com/jobs/view/4490760363/?refId=oLj1KPXBSmS18jY0DkWOkA%3D%3D&trackingId=oLj1KPXBSmS18jY0DkWOkA%3D%3D",
+      "urlViewingBehavior": "DEFAULT",
+      "trackingActionType": "viewJob",
+      "accessibilityText": "View job",
+      "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+     }
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7527064226281021440,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAABu10M0B24XKsLMs91nf0AcO1nzbRdBPU6M",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D5603AQHWA2Kk3gKz4g",
+          "c2paManifestData": {
+           "isAiGenerated": true,
+           "signature": {
+            "credentialIssuer": "OpenAI OpCo, LLC",
+            "credentialIssuedAt": 1786661210697,
+            "issuedAt": 1776873065000,
+            "issuer": "SSL.com C2PA ICA R1 2025",
+            "expiresAt": 1808495464000,
+            "signer": "OpenAI OpCo, LLC",
+            "$type": "pegasus.com.linkedin.mediaInfra.C2paSignature"
+           },
+           "isValid": true,
+           "aiUsageType": "GENERATED_ALL",
+           "appOrDeviceUsed": "OpenAI Media Service API",
+           "$type": "pegasus.com.linkedin.mediaInfra.C2paManifestData"
+          },
+          "artifacts": [
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "scale_100_100/B56aAHKT97KEAY-/0/1786826541195?e=1796860800&v=beta&t=uE5VnEsIz7qGBW7TX-ZIMTVazvToSN-2M9FEOoJ5KEg",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "crop_800_800/B56aAHKT97KEAI-/0/1786826541195?e=1796860800&v=beta&t=Nu0AVd3zgQi9PZ-LU1yFXHgWuPlCYSS16x3xYSVEcJY",
+            "expiresAt": 1796860800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "scale_200_200/B56aAHKT97KEAc-/0/1786826541195?e=1796860800&v=beta&t=m58YD3t6qI5zmLxHTm_iXX_02p8smWvJA1ArnbhHkUo",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "scale_400_400/B56aAHKT97KEAg-/0/1786826541195?e=1796860800&v=beta&t=0mW5KS--qd8djjmslD1HEMk5eKv3su5yyU8veebwMno",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHWA2Kk3gKz4g/profile-displayphoto-",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Nitendra Pratap Singh’s  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": "   • 3rd+",
+     "attributesV2": [
+      {
+       "start": 1,
+       "length": 1,
+       "detailData": {
+        "systemImage": "SYS_ICN_VERIFIED_SMALL"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Verified • 3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "Senior KYC & Onboarding Analyst at Saxo Group - India | AML/KYC | Regulatory Compliance | Sanctions Screening | PEP Screening | Risk Assessment | Client Due Diligence | Global Onboarding | FATCA/CRS | 6 Years Experience",
+     "accessibilityText": "Senior KYC & Onboarding Analyst at Saxo Group - India | AML/KYC | Regulatory Compliance | Sanctions Screening | PEP Screening | Risk Assessment | Client Due Diligence | Global Onboarding | FATCA/CRS | 6 Years Experience",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:464900301",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAABu10M0B24XKsLMs91nf0AcO1nzbRdBPU6M",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Nitendra Pratap Singh",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 21,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAABu10M0B24XKsLMs91nf0AcO1nzbRdBPU6M"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 21,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAABu10M0B24XKsLMs91nf0AcO1nzbRdBPU6M"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Nitendra Pratap Singh",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "5d •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "5 days ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/nitendrapratapsingh?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABu10M0B24XKsLMs91nf0AcO1nzbRdBPU6M",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View Nitendra Pratap Singh’s profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7527064226281021440,urn:li:activity:7527064226281021440,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "🚨 HIRING ALERT | BANK OF AMERICA\n\nBank of America is hiring for its leadership team!\n\n📌 Job Title: Team Leader\n🏢 Company: Bank of America\n📍 Location: Gurugram, Haryana\n💼 Employment Type: Full-time\n\n🔍 Relevant Areas: Team Management | Banking Operations | Process Management | Performance Monitoring | Quality Assurance | Stakeholder Management | Operational Excellence | Risk & Controls\n\n📩 Interested candidates can apply directly through LinkedIn.\n\n🤝 Know someone who could be a great fit? Share this opportunity with your network!\n\n#Hiring #BankOfAmerica #TeamLeader #BankingJobs #FinancialServices #OperationsManagement #TeamManagement #GurugramJobs #JobOpportunities",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7521566724303978496",
+    "shareUrn": "urn:li:ugcPost:7521566723708436480",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/sankalp-sinha-law_aml-kyc-financialcrimecompliance-activity-7521566724303978496-XW_Y?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "articleComponent": {
+     "headlineBackgroundColor": "DEFAULT",
+     "largeImage": {
+      "attributes": [
+       {
+        "scalingType": "ASPECT_FILL",
+        "detailData": {
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D12AQGJEpOhti2CtA",
+          "artifacts": [
+           {
+            "width": 752,
+            "fileIdentifyingUrlPathSegment": "423_752/B4DaG06xxsJMAc-/0/1794036675531?e=1796860800&v=beta&t=2FTJa-pn9QOC6Gr2X6iH_jqN_2tXiVWSfFvRj69gWrk",
+            "expiresAt": 1796860800000,
+            "height": 422,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 1280,
+            "fileIdentifyingUrlPathSegment": "720_1280/B4DaG06xxsJMAU-/0/1794036675531?e=1796860800&v=beta&t=4r9lamBF0fy4cQPMJhKS785FiY1qa--dX0PfUlvxBS4",
+            "expiresAt": 1796860800000,
+            "height": 719,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 1067,
+            "fileIdentifyingUrlPathSegment": "600_2000/B4DaG06xxsJMAQ-/0/1794036675531?e=1796860800&v=beta&t=m-KZf2XNHJM7_lA0gRAZOOji5ifLEVLGRKQvbDGTswo",
+            "expiresAt": 1796860800000,
+            "height": 600,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 320,
+            "fileIdentifyingUrlPathSegment": "180_320/B4DaG06xxsJMAY-/0/1794036675531?e=1796860800&v=beta&t=-hOaduF1O-pu9YaT2ND86nJ5PtRrLDwgNKaAXH2hDRE",
+            "expiresAt": 1796860800000,
+            "height": 179,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4D12AQGJEpOhti2CtA/article-cover_image-shrink_",
+          "$type": "com.linkedin.common.VectorImage"
+         }
+        },
+        "displayAspectRatio": 0.5625,
+        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+       }
+      ],
+      "editableAccessibilityText": false,
+      "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+     },
+     "description": {
+      "textDirection": "FIRST_STRONG",
+      "text": "This is the first part of a series where I study real AML/KYC enforcement cases and ask what separates a compliance programme that exists on paper fro",
+      "accessibilityText": "This is the first part of a series where I study real AML/KYC enforcement cases and ask what separates a compliance programme that exists on paper fro",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "type": "FIRST_PARTY",
+     "title": {
+      "textDirection": "FIRST_STRONG",
+      "text": "When AML Controls Fail: Lessons from Bank of America's $1.2 Billion Penalty",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "articleUrn": "urn:li:linkedInArticle:7521559289027751938",
+     "swapTitleAndSubtitle": false,
+     "showChevron": false,
+     "showSmallTitle": false,
+     "$type": "com.linkedin.voyager.dash.feed.component.article.ArticleComponent",
+     "subtitle": {
+      "textDirection": "USER_LOCALE",
+      "text": "Sankalp Sinha",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "navigationContext": {
+      "actionTarget": "https://www.linkedin.com/pulse/when-aml-controls-fail-lessons-from-bank-americas-12-billion-sinha-myk4f?trackingId=I27%2F%2BPtwSFSSh19Ae%2BeZEg%3D%3D",
+      "urlViewingBehavior": "DEFAULT",
+      "trackingActionType": "viewLink",
+      "accessibilityText": "Open article: When AML Controls Fail: Lessons from Bank of America's $1.2 Billion Penalty by Sankalp Sinha • 3 min read",
+      "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+     }
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7521566724303978496,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAADdXPJkBuG6XLQ-n2RPecUBZ0nGccWAOZXs",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D5603AQHYQoPRah_ipw",
+          "artifacts": [
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "scale_200_200/B56aFT9.HRGkAc-/0/1792410119251?e=1796860800&v=beta&t=3gWMzVhiDKBC8OHAyRbi1WSGraeKd9WDL-q6E2twoQ8",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "scale_100_100/B56aFT9.HRGkAY-/0/1792410119251?e=1796860800&v=beta&t=0JEOBmi0lmMVOxBFWoMdwBnSTVKs075AZYNr1aQu2_Y",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "crop_800_800/B56aFT9.HRGkAI-/0/1792410119251?e=1796860800&v=beta&t=iYF6Yn0e00Z0-5YGSTNqrpnYM3Af9w39lox4C3mXJa0",
+            "expiresAt": 1796860800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "scale_400_400/B56aFT9.HRGkAg-/0/1792410119251?e=1796860800&v=beta&t=NVNQL7yDWiSW6TeIP-Pz2Xu0qG9apwk-_GoTUNyXi0w",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHYQoPRah_ipw/profile-displayphoto-",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Sankalp Sinha’s  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": "   • 3rd+",
+     "attributesV2": [
+      {
+       "start": 1,
+       "length": 1,
+       "detailData": {
+        "systemImage": "SYS_ICN_VERIFIED_SMALL"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Verified • 3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "Law Graduate (B.A., LL.B. Hons.) | AML/KYC & Regulatory Compliance | PMLA, SEBI, FEMA, IFSCA | Seeking Compliance Roles",
+     "accessibilityText": "Law Graduate (B.A., LL.B. Hons.) | AML/KYC & Regulatory Compliance | PMLA, SEBI, FEMA, IFSCA | Seeking Compliance Roles",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:928464025",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAADdXPJkBuG6XLQ-n2RPecUBZ0nGccWAOZXs",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Sankalp Sinha",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 13,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAADdXPJkBuG6XLQ-n2RPecUBZ0nGccWAOZXs"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 13,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAADdXPJkBuG6XLQ-n2RPecUBZ0nGccWAOZXs"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Sankalp Sinha",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "3w • Edited •   ",
+     "attributesV2": [
+      {
+       "start": 14,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "3 weeks ago • Edited • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/sankalp-sinha-law?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADdXPJkBuG6XLQ-n2RPecUBZ0nGccWAOZXs",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View Sankalp Sinha’s profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7521566723708436480,urn:li:ugcPost:7521566723708436480,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Bank of America knew for years that its monitoring wasn’t escalating potentially suspicious activity to investigators. Almost two years after signing an OCC order to fix it, regulators say the problems persisted.\nThe result: a penalty of more than $1.21 billion, and over $5 billion in suspicious transactions reported late to FinCEN.\nIn Part 1 of my series Beyond the Checklist, I break down three lessons from the case:\n  1. A monitoring system is only as good as the controls behind it\n  2. Customer due diligence doesn’t end at onboarding\n  3. Spotting suspicious activity is only half the job\nI’m early in my AML/KYC journey, so I’d value your perspective. For those working in this field: when a control weakness is known, what makes it get fixed rather than documented?\n\n#AML #KYC #FinancialCrimeCompliance #TransactionMonitoring #RegulatoryCompliance",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7523306187291783168",
+    "shareUrn": "urn:li:ugcPost:7523306185475858433",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/hiral-sarkar_aiagents-aiinfinance-aigovernance-activity-7523306187291783168-ETGo?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "pollComponent": {
+     "question": {
+      "textDirection": "USER_LOCALE",
+      "text": "👇 Quick poll, be honest: Would you let an AI agent manage your money?",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "visibilityInfo": {
+      "textDirection": "USER_LOCALE",
+      "text": "The author can see how you vote. Learn more",
+      "attributesV2": [
+       {
+        "start": 33,
+        "length": 10,
+        "detailData": {
+         "hyperlink": "https://www.linkedin.com/help/linkedin/answer/119171?lang=en"
+        },
+        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+       }
+      ],
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "$type": "com.linkedin.voyager.dash.feed.component.polls.PollComponent",
+     "creatorView": false,
+     "*pollSummary": "urn:li:fsd_pollSummary:7523306183688941569",
+     "showPollSummaryInfo": true,
+     "pollOptions": [
+      {
+       "preDashPollOptionUrn": "urn:li:fs_pollOption:urn:li:pollOption:(urn:li:poll:7523306183688941569,7523306183944773632)",
+       "pollOptionUrn": "urn:li:fsu_pollOption:urn:li:pollOption:(urn:li:poll:7523306183688941569,7523306183944773632)",
+       "option": {
+        "textDirection": "USER_LOCALE",
+        "text": "Yes, the robot can handle it🤖",
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+       },
+       "$type": "com.linkedin.voyager.dash.feed.component.polls.PollOption"
+      },
+      {
+       "preDashPollOptionUrn": "urn:li:fs_pollOption:urn:li:pollOption:(urn:li:poll:7523306183688941569,7523306183940595713)",
+       "pollOptionUrn": "urn:li:fsu_pollOption:urn:li:pollOption:(urn:li:poll:7523306183688941569,7523306183940595713)",
+       "option": {
+        "textDirection": "USER_LOCALE",
+        "text": "Read-only. look, dont touch👀",
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+       },
+       "$type": "com.linkedin.voyager.dash.feed.component.polls.PollOption"
+      },
+      {
+       "preDashPollOptionUrn": "urn:li:fs_pollOption:urn:li:pollOption:(urn:li:poll:7523306183688941569,7523306183940648960)",
+       "pollOptionUrn": "urn:li:fsu_pollOption:urn:li:pollOption:(urn:li:poll:7523306183688941569,7523306183940648960)",
+       "option": {
+        "textDirection": "USER_LOCALE",
+        "text": "Only with my approval ✋",
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+       },
+       "$type": "com.linkedin.voyager.dash.feed.component.polls.PollOption"
+      },
+      {
+       "preDashPollOptionUrn": "urn:li:fs_pollOption:urn:li:pollOption:(urn:li:poll:7523306183688941569,7523306183940743168)",
+       "pollOptionUrn": "urn:li:fsu_pollOption:urn:li:pollOption:(urn:li:poll:7523306183688941569,7523306183940743168)",
+       "option": {
+        "textDirection": "USER_LOCALE",
+        "text": "Absolutely not. 🙅",
+        "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+       },
+       "$type": "com.linkedin.voyager.dash.feed.component.polls.PollOption"
+      }
+     ],
+     "multiSelect": false
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7523306187291783168,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAACLuaGsBGbDxJnT2eqyEOHWlo2_riKUYxEg",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:C4E03AQFiDe7HJRnS_A",
+          "artifacts": [
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1607012696704?e=1796860800&v=beta&t=J_pVvi33gzVxQhuAvgRSoe5iFuvdBWifJDSFgRimA_A",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1607012696704?e=1796860800&v=beta&t=esdQtQ03qGem8XuwlNmv2xbfRe9BuQVcIbJ5__QYJSA",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1607012696704?e=1796860800&v=beta&t=l5Bn1opn6RHDImjCp_Xe7A_vFfIgCmP3EX6fQwc-ots",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 683,
+            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1607012696704?e=1796860800&v=beta&t=7Vv5ewZoKHGGi-0W2KVGzu0XnGzD1s_YxkI6RquvSnc",
+            "expiresAt": 1796860800000,
+            "height": 683,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFiDe7HJRnS_A/profile-displayphoto-shrink_",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Hiral Sarkar’s  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": "   • 3rd+",
+     "attributesV2": [
+      {
+       "start": 1,
+       "length": 1,
+       "detailData": {
+        "systemImage": "SYS_ICN_VERIFIED_SMALL"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Verified • 3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "AI Analyst | Agentic AI | GenAI & RAG | Data Science & Machine Learning | Wealth Management | Risk & Fraud Analytics | MSc Global Financial Markets | PG Data Science & AI",
+     "accessibilityText": "AI Analyst | Agentic AI | GenAI & RAG | Data Science & Machine Learning | Wealth Management | Risk & Fraud Analytics | MSc Global Financial Markets | PG Data Science & AI",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:586049643",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAACLuaGsBGbDxJnT2eqyEOHWlo2_riKUYxEg",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Hiral Sarkar",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 12,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAACLuaGsBGbDxJnT2eqyEOHWlo2_riKUYxEg"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 12,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAACLuaGsBGbDxJnT2eqyEOHWlo2_riKUYxEg"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Hiral Sarkar",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "2w •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "2 weeks ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/hiral-sarkar?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACLuaGsBGbDxJnT2eqyEOHWlo2_riKUYxEg",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View Hiral Sarkar’s profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7523306185475858433,urn:li:ugcPost:7523306185475858433,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Would you hand your house keys to a stranger who promised to “just tidy up”? 🔑\nNo? Then here’s a plot twist:\nSome people are doing exactly that… with their bank accounts. 😅\n\nBig U.S. banks recently noticed something unusual inside customer accounts. \nNot hackers. Not fraudsters.\nAI assistants. \nLogging in with the customer’s own username and password.\n\nBank of America even emailed customers with a polite but firm message: please don’t share your banking password with your AI agent. And if you do, you’re responsible for what it does.\n\nSo let’s simplify today’s concept: AI Agents 🤖\n\nThink of AI in two flavours:\n💬 The Chatbot = a very smart friend on the phone.\nIt can tell you which bill to pay. But you still pay it.\n🦾 The Agent = a friend with your keys.\nIt doesn’t just advise. It acts: logs in, clicks buttons, moves money.\n\nThat’s a huge leap. Because when an agent acts, three awkward questions pop up:\n1️⃣ Who is actually logged in? Some banks can’t easily tell you apart from your AI.\n2️⃣ Who said yes? Did you approve that transfer, or did your agent “assume”?\n3️⃣ Who pays if it goes wrong? (Spoiler: right now, often you.)\n\nSo how are banks responding?\n\nJPMorgan, Citi, Bank of America and Schwab have all drawn a similar line:\n👀 AI agents can look (check balances, read statements)\n🚫 AI agents can’t move money\n\nSchwab says it’s blocking unauthorised agents more than ten times a week. Jamie Dimon summed up the worry neatly: you don’t want rogue agents, and there could be thousands of them.\n\nMy favourite way to picture the banks’ approach is the valet key 🚗\nIt starts the car and parks it. But it can’t open the glovebox or the boot.\nLimited access. Clear boundaries. A human still holds the master key.\n\nThe lesson for all of us:\nAI agents are coming to finance. That’s not the debate anymore.\nThe real question is: how much of the key do we hand over, and to whom?\n\nDrop your comments on which AI concept I should untangle next!\n\n\n#AIAgents #AIinFinance #AIGovernance #FinTech #ResponsibleAI #Banking",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 78,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 280,
+       "length": 14,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 575,
+       "length": 9,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 619,
+       "length": 11,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 726,
+       "length": 9,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 919,
+       "length": 26,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1003,
+       "length": 13,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1080,
+       "length": 26,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1261,
+       "length": 4,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1318,
+       "length": 10,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1567,
+       "length": 9,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1726,
+       "length": 25,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7527988676832686081",
+    "shareUrn": "urn:li:share:7527988676056915968",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/saurabh-yadav-0895b2272_great-leadership-opportunity-in-accounting-activity-7527988676832686081-QPCw?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "entityComponent": {
+     "ctaButton": {
+      "navigationContext": {
+       "actionTarget": "https://www.linkedin.com/jobs/view/4475048088/?refId=X1D7L73yQCW81%2F%2FG7ZFEXw%3D%3D&trackingId=X1D7L73yQCW81%2F%2FG7ZFEXw%3D%3D",
+       "urlViewingBehavior": "DEFAULT",
+       "trackingActionType": "viewJob",
+       "accessibilityText": "View job",
+       "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+      },
+      "text": "View job",
+      "$type": "com.linkedin.voyager.dash.feed.component.button.ButtonComponent"
+     },
+     "image": {
+      "attributes": [
+       {
+        "detailData": {
+         "nonEntityCompanyLogo": {
+          "*company": "urn:li:fsd_company:1123",
+          "vectorImage": {
+           "digitalmediaAsset": "urn:li:digitalmediaAsset:C4D0BAQEL1rI2h3XGxg",
+           "artifacts": [
+            {
+             "width": 200,
+             "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1676325271208/bank_of_america_logo?e=1796860800&v=beta&t=8KAeqP-YYaGJK8D67HFNwEkFk4fy4g_54veZx5bG7Z8",
+             "expiresAt": 1796860800000,
+             "height": 200,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 100,
+             "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1676325271208/bank_of_america_logo?e=1796860800&v=beta&t=stMya8BO0r3f_pMB5_WKu_9RB47ixkFOUqo-aBToOR4",
+             "expiresAt": 1796860800000,
+             "height": 100,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 400,
+             "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1676325271208/bank_of_america_logo?e=1796860800&v=beta&t=GNc9wobT9nkegk5BdCqbQwJdP4pA6zRpcPYdfWtJpfU",
+             "expiresAt": 1796860800000,
+             "height": 400,
+             "$type": "com.linkedin.common.VectorArtifact"
+            }
+           ],
+           "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEL1rI2h3XGxg/company-logo_",
+           "$type": "com.linkedin.common.VectorImage"
+          },
+          "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+         }
+        },
+        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+       }
+      ],
+      "editableAccessibilityText": false,
+      "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+     },
+     "description": {
+      "textDirection": "USER_LOCALE",
+      "text": "Mumbai Metropolitan Region",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "title": {
+      "textDirection": "FIRST_STRONG",
+      "text": "Senior Manager  ",
+      "attributesV2": [
+       {
+        "start": 15,
+        "length": 1,
+        "detailData": {
+         "systemImage": "SYS_ICN_VERIFIED_SMALL"
+        },
+        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+       }
+      ],
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "$type": "com.linkedin.voyager.dash.feed.component.entity.EntityComponent",
+     "subtitle": {
+      "textDirection": "USER_LOCALE",
+      "text": "Job by Bank of America",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "navigationContext": {
+      "actionTarget": "https://www.linkedin.com/jobs/view/4475048088/?refId=X1D7L73yQCW81%2F%2FG7ZFEXw%3D%3D&trackingId=X1D7L73yQCW81%2F%2FG7ZFEXw%3D%3D",
+      "urlViewingBehavior": "DEFAULT",
+      "trackingActionType": "viewJob",
+      "accessibilityText": "View job",
+      "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+     }
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7527988676832686081,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAAEKm5OkBIUS7hWmIzK3e68LcfTETFpPBDuA",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D03AQGpNih374iDeg",
+          "c2paManifestData": {
+           "isAiGenerated": true,
+           "signature": {
+            "credentialIssuer": "OpenAI OpCo, LLC",
+            "credentialIssuedAt": 1791105132043,
+            "issuedAt": 1774234382000,
+            "issuer": "Trufo C2PA Claim Signing CA (2025)",
+            "expiresAt": 1805856782000,
+            "signer": "OpenAI OpCo, LLC",
+            "$type": "pegasus.com.linkedin.mediaInfra.C2paSignature"
+           },
+           "isValid": true,
+           "aiUsageType": "GENERATED_ALL",
+           "appOrDeviceUsed": "OpenAI Media Service API",
+           "$type": "pegasus.com.linkedin.mediaInfra.C2paManifestData"
+          },
+          "artifacts": [
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "scale_400_400/B4DaEGMXBUJkAg-/0/1791105267330?e=1796860800&v=beta&t=AT8iY10eYGb1R9FmX_Ah3c8_h8KCpgB0DygwD2ELzXc",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "scale_100_100/B4DaEGMXBUJkAY-/0/1791105267330?e=1796860800&v=beta&t=O2IVxYEkdM6dOeq1d-iad-5v31ztum5agCb3cOmlIdk",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "crop_800_800/B4DaEGMXBUJkAI-/0/1791105267330?e=1796860800&v=beta&t=zIAlStS4DG-f3nKUTurHSURUrpy5TZ2Ynd4CKf_Gis4",
+            "expiresAt": 1796860800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "scale_200_200/B4DaEGMXBUJkAc-/0/1791105267330?e=1796860800&v=beta&t=iJIehmz5ZT6q2zkSJEtk2b1vEVE0lGuWVnhGm8Gk2q4",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGpNih374iDeg/profile-displayphoto-",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Saurabh Yadav’s  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": "   • 3rd+",
+     "attributesV2": [
+      {
+       "start": 1,
+       "length": 1,
+       "detailData": {
+        "systemImage": "SYS_ICN_VERIFIED_SMALL"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Verified • 3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "Global Travel & Expense Professional | Concur Administrator |AP & T&E Transformation | 8.5+ Years |Global Operations | Ex-Bank of America • Ex-Bosch. Colgate-Palmolive|MBA-HR| 9.9K+Followers |1 Million+ Impressions",
+     "accessibilityText": "Global Travel & Expense Professional | Concur Administrator |AP & T&E Transformation | 8.5+ Years |Global Operations | Ex-Bank of America • Ex-Bosch. Colgate-Palmolive|MBA-HR| 9.9K+Followers |1 Million+ Impressions",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:1118233833",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAAEKm5OkBIUS7hWmIzK3e68LcfTETFpPBDuA",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Saurabh Yadav",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 13,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAEKm5OkBIUS7hWmIzK3e68LcfTETFpPBDuA"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 13,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAEKm5OkBIUS7hWmIzK3e68LcfTETFpPBDuA"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Saurabh Yadav",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "3d •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "3 days ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/saurabh-yadav-0895b2272?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEKm5OkBIUS7hWmIzK3e68LcfTETFpPBDuA",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View Saurabh Yadav’s profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7527988676832686081,urn:li:activity:7527988676832686081,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Great Leadership opportunity in Accounting and Reporting in Bank of America.\n\n\nI regularly share insights, opportunities and updates around Travel & Expense Management, SAP Concur, Leadership positions,Finance Operations and the evolving world of AI in Finance.\n\nIf these topics interest you, follow me for valuable industry insights, career opportunities and meaningful professional discussions.\n\nLet's connect, learn and grow together! 🤝",
+     "attributesV2": [
+      {
+       "start": 60,
+       "length": 15,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:1123"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7528482349140008960",
+    "shareUrn": "urn:li:ugcPost:7528482348200448000",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/sharon-miller-6b56524b_our-2026-bank-of-america-business-owner-report-activity-7528482349140008960-xPmb?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "articleComponent": {
+     "headlineBackgroundColor": "DEFAULT",
+     "largeImage": {
+      "attributes": [
+       {
+        "scalingType": "ASPECT_FILL",
+        "detailData": {
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4E12AQHs-QAT1EBH6w",
+          "artifacts": [
+           {
+            "width": 320,
+            "fileIdentifyingUrlPathSegment": "180_320/B4EaHqJiBkHAAg-/0/1794929735164?e=1796860800&v=beta&t=AfmE4oeeYcENwfw7WspA3uojqF_DbmkTA8Hl_TpzfIk",
+            "expiresAt": 1796860800000,
+            "height": 180,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 1066,
+            "fileIdentifyingUrlPathSegment": "600_2000/B4EaHqJiBkHAAY-/0/1794929735164?e=1796860800&v=beta&t=wr5VS8yiPVOGE8maLFse2thE3wQsXcVr_lZcIwRccHE",
+            "expiresAt": 1796860800000,
+            "height": 600,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 751,
+            "fileIdentifyingUrlPathSegment": "423_752/B4EaHqJiBkHAAk-/0/1794929735164?e=1796860800&v=beta&t=dvgfqCHRIzwegk4DB-ovRn9X0MwgC43apEBOYgCHA84",
+            "expiresAt": 1796860800000,
+            "height": 423,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 1264,
+            "fileIdentifyingUrlPathSegment": "720_1280/B4EaHqJiBkHAAc-/0/1794929735164?e=1796860800&v=beta&t=_N4cAN_1CYCZR2EZer9Thgnc0g-5hWM8G70qYk9NDJ8",
+            "expiresAt": 1796860800000,
+            "height": 711,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4E12AQHs-QAT1EBH6w/article-cover_image-shrink_",
+          "$type": "com.linkedin.common.VectorImage"
+         }
+        },
+        "displayAspectRatio": 0.5625,
+        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+       }
+      ],
+      "editableAccessibilityText": false,
+      "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+     },
+     "description": {
+      "textDirection": "FIRST_STRONG",
+      "text": "From navigating rising costs to embracing new technology, business owners have plenty on their minds. Here's what we're hearing.Each year, we survey s",
+      "accessibilityText": "From navigating rising costs to embracing new technology, business owners have plenty on their minds. Here's what we're hearing.Each year, we survey s",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "type": "FIRST_PARTY",
+     "title": {
+      "textDirection": "FIRST_STRONG",
+      "text": "New Bank of America Report Finds Business Owners Optimistic About Growth",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "articleUrn": "urn:li:linkedInArticle:7528480970786848768",
+     "swapTitleAndSubtitle": false,
+     "showChevron": false,
+     "showSmallTitle": false,
+     "$type": "com.linkedin.voyager.dash.feed.component.article.ArticleComponent",
+     "subtitle": {
+      "textDirection": "USER_LOCALE",
+      "text": "Sharon Miller",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "navigationContext": {
+      "actionTarget": "https://www.linkedin.com/pulse/new-bank-america-report-finds-business-owners-growth-sharon-miller-0nzfe?trackingId=LceY%2BNAuQlquTMaZF45%2FGw%3D%3D",
+      "urlViewingBehavior": "DEFAULT",
+      "trackingActionType": "viewLink",
+      "accessibilityText": "Open article: New Bank of America Report Finds Business Owners Optimistic About Growth by Sharon Miller • 3 min read",
+      "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+     }
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7528482349140008960,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAAAqYnmkBFcbl_DxNZBR_ZrbLYtlXRq88GT4",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D5603AQFwV_O1jmt-3g",
+          "artifacts": [
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1701371415805?e=1796860800&v=beta&t=YoHtHT1OkE0VMsATsW-Wtr46SQxv3uEes8M87MxHCF8",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1701371415805?e=1796860800&v=beta&t=Boht3ZhkwV-BOQTTU-tqs6cJjqtdYWcS9LFLduBFvyI",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1701371415805?e=1796860800&v=beta&t=kbYntW9lnriLnsmJi7_hYqEIUP95_G-Y62-hQR-unp8",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1701371415805?e=1796860800&v=beta&t=y0Cq0OaB-qfxpUqlivncpmKdO4inBNZGCX3xbdj6x-0",
+            "expiresAt": 1796860800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQFwV_O1jmt-3g/profile-displayphoto-shrink_",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Sharon Miller’s  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": "   • 3rd+",
+     "attributesV2": [
+      {
+       "start": 1,
+       "length": 1,
+       "detailData": {
+        "icon": "IMG_INFLUENCER_BUG_COLOR_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Influencer • 3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "President, Business Banking at Bank of America",
+     "accessibilityText": "President, Business Banking at Bank of America",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:177774185",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAAAqYnmkBFcbl_DxNZBR_ZrbLYtlXRq88GT4",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Sharon Miller",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 13,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAAqYnmkBFcbl_DxNZBR_ZrbLYtlXRq88GT4"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 13,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAAqYnmkBFcbl_DxNZBR_ZrbLYtlXRq88GT4"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Sharon Miller",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "1d •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "1 day ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/sharon-miller-6b56524b?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAqYnmkBFcbl_DxNZBR_ZrbLYtlXRq88GT4",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedInfluencer",
+     "accessibilityText": "View Sharon Miller’s profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7528482348200448000,urn:li:ugcPost:7528482348200448000,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Our 2026 Bank of America Business Owner Report is here.\n \nEvery year, I look forward to hearing what's on the minds of small and mid-sized business owners. And this year's findings give us plenty to talk about, from how businesses are navigating rising costs and making hiring decisions to the growing role of AI in their day-to-day operations. \n\nIn my latest article, I share a few key takeaways and where you can explore the full report. Give it a read!",
+     "attributesV2": [
+      {
+       "start": 9,
+       "length": 15,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:1123"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7522930538379341825",
+    "shareUrn": "urn:li:ugcPost:7522930537574076416",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/sanju-vishwakarma-90901627a_bankofamerica-bankingjobs-financejobs-activity-7522930538379341825-gHgP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "articleComponent": {
+     "headlineBackgroundColor": "DEFAULT",
+     "largeImage": {
+      "attributes": [
+       {
+        "scalingType": "ASPECT_FILL",
+        "detailData": {
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D12AQHDpd7v_t2SVQ",
+          "artifacts": [
+           {
+            "width": 320,
+            "fileIdentifyingUrlPathSegment": "180_320/B4DaGbRaloLIAU-/0/1793606396469?e=1796860800&v=beta&t=RRyGgauB3-S7EJDENfTzh5xOXPyIejCNkZBJPuIIPDE",
+            "expiresAt": 1796860800000,
+            "height": 179,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 588,
+            "fileIdentifyingUrlPathSegment": "600_2000/B4DaGbRaloLIAM-/0/1793606396469?e=1796860800&v=beta&t=wfnU1IAfBDlABWUCVRT4bvDVTsINM1bioQx3jYb5Bqw",
+            "expiresAt": 1796860800000,
+            "height": 330,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 588,
+            "fileIdentifyingUrlPathSegment": "720_1280/B4DaGbRaloLIAQ-/0/1793606396469?e=1796860800&v=beta&t=TMPIwi8PC-ZT80y1fU6MJvB37NFvzNNHhRqTVt2zCTU",
+            "expiresAt": 1796860800000,
+            "height": 330,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 588,
+            "fileIdentifyingUrlPathSegment": "423_752/B4DaGbRaloLIAY-/0/1793606396469?e=1796860800&v=beta&t=y_sKr0DRi01DoJ-I_RhoW-Fcsv-0QyFGevx0CoEatCA",
+            "expiresAt": 1796860800000,
+            "height": 330,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4D12AQHDpd7v_t2SVQ/article-cover_image-shrink_",
+          "$type": "com.linkedin.common.VectorImage"
+         }
+        },
+        "displayAspectRatio": 0.5625,
+        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+       }
+      ],
+      "editableAccessibilityText": false,
+      "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+     },
+     "description": {
+      "textDirection": "FIRST_STRONG",
+      "text": "✨ 𝐘𝐎𝐔𝐑 𝐍𝐄𝐗𝐓 𝐂𝐀𝐑𝐄𝐄𝐑 𝐌𝐎𝐕𝐄 𝐒𝐓𝐀𝐑𝐓𝐒 𝐖𝐈𝐓𝐇 𝐓𝐇𝐄 𝐑𝐈𝐆𝐇𝐓 𝐎𝐏𝐏𝐎𝐑𝐓𝐔𝐍𝐈𝐓𝐘!Looking to build your career in Banking, Fina",
+      "accessibilityText": "✨ 𝐘𝐎𝐔𝐑 𝐍𝐄𝐗𝐓 𝐂𝐀𝐑𝐄𝐄𝐑 𝐌𝐎𝐕𝐄 𝐒𝐓𝐀𝐑𝐓𝐒 𝐖𝐈𝐓𝐇 𝐓𝐇𝐄 𝐑𝐈𝐆𝐇𝐓 𝐎𝐏𝐏𝐎𝐑𝐓𝐔𝐍𝐈𝐓𝐘!Looking to build your career in Banking, Fina",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "type": "FIRST_PARTY",
+     "title": {
+      "textDirection": "FIRST_STRONG",
+      "text": "🏦 BANK OF AMERICA | CAREER OPPORTUNITIES ACROSS MULTIPLE ROLES 🚀",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "articleUrn": "urn:li:linkedInArticle:7522930491877072896",
+     "swapTitleAndSubtitle": false,
+     "showChevron": false,
+     "showSmallTitle": false,
+     "$type": "com.linkedin.voyager.dash.feed.component.article.ArticleComponent",
+     "subtitle": {
+      "textDirection": "USER_LOCALE",
+      "text": "Sanju VISHWAKARMA",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "navigationContext": {
+      "actionTarget": "https://www.linkedin.com/pulse/bank-america-career-opportunities-across-multiple-sanju-vishwakarma-ckggf?trackingId=dHWHJtuaQFKGGci8wD%2BCDQ%3D%3D",
+      "urlViewingBehavior": "DEFAULT",
+      "trackingActionType": "viewLink",
+      "accessibilityText": "Open article: 🏦 BANK OF AMERICA | CAREER OPPORTUNITIES ACROSS MULTIPLE ROLES 🚀 by Sanju VISHWAKARMA • 1 min read",
+      "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+     }
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7522930538379341825,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAAEP9XpkB1NdvVPGky8hWoA7OHP1Y6WW87jc",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D03AQG6yxV8N-0jrA",
+          "artifacts": [
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "scale_200_200/B4DaESJaPaIkAg-/0/1791305820733?e=1796860800&v=beta&t=RhQSQ-cdqg1FGOH18gE2ZnG2unEG0yoGehT-DNptEko",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "crop_800_800/B4DaESJaPaIkAM-/0/1791305820733?e=1796860800&v=beta&t=EXC3tac7fldAgZOHDefiCc_HubR0ILsHQT_EKc3onA0",
+            "expiresAt": 1796860800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "scale_400_400/B4DaESJaPaIkAk-/0/1791305820733?e=1796860800&v=beta&t=DDnB76WD-YxG8XsoG-lAno0ls3YzEJq-wy9zD9ZSAvA",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "scale_100_100/B4DaESJaPaIkAc-/0/1791305820734?e=1796860800&v=beta&t=H97QV_R57n3f0JF5jpVLDxjIgPIIciVs1l4kea4CQqY",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4D03AQG6yxV8N-0jrA/profile-displayphoto-",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Sanju VISHWAKARMA’s  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": " • 3rd+",
+     "accessibilityText": "3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "🚀 𝗥𝗲𝗰𝗿𝘂𝗶𝘁𝗺𝗲𝗻𝘁 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 | 𝗧𝗮𝗹𝗲𝗻𝘁 𝗔𝗰𝗾𝘂𝗶𝘀𝗶𝘁𝗶𝗼𝗻 | 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗻𝗴 𝗧𝗮𝗹𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗖𝗮𝗿𝗲𝗲𝗿 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀 | 𝗜𝗧 & 𝗡𝗼𝗻-𝗜𝗧 𝗛𝗶𝗿𝗶𝗻𝗴",
+     "accessibilityText": "🚀 𝗥𝗲𝗰𝗿𝘂𝗶𝘁𝗺𝗲𝗻𝘁 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 | 𝗧𝗮𝗹𝗲𝗻𝘁 𝗔𝗰𝗾𝘂𝗶𝘀𝗶𝘁𝗶𝗼𝗻 | 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗻𝗴 𝗧𝗮𝗹𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗖𝗮𝗿𝗲𝗲𝗿 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀 | 𝗜𝗧 & 𝗡𝗼𝗻-𝗜𝗧 𝗛𝗶𝗿𝗶𝗻𝗴",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:1140678297",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAAEP9XpkB1NdvVPGky8hWoA7OHP1Y6WW87jc",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Sanju VISHWAKARMA",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 17,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAEP9XpkB1NdvVPGky8hWoA7OHP1Y6WW87jc"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 17,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAEP9XpkB1NdvVPGky8hWoA7OHP1Y6WW87jc"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Sanju VISHWAKARMA",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "2w •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "2 weeks ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/sanju-vishwakarma-90901627a?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEP9XpkB1NdvVPGky8hWoA7OHP1Y6WW87jc",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View Sanju VISHWAKARMA’s profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7522930537574076416,urn:li:ugcPost:7522930537574076416,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "✨ 𝐘𝐎𝐔𝐑 𝐍𝐄𝐗𝐓 𝐂𝐀𝐑𝐄𝐄𝐑 𝐌𝐎𝐕𝐄 𝐒𝐓𝐀𝐑𝐓𝐒 𝐖𝐈𝐓𝐇 𝐓𝐇𝐄 𝐑𝐈𝐆𝐇𝐓 𝐎𝐏𝐏𝐎𝐑𝐓𝐔𝐍𝐈𝐓𝐘!\n\nLooking to build your career in Banking, Finance, Technology or Business Operations?\n\nBank of America offers opportunities across diverse professional functions for candidates at different career stages.\n\n📩 𝐒𝐄𝐍𝐃 𝐘𝐎𝐔𝐑 𝐔𝐏𝐃𝐀𝐓𝐄𝐃 𝐂𝐕:\nhrsangeetavishwakarma@gmail.com\n\n📌 Subject: Bank of America – Your Name – Preferred Role\n\n━━━━━━━━━━━━━━━━━━\n\n💼 𝐑𝐎𝐋𝐄𝐒 / 𝐂𝐀𝐑𝐄𝐄𝐑 𝐀𝐑𝐄𝐀𝐒\n\n💻 Technology & Software Development\n📊 Data & Business Analytics\n🏦 Banking & Financial Services\n💰 Finance & Accounting\n🔐 Risk & Compliance\n📋 Business Analysis\n⚙️ Operations & Support\n👥 HR & Talent Acquisition\n\n🎓 𝐖𝐇𝐎 𝐂𝐀𝐍 𝐄𝐗𝐏𝐋𝐎𝐑𝐄?\n\nFreshers | Graduates | 0–2 Years | Experienced Professionals\n\n📍 Work Mode: Office / Hybrid / Remote — role dependent\n🌐 Location: Multiple Locations\n\n⭐ 𝐊𝐄𝐘 𝐒𝐊𝐈𝐋𝐋𝐒:\nCommunication • Analytical Thinking • Technical Skills • Problem Solving • Domain Knowledge\n\n💬 COMMENT “BANK\"\n\n#BankOfAmerica #BankingJobs #FinanceJobs #ITJobs #TechJobs #DataJobs #HiringAlert #JobOpening #FreshersJobs #CareerOpportunities #ExperiencedProfessionals #Recruitment #TalentAcquisition #JobSeekers #LinkedInJobs",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7525564806528024577",
+    "shareUrn": "urn:li:share:7525564804133224448",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/nitendrapratapsingh_bankofamerica-hiring-assistantmanager-activity-7525564806528024577-XKtG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "entityComponent": {
+     "ctaButton": {
+      "navigationContext": {
+       "actionTarget": "https://www.linkedin.com/jobs/view/4454548843/?refId=GBf1AomMScSJQOfzC7Nu3A%3D%3D&trackingId=GBf1AomMScSJQOfzC7Nu3A%3D%3D",
+       "urlViewingBehavior": "DEFAULT",
+       "trackingActionType": "viewJob",
+       "accessibilityText": "View job",
+       "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+      },
+      "text": "View job",
+      "$type": "com.linkedin.voyager.dash.feed.component.button.ButtonComponent"
+     },
+     "image": {
+      "attributes": [
+       {
+        "detailData": {
+         "nonEntityCompanyLogo": {
+          "*company": "urn:li:fsd_company:1123",
+          "vectorImage": {
+           "digitalmediaAsset": "urn:li:digitalmediaAsset:C4D0BAQEL1rI2h3XGxg",
+           "artifacts": [
+            {
+             "width": 200,
+             "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1676325271208/bank_of_america_logo?e=1796860800&v=beta&t=8KAeqP-YYaGJK8D67HFNwEkFk4fy4g_54veZx5bG7Z8",
+             "expiresAt": 1796860800000,
+             "height": 200,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 100,
+             "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1676325271208/bank_of_america_logo?e=1796860800&v=beta&t=stMya8BO0r3f_pMB5_WKu_9RB47ixkFOUqo-aBToOR4",
+             "expiresAt": 1796860800000,
+             "height": 100,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 400,
+             "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1676325271208/bank_of_america_logo?e=1796860800&v=beta&t=GNc9wobT9nkegk5BdCqbQwJdP4pA6zRpcPYdfWtJpfU",
+             "expiresAt": 1796860800000,
+             "height": 400,
+             "$type": "com.linkedin.common.VectorArtifact"
+            }
+           ],
+           "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQEL1rI2h3XGxg/company-logo_",
+           "$type": "com.linkedin.common.VectorImage"
+          },
+          "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+         }
+        },
+        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+       }
+      ],
+      "editableAccessibilityText": false,
+      "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+     },
+     "description": {
+      "textDirection": "USER_LOCALE",
+      "text": "Gurugram, Haryana, India",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "title": {
+      "textDirection": "FIRST_STRONG",
+      "text": "Assistant Manager  ",
+      "attributesV2": [
+       {
+        "start": 18,
+        "length": 1,
+        "detailData": {
+         "systemImage": "SYS_ICN_VERIFIED_SMALL"
+        },
+        "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+       }
+      ],
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "$type": "com.linkedin.voyager.dash.feed.component.entity.EntityComponent",
+     "subtitle": {
+      "textDirection": "USER_LOCALE",
+      "text": "Job by Bank of America",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "navigationContext": {
+      "actionTarget": "https://www.linkedin.com/jobs/view/4454548843/?refId=GBf1AomMScSJQOfzC7Nu3A%3D%3D&trackingId=GBf1AomMScSJQOfzC7Nu3A%3D%3D",
+      "urlViewingBehavior": "DEFAULT",
+      "trackingActionType": "viewJob",
+      "accessibilityText": "View job",
+      "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+     }
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7525564806528024577,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAABu10M0B24XKsLMs91nf0AcO1nzbRdBPU6M",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D5603AQHWA2Kk3gKz4g",
+          "c2paManifestData": {
+           "isAiGenerated": true,
+           "signature": {
+            "credentialIssuer": "OpenAI OpCo, LLC",
+            "credentialIssuedAt": 1786661210697,
+            "issuedAt": 1776873065000,
+            "issuer": "SSL.com C2PA ICA R1 2025",
+            "expiresAt": 1808495464000,
+            "signer": "OpenAI OpCo, LLC",
+            "$type": "pegasus.com.linkedin.mediaInfra.C2paSignature"
+           },
+           "isValid": true,
+           "aiUsageType": "GENERATED_ALL",
+           "appOrDeviceUsed": "OpenAI Media Service API",
+           "$type": "pegasus.com.linkedin.mediaInfra.C2paManifestData"
+          },
+          "artifacts": [
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "scale_100_100/B56aAHKT97KEAY-/0/1786826541195?e=1796860800&v=beta&t=uE5VnEsIz7qGBW7TX-ZIMTVazvToSN-2M9FEOoJ5KEg",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "crop_800_800/B56aAHKT97KEAI-/0/1786826541195?e=1796860800&v=beta&t=Nu0AVd3zgQi9PZ-LU1yFXHgWuPlCYSS16x3xYSVEcJY",
+            "expiresAt": 1796860800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "scale_200_200/B56aAHKT97KEAc-/0/1786826541195?e=1796860800&v=beta&t=m58YD3t6qI5zmLxHTm_iXX_02p8smWvJA1ArnbhHkUo",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "scale_400_400/B56aAHKT97KEAg-/0/1786826541195?e=1796860800&v=beta&t=0mW5KS--qd8djjmslD1HEMk5eKv3su5yyU8veebwMno",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHWA2Kk3gKz4g/profile-displayphoto-",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Nitendra Pratap Singh’s  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": "   • 3rd+",
+     "attributesV2": [
+      {
+       "start": 1,
+       "length": 1,
+       "detailData": {
+        "systemImage": "SYS_ICN_VERIFIED_SMALL"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Verified • 3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "Senior KYC & Onboarding Analyst at Saxo Group - India | AML/KYC | Regulatory Compliance | Sanctions Screening | PEP Screening | Risk Assessment | Client Due Diligence | Global Onboarding | FATCA/CRS | 6 Years Experience",
+     "accessibilityText": "Senior KYC & Onboarding Analyst at Saxo Group - India | AML/KYC | Regulatory Compliance | Sanctions Screening | PEP Screening | Risk Assessment | Client Due Diligence | Global Onboarding | FATCA/CRS | 6 Years Experience",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:464900301",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAABu10M0B24XKsLMs91nf0AcO1nzbRdBPU6M",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Nitendra Pratap Singh",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 21,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAABu10M0B24XKsLMs91nf0AcO1nzbRdBPU6M"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 21,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAABu10M0B24XKsLMs91nf0AcO1nzbRdBPU6M"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Nitendra Pratap Singh",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "1w •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "1 week ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/nitendrapratapsingh?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAABu10M0B24XKsLMs91nf0AcO1nzbRdBPU6M",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View Nitendra Pratap Singh’s profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7525564806528024577,urn:li:activity:7525564806528024577,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "🚨 HIRING ALERT | BANK OF AMERICA 💼\n\nBank of America is hiring for an exciting opportunity in Gurugram!\n\n📌 Job Title: Assistant Manager\n🏢 Company: Bank of America\n📍 Location: Gurugram, Haryana, India\n💼 Employment Type: Full-time\n\n🔍 Relevant Areas: Banking Operations | Risk Management | Financial Services | Compliance | Process Management | Operational Excellence\n\n📩 Interested candidates can explore the complete job description and apply through LinkedIn.\n\n🔗 Explore & Apply: \"Bank of America – Assistant Manager\" (https://lnkd.in/gYpuWbna)\n\n🤝 Know someone who could be a great fit? Share this opportunity with your network!\n\n#BankOfAmerica #Hiring #AssistantManager #BankingJobs #GurugramJobs #FinancialServices #RiskManagement #Compliance #JobOpportunities",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "firstName": "Sharon",
+   "lastName": "Miller",
+   "entityUrn": "urn:li:fsd_profile:ACoAAAqYnmkBFcbl_DxNZBR_ZrbLYtlXRq88GT4",
+   "publicIdentifier": "sharon-miller-6b56524b",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "David Stephen",
+   "lastName": "Patterson",
+   "entityUrn": "urn:li:fsd_profile:ACoAAABcgDwBRAFuffYSb7tJ-3LsGITtykN95w8",
+   "publicIdentifier": "dspatterson",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Hiral",
+   "lastName": "Sarkar",
+   "entityUrn": "urn:li:fsd_profile:ACoAACLuaGsBGbDxJnT2eqyEOHWlo2_riKUYxEg",
+   "publicIdentifier": "hiral-sarkar",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Chuck",
+   "lastName": "Gallagher, CSP",
+   "entityUrn": "urn:li:fsd_profile:ACoAAACLwJ8BV8J4iTd1_HeYWv-9pung-dbonYI",
+   "publicIdentifier": "chuckgallagher",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Sankalp",
+   "lastName": "Sinha",
+   "entityUrn": "urn:li:fsd_profile:ACoAADdXPJkBuG6XLQ-n2RPecUBZ0nGccWAOZXs",
+   "publicIdentifier": "sankalp-sinha-law",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Saurabh",
+   "lastName": "Yadav",
+   "entityUrn": "urn:li:fsd_profile:ACoAAEKm5OkBIUS7hWmIzK3e68LcfTETFpPBDuA",
+   "publicIdentifier": "saurabh-yadav-0895b2272",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Nitendra Pratap",
+   "lastName": "Singh",
+   "entityUrn": "urn:li:fsd_profile:ACoAABu10M0B24XKsLMs91nf0AcO1nzbRdBPU6M",
+   "publicIdentifier": "nitendrapratapsingh",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Sanju",
+   "lastName": "VISHWAKARMA",
+   "entityUrn": "urn:li:fsd_profile:ACoAAEP9XpkB1NdvVPGky8hWoA7OHP1Y6WW87jc",
+   "publicIdentifier": "sanju-vishwakarma-90901627a",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Stu",
+   "lastName": "Rogers💡",
+   "entityUrn": "urn:li:fsd_profile:ACoAAAYcY8oBX9pWqEHDr_EsGWiCATn7s8YBfRg",
+   "publicIdentifier": "stu-rogers",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "name": "Bank of America",
+   "entityUrn": "urn:li:fsd_company:1123",
+   "url": "https://www.linkedin.com/company/bank-of-america/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:activity:7525564806528024577",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7525564806528024577",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7525564806528024577,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7525564806528024577,urn:li:activity:7525564806528024577,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7525564806528024577"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:ugcPost:7521566723708436480",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:ugcPost:7521566723708436480",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:ugcPost:7521566723708436480,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7521566723708436480,urn:li:ugcPost:7521566723708436480,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:ugcPost:7521566723708436480"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:activity:7527064226281021440",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7527064226281021440",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7527064226281021440,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7527064226281021440,urn:li:activity:7527064226281021440,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7527064226281021440"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:activity:7528543623265640448",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7528543623265640448",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7528543623265640448,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7528543623265640448,urn:li:activity:7528543623265640448,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7528543623265640448"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:activity:7527988676832686081",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7527988676832686081",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7527988676832686081,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7527988676832686081,urn:li:activity:7527988676832686081,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7527988676832686081"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:ugcPost:7523306185475858433",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:ugcPost:7523306185475858433",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:ugcPost:7523306185475858433,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7523306185475858433,urn:li:ugcPost:7523306185475858433,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:ugcPost:7523306185475858433"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:ugcPost:7528482348200448000",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:ugcPost:7528482348200448000",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:ugcPost:7528482348200448000,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7528482348200448000,urn:li:ugcPost:7528482348200448000,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:ugcPost:7528482348200448000"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:ugcPost:7524627306473066496",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:ugcPost:7524627306473066496",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:ugcPost:7524627306473066496,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7524627306473066496,urn:li:ugcPost:7524627306473066496,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:ugcPost:7524627306473066496"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:ugcPost:7522930537574076416",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:ugcPost:7522930537574076416",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:ugcPost:7522930537574076416,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7522930537574076416,urn:li:ugcPost:7522930537574076416,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:ugcPost:7522930537574076416"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:ugcPost:7528492546155515904",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:ugcPost:7528492546155515904",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:ugcPost:7528492546155515904,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7528492546155515904,urn:li:ugcPost:7528492546155515904,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:ugcPost:7528492546155515904"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7528543623265640448,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7528543623265640448,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7527064226281021440,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7527064226281021440,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:ugcPost:7523306185475858433,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:ugcPost:7523306185475858433,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:ugcPost:7528492546155515904,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:ugcPost:7528492546155515904,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7525564806528024577,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7525564806528024577,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:ugcPost:7521566723708436480,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:ugcPost:7521566723708436480,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:ugcPost:7522930537574076416,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:ugcPost:7522930537574076416,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:ugcPost:7524627306473066496,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:ugcPost:7524627306473066496,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7527988676832686081,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7527988676832686081,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:ugcPost:7528482348200448000,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:ugcPost:7528482348200448000,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  }
+ ]
+}

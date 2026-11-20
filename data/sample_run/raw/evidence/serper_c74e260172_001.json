@@ -1,0 +1,93 @@
+{
+ "provider": "serper",
+ "query": "The Trump administration is causing the disaster in the United States.",
+ "params": {
+  "q": "The Trump administration is causing the disaster in the United States.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:23Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "The Trump administration is causing the disaster in the United States.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Opinion | Trump’s incompetence is a national security threat",
+    "link": "https://www.ms.now/opinion/trump-faa-tech-outages-leadership-covid",
+    "date": "22 hours ago",
+    "source": "MS NOW",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Why Are So Many Outages Happening? U.S. Official Denies Cyberattacks As NSA, Apple, Microsoft And More Hit",
+    "link": "https://www.forbes.com/sites/conormurray/2026/11/18/outages-plague-america-cyber-attacks-are-not-to-blame-trump-official-reportedly-says-as-nsa-apple-microsoft-and-more-hit/",
+    "date": "1 day ago",
+    "source": "Forbes",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Evidence Is Growing That the Massive Tech Outages Are Trump’s Fault",
+    "link": "https://futurism.com/future-society/evidence-growing-outages-trump-fault",
+    "date": "1 day ago",
+    "source": "Futurism",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Trump’s world stage ‘triumph’ is turning into a domestic disaster",
+    "link": "https://www.thetimes.com/us/news-today/article/trumps-world-stage-triumph-is-turning-into-a-domestic-disaster-xzfdmclx5",
+    "date": "13 hours ago",
+    "source": "The Times",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Markwayne Mullin Pushes Unhinged Theories on FAA Disaster",
+    "link": "https://newrepublic.com/post/218087/markwayne-mullin-strategy-faa-push-wild-theories",
+    "date": "2 days ago",
+    "source": "The New Republic",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "MAGA Questions Trump Administration After Wave of Tech Outages",
+    "link": "https://www.newsweek.com/maga-trump-tech-outages-12733160",
+    "date": "1 day ago",
+    "source": "Newsweek",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "'Scary': Ex-insider spots 'head-spinning problem' the Trump admin is 'not prepared for'",
+    "link": "https://www.rawstory.com/miles-taylor-2678447901/",
+    "date": "1 day ago",
+    "source": "Raw Story",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Opinion | Donald Trump Is a Weapon of Mass Destruction",
+    "link": "https://www.commondreams.org/opinion/trump-weapon-of-mass-destruction",
+    "date": "1 day ago",
+    "source": "Common Dreams",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Trump’s Cabinet caught 'spitballing' as America teeters on collapse",
+    "link": "https://www.alternet.org/trump-officials-outages/",
+    "date": "19 hours ago",
+    "source": "Alternet",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Sinister plot sees Trump using outage havoc to grab immense — and never-ending — power",
+    "link": "https://www.rawstory.com/raw-investigates/trump-outages/",
+    "date": "1 day ago",
+    "source": "Raw Story",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

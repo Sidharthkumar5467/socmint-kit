@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "Israel caused the cyber-attack or banking problems, and the government is blaming Iran for them.",
+ "params": {
+  "query": "Israel caused the cyber-attack or banking problems, and the government is blaming Iran for them.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:56Z",
+ "error": null,
+ "response": {}
+}

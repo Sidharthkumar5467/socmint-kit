@@ -1,0 +1,86 @@
+{
+ "provider": "serper",
+ "query": "Goldman Sachs held $144 million in spot XRP exchange-traded funds at the end of the third quarter, up from $87 million in the second quarter.",
+ "params": {
+  "q": "Goldman Sachs held $144 million in spot XRP exchange-traded funds at the end of the third quarter, up from $87 million in the second quarter.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:03Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Goldman Sachs held $144 million in spot XRP exchange-traded funds at the end of the third quarter, up from $87 million in the second quarter.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Goldman Sachs boosts XRP ETF holdings to $144 million in Q3, filings show",
+    "link": "https://www.bitget.com/news/detail/12560606205207",
+    "date": "1 day ago",
+    "source": "Bitget",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America Discloses $106,600 XRP ETF Position as Goldman Sachs Lifts Stake to $144 Million",
+    "link": "https://finance.biggo.com/news/28cacc95-5feb-4f58-82f3-1564a520911e",
+    "date": "2 days ago",
+    "source": "BigGo Finance",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Royal Bank of Canada cuts holdings in 2x leveraged XRP ETF to zero",
+    "link": "https://www.digitaltoday.co.kr/en/view/128507/royal-bank-of-canada-cuts-holdings-in-2x-leveraged-xrp-etf-to-zero",
+    "date": "9 hours ago",
+    "source": "디지털투데이",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America follows Goldman Sachs in expanding XRP ETF holdings",
+    "link": "https://www.digitaltoday.co.kr/en/view/127173/bank-of-america-follows-goldman-sachs-in-expanding-xrp-etf-holdings",
+    "date": "2 days ago",
+    "source": "디지털투데이",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Goldman Sachs Group, Inc. (The) News — NYSE:GS",
+    "link": "https://www.tradingview.com/symbols/NYSE-GS/news/",
+    "date": "Nov 12, 2021",
+    "source": "TradingView",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Goldman Sachs Boosted Its XRP ETF Stake to $144M, Then XRP Crashed",
+    "link": "https://news.bitcoin.com/finance/goldman-sachs-xrp-etf-stake-144m-q3-xrp-crash/",
+    "date": "1 day ago",
+    "source": "Bitcoin News",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America XRP ETF Holds Steady in Q3 Filing",
+    "link": "https://en.cryptonomist.ch/2026/11/18/bank-of-america-xrp-etf/",
+    "date": "1 day ago",
+    "source": "The Cryptonomist",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "XRP Out at Royal Bank of Canada: Leveraged Fund Cut to Zero",
+    "link": "https://u.today/xrp-out-at-royal-bank-of-canada-leveraged-fund-cut-to-zero",
+    "date": "20 hours ago",
+    "source": "U.Today",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America Joins XRP ETF Holders in New Q3 SEC Filing",
+    "link": "https://u.today/bank-of-america-joins-xrp-etf-holders-in-new-q3-sec-filing",
+    "date": "2 days ago",
+    "source": "U.Today",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

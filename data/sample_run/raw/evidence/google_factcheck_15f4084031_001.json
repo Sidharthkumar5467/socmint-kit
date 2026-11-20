@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "Bank of America customers woke up to $0 balances in a widespread outage this week, with thousands reporting empty accounts in the app and online banking.",
+ "params": {
+  "query": "Bank of America customers woke up to $0 balances in a widespread outage this week, with thousands reporting empty accounts in the app and online banking.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:52Z",
+ "error": null,
+ "response": {}
+}

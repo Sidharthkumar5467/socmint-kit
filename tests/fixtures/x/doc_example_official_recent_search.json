@@ -1,0 +1,30 @@
+{
+  "_note": "DOC EXAMPLE, NOT LIVE. Shape from the X API v2 GET /2/tweets/search/recent documentation (data / includes.users / includes.media / includes.tweets / meta.next_token; tweet.fields created_at, public_metrics, referenced_tweets, entities, lang). Values are synthetic. impression_count availability is UNVERIFIED.",
+  "data": [
+    {
+      "id": "1900000000000000010",
+      "author_id": "777",
+      "text": "Quote with a link https://t.co/x",
+      "created_at": "2026-11-17T10:00:00.000Z",
+      "lang": "en",
+      "public_metrics": {"retweet_count": 1, "reply_count": 2, "like_count": 3, "quote_count": 4, "impression_count": 100},
+      "referenced_tweets": [{"type": "quoted", "id": "1900000000000000011"}],
+      "entities": {
+        "urls": [{"start": 18, "end": 41, "url": "https://t.co/x", "expanded_url": "https://news.example.com/a", "display_url": "news.example.com/a"}],
+        "mentions": [{"start": 0, "end": 5, "username": "other", "id": "999"}]
+      },
+      "attachments": {"media_keys": ["3_1"]}
+    }
+  ],
+  "includes": {
+    "users": [
+      {"id": "777", "username": "official_user", "name": "Official User", "created_at": "2020-01-01T00:00:00.000Z", "profile_image_url": "https://pbs.twimg.com/profile_images/777/o_normal.jpg"},
+      {"id": "888", "username": "quoted_user", "name": "Quoted User", "created_at": "2019-01-01T00:00:00.000Z"}
+    ],
+    "media": [{"media_key": "3_1", "type": "photo", "url": "https://pbs.twimg.com/media/o1.jpg"}],
+    "tweets": [
+      {"id": "1900000000000000011", "author_id": "888", "text": "The quoted post", "created_at": "2026-11-16T09:00:00.000Z", "lang": "en", "public_metrics": {"retweet_count": 0, "reply_count": 0, "like_count": 9, "quote_count": 1}}
+    ]
+  },
+  "meta": {"newest_id": "1900000000000000010", "oldest_id": "1900000000000000010", "result_count": 1}
+}

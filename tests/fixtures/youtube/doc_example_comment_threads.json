@@ -1,0 +1,66 @@
+{
+  "_fixture_note": "Built by hand from the documented commentThread and comment resources (developers.google.com/youtube/v3/docs/commentThreads, /comments). The second comment is deliberately outside a Nov 2026 window. Synthetic.",
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "etag-ct",
+  "pageInfo": {"totalResults": 2, "resultsPerPage": 100},
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "etag-t1",
+      "id": "UgxThreadOne",
+      "snippet": {
+        "channelId": "UCchannelOne0000000000",
+        "videoId": "vidAAAAAAA1",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "etag-k1",
+          "id": "UgxThreadOne",
+          "snippet": {
+            "authorDisplayName": "@commenter1",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/u1.jpg",
+            "authorChannelUrl": "http://www.youtube.com/@commenter1",
+            "authorChannelId": {"value": "UCcommenter1"},
+            "channelId": "UCchannelOne0000000000",
+            "textDisplay": "This is fake, the barrier is fine.",
+            "textOriginal": "This is fake, the barrier is fine.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 7,
+            "publishedAt": "2026-11-06T10:00:00Z",
+            "updatedAt": "2026-11-06T10:00:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "etag-t2",
+      "id": "UgxThreadTwo",
+      "snippet": {
+        "channelId": "UCchannelOne0000000000",
+        "videoId": "vidAAAAAAA1",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "etag-k2",
+          "id": "UgxThreadTwo",
+          "snippet": {
+            "authorDisplayName": "Plain Name",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/u2.jpg",
+            "authorChannelId": {"value": "UCcommenter2"},
+            "channelId": "UCchannelOne0000000000",
+            "textDisplay": "Saw it happen",
+            "likeCount": 0,
+            "publishedAt": "2026-12-20T10:00:00Z",
+            "updatedAt": "2026-12-20T10:00:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}

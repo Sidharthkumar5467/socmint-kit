@@ -1,0 +1,93 @@
+{
+ "provider": "serper",
+ "query": "Microsoft suffered an outage the week before the reported bank outages, and the FAA grounded all flights in the country on a Friday.",
+ "params": {
+  "q": "Microsoft suffered an outage the week before the reported bank outages, and the FAA grounded all flights in the country on a Friday.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:36Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Microsoft suffered an outage the week before the reported bank outages, and the FAA grounded all flights in the country on a Friday.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "‘The whole internet screams at once’: Downdetector logged 6.4 million U.S. outage reports in a week as Microsoft, the FAA, Chase, and Apple went down",
+    "link": "https://fortune.com/2026/11/19/outlook-faa-chase-crashed-down-detector-outages-ai-agents-hack/",
+    "date": "11 hours ago",
+    "source": "Fortune",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Could everything be broken? Grounded jets, bank trouble, Microsoft outage, AI chaos make some wonder",
+    "link": "https://abc7.com/post/could-everything-broken-grounded-jets-bank-trouble-microsoft-outage-ai-chaos-make/20047717/",
+    "date": "2 days ago",
+    "source": "ABC7 Los Angeles",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Chase Bank Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions",
+    "link": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
+    "date": "3 days ago",
+    "source": "The New York Times",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "A string of tech outages disrupted flights, banking, and major apps. Here's what officials have said about the causes.",
+    "link": "https://www.businessinsider.com/tech-outages-list-microsoft-faa-apple-united-banking-2026-11",
+    "date": "2 days ago",
+    "source": "Business Insider",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks",
+    "link": "https://www.foxnews.com/us/america-hits-tech-wall-outages-cripple-email-ground-flights-disrupt-major-banks",
+    "date": "3 days ago",
+    "source": "Fox News",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Tech blackout? Outages hit banks, airlines and government agencies",
+    "link": "https://www.newsnationnow.com/business/tech/tech-outages-blackout-banks-airlines-government-agencies/",
+    "date": "1 day ago",
+    "source": "NewsNation",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "All the recent mass outages in the US from NSA to Apple and air travel",
+    "link": "https://www.independent.co.uk/news/world/americas/outages-apple-nsa-faa-banks-microsoft-united-b3086680.html",
+    "date": "2 days ago",
+    "source": "The Independent",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Trump Says He’s Not Worried About Outages Affecting Banks, FAA: ‘It’s Life’",
+    "link": "https://www.newsweek.com/dhs-says-ai-could-be-responsible-outages-faa-aviation-ground-stop-banks-12725688",
+    "date": "2 days ago",
+    "source": "Newsweek",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Days after Microsoft and the FAA went dark, Chase and Wells Fargo customers can’t get to their money",
+    "link": "https://fortune.com/2026/11/16/chase-bank-wells-fargo-capital-one-bank-outages/",
+    "date": "3 days ago",
+    "source": "Fortune",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "US hit by wave of outages: Microsoft, flights, banks and NSA hit – are they connected?",
+    "link": "https://gulfnews.com/world/americas/us-hit-by-wave-of-outages-microsoft-flights-banks-and-nsa-affected-1.500751032",
+    "date": "2 days ago",
+    "source": "Gulf News",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

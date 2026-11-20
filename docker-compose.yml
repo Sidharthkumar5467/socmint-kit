@@ -1,0 +1,27 @@
+# docker compose up  ->  http://127.0.0.1:8765/
+# The port is published on the host's loopback only: the GUI manages credentials and
+# must never be reachable from the network.
+services:
+  socmint:
+    build: .
+    image: socmint:local
+    ports:
+      - "127.0.0.1:8765:8765"
+    environment:
+      SOCMINT_BIND: "0.0.0.0"   # container-internal only; see ports above
+    env_file:
+      - path: .env               # optional; keys can also be entered in the GUI
+        required: false
+    volumes:
+      # Named volume, not a ./runs bind mount: runs/ is gitignored, so on a fresh Linux
+      # clone Docker would create ./runs as root and the container user (uid 1000) could
+      # not write runs. A named volume inherits the image's socmint-owned /app/runs.
+      # Results are downloaded from the GUI (Export), or copied out with
+      #   docker compose cp socmint:/app/runs ./runs
+      - socmint-runs:/app/runs
+      - socmint-home:/home/socmint/.socmint   # config.json + Telegram session
+    restart: "no"
+
+volumes:
+  socmint-runs:
+  socmint-home:

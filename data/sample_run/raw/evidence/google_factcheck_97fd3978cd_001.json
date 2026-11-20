@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "JPMorgan Chase attributed its November 16 banking disruption to a internal software bug and said it was not cyber-related.",
+ "params": {
+  "query": "JPMorgan Chase attributed its November 16 banking disruption to a internal software bug and said it was not cyber-related.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:00Z",
+ "error": null,
+ "response": {}
+}

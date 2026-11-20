@@ -1,0 +1,93 @@
+{
+ "provider": "serper",
+ "query": "A cyberattack affected 178 organizations, including Zoom, CNN, BBC, Fox News, HSBC, Salesforce, Equifax and IKEA.",
+ "params": {
+  "q": "A cyberattack affected 178 organizations, including Zoom, CNN, BBC, Fox News, HSBC, Salesforce, Equifax and IKEA.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:49Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "A cyberattack affected 178 organizations, including Zoom, CNN, BBC, Fox News, HSBC, Salesforce, Equifax and IKEA.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Cyber Attack Hits 178 Major Websites: Full List of Organizations",
+    "link": "https://www.newsweek.com/cyber-attack-websites-affected-12725863",
+    "date": "2 days ago",
+    "source": "Newsweek",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Cyberattack Hits 178 Major Websites Including CNN and Zoom in Bid to Steal Crypto, Infect iPhones",
+    "link": "https://www.hstoday.us/subject-matter-areas/cybersecurity/cyberattack-hits-178-major-websites-including-cnn-and-zoom-in-bid-to-steal-crypto-infect-iphones/",
+    "date": "1 day ago",
+    "source": "Homeland Security Today",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Cyberattack on 178 organizations: Take these 5 steps to protect your credit card info",
+    "link": "https://www.syracuse.com/us-news/2026/11/cyberattack-on-178-organizations-take-these-5-steps-to-protect-your-credit-card-info.html",
+    "date": "1 day ago",
+    "source": "Syracuse.com",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Malware attack hits 178 popular websites: How to know if you were exposed",
+    "link": "https://www.nbcchicago.com/consumer/malware-attack-hits-178-popular-websites-how-to-know-if-you-were-exposed/4018557/",
+    "date": "1 day ago",
+    "source": "NBC 5 Chicago",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Cyberattack Targets Payment Info on Major Websites — What It Could Mean for Your Money",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/cyberattack-targets-payment-major-websites-170040737.html",
+    "date": "1 day ago",
+    "source": "Yahoo Finance",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Popular websites like Zoom and Ikea infected with malware: Researcher",
+    "link": "https://www.newsnationnow.com/business/tech/popular-websitesinfected-with-malware/",
+    "date": "2 days ago",
+    "source": "NewsNation",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Cyberattack targets BBC, Zoom and Ikea as 178 websites hacked",
+    "link": "https://www.thetimes.com/uk/technology-uk/article/cyberattack-bbc-zoom-ikea-websites-hacked-5lm75zjdm",
+    "date": "2 days ago",
+    "source": "The Times",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "You might be at risk from cyber attack targeting nearly 180 sites",
+    "link": "https://www.audacy.com/national/news/you-might-be-at-risk-from-cyber-attack-targeting-nearly-180-sites",
+    "date": "2 days ago",
+    "source": "Audacy",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Absolutely Everything Is Getting Hacked",
+    "link": "https://futurism.com/future-society/absolutely-everything-is-getting-hacked",
+    "date": "2 days ago",
+    "source": "Futurism",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Popular websites compromised in bid to steal crypto, target iPhone users",
+    "link": "https://www.reuters.com/legal/government/popular-websites-subverted-bid-steal-crypto-target-iphone-users-2026-11-17/",
+    "date": "3 days ago",
+    "source": "Reuters",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

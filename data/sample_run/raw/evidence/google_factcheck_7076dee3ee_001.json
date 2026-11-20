@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "Chase, Bank of America, Wells Fargo and U.S. Bank customers could not log in or make payments during a disruption on Monday, November 16.",
+ "params": {
+  "query": "Chase, Bank of America, Wells Fargo and U.S. Bank customers could not log in or make payments during a disruption on Monday, November 16.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:59Z",
+ "error": null,
+ "response": {}
+}

@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "Chase, US Bank, Bank of America, Truist and Wells Fargo experienced online banking connectivity issues at the same time.",
+ "params": {
+  "query": "Chase, US Bank, Bank of America, Truist and Wells Fargo experienced online banking connectivity issues at the same time.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:57Z",
+ "error": null,
+ "response": {}
+}

@@ -1,0 +1,105 @@
+{
+  "_fixture_note": "Built by hand from the documented video resource (developers.google.com/youtube/v3/docs/videos): statistics counts are strings; likeCount omitted on one video (hidden likes). Synthetic. Tags 'flood barrier' added to vidBBBBBBB2 and vidCCCCCCC3 (2026-11-20) so the client-side topic filter keeps them.",
+  "kind": "youtube#videoListResponse",
+  "etag": "etag-v",
+  "pageInfo": {
+    "totalResults": 3,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "etag-va",
+      "id": "vidAAAAAAA1",
+      "snippet": {
+        "publishedAt": "2026-11-05T14:00:07Z",
+        "channelId": "UCchannelOne0000000000",
+        "title": "Flood barrier collapse claim explained",
+        "description": "Full description. Source: https://example.org/report.pdf, and our earlier video https://youtu.be/vidCCCCCCC3 plus https://www.youtube.com/watch?v=vidAAAAAAA1 (self).",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vidAAAAAAA1/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Channel One",
+        "tags": [
+          "flood",
+          "barrier"
+        ],
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT15M33S"
+      },
+      "statistics": {
+        "viewCount": "15000",
+        "likeCount": "900",
+        "favoriteCount": "0",
+        "commentCount": "42"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "etag-vb",
+      "id": "vidBBBBBBB2",
+      "snippet": {
+        "publishedAt": "2026-11-04T09:30:00Z",
+        "channelId": "UCchannelTwo0000000000",
+        "title": "سد الفيضان - ما الذي حدث؟",
+        "description": "",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vidBBBBBBB2/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Channel Two",
+        "tags": [
+          "flood barrier"
+        ]
+      },
+      "contentDetails": {
+        "duration": "PT2M"
+      },
+      "statistics": {
+        "viewCount": "300",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "etag-vc",
+      "id": "vidCCCCCCC3",
+      "snippet": {
+        "publishedAt": "2026-11-02T08:00:00Z",
+        "channelId": "UCchannelOne0000000000",
+        "title": "Follow-up on the barrier",
+        "description": "Short",
+        "thumbnails": {
+          "high": {
+            "url": "https://i.ytimg.com/vi/vidCCCCCCC3/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Channel One",
+        "tags": [
+          "flood barrier"
+        ]
+      },
+      "contentDetails": {
+        "duration": "PT5M"
+      },
+      "statistics": {
+        "viewCount": "5000",
+        "likeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    }
+  ]
+}

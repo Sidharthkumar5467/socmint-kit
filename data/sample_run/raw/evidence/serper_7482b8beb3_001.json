@@ -1,0 +1,113 @@
+{
+ "provider": "serper",
+ "query": "Microsoft, the FAA and the NSA experienced outages or technical disruptions in the same period as the bank outages.",
+ "params": {
+  "q": "Microsoft, the FAA and the NSA experienced outages or technical disruptions in the same period as the bank outages.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:51Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Microsoft, the FAA and the NSA experienced outages or technical disruptions in the same period as the bank outages.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+    "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
+    "snippet": "Over four days, outages disrupted Microsoft services, the FAA, JPMorgan Chase transactions and Apple. Security researchers say AI is...",
+    "date": "2 days ago",
+    "source": "CNBC",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 1
+   },
+   {
+    "title": "6 major outages in 6 days: From Outlook to the NSA, what we know so far",
+    "link": "https://www.politico.com/news/2026/11/17/tech-outages-2026-nsa-faa-apple-what-we-know-01170887",
+    "snippet": "First, Outlook users couldn't access their inboxes. A day later, the Federal Aviation Administration was forced to halt departures...",
+    "date": "2 days ago",
+    "source": "Politico",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 2
+   },
+   {
+    "title": "The U.S. tech outage wave, explained",
+    "link": "https://www.washingtonpost.com/ripple/2026/11/19/us-tech-outage-wave-explained/",
+    "snippet": "A wave of tech outages in the U.S. federal government and private sector over the past week have made a lot of people understandably nervous...",
+    "date": "3 hours ago",
+    "source": "The Washington Post",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 3
+   },
+   {
+    "title": "Recent tech outages: Are Microsoft, FAA, Chase and United disruptions connected?",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESuQEBxCJF1wo1dU_yiL_Vllspi4Sr9MFTui7Fa4BQpVMJTb-dL8SPs2HA9_sVkYytdDMgmlIN0GC8xGTtULxp4D3rOp_35QcnY-sASq89_Sb6AvrIsfsDZhouRi9iQKGirMQO7nVXHsxy2oYDW7YPRgkRzKGAXZ7J_3Qikk-bgSm4MasXOhMtu7Vb0E5a-yhg6T4Hm7BameWvx1ZzBLbD76Udk8Nh3uZkuRAXCjPxZ5laQydu788avSN0Kw&sa=U&uoh=3&ved=2ahUKEwiEx8vbm5aYAxWnkmoFHbf3MBUQxfQBegQICRAC&usg=AOvVaw2hscR3n44SR5ahs5EKl4rM",
+    "snippet": "A week of outages hit Microsoft, the FAA and airlines, and a cyberattack hit a website tool used by major companies. KPRC 2's ENOUGH team...",
+    "date": "2 days ago",
+    "source": "Click2Houston",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 4
+   },
+   {
+    "title": "Cyberattacks and outages: Here are all of the major national disruptions in November",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESzAEBxCJF18fSOuPpNzziK_AIWYnfzdFzjI6RYQGFHBETHiUjcO-srNhvLxNBzvLGSeDrfBQresC1Gaa44A87hJTA4eEnTF94yUFpfT2BPVulWh_Ia7PrWv5Vahetmb-4w8tc5ijhChP2CsHCcoxeYT34cStDUZcTENHZ8j-StJbWFO2mjO36OUBHkVUOx8y2qIr_wtdWux6uMULxKU1rA4VPu4m52MXwr1TqhfyqpO8z2PKC8DVaODkTcpUkdThJ550ePrXtBjOptoj7Nag&sa=U&uoh=3&ved=2ahUKEwiEx8vbm5aYAxWnkmoFHbf3MBUQxfQBegQIBBAC&usg=AOvVaw1j70sbp3s4TEcb1oe8x2SY",
+    "snippet": "A new era of disruptive cyber outages is making the nonstop data breaches of just a few years ago seem quaint.",
+    "date": "2 days ago",
+    "source": "Yahoo Finance",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 5
+   },
+   {
+    "title": "Within One Week, Microsoft, FAA, Banks and NSA Suffer Successive Outages; Rubio Says It's Pure Coincidence, Not a Systemic Attack",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESfwHEIkXX3ulZNl38KQ1WpHsqfVNdFeeT0XWfCkazk9PLMG0IDV3yKqYyopxCQiKo012gWvviHc3qMvR_4ydmJJWawEUTwMT4ReStNaL2DBI6wtGoAjQTEHa8nwIzfKZlgIFWDoluJkSlCMYSKd-_wrPuVF_xBRuSzb2Tts-H9Nc&sa=U&uoh=3&ved=2ahUKEwiEx8vbm5aYAxWnkmoFHbf3MBUQxfQBegQIBxAC&usg=AOvVaw1rpBagYhZl6Rac_6Xf-0Zl",
+    "snippet": "U.S. Secretary of State Marco Rubio said Wednesday in Manila that there is no connection between the past week's Microsoft cloud service...",
+    "date": "2 days ago",
+    "source": "BigGo Finance",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 6
+   },
+   {
+    "title": "FAA, Microsoft, banks: Why it feels like everything keeps breaking",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESoAEBxCJF13ly8YkKQYwNUHIUZIYk2lsBWMMsMciJ-Wa5z7GXkFuNJR7KEnm_zIdY4QdtHHDfpgvr4Km_l4b2YTmRvYxBkRLRhkn0NK1Y4CJ6vTWKg1vvGtIrPCis9KgQR4i1c-q_rG2zZqm4C6mZ2Kwu60DQRTfL24Wk8d45QPUGOQJJ1WzQod4l1YTGu6nwzgcSGyM1UNJkQm2kv5UGa5VW&sa=U&uoh=3&ved=2ahUKEwiEx8vbm5aYAxWnkmoFHbf3MBUQxfQBegQIBhAC&usg=AOvVaw1c9Gp8yiNZtPVs0Gkg4_Z5",
+    "snippet": "Grounded flights, Microsoft errors and bank outages have people asking if everything is falling apart. Experts explain why our systems are...",
+    "date": "2 days ago",
+    "source": "USA Today",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 7
+   },
+   {
+    "title": "6 Major Tech Outages Hit in 6 Days. Experts Say Companies Are Preparing for the Wrong Problem",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESsAEBxCJF18wst5GNe5DuqFhs9xOUGsmF4rAZ7SKHLTcv_L3IWSvmuWC5l9t8zVtFniMO_bswnZJwc47PTeEojY4WtN1N3l2p3ihxeBD21z6F_q_hTt4YoocuaaZBeaD2nsgbUla3DidhvC_uJcVz5NqzgMeVXWdG63dgvWLBr32hfCCTV8Y3Z3I_Q_ypq0qJJ4NbtH5mdGDF1wFk0SBqVHnFqUp-qfiyZj5OuiCSH96Evw&sa=U&uoh=3&ved=2ahUKEwiEx8vbm5aYAxWnkmoFHbf3MBUQxfQBegQICBAC&usg=AOvVaw3oLC2txxFN-SKw4kJefTyM",
+    "snippet": "Experts say disruptions at high-profile companies and government agencies reveal how quickly failures can spread through interconnected...",
+    "date": "1 day ago",
+    "source": "Inc.com",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 8
+   },
+   {
+    "title": "Why does everything keep going down? Every major U.S. tech outage in November",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESqwEBxCJF12s3hvdPKeAeE6UCGEBtdJ58KsWUUysZluCf10dRARsLEbHe7W6KgoMQ9PE5ojYJKGdvKgHORxPbjAAOAPaDRZ4rvFneqbRFplAcSKe5KdeUi-0lzik-c6qMldb2Sxa_gBFQP1zKWM0cMokQ-RtI7PNwqjPR-GANfBtzB2a6oqh2yK_0rvQWW8bKJGtqlZ3sgkU1NCdGrdogDOBRc8ej_hBqVCFCLGY&sa=U&uoh=3&ved=2ahUKEwiEx8vbm5aYAxWnkmoFHbf3MBUQxfQBegQIAxAC&usg=AOvVaw3_bxFdWCgs68QdsIMWuHLf",
+    "snippet": "Microsoft, the FAA, banks and the NSA have reported outages in November. Here's the running list and what officials say caused each...",
+    "date": "2 days ago",
+    "source": "AL.com",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 9
+   },
+   {
+    "title": "Are Microsoft, FAA and bank failures connected? What we know about tech outages",
+    "link": "https://www.google.com/url?opi=89978449&q=CAEStAEBxCJF1_H3faBWai9_OfCKThvp-ckM6sy8jH0KNpIzgGqTiygogOBpmFXKj2vhPnd6zJqNWKGVACQZxJ2lRvEtPm9dhL0bj4XbpWWyX90ujEp9EG4AcYaNGeHghpOI95kW61fbIAaN0wn5kfKrl2aKqabAXhaQiu_aC-l-xBsNaBwRWQ_wl9s-pGcG5_5WW-GNe7Yzi_fUKBssZJVB27UtMiSdgZhiFlJvq1OTMVBvhh3pffs&sa=U&uoh=3&ved=2ahUKEwiEx8vbm5aYAxWnkmoFHbf3MBUQxfQBegQICxAC&usg=AOvVaw0bjqnY1mUYB81s1bMkOdHh",
+    "snippet": "A series of major tech outages hit Microsoft, the FAA, banks and other institutions within days, sparking public fears of cyberattacks.",
+    "date": "2 days ago",
+    "source": "MassLive",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

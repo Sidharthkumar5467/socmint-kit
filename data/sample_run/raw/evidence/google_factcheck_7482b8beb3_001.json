@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "Microsoft, the FAA and the NSA experienced outages or technical disruptions in the same period as the bank outages.",
+ "params": {
+  "query": "Microsoft, the FAA and the NSA experienced outages or technical disruptions in the same period as the bank outages.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:47Z",
+ "error": null,
+ "response": {}
+}

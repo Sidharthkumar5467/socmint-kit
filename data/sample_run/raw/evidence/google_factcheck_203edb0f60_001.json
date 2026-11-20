@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "Bank of America has appeared on Ripple's institutional network listings, with a history dating back to 2016.",
+ "params": {
+  "query": "Bank of America has appeared on Ripple's institutional network listings, with a history dating back to 2016.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:51Z",
+ "error": null,
+ "response": {}
+}

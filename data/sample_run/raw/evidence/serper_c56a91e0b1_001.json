@@ -1,0 +1,58 @@
+{
+ "provider": "serper",
+ "query": "Bank of America held 13,260 shares of the Volatility Shares XRP ETF, worth about $106,600, as of September 30, 2026.",
+ "params": {
+  "q": "Bank of America held 13,260 shares of the Volatility Shares XRP ETF, worth about $106,600, as of September 30, 2026.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:01Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Bank of America held 13,260 shares of the Volatility Shares XRP ETF, worth about $106,600, as of September 30, 2026.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "XRP Out at Royal Bank of Canada: Leveraged Fund Cut to Zero",
+    "link": "https://www.tradingview.com/news/u_today:3c7a96020094b:***",
+    "date": "20 hours ago",
+    "source": "TradingView",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America Discloses $106,600 XRP ETF Position as Goldman Sachs Lifts Stake to $144 Million",
+    "link": "https://finance.biggo.com/news/28cacc95-5feb-4f58-82f3-1564a520911e",
+    "date": "2 days ago",
+    "source": "BigGo Finance",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Goldman Sachs boosts XRP ETF holdings to $144 million in Q3, filings show",
+    "link": "https://www.bitget.com/news/detail/12560606205207",
+    "date": "1 day ago",
+    "source": "Bitget",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America Joins XRP ETF Holders in New Q3 SEC Filing",
+    "link": "https://u.today/bank-of-america-joins-xrp-etf-holders-in-new-q3-sec-filing",
+    "date": "2 days ago",
+    "source": "U.Today",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America Discloses New XRP ETF Investment in Q3 Filing",
+    "link": "https://crypto-economy.com/bank-of-america-discloses-new-xrp-etf-investment-in-q3-filing/",
+    "date": "2 days ago",
+    "source": "Crypto Economy",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

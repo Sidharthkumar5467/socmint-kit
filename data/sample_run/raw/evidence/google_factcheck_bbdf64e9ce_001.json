@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "A cyberattack affected 178 organizations, including Zoom, CNN, BBC, Fox News, HSBC, Salesforce, Equifax and IKEA.",
+ "params": {
+  "query": "A cyberattack affected 178 organizations, including Zoom, CNN, BBC, Fox News, HSBC, Salesforce, Equifax and IKEA.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:46Z",
+ "error": null,
+ "response": {}
+}

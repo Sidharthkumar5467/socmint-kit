@@ -1,0 +1,1586 @@
+[
+  {
+    "id": "C1",
+    "member_author_ids": [
+      "telegram:1139132014",
+      "telegram:1177434726",
+      "telegram:1211390273",
+      "telegram:1216165198",
+      "telegram:1252786652",
+      "telegram:1261323323",
+      "telegram:1288638625",
+      "telegram:1322944481",
+      "telegram:1324149755",
+      "telegram:1390116240",
+      "telegram:1403259177",
+      "telegram:1406767132",
+      "telegram:1412443136",
+      "telegram:1424504206",
+      "telegram:1472100288",
+      "telegram:1524639322",
+      "telegram:1535085015",
+      "telegram:1537821466",
+      "telegram:1659605014",
+      "telegram:1660602666",
+      "telegram:1695824853",
+      "telegram:1726869616",
+      "telegram:1746440944",
+      "telegram:1775295672",
+      "telegram:1781626795",
+      "telegram:1801339180",
+      "telegram:1807587358",
+      "telegram:1856074626",
+      "telegram:1875717397",
+      "telegram:1879303451",
+      "telegram:1879462721",
+      "telegram:1889655967",
+      "telegram:1899279469",
+      "telegram:1918687030",
+      "telegram:1920190690",
+      "telegram:1945447107",
+      "telegram:1951803732",
+      "telegram:1952922383",
+      "telegram:1957569929",
+      "telegram:2200259699",
+      "telegram:2261232423",
+      "telegram:2267400203",
+      "telegram:2270861855",
+      "telegram:2271491234",
+      "telegram:2278957315",
+      "telegram:2282656549",
+      "telegram:2309369867",
+      "telegram:2327211242",
+      "telegram:2337685397",
+      "telegram:2361047196",
+      "telegram:2367438295",
+      "telegram:2370230605",
+      "telegram:2377006535",
+      "telegram:2427783458",
+      "telegram:2434121563",
+      "telegram:2450256159",
+      "telegram:2457223028",
+      "telegram:2472707236",
+      "telegram:2489073912",
+      "telegram:2491527758",
+      "telegram:2497739683",
+      "telegram:2567163463",
+      "telegram:2567583045",
+      "telegram:3230475459",
+      "telegram:3503819545",
+      "telegram:3547877671",
+      "telegram:3594539067",
+      "telegram:3627143316",
+      "telegram:3691336574"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:adese_pekgy:712",
+          "telegram:ahgaz_basgz:707",
+          "telegram:akbank_garanti:745",
+          "telegram:alark_bryat:640",
+          "telegram:avhol_atsyh:641",
+          "telegram:bfren_balat:631",
+          "telegram:bimmarket_migros:490",
+          "telegram:brisa_goody:713",
+          "telegram:bsoke_yyapi:712",
+          "telegram:bulten_smartg:977",
+          "telegram:cante_enery:1032",
+          "telegram:cemzy_segmn:709",
+          "telegram:cgcam_klser:726",
+          "telegram:cwene_eupwr:645",
+          "telegram:derinlik_skbnk:971",
+          "telegram:doviz_kontrol:1315",
+          "telegram:dstkf_vsnmd:770",
+          "telegram:ecilc_hekts:1546",
+          "telegram:ekgyo_ktlev:367",
+          "telegram:endae_cates:490",
+          "telegram:endeks_selec:360",
+          "telegram:enka_ekgyo:766",
+          "telegram:eregli_kardemir:363",
+          "telegram:faiz_tralt:1337",
+          "telegram:finans_sokm:1062",
+          "telegram:flap_beyaz:631",
+          "telegram:gesan_alfas:646",
+          "telegram:glrmk_brlsm:3078",
+          "telegram:glyho_ieyho:648",
+          "telegram:gubrf_aksa:744",
+          "telegram:gznmi_turex:713",
+          "telegram:havayollari_thyao:489",
+          "telegram:info_a1cap:727",
+          "telegram:isctr_ykbnk:743",
+          "telegram:kchol_sahol:751",
+          "telegram:kimmr_sanko:363",
+          "telegram:klyvp_ekos:698",
+          "telegram:lilak_konka:627",
+          "telegram:marmr_binho:365",
+          "telegram:miatk_ardyz:717",
+          "telegram:naten_bioen:1050",
+          "telegram:netas_alctl:728",
+          "telegram:nthol_akfis:364",
+          "telegram:onryt_odine:720",
+          "telegram:otkar_arclk:731",
+          "telegram:otkar_asuzu_jants:1069",
+          "telegram:oyakc_tekfen:489",
+          "telegram:patek_papil:1123",
+          "telegram:pclit_hrket:719",
+          "telegram:pltur_binbin:490",
+          "telegram:raysg_akgrt:632",
+          "telegram:reedr_agrot:733",
+          "telegram:sdttr_altny:727",
+          "telegram:sinyal_borsa:1097",
+          "telegram:sise_quagr:967",
+          "telegram:tatgida_efes:491",
+          "telegram:tavhl_doas:746",
+          "telegram:tehol_smrva:716",
+          "telegram:teknik_zoren:494",
+          "telegram:temettu_uzun_vade:1465",
+          "telegram:tknsa_mobtl:624",
+          "telegram:ttrak_karsn:717",
+          "telegram:tursg_ansgr:633",
+          "telegram:ulker_ccola:767",
+          "telegram:unlu_krvgd:717",
+          "telegram:vakbn_tskb:746",
+          "telegram:vakfa_ulufa:715",
+          "telegram:xu100_bist100:365",
+          "telegram:yatas_isbir:768"
+        ],
+        "detail": "69 posts by 69 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.971,
+        "evidence_post_ids": [
+          "telegram:adese_pekgy:712",
+          "telegram:ahgaz_basgz:707",
+          "telegram:akbank_garanti:745",
+          "telegram:alark_bryat:640",
+          "telegram:avhol_atsyh:641",
+          "telegram:bfren_balat:631",
+          "telegram:bimmarket_migros:490",
+          "telegram:brisa_goody:713",
+          "telegram:bsoke_yyapi:712",
+          "telegram:bulten_smartg:977",
+          "telegram:cante_enery:1032",
+          "telegram:cemzy_segmn:709",
+          "telegram:cgcam_klser:726",
+          "telegram:cwene_eupwr:645",
+          "telegram:derinlik_skbnk:971",
+          "telegram:doviz_kontrol:1315",
+          "telegram:dstkf_vsnmd:770",
+          "telegram:ecilc_hekts:1546",
+          "telegram:ekgyo_ktlev:367",
+          "telegram:endae_cates:490",
+          "telegram:endeks_selec:360",
+          "telegram:enka_ekgyo:766",
+          "telegram:eregli_kardemir:363",
+          "telegram:faiz_tralt:1337",
+          "telegram:finans_sokm:1062",
+          "telegram:flap_beyaz:631",
+          "telegram:gesan_alfas:646",
+          "telegram:glrmk_brlsm:3078",
+          "telegram:glyho_ieyho:648",
+          "telegram:gubrf_aksa:744",
+          "telegram:gznmi_turex:713",
+          "telegram:havayollari_thyao:489",
+          "telegram:info_a1cap:727",
+          "telegram:isctr_ykbnk:743",
+          "telegram:kchol_sahol:751",
+          "telegram:kimmr_sanko:363",
+          "telegram:klyvp_ekos:698",
+          "telegram:lilak_konka:627",
+          "telegram:marmr_binho:365",
+          "telegram:miatk_ardyz:717",
+          "telegram:naten_bioen:1050",
+          "telegram:netas_alctl:728",
+          "telegram:nthol_akfis:364",
+          "telegram:onryt_odine:720",
+          "telegram:otkar_arclk:731",
+          "telegram:otkar_asuzu_jants:1069",
+          "telegram:oyakc_tekfen:489",
+          "telegram:patek_papil:1123",
+          "telegram:pclit_hrket:719",
+          "telegram:pltur_binbin:490",
+          "telegram:raysg_akgrt:632",
+          "telegram:reedr_agrot:733",
+          "telegram:sdttr_altny:727",
+          "telegram:sinyal_borsa:1097",
+          "telegram:sise_quagr:967",
+          "telegram:tatgida_efes:491",
+          "telegram:tavhl_doas:746",
+          "telegram:tehol_smrva:716",
+          "telegram:teknik_zoren:494",
+          "telegram:temettu_uzun_vade:1465",
+          "telegram:tknsa_mobtl:624",
+          "telegram:ttrak_karsn:717",
+          "telegram:tursg_ansgr:633",
+          "telegram:ulker_ccola:767",
+          "telegram:unlu_krvgd:717",
+          "telegram:vakbn_tskb:746",
+          "telegram:vakfa_ulufa:715",
+          "telegram:xu100_bist100:365",
+          "telegram:yatas_isbir:768"
+        ],
+        "detail": "2346 same-content post pairs (2346 near-duplicate text, 0 same link) by 69 accounts posted within 10 min of each other (median lag 15 s; platform timestamps)"
+      },
+      {
+        "type": "similar_creation_dates",
+        "score": 0.954,
+        "evidence_post_ids": [
+          "telegram:ahgaz_basgz:707",
+          "telegram:avhol_atsyh:641",
+          "telegram:bfren_balat:631",
+          "telegram:bimmarket_migros:490",
+          "telegram:brisa_goody:713",
+          "telegram:bsoke_yyapi:712",
+          "telegram:cemzy_segmn:709",
+          "telegram:cgcam_klser:726",
+          "telegram:cwene_eupwr:645",
+          "telegram:derinlik_skbnk:971",
+          "telegram:doviz_kontrol:1315",
+          "telegram:ecilc_hekts:1546",
+          "telegram:ekgyo_ktlev:367",
+          "telegram:endae_cates:490",
+          "telegram:eregli_kardemir:363",
+          "telegram:faiz_tralt:1337",
+          "telegram:finans_sokm:1062",
+          "telegram:flap_beyaz:631",
+          "telegram:gesan_alfas:646",
+          "telegram:glyho_ieyho:648",
+          "telegram:gubrf_aksa:744",
+          "telegram:gznmi_turex:713",
+          "telegram:havayollari_thyao:489",
+          "telegram:info_a1cap:727",
+          "telegram:kchol_sahol:751",
+          "telegram:kimmr_sanko:363",
+          "telegram:klyvp_ekos:698",
+          "telegram:lilak_konka:627",
+          "telegram:marmr_binho:365",
+          "telegram:miatk_ardyz:717",
+          "telegram:naten_bioen:1050",
+          "telegram:netas_alctl:728",
+          "telegram:nthol_akfis:364",
+          "telegram:onryt_odine:720",
+          "telegram:otkar_arclk:731",
+          "telegram:otkar_asuzu_jants:1069",
+          "telegram:oyakc_tekfen:489",
+          "telegram:pclit_hrket:719",
+          "telegram:pltur_binbin:490",
+          "telegram:raysg_akgrt:632",
+          "telegram:sdttr_altny:727",
+          "telegram:sinyal_borsa:1097",
+          "telegram:sise_quagr:967",
+          "telegram:tatgida_efes:491",
+          "telegram:tavhl_doas:746",
+          "telegram:teknik_zoren:494",
+          "telegram:temettu_uzun_vade:1465",
+          "telegram:tknsa_mobtl:624",
+          "telegram:ttrak_karsn:717",
+          "telegram:tursg_ansgr:633",
+          "telegram:unlu_krvgd:717",
+          "telegram:vakfa_ulufa:715",
+          "telegram:xu100_bist100:365"
+        ],
+        "detail": "53 of 69 accounts with a platform-reported creation date were created within 3 days of each other (max gap 2.1 days)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:adese_pekgy:712",
+      "telegram:ahgaz_basgz:707",
+      "telegram:akbank_garanti:745",
+      "telegram:alark_bryat:640",
+      "telegram:avhol_atsyh:641",
+      "telegram:bfren_balat:631",
+      "telegram:bimmarket_migros:490",
+      "telegram:brisa_goody:713",
+      "telegram:bsoke_yyapi:712",
+      "telegram:bulten_smartg:977",
+      "telegram:cante_enery:1032",
+      "telegram:cemzy_segmn:709",
+      "telegram:cgcam_klser:726",
+      "telegram:cwene_eupwr:645",
+      "telegram:derinlik_skbnk:971",
+      "telegram:doviz_kontrol:1315",
+      "telegram:dstkf_vsnmd:770",
+      "telegram:ecilc_hekts:1546",
+      "telegram:ekgyo_ktlev:367",
+      "telegram:endae_cates:490",
+      "telegram:endeks_selec:360",
+      "telegram:enka_ekgyo:766",
+      "telegram:eregli_kardemir:363",
+      "telegram:faiz_tralt:1337",
+      "telegram:finans_sokm:1062",
+      "telegram:flap_beyaz:631",
+      "telegram:gesan_alfas:646",
+      "telegram:glrmk_brlsm:3078",
+      "telegram:glyho_ieyho:648",
+      "telegram:gubrf_aksa:744",
+      "telegram:gznmi_turex:713",
+      "telegram:havayollari_thyao:489",
+      "telegram:info_a1cap:727",
+      "telegram:isctr_ykbnk:743",
+      "telegram:kchol_sahol:751",
+      "telegram:kimmr_sanko:363",
+      "telegram:klyvp_ekos:698",
+      "telegram:lilak_konka:627",
+      "telegram:marmr_binho:365",
+      "telegram:miatk_ardyz:717",
+      "telegram:naten_bioen:1050",
+      "telegram:netas_alctl:728",
+      "telegram:nthol_akfis:364",
+      "telegram:onryt_odine:720",
+      "telegram:otkar_arclk:731",
+      "telegram:otkar_asuzu_jants:1069",
+      "telegram:oyakc_tekfen:489",
+      "telegram:patek_papil:1123",
+      "telegram:pclit_hrket:719",
+      "telegram:pltur_binbin:490",
+      "telegram:raysg_akgrt:632",
+      "telegram:reedr_agrot:733",
+      "telegram:sdttr_altny:727",
+      "telegram:sinyal_borsa:1097",
+      "telegram:sise_quagr:967",
+      "telegram:tatgida_efes:491",
+      "telegram:tavhl_doas:746",
+      "telegram:tehol_smrva:716",
+      "telegram:teknik_zoren:494",
+      "telegram:temettu_uzun_vade:1465",
+      "telegram:tknsa_mobtl:624",
+      "telegram:ttrak_karsn:717",
+      "telegram:tursg_ansgr:633",
+      "telegram:ulker_ccola:767",
+      "telegram:unlu_krvgd:717",
+      "telegram:vakbn_tskb:746",
+      "telegram:vakfa_ulufa:715",
+      "telegram:xu100_bist100:365",
+      "telegram:yatas_isbir:768"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@Akbank_garanti",
+      "@Bfren_balat",
+      "@Flap_beyaz",
+      "@Kimmr_sanko",
+      "@Otkar_asuzu_jants",
+      "@Pltur_binbin",
+      "@Raysg_akgrt",
+      "@Tatgida_efes",
+      "@Tknsa_mobtl",
+      "@Tursg_ansgr",
+      "@adese_pekgy",
+      "@ahgaz_basgz",
+      "@alark_bryat",
+      "@avhol_atsyh",
+      "@bimmarket_migros",
+      "@brisa_goody",
+      "@bsoke_yyapi",
+      "@bulten_smartg",
+      "@cante_enery",
+      "@cemzy_segmn",
+      "@cgcam_klser",
+      "@cwene_eupwr",
+      "@derinlik_skbnk",
+      "@doviz_kontrol",
+      "@dstkf_vsnmd",
+      "@ecilc_hekts",
+      "@ekgyo_ktlev",
+      "@endae_cates",
+      "@endeks_selec",
+      "@enka_ekgyo",
+      "@eregli_kardemir",
+      "@faiz_tralt",
+      "@finans_sokm",
+      "@gesan_alfas",
+      "@glrmk_brlsm",
+      "@glyho_ieyho",
+      "@gubrf_aksa",
+      "@gznmi_turex",
+      "@havayollari_thyao",
+      "@info_a1cap",
+      "@isctr_ykbnk",
+      "@kchol_sahol",
+      "@klyvp_ekos",
+      "@lilak_konka",
+      "@marmr_binho",
+      "@miatk_ardyz",
+      "@naten_bioen",
+      "@netas_alctl",
+      "@nthol_akfis",
+      "@onryt_odine",
+      "@otkar_arclk",
+      "@oyakc_tekfen",
+      "@patek_papil",
+      "@pclit_hrket",
+      "@reedr_agrot",
+      "@sdttr_altny",
+      "@sinyal_borsa",
+      "@sise_quagr",
+      "@tavhl_doas",
+      "@tehol_smrva",
+      "@teknik_zoren",
+      "@temettu_uzun_vade",
+      "@ttrak_karsn",
+      "@ulker_ccola",
+      "@unlu_krvgd",
+      "@vakbn_tskb",
+      "@vakfa_ulufa",
+      "@xu100_bist100",
+      "@yatas_isbir"
+    ],
+    "sources": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "C2",
+    "member_author_ids": [
+      "telegram:2275033761",
+      "telegram:2346587203",
+      "telegram:2403713077",
+      "telegram:2527216734",
+      "telegram:2571064950",
+      "telegram:2598384815",
+      "telegram:2601559299",
+      "telegram:2604920264",
+      "telegram:2605330803",
+      "telegram:2605560679",
+      "telegram:2606722657",
+      "telegram:2608717558",
+      "telegram:2624947199",
+      "telegram:2638243720",
+      "telegram:2642493038",
+      "telegram:2649602850",
+      "telegram:2649955081",
+      "telegram:2651201061",
+      "telegram:2655064284",
+      "telegram:2688309611",
+      "telegram:2695529129"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:america_3rd_party:164",
+          "telegram:america_catfish:161",
+          "telegram:america_transfer:162",
+          "telegram:america_usdtvendor:162",
+          "telegram:bank_in_america:161",
+          "telegram:francepay_02:149",
+          "telegram:francepay_04:148",
+          "telegram:germanypay_07:150",
+          "telegram:germanypay_10:149",
+          "telegram:italy_crypto_workers:150",
+          "telegram:philippines_party:167",
+          "telegram:portugal_transfer:166",
+          "telegram:russia_crypto_workers:162",
+          "telegram:singapore_3rd_party:150",
+          "telegram:singapore_transfer:149",
+          "telegram:taiwan_transfer:168",
+          "telegram:thailandpay_01:150",
+          "telegram:turkey_usdt_trader:151",
+          "telegram:uaepay_03:147",
+          "telegram:vietnam_catfish:167",
+          "telegram:vietnam_usdtvendor:165"
+        ],
+        "detail": "21 posts by 21 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.99,
+        "evidence_post_ids": [
+          "telegram:america_3rd_party:164",
+          "telegram:america_catfish:161",
+          "telegram:america_transfer:162",
+          "telegram:america_usdtvendor:162",
+          "telegram:bank_in_america:161",
+          "telegram:francepay_02:149",
+          "telegram:francepay_04:148",
+          "telegram:germanypay_07:150",
+          "telegram:germanypay_10:149",
+          "telegram:italy_crypto_workers:150",
+          "telegram:philippines_party:167",
+          "telegram:portugal_transfer:166",
+          "telegram:russia_crypto_workers:162",
+          "telegram:singapore_3rd_party:150",
+          "telegram:singapore_transfer:149",
+          "telegram:taiwan_transfer:168",
+          "telegram:thailandpay_01:150",
+          "telegram:turkey_usdt_trader:151",
+          "telegram:uaepay_03:147",
+          "telegram:vietnam_catfish:167",
+          "telegram:vietnam_usdtvendor:165"
+        ],
+        "detail": "100 same-content post pairs (100 near-duplicate text, 0 same link) by 21 accounts posted within 10 min of each other (median lag 5 s; platform timestamps)"
+      },
+      {
+        "type": "similar_creation_dates",
+        "score": 0.867,
+        "evidence_post_ids": [
+          "telegram:america_3rd_party:164",
+          "telegram:america_catfish:161",
+          "telegram:america_transfer:162",
+          "telegram:america_usdtvendor:162",
+          "telegram:bank_in_america:161",
+          "telegram:francepay_02:149",
+          "telegram:francepay_04:148",
+          "telegram:germanypay_07:150",
+          "telegram:germanypay_10:149",
+          "telegram:italy_crypto_workers:150",
+          "telegram:philippines_party:167",
+          "telegram:portugal_transfer:166",
+          "telegram:russia_crypto_workers:162",
+          "telegram:singapore_3rd_party:150",
+          "telegram:singapore_transfer:149",
+          "telegram:taiwan_transfer:168",
+          "telegram:thailandpay_01:150",
+          "telegram:turkey_usdt_trader:151",
+          "telegram:uaepay_03:147",
+          "telegram:vietnam_catfish:167",
+          "telegram:vietnam_usdtvendor:165"
+        ],
+        "detail": "21 of 21 accounts with a platform-reported creation date were created within 3 days of each other (max gap 0.9 days)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:america_3rd_party:164",
+      "telegram:america_catfish:161",
+      "telegram:america_transfer:162",
+      "telegram:america_usdtvendor:162",
+      "telegram:bank_in_america:161",
+      "telegram:francepay_02:149",
+      "telegram:francepay_04:148",
+      "telegram:germanypay_07:150",
+      "telegram:germanypay_10:149",
+      "telegram:italy_crypto_workers:150",
+      "telegram:philippines_party:167",
+      "telegram:portugal_transfer:166",
+      "telegram:russia_crypto_workers:162",
+      "telegram:singapore_3rd_party:150",
+      "telegram:singapore_transfer:149",
+      "telegram:taiwan_transfer:168",
+      "telegram:thailandpay_01:150",
+      "telegram:turkey_usdt_trader:151",
+      "telegram:uaepay_03:147",
+      "telegram:vietnam_catfish:167",
+      "telegram:vietnam_usdtvendor:165"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@America_3rd_party",
+      "@America_USDTVendor",
+      "@America_catfish",
+      "@America_transfer",
+      "@Bank_in_America",
+      "@Francepay_02",
+      "@Francepay_04",
+      "@Germanypay_07",
+      "@Germanypay_10",
+      "@Italy_crypto_workers",
+      "@Philippines_party",
+      "@Portugal_transfer",
+      "@Russia_crypto_workers",
+      "@Singapore_3rd_party",
+      "@Singapore_transfer",
+      "@Taiwan_transfer",
+      "@Thailandpay_01",
+      "@Turkey_usdt_trader",
+      "@UAEpay_03",
+      "@Vietnam_USDTVendor",
+      "@Vietnam_catfish"
+    ],
+    "sources": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "C3",
+    "member_author_ids": [
+      "telegram:1796663299",
+      "telegram:1869747582",
+      "telegram:2087905608",
+      "telegram:2113417400",
+      "telegram:3574768355",
+      "telegram:3700865371",
+      "telegram:3812682160",
+      "telegram:3829383455",
+      "telegram:3853842408",
+      "telegram:3892630710",
+      "telegram:3903154288",
+      "telegram:3948274609",
+      "telegram:3964883457",
+      "telegram:4326025653",
+      "telegram:4338042968",
+      "telegram:4462206798",
+      "telegram:4467913337"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:arzduyurum:6194",
+          "telegram:bististanbull:1507",
+          "telegram:borsa001122:5207",
+          "telegram:borsa724haber:1997",
+          "telegram:borsa_haberrr:1510",
+          "telegram:borsa_merkezi:19522",
+          "telegram:borsaagundemi:11620",
+          "telegram:borsaarenaa:5799",
+          "telegram:borsabloomberg:16493",
+          "telegram:borsabulteni:2005",
+          "telegram:borsaciilar:10373",
+          "telegram:borsadoxxx:5456",
+          "telegram:borsaistanbulanlikhaber:8698",
+          "telegram:borsakulubuu:10014",
+          "telegram:borsapatronn:6767",
+          "telegram:borsayakindantakip:23691",
+          "telegram:mrborsaci:1197"
+        ],
+        "detail": "17 posts by 17 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.964,
+        "evidence_post_ids": [
+          "telegram:arzduyurum:6194",
+          "telegram:bististanbull:1507",
+          "telegram:borsa001122:5207",
+          "telegram:borsa724haber:1997",
+          "telegram:borsa_haberrr:1510",
+          "telegram:borsa_merkezi:19522",
+          "telegram:borsaagundemi:11620",
+          "telegram:borsaarenaa:5799",
+          "telegram:borsabloomberg:16493",
+          "telegram:borsabulteni:2005",
+          "telegram:borsaciilar:10373",
+          "telegram:borsadoxxx:5456",
+          "telegram:borsaistanbulanlikhaber:8698",
+          "telegram:borsakulubuu:10014",
+          "telegram:borsapatronn:6767",
+          "telegram:borsayakindantakip:23691",
+          "telegram:mrborsaci:1197"
+        ],
+        "detail": "136 same-content post pairs (136 near-duplicate text, 0 same link) by 17 accounts posted within 10 min of each other (median lag 18 s; platform timestamps)"
+      },
+      {
+        "type": "similar_creation_dates",
+        "score": 0.813,
+        "evidence_post_ids": [
+          "telegram:bististanbull:1507",
+          "telegram:borsa724haber:1997",
+          "telegram:borsa_haberrr:1510",
+          "telegram:borsabulteni:2005",
+          "telegram:borsaciilar:10373",
+          "telegram:borsaistanbulanlikhaber:8698",
+          "telegram:borsakulubuu:10014"
+        ],
+        "detail": "7 of 17 accounts with a platform-reported creation date were created within 3 days of each other (max gap 1.2 days)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:arzduyurum:6194",
+      "telegram:bististanbull:1507",
+      "telegram:borsa001122:5207",
+      "telegram:borsa724haber:1997",
+      "telegram:borsa_haberrr:1510",
+      "telegram:borsa_merkezi:19522",
+      "telegram:borsaagundemi:11620",
+      "telegram:borsaarenaa:5799",
+      "telegram:borsabloomberg:16493",
+      "telegram:borsabulteni:2005",
+      "telegram:borsaciilar:10373",
+      "telegram:borsadoxxx:5456",
+      "telegram:borsaistanbulanlikhaber:8698",
+      "telegram:borsakulubuu:10014",
+      "telegram:borsapatronn:6767",
+      "telegram:borsayakindantakip:23691",
+      "telegram:mrborsaci:1197"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@Bististanbull",
+      "@Borsayakindantakip",
+      "@arzduyurum",
+      "@borsa001122",
+      "@borsa724haber",
+      "@borsa_haberrr",
+      "@borsa_merkezi",
+      "@borsaagundemi",
+      "@borsaarenaa",
+      "@borsabloomberg",
+      "@borsabulteni",
+      "@borsaciilar",
+      "@borsadoxxx",
+      "@borsaistanbulanlikhaber",
+      "@borsakulubuu",
+      "@borsapatronn",
+      "@mrborsaci"
+    ],
+    "sources": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "C4",
+    "member_author_ids": [
+      "telegram:3948793077",
+      "telegram:4316465565",
+      "telegram:4351618911",
+      "telegram:4361969989",
+      "telegram:4380805870",
+      "telegram:4420551437",
+      "telegram:4422107838",
+      "telegram:4450792948"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:angelogreco_fx:2844",
+          "telegram:iacopopiersantellitgcrypto_fx:2534",
+          "telegram:massimospeedynews_fx:2967",
+          "telegram:oxfordchart_f:2565",
+          "telegram:salvatoredamico_f1:2868",
+          "telegram:stefanalanei_f:2865",
+          "telegram:webeconomiaita_f:2808",
+          "telegram:zorzigiov_fx:2709"
+        ],
+        "detail": "8 posts by 8 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.986,
+        "evidence_post_ids": [
+          "telegram:angelogreco_fx:2844",
+          "telegram:iacopopiersantellitgcrypto_fx:2534",
+          "telegram:massimospeedynews_fx:2967",
+          "telegram:oxfordchart_f:2565",
+          "telegram:salvatoredamico_f1:2868",
+          "telegram:stefanalanei_f:2865",
+          "telegram:webeconomiaita_f:2808",
+          "telegram:zorzigiov_fx:2709"
+        ],
+        "detail": "13 same-content post pairs (13 near-duplicate text, 0 same link) by 8 accounts posted within 10 min of each other (median lag 7 s; platform timestamps)"
+      },
+      {
+        "type": "similar_creation_dates",
+        "score": 0.541,
+        "evidence_post_ids": [
+          "telegram:angelogreco_fx:2844",
+          "telegram:iacopopiersantellitgcrypto_fx:2534",
+          "telegram:massimospeedynews_fx:2967",
+          "telegram:oxfordchart_f:2565",
+          "telegram:salvatoredamico_f1:2868",
+          "telegram:stefanalanei_f:2865",
+          "telegram:webeconomiaita_f:2808",
+          "telegram:zorzigiov_fx:2709"
+        ],
+        "detail": "8 of 8 accounts with a platform-reported creation date were created within 3 days of each other (max gap 2.9 days)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:angelogreco_fx:2844",
+      "telegram:iacopopiersantellitgcrypto_fx:2534",
+      "telegram:massimospeedynews_fx:2967",
+      "telegram:oxfordchart_f:2565",
+      "telegram:salvatoredamico_f1:2868",
+      "telegram:stefanalanei_f:2865",
+      "telegram:webeconomiaita_f:2808",
+      "telegram:zorzigiov_fx:2709"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@AngeloGreco_fx",
+      "@IacopoPiersantelliTGCrypto_fx",
+      "@OxfordChart_f",
+      "@WebEconomiaita_f",
+      "@massimospeedynews_fx",
+      "@salvatoredamico_f1",
+      "@stefanalanei_f",
+      "@zorzigiov_fx"
+    ],
+    "sources": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "C5",
+    "member_author_ids": [
+      "telegram:1402119388",
+      "telegram:1926775159",
+      "telegram:2036262064",
+      "telegram:2148191658",
+      "telegram:2214905798",
+      "telegram:2224125349",
+      "telegram:2238022475"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:dima_tkachev_expert:8602",
+          "telegram:dimatkachevv:21398",
+          "telegram:hyper_coin:2463",
+          "telegram:kodakrusop:2658",
+          "telegram:kyrzabonusx:2360",
+          "telegram:mark_in_crypt0:7519",
+          "telegram:tapswap_savdosii:2799"
+        ],
+        "detail": "7 posts by 7 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.963,
+        "evidence_post_ids": [
+          "telegram:dima_tkachev_expert:8602",
+          "telegram:dimatkachevv:21398",
+          "telegram:hyper_coin:2463",
+          "telegram:kodakrusop:2658",
+          "telegram:kyrzabonusx:2360",
+          "telegram:mark_in_crypt0:7519",
+          "telegram:tapswap_savdosii:2799"
+        ],
+        "detail": "21 same-content post pairs (21 near-duplicate text, 0 same link) by 7 accounts posted within 10 min of each other (median lag 38 s; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:dima_tkachev_expert:8602",
+      "telegram:dimatkachevv:21398",
+      "telegram:hyper_coin:2463",
+      "telegram:kodakrusop:2658",
+      "telegram:kyrzabonusx:2360",
+      "telegram:mark_in_crypt0:7519",
+      "telegram:tapswap_savdosii:2799"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@TapSwap_savdosii",
+      "@dima_tkachev_expert",
+      "@dimatkachevv",
+      "@hyper_coin",
+      "@kodakrusop",
+      "@kyrzabonusx",
+      "@mark_in_crypt0"
+    ],
+    "sources": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "C6",
+    "member_author_ids": [
+      "telegram:1878323879",
+      "telegram:2194466377",
+      "telegram:2357885502",
+      "telegram:2475340550",
+      "telegram:3035171517",
+      "telegram:3399848808"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:clubbbus1:336",
+          "telegram:deepstatecollapse:348",
+          "telegram:lovingusachannel:720",
+          "telegram:magausa47:919",
+          "telegram:usawellnesshub:219",
+          "telegram:wonderusa1:454"
+        ],
+        "detail": "6 posts by 6 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.777,
+        "evidence_post_ids": [
+          "telegram:clubbbus1:336",
+          "telegram:deepstatecollapse:348",
+          "telegram:lovingusachannel:720",
+          "telegram:magausa47:919",
+          "telegram:usawellnesshub:219",
+          "telegram:wonderusa1:454"
+        ],
+        "detail": "15 same-content post pairs (15 near-duplicate text, 0 same link) by 6 accounts posted within 10 min of each other (median lag 2.7 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:clubbbus1:336",
+      "telegram:deepstatecollapse:348",
+      "telegram:lovingusachannel:720",
+      "telegram:magausa47:919",
+      "telegram:usawellnesshub:219",
+      "telegram:wonderusa1:454"
+    ],
+    "benign_explanations": [
+      "6 of 6 supporting posts link to rebrand.ly: news syndication or wire-copy sharing can produce identical text and timing.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@DeepStateCollapse",
+      "@UsaWellnessHub",
+      "@clubbbus1",
+      "@lovingusachannel",
+      "@magausa47",
+      "@wonderusa1"
+    ],
+    "sources": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "C7",
+    "member_author_ids": [
+      "x:1202575908990832640",
+      "x:1387497871751196672",
+      "x:1465287137646026754",
+      "x:1942214670393176064"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "x:2122088800264626645",
+          "x:2122088921974616541",
+          "x:2122090303855145259",
+          "x:2122090689303359710"
+        ],
+        "detail": "4 posts by 4 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.534,
+        "evidence_post_ids": [
+          "x:2122088800264626645",
+          "x:2122088921974616541",
+          "x:2122090303855145259",
+          "x:2122090689303359710"
+        ],
+        "detail": "6 same-content post pairs (6 near-duplicate text, 0 same link) by 4 accounts posted within 10 min of each other (median lag 6.0 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "x:2122088800264626645",
+      "x:2122088921974616541",
+      "x:2122090303855145259",
+      "x:2122090689303359710"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@Geo_News_Alert_",
+      "@MarketNews_Feed",
+      "@ParadoxAlgo",
+      "@WatcherGuru"
+    ],
+    "sources": [
+      "x"
+    ]
+  },
+  {
+    "id": "C8",
+    "member_author_ids": [
+      "x:139022852",
+      "x:34903414",
+      "x:845097667877318656"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "x:2121747444258025826",
+          "x:2121747444362829836",
+          "x:2121747445541470625",
+          "x:2122117397444280531",
+          "x:2122117398429831174",
+          "x:2122117399075791011",
+          "x:2122834506059067838",
+          "x:2122834506092609990",
+          "x:2122834506495197457"
+        ],
+        "detail": "9 posts by 3 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "x:2121747444258025826",
+          "x:2121747444362829836",
+          "x:2121747445541470625",
+          "x:2122117397444280531",
+          "x:2122117398429831174",
+          "x:2122117399075791011",
+          "x:2122834506059067838",
+          "x:2122834506092609990",
+          "x:2122834506495197457"
+        ],
+        "detail": "9 same-content post pairs (9 near-duplicate text, 0 same link) by 3 accounts posted within 10 min of each other (median lag 0 s; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "x:2121747444258025826",
+      "x:2121747444362829836",
+      "x:2121747445541470625",
+      "x:2122117397444280531",
+      "x:2122117398429831174",
+      "x:2122117399075791011",
+      "x:2122834506059067838",
+      "x:2122834506092609990",
+      "x:2122834506495197457"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@FlyersBroadcast",
+      "@ctherien6",
+      "@jasonmyrt"
+    ],
+    "sources": [
+      "x"
+    ]
+  },
+  {
+    "id": "C9",
+    "member_author_ids": [
+      "linkedin:company/securities-finance-times",
+      "linkedin:in/chelseabowles",
+      "linkedin:in/steven-lafferty-39214621"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "linkedin:7529135471625666560",
+          "linkedin:7529135522837958656",
+          "linkedin:7529135555297677312"
+        ],
+        "detail": "3 posts by 3 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.979,
+        "evidence_post_ids": [
+          "linkedin:7529135471625666560",
+          "linkedin:7529135522837958656",
+          "linkedin:7529135555297677312"
+        ],
+        "detail": "3 same-content post pairs (3 near-duplicate text, 0 same link) by 3 accounts posted within 10 min of each other (median lag 12 s; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "linkedin:7529135471625666560",
+      "linkedin:7529135522837958656",
+      "linkedin:7529135555297677312"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "company/securities-finance-times",
+      "in/chelseabowles",
+      "in/steven-lafferty-39214621"
+    ],
+    "sources": [
+      "linkedin"
+    ]
+  },
+  {
+    "id": "C10",
+    "member_author_ids": [
+      "x:1285103375118467073",
+      "x:1351062375177269251",
+      "x:1967956031276773376"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "x:2122089679742988306",
+          "x:2122089812220080407",
+          "x:2122091831949242687"
+        ],
+        "detail": "3 posts by 3 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.43,
+        "evidence_post_ids": [
+          "x:2122089679742988306",
+          "x:2122089812220080407",
+          "x:2122091831949242687"
+        ],
+        "detail": "3 same-content post pairs (3 near-duplicate text, 0 same link) by 3 accounts posted within 10 min of each other (median lag 8.0 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "x:2122089679742988306",
+      "x:2122089812220080407",
+      "x:2122091831949242687"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@freebirds0",
+      "@mrgreg779",
+      "@peterkkhan"
+    ],
+    "sources": [
+      "x"
+    ]
+  },
+  {
+    "id": "C11",
+    "member_author_ids": [
+      "x:37796310",
+      "x:65501379",
+      "x:65505209"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "x:2123177207212151078",
+          "x:2123177207384137821",
+          "x:2123177209896542312"
+        ],
+        "detail": "3 posts by 3 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.999,
+        "evidence_post_ids": [
+          "x:2123177207212151078",
+          "x:2123177207384137821",
+          "x:2123177209896542312"
+        ],
+        "detail": "3 same-content post pairs (3 near-duplicate text, 0 same link) by 3 accounts posted within 10 min of each other (median lag 1 s; platform timestamps)"
+      },
+      {
+        "type": "similar_creation_dates",
+        "score": 0.996,
+        "evidence_post_ids": [
+          "x:2123177207212151078",
+          "x:2123177207384137821"
+        ],
+        "detail": "2 of 3 accounts with a platform-reported creation date were created within 3 days of each other (max gap 0.0 days)"
+      }
+    ],
+    "supporting_post_ids": [
+      "x:2123177207212151078",
+      "x:2123177207384137821",
+      "x:2123177209896542312"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@elimparcialcom",
+      "@fronterainfo",
+      "@lacronicacom"
+    ],
+    "sources": [
+      "x"
+    ]
+  },
+  {
+    "id": "C12",
+    "member_author_ids": [
+      "linkedin:company/pmp-exam",
+      "linkedin:in/darronclarkemba"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "linkedin:7529083598885478400",
+          "linkedin:7529083601636872192"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.998,
+        "evidence_post_ids": [
+          "linkedin:7529083598885478400",
+          "linkedin:7529083601636872192"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 1 s; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "linkedin:7529083598885478400",
+      "linkedin:7529083601636872192"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "company/pmp-exam",
+      "in/darronclarkemba"
+    ],
+    "sources": [
+      "linkedin"
+    ]
+  },
+  {
+    "id": "C13",
+    "member_author_ids": [
+      "linkedin:company/propstack",
+      "x:4895731340"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 0.951,
+        "evidence_post_ids": [
+          "linkedin:7529177638175846400",
+          "x:2123412236370890998"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 0.95)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.887,
+        "evidence_post_ids": [
+          "linkedin:7529177638175846400",
+          "x:2123412236370890998"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 1.1 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "linkedin:7529177638175846400",
+      "x:2123412236370890998"
+    ],
+    "benign_explanations": [
+      "2 accounts share the display name 'propstack' (on linkedin, x): possibly one organisation's official accounts cross-posting.",
+      "1 of 2 supporting posts link to hindustantimes.com: news syndication or wire-copy sharing can produce identical text and timing.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@PropstackIndia",
+      "company/propstack"
+    ],
+    "sources": [
+      "linkedin",
+      "x"
+    ]
+  },
+  {
+    "id": "C14",
+    "member_author_ids": [
+      "linkedin:company/rhea-wong-consulting",
+      "linkedin:in/rheawong"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "linkedin:7529182884906332161",
+          "linkedin:7529183062048366592"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.93,
+        "evidence_post_ids": [
+          "linkedin:7529182884906332161",
+          "linkedin:7529183062048366592"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 42 s; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "linkedin:7529182884906332161",
+      "linkedin:7529183062048366592"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "company/rhea-wong-consulting",
+      "in/rheawong"
+    ],
+    "sources": [
+      "linkedin"
+    ]
+  },
+  {
+    "id": "C15",
+    "member_author_ids": [
+      "linkedin:company/siraj-ventures",
+      "linkedin:in/fahadmsiraj"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "linkedin:7529179427205902336",
+          "linkedin:7529179654470070273"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.908,
+        "evidence_post_ids": [
+          "linkedin:7529179427205902336",
+          "linkedin:7529179654470070273"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 55 s; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "linkedin:7529179427205902336",
+      "linkedin:7529179654470070273"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "company/siraj-ventures",
+      "in/fahadmsiraj"
+    ],
+    "sources": [
+      "linkedin"
+    ]
+  },
+  {
+    "id": "C16",
+    "member_author_ids": [
+      "linkedin:company/statusisdown",
+      "x:180687225"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "linkedin:7529184582391230464",
+          "x:2123418801832116666"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.965,
+        "evidence_post_ids": [
+          "linkedin:7529184582391230464",
+          "x:2123418801832116666"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 21 s; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "linkedin:7529184582391230464",
+      "x:2123418801832116666"
+    ],
+    "benign_explanations": [
+      "2 accounts share the display name 'status is down' (on linkedin, x): possibly one organisation's official accounts cross-posting.",
+      "2 of 2 supporting posts link to statusisdown.com: news syndication or wire-copy sharing can produce identical text and timing.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@statusisdown",
+      "company/statusisdown"
+    ],
+    "sources": [
+      "linkedin",
+      "x"
+    ]
+  },
+  {
+    "id": "C17",
+    "member_author_ids": [
+      "telegram:1697001666",
+      "x:2477588462"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:inversionescedear:3699",
+          "x:2123409776084390338"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.622,
+        "evidence_post_ids": [
+          "telegram:inversionescedear:3699",
+          "x:2123409776084390338"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 3.8 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:inversionescedear:3699",
+      "x:2123409776084390338"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@barrosfede79",
+      "@inversionescedear"
+    ],
+    "sources": [
+      "telegram",
+      "x"
+    ]
+  },
+  {
+    "id": "C18",
+    "member_author_ids": [
+      "telegram:1898745512",
+      "telegram:2131968986"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:jfk_truth:3236",
+          "telegram:us_debt_clock:3168"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.703,
+        "evidence_post_ids": [
+          "telegram:jfk_truth:3236",
+          "telegram:us_debt_clock:3168"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 3.0 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:jfk_truth:3236",
+      "telegram:us_debt_clock:3168"
+    ],
+    "benign_explanations": [
+      "2 of 2 supporting posts link to cutt.ly: news syndication or wire-copy sharing can produce identical text and timing.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@JFK_TRUTH",
+      "@US_Debt_Clock"
+    ],
+    "sources": [
+      "telegram"
+    ]
+  },
+  {
+    "id": "C19",
+    "member_author_ids": [
+      "x:1821734608926388224",
+      "x:2011073857273364480"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 0.989,
+        "evidence_post_ids": [
+          "x:2122835764807438628",
+          "x:2122836932468060245"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 0.99)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.537,
+        "evidence_post_ids": [
+          "x:2122835764807438628",
+          "x:2122836932468060245"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 4.6 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "x:2122835764807438628",
+      "x:2122836932468060245"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@ZaksMetaX",
+      "@bitcoinxalerts"
+    ],
+    "sources": [
+      "x"
+    ]
+  },
+  {
+    "id": "C20",
+    "member_author_ids": [
+      "youtube:UCAOmo65jdaeSDGGp5Fd7AdQ",
+      "youtube:UCIwGTt8h-ZisZTn6saY0CEw"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 0.889,
+        "evidence_post_ids": [
+          "youtube:LMDFCNEjUlA",
+          "youtube:aQHrZxvRW3g"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 0.89)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.323,
+        "evidence_post_ids": [
+          "youtube:LMDFCNEjUlA",
+          "youtube:aQHrZxvRW3g"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 6.8 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "youtube:LMDFCNEjUlA",
+      "youtube:aQHrZxvRW3g"
+    ],
+    "benign_explanations": [
+      "2 of 2 supporting posts link to espn.com: news syndication or wire-copy sharing can produce identical text and timing.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@ceciliahuie7307",
+      "@nflreports"
+    ],
+    "sources": [
+      "youtube"
+    ]
+  }
+]

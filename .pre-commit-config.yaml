@@ -1,0 +1,15 @@
+# Secret scanning before every commit (CLAUDE.md §5).
+# With the `pre-commit` tool:  pip install pre-commit && pre-commit install
+# Without it:                  sh scripts/install-hooks.sh   (native git hook, same checks)
+repos:
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: v8.21.2
+    hooks:
+      - id: gitleaks
+  - repo: local
+    hooks:
+      - id: socmint-blocked-files
+        name: block secrets, sessions, cookies and run output
+        entry: sh scripts/hooks/pre-commit --blocked-only
+        language: system
+        pass_filenames: false

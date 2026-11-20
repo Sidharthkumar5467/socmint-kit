@@ -1,0 +1,10 @@
+{
+  "_fixture_note": "Standard Google API JSON error envelope with the commentsDisabled reason listed for commentThreads.list at developers.google.com/youtube/v3/docs/errors. Not a live response.",
+  "error": {
+    "code": 403,
+    "message": "The video identified by the videoId parameter has disabled comments.",
+    "errors": [
+      {"message": "The video identified by the videoId parameter has disabled comments.", "domain": "youtube.commentThread", "reason": "commentsDisabled"}
+    ]
+  }
+}

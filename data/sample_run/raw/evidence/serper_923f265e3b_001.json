@@ -1,0 +1,79 @@
+{
+ "provider": "serper",
+ "query": "Seven major banks together reported about $29.4 million in XRP-linked investment products in SEC filings as of September 30, 2026.",
+ "params": {
+  "q": "Seven major banks together reported about $29.4 million in XRP-linked investment products in SEC filings as of September 30, 2026.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:05Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Seven major banks together reported about $29.4 million in XRP-linked investment products in SEC filings as of September 30, 2026.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Bank of America Discloses $106,600 XRP ETF Position as Goldman Sachs Lifts Stake to $144 Million",
+    "link": "https://finance.biggo.com/news/28cacc95-5feb-4f58-82f3-1564a520911e",
+    "date": "2 days ago",
+    "source": "BigGo Finance",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "XRP Eyes $1 Recovery as Major Banks Disclose ETF Holdings",
+    "link": "https://www.tradingview.com/news/benzinga:cddcff61b094b:***",
+    "date": "1 day ago",
+    "source": "TradingView",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Seven Major Banks Disclose $29.4M in XRP ETF Holdings in SEC Filings",
+    "link": "https://www.binance.com/en-NG/square/post/389067863576883",
+    "date": "3 days ago",
+    "source": "Binance",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America follows Goldman Sachs in expanding XRP ETF holdings",
+    "link": "https://www.digitaltoday.co.kr/en/view/127173/bank-of-america-follows-goldman-sachs-in-expanding-xrp-etf-holdings",
+    "date": "2 days ago",
+    "source": "디지털투데이",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America Discloses New XRP ETF Investment in Q3 Filing",
+    "link": "https://crypto-economy.com/bank-of-america-discloses-new-xrp-etf-investment-in-q3-filing/",
+    "date": "2 days ago",
+    "source": "Crypto Economy",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "7 Major Banks Reveal XRP ETF Holdings in Latest SEC Filings",
+    "link": "https://news.bitcoin.com/featured/7-major-banks-reveal-xrp-etf-holdings-latest-sec-filings/",
+    "date": "3 days ago",
+    "source": "Bitcoin News",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America XRP ETF Holds Steady in Q3 Filing",
+    "link": "https://en.cryptonomist.ch/2026/11/18/bank-of-america-xrp-etf/",
+    "date": "1 day ago",
+    "source": "The Cryptonomist",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Wells Fargo More Than Doubles Blackrock Bitcoin ETF Holdings to $2.35B",
+    "link": "https://news.bitcoin.com/featured/wells-fargo-doubles-blackrock-bitcoin-etf-holdings-2-35-billion/",
+    "date": "2 days ago",
+    "source": "Bitcoin News",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

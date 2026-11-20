@@ -1,0 +1,3135 @@
+{
+ "data": {
+  "data": {
+   "searchDashClustersByAll": {
+    "metadata": {
+     "totalResultCount": 245,
+     "$type": "com.linkedin.voyager.dash.search.SearchClusterCollectionMetadata"
+    },
+    "paging": {
+     "count": 10,
+     "start": 0,
+     "total": 245,
+     "$type": "com.linkedin.restli.common.CollectionMetadata"
+    },
+    "elements": [
+     {
+      "clusterRenderType": "LIST",
+      "dismissable": false,
+      "$type": "com.linkedin.voyager.dash.search.SearchClusterViewModel",
+      "position": 1,
+      "items": [
+       {
+        "item": {
+         "simpleTextV2": {
+          "showDashes": false,
+          "textAlignment": "LEFT",
+          "numDashes": 0,
+          "text": {
+           "textDirection": "USER_LOCALE",
+           "text": "245 results",
+           "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+          },
+          "renderStyle": "PLAIN",
+          "$type": "com.linkedin.voyager.dash.search.SimpleText"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       }
+      ],
+      "trackingId": "ï-á?\u0015dN\u000e\u0003¢\u0004èP¹"
+     },
+     {
+      "clusterRenderType": "LIST",
+      "dismissable": false,
+      "$type": "com.linkedin.voyager.dash.search.SearchClusterViewModel",
+      "position": 2,
+      "items": [
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7529180776194625538,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "30tivGoLSL+oeY7fN4TW/g==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7529179654470070273,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "p7mYnURxSC2AloDJ5tkV1A==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7529179427205902336,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "C/j7WMIqTl6CRoa/HugIaw==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7529179494742487040,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "cWe0trdZT9m9NzD8gO2BrA==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7529179154949316608,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "KR+XOVPhR822n3K9ajSp8Q==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7529179208732848129,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "VD2+pBvdR+GRsu+d3zdpsw==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7529179295630417920,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "ZzWqxH+mRUWknxHIO9vaIg==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7529179043053772800,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "XiLFp2rBRqqtUFwVtVqkWA==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7529178435005480961,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "gprlckLXQAKArTxXfhxSyQ==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       },
+       {
+        "item": {
+         "searchFeedUpdate": {
+          "*update": "urn:li:fsd_update:(urn:li:activity:7529178288389545985,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+          "trackingId": "Z3gEW2uZQsmXB4Zsn5HGRA==",
+          "$type": "com.linkedin.voyager.dash.search.SearchUpdateWrapper"
+         }
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       }
+      ],
+      "trackingId": "¥åC`[DõËíÐÎ[¤&"
+     },
+     {
+      "clusterRenderType": "LIST",
+      "dismissable": false,
+      "$type": "com.linkedin.voyager.dash.search.SearchClusterViewModel",
+      "position": 3,
+      "items": [
+       {
+        "item": {
+         "*feedbackCard": "urn:li:fsd_feedbackCard:SRP_FEEDBACK_CONTENT"
+        },
+        "position": 1,
+        "$type": "com.linkedin.voyager.dash.search.SearchItem"
+       }
+      ],
+      "trackingId": "\u000eMÜÀ\u0010KÄ{¸åãD"
+     }
+    ],
+    "$type": "com.linkedin.restli.common.CollectionResponse"
+   }
+  }
+ },
+ "included": [
+  {
+   "numLikes": 0,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:ugcPost:7529179493891112960",
+   "numComments": 0,
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:ugcPost:7529179493891112960",
+   "numShares": 0,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:ugcPost:7529179493891112960"
+  },
+  {
+   "numLikes": 4,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:activity:7529178288389545985",
+   "numComments": 0,
+   "reactionTypeCounts": [
+    {
+     "count": 2,
+     "reactionType": "PRAISE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    },
+    {
+     "count": 2,
+     "reactionType": "LIKE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    }
+   ],
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529178288389545985",
+   "numShares": 3,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7529178288389545985"
+  },
+  {
+   "numLikes": 0,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:activity:7529179295630417920",
+   "numComments": 0,
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529179295630417920",
+   "numShares": 0,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7529179295630417920"
+  },
+  {
+   "numLikes": 1,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:activity:7529179208732848129",
+   "numComments": 0,
+   "reactionTypeCounts": [
+    {
+     "count": 1,
+     "reactionType": "LIKE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    }
+   ],
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529179208732848129",
+   "numShares": 0,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7529179208732848129"
+  },
+  {
+   "numLikes": 0,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:activity:7529178435005480961",
+   "numComments": 0,
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529178435005480961",
+   "numShares": 0,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7529178435005480961"
+  },
+  {
+   "numLikes": 0,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:activity:7529180776194625538",
+   "numComments": 0,
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529180776194625538",
+   "numShares": 0,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7529180776194625538"
+  },
+  {
+   "numLikes": 0,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:activity:7529179427205902336",
+   "numComments": 0,
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529179427205902336",
+   "numShares": 0,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7529179427205902336"
+  },
+  {
+   "numLikes": 0,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:activity:7529179154949316608",
+   "numComments": 0,
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529179154949316608",
+   "numShares": 0,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7529179154949316608"
+  },
+  {
+   "numLikes": 11,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:activity:7529179043053772800",
+   "numComments": 0,
+   "reactionTypeCounts": [
+    {
+     "count": 11,
+     "reactionType": "LIKE",
+     "$type": "com.linkedin.voyager.dash.feed.social.ReactionTypeCount"
+    }
+   ],
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529179043053772800",
+   "numShares": 7,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7529179043053772800"
+  },
+  {
+   "numLikes": 0,
+   "liked": false,
+   "$type": "com.linkedin.voyager.dash.feed.SocialActivityCounts",
+   "urn": "urn:li:activity:7529179654470070273",
+   "numComments": 0,
+   "entityUrn": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529179654470070273",
+   "numShares": 0,
+   "preDashEntityUrn": "urn:li:fs_socialActivityCounts:urn:li:activity:7529179654470070273"
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7529179043053772800",
+    "shareUrn": "urn:li:share:7529179041677930496",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/cbi-scpa_cbi-salonedeipagamenti-agoraeqdelfuturo-activity-7529179043053772800-P0ze?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "imageComponent": {
+     "images": [
+      {
+       "attributes": [
+        {
+         "scalingType": "ASPECT_FIT",
+         "detailData": {
+          "vectorImage": {
+           "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D22AQEAAlkWtfn7xQ",
+           "artifacts": [
+            {
+             "width": 160,
+             "fileIdentifyingUrlPathSegment": "shrink_160/B4DaH0EcP6JMAo-/0/1795096167716?e=1796860800&v=beta&t=ZCHFaAClvY_bbuCxWy_90XSrU8zbmsrsjPJVmLg4bPw",
+             "expiresAt": 1796860800000,
+             "height": 160,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 1200,
+             "fileIdentifyingUrlPathSegment": "shrink_1280/B4DaH0EcP6JMAU-/0/1795096167716?e=1796860800&v=beta&t=wK-h3EqIchNVBbeOtZtSahpOsAokNvVzOMmxGsVc1WU",
+             "expiresAt": 1796860800000,
+             "height": 1200,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 1200,
+             "fileIdentifyingUrlPathSegment": "image-high-res/B4DaH0EcP6JMAc-/0/1795096167716?e=1796860800&v=beta&t=m9IOvVdIQs8MnD7CUOpC9lTcZcU82as5GQvQPExXez0",
+             "expiresAt": 1796860800000,
+             "height": 1200,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 480,
+             "fileIdentifyingUrlPathSegment": "shrink_480/B4DaH0EcP6JMAk-/0/1795096167716?e=1796860800&v=beta&t=8XwbjMztG6IJAcDey374c-7kDbeMo3b4vCU1qMFYjCA",
+             "expiresAt": 1796860800000,
+             "height": 480,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 800,
+             "fileIdentifyingUrlPathSegment": "shrink_800/B4DaH0EcP6JMAs-/0/1795096167716?e=1796860800&v=beta&t=MoH1woJHRNAI6grdplS0pho2PPyfpgxAFAyxbvDqvrY",
+             "expiresAt": 1796860800000,
+             "height": 800,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 20,
+             "fileIdentifyingUrlPathSegment": "shrink_20/B4DaH0EcP6JMAQ-/0/1795096167716?e=1796860800&v=beta&t=ihdHhEF8YzQEkUUz9nrnQ-F2kSZdi3lrikWwD_ufOE4",
+             "expiresAt": 1796860800000,
+             "height": 20,
+             "$type": "com.linkedin.common.VectorArtifact"
+            }
+           ],
+           "rootUrl": "https://media.licdn.com/dms/image/v2/D4D22AQEAAlkWtfn7xQ/feedshare-",
+           "$type": "com.linkedin.common.VectorImage"
+          }
+         },
+         "displayAspectRatio": 1.0,
+         "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+        }
+       ],
+       "editableAccessibilityText": true,
+       "accessibilityText": "View image",
+       "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+      }
+     ],
+     "multiphotoRenderingFormat": "COLLAGE",
+     "showTemplateCta": false,
+     "$type": "com.linkedin.voyager.dash.feed.component.image.ImageComponent"
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7529179043053772800,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityCompanyLogo": {
+         "*company": "urn:li:fsd_company:1979957",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:C4D0BAQElzDp-fqcHKw",
+          "artifacts": [
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630545459212/cbi_scpa_logo?e=1796860800&v=beta&t=aGLX-RR3wEldQw31uM2PoGvSxz1TIPEfw6di5YEFqBc",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630545459212/cbi_scpa_logo?e=1796860800&v=beta&t=cRxJ_U93_tFp95X1q7BVNLElhvFjrjIPw4phQqVvRhQ",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630545459212/cbi_scpa_logo?e=1796860800&v=beta&t=VWutEI-kHB8plys80tc2_fYnaZ94cFqOd7MMrYFb3M4",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQElzDp-fqcHKw/company-logo_",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "6,754 followers",
+     "accessibilityText": "6,754 followers",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:company:1979957",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowCompany",
+     "followTrackingActionType": "followCompany",
+     "companyFollowingTrackingContext": "MOBILE_NON_SSU",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_company:1979957",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "CBI S.c.p.a. Società Benefit",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 28,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:1979957"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 28,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:1979957"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "CBI S.c.p.a. Società Benefit",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "7m •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "7 minutes ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/company/cbi-scpa/posts",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedCompany",
+     "accessibilityText": "View company: CBI S.c.p.a. Società Benefit",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7529179043053772800,urn:li:activity:7529179043053772800,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "*translation": "urn:li:fsd_translation:(urn:li:share:7529179041677930496,it)",
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "🔄 L'evoluzione delle infrastrutture di clearing sarà al centro del workshop organizzato da CBI S.c.p.a. Società Benefit a Il Salone dei Pagamenti 2026.\n\nL'innovazione dei sistemi di pagamento richiede infrastrutture efficienti, sicure e interoperabili, capaci di accompagnare le trasformazioni del mercato italiano ed europeo.\n\n📅 Giovedì 26 novembre, dalle 11:30 alle 12:30, CBI terrà il workshop “Il futuro delle infrastrutture di clearing: prospettive di sistema e CBI-Comp”.\n\n🎤 Interverranno Marco Altamura, Payments & Cash Management, Direzione Global Transaction Banking, Divisione IMI Corporate e Investment Banking, Intesa Sanpaolo; María Cáceres Moreno, Domestic Payments Product Manager Southern Europe, Bank of America; Maria Gambardella, Chief Technology Officer di CBI; Sonia Guida, Consigliere di Banca d'Italia - Eurosistema; Andrea Saracini, Head of Business Applications of Payment Systems, BCC Sistemi Informatici, Gruppo BCC Iccrea e Fabio Sorrentino, Head of Standard di CBI.\n\n📍 26 novembre, ore 11:30\n🤝 Ti aspettiamo al nostro workshop!\n🔗 Iscriviti qui: https://lnkd.in/d8aE9-k5\n\n#CBI #SalonedeiPagamenti #agoràdelfuturo #CBIComp #Clearing #DigitalPayments #Interoperability",
+     "attributesV2": [
+      {
+       "start": 91,
+       "length": 28,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:1979957"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 122,
+       "length": 23,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:103662789"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 495,
+       "length": 14,
+       "detailData": {
+        "*profileMention": "urn:li:fsd_profile:ACoAAADNKREBZH6O_yQky2PlxNt06pKdyK1_4Fc"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 623,
+       "length": 15,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:164437"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 640,
+       "length": 20,
+       "detailData": {
+        "*profileMention": "urn:li:fsd_profile:ACoAABGtJosBx8gK-xIjcvJGn3SU_Ww9qo5ARsY"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 713,
+       "length": 15,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:1123"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 730,
+       "length": 17,
+       "detailData": {
+        "*profileMention": "urn:li:fsd_profile:ACoAAAJnqzgBdFSJkRh1px3Brq5y_dPkDoMP98E"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 810,
+       "length": 28,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:20869"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 840,
+       "length": 15,
+       "detailData": {
+        "*profileMention": "urn:li:fsd_profile:ACoAAAH4YPUBrwH-xiLpvXu4m2jvsOzTEJM5v-0"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 932,
+       "length": 17,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:11096664"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 952,
+       "length": 16,
+       "detailData": {
+        "*profileMention": "urn:li:fsd_profile:ACoAAAzhwRwBocPBxxH3USxehV5Jvfo_YKZ4_Us"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7529178288389545985",
+    "shareUrn": "urn:li:share:7529045382484508672",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/cajeme-villarreal-80a11426_cfefibrae-cfefibrae-cfefibrae-activity-7529178288389545985-nCjS?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "imageComponent": {
+     "images": [
+      {
+       "attributes": [
+        {
+         "scalingType": "ASPECT_FILL",
+         "detailData": {
+          "vectorImage": {
+           "digitalmediaAsset": "urn:li:digitalmediaAsset:D5622AQEZyO72JIBg0g",
+           "artifacts": [
+            {
+             "width": 160,
+             "fileIdentifyingUrlPathSegment": "shrink_160/B56aHyK4OhKAAc-/0/1795064300676?e=1796860800&v=beta&t=VKRBLmsm7CaM4KGjG44ERCQdYr9tpvqmgv4Nw_uHrD0",
+             "expiresAt": 1796860800000,
+             "height": 104,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 480,
+             "fileIdentifyingUrlPathSegment": "shrink_480/B56aHyK4OhKAAY-/0/1795064300677?e=1796860800&v=beta&t=xcFRVsHuWpxily2As7qP7tdstjeoXlTTF84MmwhVokc",
+             "expiresAt": 1796860800000,
+             "height": 312,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 1280,
+             "fileIdentifyingUrlPathSegment": "image-high-res/B56aHyK4OhKAAQ-/0/1795064300676?e=1796860800&v=beta&t=G7pr_P7mNppmp_HRlj24_NHWKvvxjKcjPU0DJh-xEp0",
+             "expiresAt": 1796860800000,
+             "height": 832,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 1280,
+             "fileIdentifyingUrlPathSegment": "shrink_1280/B56aHyK4OhKAAI-/0/1795064300677?e=1796860800&v=beta&t=SRHZ6Z02GQRda5Ohu7KjwysVrFpJyU6T4wKU7Q8HAGQ",
+             "expiresAt": 1796860800000,
+             "height": 832,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 800,
+             "fileIdentifyingUrlPathSegment": "shrink_800/B56aHyK4OhKAAg-/0/1795064300677?e=1796860800&v=beta&t=KUxbk76-XR-lgZpYXSHz7csslGcUGyadKogbP0yWDOE",
+             "expiresAt": 1796860800000,
+             "height": 520,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 20,
+             "fileIdentifyingUrlPathSegment": "shrink_20/B56aHyK4OhKAAE-/0/1795064300677?e=1796860800&v=beta&t=MMK-7MhdL9lD7_nKvNVK5dKEE75gYtPCyomQlGOG4zA",
+             "expiresAt": 1796860800000,
+             "height": 13,
+             "$type": "com.linkedin.common.VectorArtifact"
+            }
+           ],
+           "rootUrl": "https://media.licdn.com/dms/image/v2/D5622AQEZyO72JIBg0g/feedshare-",
+           "$type": "com.linkedin.common.VectorImage"
+          }
+         },
+         "displayAspectRatio": 0.65,
+         "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+        }
+       ],
+       "editableAccessibilityText": true,
+       "accessibilityText": "View image",
+       "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+      }
+     ],
+     "multiphotoRenderingFormat": "COLLAGE",
+     "showTemplateCta": false,
+     "$type": "com.linkedin.voyager.dash.feed.component.image.ImageComponent"
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7529178288389545985,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAAAVbHIoBDPkO3L74ZG4Y4xLrk_0o3WqP23U",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D5603AQHp2NI21rRazQ",
+          "artifacts": [
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "scale_200_200/B56ZnLwsiwI0AY-/0/1760060166093?e=1796860800&v=beta&t=FKVZHxCmwLuyHqCCQzB6PFdvPcitxQy5Ls7Qg0RI7VE",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "crop_800_800/B56ZnLwsiwI0AI-/0/1760060165965?e=1796860800&v=beta&t=ddo8mdIJUpDKzrhRE3S_itOr2s0wpyYox7WlNWsVoJ8",
+            "expiresAt": 1796860800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "scale_100_100/B56ZnLwsiwI0Ac-/0/1760060166093?e=1796860800&v=beta&t=5MXHjMZfBEWkLK6FdTHN0ra8TVsxx02LowEr6o9EuKw",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "scale_400_400/B56ZnLwsiwI0Ag-/0/1760060166093?e=1796860800&v=beta&t=xLCxs8sbGtmb2Lwrzd9bpjbs8ZnqWznMTIRKdu4lV_Y",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHp2NI21rRazQ/profile-displayphoto-",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Cajeme Villarreal’s  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": "   • 3rd+",
+     "attributesV2": [
+      {
+       "start": 1,
+       "length": 1,
+       "detailData": {
+        "systemImage": "SYS_ICN_VERIFIED_SMALL"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Verified • 3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "CEO CFE Capital",
+     "accessibilityText": "CEO CFE Capital",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:89857162",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAAAVbHIoBDPkO3L74ZG4Y4xLrk_0o3WqP23U",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Cajeme Villarreal",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 17,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAAVbHIoBDPkO3L74ZG4Y4xLrk_0o3WqP23U"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 17,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAAVbHIoBDPkO3L74ZG4Y4xLrk_0o3WqP23U"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Cajeme Villarreal",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "10m •   ",
+     "attributesV2": [
+      {
+       "start": 6,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "10 minutes ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/cajeme-villarreal-80a11426?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAVbHIoBDPkO3L74ZG4Y4xLrk_0o3WqP23U",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View Cajeme Villarreal’s profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7529178288389545985,urn:li:activity:7529178288389545985,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "*translation": "urn:li:fsd_translation:(urn:li:share:7529045382484508672,es)",
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "⚡ ¡#CFEFibraE logra la mayor colocación de capital de una Fibra en México en casi 9 años!\n\nHace unos días salimos a contar la historia de la #CFEFibraE a inversionistas de México y del mundo. Por cada dólar que buscábamos recabar, recibimos más de tres en demanda:\n\n📈 776 millones de dólares colocados, con una demanda de 3.2 veces el monto base ofertado.\n🌎 La mayor demanda internacional de 2026 para una emisora mexicana.\n🤝 94 reuniones con inversionistas nacionales e internacionales.\n\nEsta operación posiciona a #CFEFibraE como actor clave en los mercados financieros locales e internacionales, al haber obtenido más de 1,500 millones de dólares en poco más de un año.\n\nCon estos recursos, #CFE continuará avanzando de manera decidida en la construcción de proyectos de transmisión en todo México que conectarán nuevas centrales de generación, particularmente de fuentes renovables, reducirán la congestión en regiones estratégicas y aumentarán la confiabilidad del sistema eléctrico, como parte del Plan de Fortalecimiento y Expansión del Sistema Eléctrico Nacional 2025-2030.\n\nGracias nuevamente a Eugenio A. y Alejandro Alvarado, que trazaron esta estrategia hace más de 2 años; a los equipos de Finanzas y Transmisión de CFE; a mi equipo en CFECapital, particularmente José Luis Martínez González, Gilberto Antonio Vera Cantoral, Brenda Pequeño y el personal de sus áreas; y a nuestros asesores financieros (Bank of America, Citi, Santander México, BBVA en México, Actinver, Goldman Sachs y BNP Paribas), jurídicos (Ritch, Mueller, Heather y Nicolau, S.C. , Skadden, Arps, Slate, Meagher & Flom LLP and Affiliates y White & Case LLP) y contables (BDO y Crowe).\n\nA todos ellos: gracias por su incansable labor para lograr este resultado histórico!\n\n#CFEFibraE #CFECapital #CFE #FibraE #TransmisiónEléctrica #MercadosDeCapital #InversiónEnInfraestructura #OfertaPública #InfraestructuraEléctrica #México #TransiciónEnergética",
+     "attributesV2": [
+      {
+       "start": 1104,
+       "length": 10,
+       "detailData": {
+        "*profileMention": "urn:li:fsd_profile:ACoAAABve8kBk6vKjMk6DZNAjqjfS1djvY2apuc"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1117,
+       "length": 18,
+       "detailData": {
+        "*profileMention": "urn:li:fsd_profile:ACoAAAn23FsBTM-MPFk3z6uVP_gSw92TVYCoVmM"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1249,
+       "length": 10,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:62554816"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1277,
+       "length": 27,
+       "detailData": {
+        "*profileMention": "urn:li:fsd_profile:ACoAACkAOOQB-I3pcaem3WQcFssFeJgwIuie5EQ"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1306,
+       "length": 30,
+       "detailData": {
+        "*profileMention": "urn:li:fsd_profile:ACoAAAUk8fUBDyVIFgd9xXlcsZC5QJjoZ3MtIbk"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1338,
+       "length": 14,
+       "detailData": {
+        "*profileMention": "urn:li:fsd_profile:ACoAABFJx9MBUa2NEbd1f2ZQV3E3O4IFIYmc4Rg"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1416,
+       "length": 15,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:1123"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1433,
+       "length": 4,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:11448"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1439,
+       "length": 16,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:1254727"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1457,
+       "length": 14,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:70646"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1473,
+       "length": 8,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:139445"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1483,
+       "length": 13,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:1382"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1499,
+       "length": 11,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:1508"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1524,
+       "length": 39,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:10150594"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1566,
+       "length": 55,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:4862"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1624,
+       "length": 16,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:4920"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1655,
+       "length": 3,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:2756919"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1661,
+       "length": 5,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:5507"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7529179427205902336",
+    "shareUrn": "urn:li:share:7529179426228690944",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/fahadmsiraj_uscompanies-microsoft-apple-activity-7529179427205902336-iD3O?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "imageComponent": {
+     "images": [
+      {
+       "attributes": [
+        {
+         "scalingType": "ASPECT_FILL",
+         "detailData": {
+          "vectorImage": {
+           "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D22AQHKnCmANJ1ARA",
+           "artifacts": [
+            {
+             "width": 20,
+             "fileIdentifyingUrlPathSegment": "shrink_20/B4DaH0EyuBIcAE-/0/1795096259811?e=1796860800&v=beta&t=19BJmJXWf72JoY3z8YQTAnFtsfIpa7gGBcmFlwJkXZ0",
+             "expiresAt": 1796860800000,
+             "height": 24,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 800,
+             "fileIdentifyingUrlPathSegment": "shrink_800/B4DaH0EyuBIcAg-/0/1795096259811?e=1796860800&v=beta&t=h-GU2-5uXXU7g73fkzt6etsf7cJKpruTpdw0MzbB3Vw",
+             "expiresAt": 1796860800000,
+             "height": 999,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 1011,
+             "fileIdentifyingUrlPathSegment": "shrink_1280/B4DaH0EyuBIcAI-/0/1795096259811?e=1796860800&v=beta&t=qpwQAea8xmXnQlSlZZ5js8fVUQeHyjlnIsmZrsU2HWY",
+             "expiresAt": 1796860800000,
+             "height": 1263,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 1011,
+             "fileIdentifyingUrlPathSegment": "image-high-res/B4DaH0EyuBIcAQ-/0/1795096259811?e=1796860800&v=beta&t=FyxoXH85OscpNR3C9wcyo8dQtQHOzWEhDlane2calaY",
+             "expiresAt": 1796860800000,
+             "height": 1263,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 480,
+             "fileIdentifyingUrlPathSegment": "shrink_480/B4DaH0EyuBIcAY-/0/1795096259811?e=1796860800&v=beta&t=2zoY2nycCUqdKss0uau40Ga674_iC5L7Ac2wq6Hz1xw",
+             "expiresAt": 1796860800000,
+             "height": 599,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 160,
+             "fileIdentifyingUrlPathSegment": "shrink_160/B4DaH0EyuBIcAc-/0/1795096259811?e=1796860800&v=beta&t=ItjN7JvsvDlf3Cu4wSOlhyE2NKKmvO7-EISLj4JWh78",
+             "expiresAt": 1796860800000,
+             "height": 199,
+             "$type": "com.linkedin.common.VectorArtifact"
+            }
+           ],
+           "rootUrl": "https://media.licdn.com/dms/image/v2/D4D22AQHKnCmANJ1ARA/feedshare-",
+           "$type": "com.linkedin.common.VectorImage"
+          }
+         },
+         "displayAspectRatio": 1.2492581602373887,
+         "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+        }
+       ],
+       "editableAccessibilityText": true,
+       "accessibilityText": "View image",
+       "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+      }
+     ],
+     "multiphotoRenderingFormat": "COLLAGE",
+     "showTemplateCta": false,
+     "$type": "com.linkedin.voyager.dash.feed.component.image.ImageComponent"
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7529179427205902336,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAADNEDF0Bc1UrGrnVXmGFO3V7b72GeMBPjd4",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D03AQG8oi1uaSHDIA",
+          "artifacts": [
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "scale_400_400/B4DZq.x07uHwAg-/0/1764137326016?e=1796860800&v=beta&t=qkwx3Xc_c-5gKjkUxFy-ooxtlbkMZg_K8n5Y6C5BVds",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "scale_100_100/B4DZq.x07uHwAc-/0/1764137326016?e=1796860800&v=beta&t=loQWGpoIrCTDMJ_HMzDq0D50pVfWRs0Ep9GBQ_nmHBg",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "scale_200_200/B4DZq.x07uHwAY-/0/1764137326016?e=1796860800&v=beta&t=GIb_JFQLaYbH_DTxqUFkzyuKe7TpzErBgXiwev3nsMY",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "crop_800_800/B4DZq.x07uHwAI-/0/1764137325924?e=1796860800&v=beta&t=nZEq4mR05j8I5_LiokTdaQxFue4q-KIErsNZQONdDec",
+            "expiresAt": 1796860800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4D03AQG8oi1uaSHDIA/profile-displayphoto-",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Fahad Siraj’s  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": " • 3rd+",
+     "accessibilityText": "3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "Helping Investors Get 100% Ownership in Saudi Arabia | MISA Licensing Expert | Business Setup KSA | Born & Raised in KSA",
+     "accessibilityText": "Helping Investors Get 100% Ownership in Saudi Arabia | MISA Licensing Expert | Business Setup KSA | Born & Raised in KSA",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:860097629",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAADNEDF0Bc1UrGrnVXmGFO3V7b72GeMBPjd4",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Fahad Siraj",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 11,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAADNEDF0Bc1UrGrnVXmGFO3V7b72GeMBPjd4"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 11,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAADNEDF0Bc1UrGrnVXmGFO3V7b72GeMBPjd4"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Fahad Siraj",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "5m •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "5 minutes ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/fahadmsiraj?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADNEDF0Bc1UrGrnVXmGFO3V7b72GeMBPjd4",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View Fahad Siraj’s profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7529179427205902336,urn:li:activity:7529179427205902336,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "‎Which companies made the most profit in the USA? \n‎\n‎Microsoft tops the list with $133.75 billion in profit, narrowly ahead of Apple and Alphabet.\n‎\n‎The top performers shown are:\n‎\n1. ‎Microsoft | $133.75B\n2. ‎Apple | $132.18B\n3. ‎Alphabet (Google) | $132.17B\n4. ‎NVIDIA | $120.07B\n5. ‎Micron Technology | $84.97B\n6. ‎Amazon | $77.67B\n7. ‎Berkshire Hathaway | $66.97B\n8. ‎Meta Platforms | $60.46B\n9. ‎JPMorgan Chase | $57.05B\n10. ‎Bank of America | $30.51B\n‎\n‎What stands out is the dominance of technology.\n‎\n‎Technology, semiconductors, e-commerce, financial services and banking all feature in the top 10, highlighting the diversity of America's biggest profit generators.\n‎\n‎Another interesting point: three semiconductor and technology giants, Microsoft, Apple and Alphabet, occupy the top three positions, while NVIDIA and Micron Technology also feature prominently.\n‎\n‎The bigger takeaway:\n‎\n‎Revenue shows size. Profit shows earning power. And these are some of America's biggest profit engines.\n‎\n‎#USCompanies #Microsoft #Apple #Alphabet #NVIDIA #Amazon #JPMorgan #Business #Investing #Finance",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7529178435005480961",
+    "shareUrn": "urn:li:share:7529178432228966400",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/danjenkinsrealestate_smallbusiness-easttennessee-activity-7529178435005480961-qM98?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7529178435005480961,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAADx5bEcB5pMuWANJ8wc7fNrZWT4q0F5NSys",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4E03AQEuuR62NHsSTA",
+          "artifacts": [
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "scale_400_400/B4EaEIUf_UJ0Ag-/0/1791140956614?e=1796860800&v=beta&t=qpCEViK8GPJXg0C8x3V6jIpeKo8SfrUt4aBGofhFHn0",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "scale_100_100/B4EaEIUf_UJ0AY-/0/1791140956614?e=1796860800&v=beta&t=k-w-NEWg3hRCWXm03jXxi2FjlFiS_4T3YceeIgkpYUM",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "crop_800_800/B4EaEIUf_UJ0AI-/0/1791140956614?e=1796860800&v=beta&t=qMSK-Xw812JTMyzZ3Cvqqj-xGPdSeDtM4RoghD-hV8I",
+            "expiresAt": 1796860800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "scale_200_200/B4EaEIUf_UJ0Ac-/0/1791140956614?e=1796860800&v=beta&t=GCadxf1huE8o0HvKIchA700cGkpvzLzx_m-YRlWPi88",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEuuR62NHsSTA/profile-displayphoto-",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Daniel Jenkins’  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": "   • 3rd+",
+     "attributesV2": [
+      {
+       "start": 1,
+       "length": 1,
+       "detailData": {
+        "systemImage": "SYS_ICN_VERIFIED_SMALL"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Verified • 3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "Builder and real estate investor in East Tennessee | Clinch River Construction | Clinch River Investments | Harriman Auto Sales",
+     "accessibilityText": "Builder and real estate investor in East Tennessee | Clinch River Construction | Clinch River Investments | Harriman Auto Sales",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:1014590535",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAADx5bEcB5pMuWANJ8wc7fNrZWT4q0F5NSys",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Daniel Jenkins",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 14,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAADx5bEcB5pMuWANJ8wc7fNrZWT4q0F5NSys"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 14,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAADx5bEcB5pMuWANJ8wc7fNrZWT4q0F5NSys"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Daniel Jenkins",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "9m •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "9 minutes ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/danjenkinsrealestate?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADx5bEcB5pMuWANJ8wc7fNrZWT4q0F5NSys",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View Daniel Jenkins’ profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7529178435005480961,urn:li:activity:7529178435005480961,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Bank of America's 2026 Business Owner Report came out this week. 91% of owners say their costs went up over the past year, up from 77% last year. Even so, 49% plan to expand, and 39% plan to hire over the next 12 months.\n\nFor East Tennessee businesses, that reads like opportunity. Owners who are growing need contractors, suppliers, space and people. If you serve other businesses around Knoxville, now's a good time to make sure they know your name.\n\nAre you planning to grow next year? #SmallBusiness #EastTennessee",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7529179154949316608",
+    "shareUrn": "urn:li:share:7529179154081050624",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/markdennes_prp-opening-note-thursday-november-19-activity-7529179154949316608-j7-0?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "articleComponent": {
+     "headlineBackgroundColor": "DEFAULT",
+     "smallImage": {
+      "attributes": [
+       {
+        "scalingType": "ASPECT_FILL",
+        "detailData": {
+         "vectorImage": {
+          "artifacts": [
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800/B4EaH0ETPJJgAc-/0/1795096131326?e=1795701600&v=beta&t=00nzBusZmK2OzBoEfPIR9OPugouZbUgrLe19uWpUVUE",
+            "expiresAt": 1795701600000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 1200,
+            "fileIdentifyingUrlPathSegment": "1280_800/B4EaH0ETPJJgAk-/0/1795096131326?e=1795701600&v=beta&t=SkvHouynFc3B6o9YUMI9pu1yfGJErKQX1w55jtD4cvw",
+            "expiresAt": 1795701600000,
+            "height": 600,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 160,
+            "fileIdentifyingUrlPathSegment": "160/B4EaH0ETPJJgAU-/0/1795096131326?e=1795701600&v=beta&t=QkJqw2jWM4PqdeQp-cFUqN9NYco732Pz3ENxK1UiKwQ",
+            "expiresAt": 1795701600000,
+            "height": 80,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 480,
+            "fileIdentifyingUrlPathSegment": "480/B4EaH0ETPJJgAY-/0/1795096131326?e=1795701600&v=beta&t=uzvJQciLn0g4iJcX-gruRMB99NGSkbluBBYR1SwcAls",
+            "expiresAt": 1795701600000,
+            "height": 240,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/sync/v2/D4E27AQEFevknHOK_hQ/articleshare-shrink_",
+          "$type": "com.linkedin.common.VectorImage"
+         }
+        },
+        "displayAspectRatio": 0.5625,
+        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+       }
+      ],
+      "editableAccessibilityText": false,
+      "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+     },
+     "type": "EXTERNAL_FULL",
+     "title": {
+      "textDirection": "FIRST_STRONG",
+      "text": "PRP OPENING NOTE – Thursday, November 19, 2026",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "articleUrn": "urn:li:article:7568493033406934011",
+     "swapTitleAndSubtitle": false,
+     "showChevron": false,
+     "showSmallTitle": false,
+     "$type": "com.linkedin.voyager.dash.feed.component.article.ArticleComponent",
+     "subtitle": {
+      "textDirection": "USER_LOCALE",
+      "text": "markdennes.substack.com",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "navigationContext": {
+      "actionTarget": "https://markdennes.substack.com/p/prp-opening-note-thursday-november-1f1",
+      "urlViewingBehavior": "DEFAULT",
+      "trackingActionType": "viewLink",
+      "accessibilityText": "Open article: PRP OPENING NOTE – Thursday, November 19, 2026 by markdennes.substack.com",
+      "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+     }
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7529179154949316608,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAAAAK4PwBgvm5x4Vy3cCioare3euVmBr0c4s",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4E03AQF22Q2-RL-RMQ",
+          "artifacts": [
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "scale_100_100/B4EZx3qjIqIEAg-/0/1771534169741?e=1796860800&v=beta&t=Z5j1VpCiji7-0VkAiK3zbNFpxGqpsaqi1WsAiSmtUnM",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "crop_800_800/B4EZx3qjIqIEAM-/0/1771534169649?e=1796860800&v=beta&t=FJEiOXVeaDtyBIvtJqsi6baIxvVLoVl7EYMh1zIkUSc",
+            "expiresAt": 1796860800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "scale_200_200/B4EZx3qjIqIEAc-/0/1771534169741?e=1796860800&v=beta&t=_dYE5pdtsNWHWPnAkMzj4OCBR3KT2AD5vMc3rUZlAvo",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "scale_400_400/B4EZx3qjIqIEAk-/0/1771534169741?e=1796860800&v=beta&t=yYaxAXkyW22T5jXA0m4DxLkjn6rnwfeMyatf-PPPVK8",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4E03AQF22Q2-RL-RMQ/profile-displayphoto-",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Mark Dennes’  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": "   • 3rd+",
+     "attributesV2": [
+      {
+       "start": 1,
+       "length": 1,
+       "detailData": {
+        "systemImage": "LOGOS_BUGS_LINKEDIN_BUG_PREMIUM_V2_XXSMALL"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Premium • 3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "Managing Director at Prospect Rock Partners",
+     "accessibilityText": "Managing Director at Prospect Rock Partners",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:712956",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAAAAK4PwBgvm5x4Vy3cCioare3euVmBr0c4s",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Mark Dennes",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 11,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAAAK4PwBgvm5x4Vy3cCioare3euVmBr0c4s"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 11,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAAAK4PwBgvm5x4Vy3cCioare3euVmBr0c4s"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Mark Dennes",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "6m •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "6 minutes ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/markdennes?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAAK4PwBgvm5x4Vy3cCioare3euVmBr0c4s",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View Mark Dennes’ profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7529179154949316608,urn:li:activity:7529179154949316608,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "PRP Opening Note 11/19\nAnthropic prices the largest IPO on record at $83. Twenty-two banks share the spoils. Credit desks feel the strain. Rogue AI as the most underpriced risk\n \nAnthropic prices the largest IPO on record at $83 Above its $70-to-$78 range, upsizing the offering and including the $26 billion private placement, The price values the company at about $1.5 trillion. Gray-market trading points to a pop of 20% or more at the open. A strong first day reopens the door for the 2027 tech IPO queue and the ECM teams waiting on it. (Bloomberg, Reuters).\nTwenty-two banks share the spoils - Goldman Sachs and Morgan Stanley lead a 22-bank syndicate, including JPMorgan, Citi, Bank of America and Jefferies. Before the price was raised, Evercore ISI's Glenn Schorr estimated total underwriting fees at roughly $395 million. One deal this size can change how a bank's ECM bonus pool looks this year (Bloomberg, FourWeekMBA)..\nEx-junior bankers' AI startup Rogo nears a $3.75 billion valuation Rogo, founded by former Lazard banker Gabriel Stengel and JPMorgan alumnus John Willett, is said to be raising about $350 million, up from a $2 billion valuation in April. Goldman Sachs, Wells Fargo and JPMorgan use it, and Citi rolled the tool out in the U.S. and UK last week. Wider use of AI modeling tools is changing how banks staff and train analysts. Banks are rethinking what they need from first-year analysts. (Bloomberg).\nCredit desks feel the strain. Lenders describe debt repricing across markets at once as a \"a real fear factor\". Hedge funds are nursing losses on low-rated debt. Restructuring and liability-management bankers should stay busy into 2027. Weaker borrowers facing higher rates means more restructuring and liability-management work.\nRogue AI as the most underpriced risk A frontier AI model breaking out of its sandbox and damaging part of the economy is the risk markets are pricing least. It is a notable warning from inside one of the two banks leading Anthropic's IPO. Bloomberg\n \nOne record deal can lift an ECM bonus pool, but the analyst seat keeps changing. How is your team adjusting junior roles?\n \nFollow Prospect Rock Partners for daily Wall Street and recruiting updates. #ProspectRockPartners #prp #InvestmentBanking #IPO #WallStreet",
+     "attributesV2": [
+      {
+       "start": 2146,
+       "length": 22,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:94230137"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 179,
+       "length": 49,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 564,
+       "length": 33,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 933,
+       "length": 66,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1433,
+       "length": 29,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      },
+      {
+       "start": 1763,
+       "length": 37,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7529179295630417920",
+    "shareUrn": "urn:li:share:7529179295064330240",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/bsj-ventures_from-brich-house-the-platform-that-holds-activity-7529179295630417920-WIXK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7529179295630417920,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityCompanyLogo": {
+         "*company": "urn:li:fsd_company:143791969",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D560BAQHGT63PlGvBBw",
+          "artifacts": [
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/B56aEeFg6SHEAU-/0/1791506124632/bsj_ventures_logo?e=1796860800&v=beta&t=WvbZ1Q8oikVV62k1_iyqV-Ojbh_pkc6p0kPKZAMQSJM",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/B56aEeFg6SHEAE-/0/1791506124632/bsj_ventures_logo?e=1796860800&v=beta&t=BHeWso38srXbNkUAOJSLmS6uGEX2VWIqrwmZqQen8Pc",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/B56aEeFg6SHEAI-/0/1791506124632/bsj_ventures_logo?e=1796860800&v=beta&t=WGcXSo8R5_m6faB_YeOzL04XgIym8bl_SnOXMij4apQ",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D560BAQHGT63PlGvBBw/company-logo_",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "2 followers",
+     "accessibilityText": "2 followers",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:company:143791969",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowCompany",
+     "followTrackingActionType": "followCompany",
+     "companyFollowingTrackingContext": "MOBILE_NON_SSU",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_company:143791969",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "BSJ Ventures",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 12,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:143791969"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 12,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:143791969"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "BSJ Ventures",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "6m •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "6 minutes ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/company/bsj-ventures/posts",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedCompany",
+     "accessibilityText": "View company: BSJ Ventures",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7529179295630417920,urn:li:activity:7529179295630417920,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "From Brich House, the platform that holds the record of high-value goods:\n\nA Bank of America report, shared with Sportico on 11 November, puts digital pack rips at a $2 billion annual run rate. Weekly users went from about 50,000 to more than 1.7 million in roughly a year.\n\nThe legal experts it consulted tie the category's footing to one condition: cards backed by physical inventory.\n\nMost buyers take the buyback. Title moves; the slab stays on the shelf.\n\nWhat the record holds: the cert at each reveal, the vault that holds it, and every change of title.\n\nhttps://lnkd.in/gb8qVfNP\n\nMore on how platforms hold goods: https://lnkd.in/gZhVvZ_q",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7529179654470070273",
+    "shareUrn": "urn:li:share:7529179653580726273",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/siraj-ventures_uscompanies-microsoft-apple-activity-7529179654470070273-JRCZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "imageComponent": {
+     "images": [
+      {
+       "attributes": [
+        {
+         "scalingType": "ASPECT_FIT",
+         "detailData": {
+          "vectorImage": {
+           "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D22AQEvd3VO-N8nnA",
+           "artifacts": [
+            {
+             "width": 20,
+             "fileIdentifyingUrlPathSegment": "shrink_20/B4DaH0E_6YJMAM-/0/1795096313778?e=1796860800&v=beta&t=TsHORJsiXPTH6zMvsEP_krueDc_--gfHIIPcF84EvKY",
+             "expiresAt": 1796860800000,
+             "height": 24,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 480,
+             "fileIdentifyingUrlPathSegment": "shrink_480/B4DaH0E_6YJMAg-/0/1795096313778?e=1796860800&v=beta&t=Qk597kogCmZ2u8z9ggDRpStTuCh0GQMaT6xB1lVrcVk",
+             "expiresAt": 1796860800000,
+             "height": 599,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 800,
+             "fileIdentifyingUrlPathSegment": "shrink_800/B4DaH0E_6YJMAo-/0/1795096313778?e=1796860800&v=beta&t=QSrAPKeVyfVn24m-DdT3pV87vYcFRRdtozxOUVsmzXA",
+             "expiresAt": 1796860800000,
+             "height": 999,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 1011,
+             "fileIdentifyingUrlPathSegment": "image-high-res/B4DaH0E_6YJMAY-/0/1795096313778?e=1796860800&v=beta&t=trZw5QHn-L-c9rqGs57fUlKDPOty48gB60pkdY8uTuE",
+             "expiresAt": 1796860800000,
+             "height": 1263,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 1011,
+             "fileIdentifyingUrlPathSegment": "shrink_1280/B4DaH0E_6YJMAQ-/0/1795096313778?e=1796860800&v=beta&t=oRrSc4oYTV951WLtF3qVbGTlbnUaeIrlj_3V7jhGdkY",
+             "expiresAt": 1796860800000,
+             "height": 1263,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 160,
+             "fileIdentifyingUrlPathSegment": "shrink_160/B4DaH0E_6YJMAk-/0/1795096313778?e=1796860800&v=beta&t=_6DNbp8MZw5NaTBIwRMwjQDo_PxuhxCkK10AIcAlIek",
+             "expiresAt": 1796860800000,
+             "height": 199,
+             "$type": "com.linkedin.common.VectorArtifact"
+            }
+           ],
+           "rootUrl": "https://media.licdn.com/dms/image/v2/D4D22AQEvd3VO-N8nnA/feedshare-",
+           "$type": "com.linkedin.common.VectorImage"
+          }
+         },
+         "displayAspectRatio": 1.2492581602373887,
+         "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+        }
+       ],
+       "editableAccessibilityText": true,
+       "accessibilityText": "View image",
+       "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+      }
+     ],
+     "multiphotoRenderingFormat": "COLLAGE",
+     "showTemplateCta": false,
+     "$type": "com.linkedin.voyager.dash.feed.component.image.ImageComponent"
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7529179654470070273,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityCompanyLogo": {
+         "*company": "urn:li:fsd_company:145336642",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D0BAQF_kWFRiMcIZw",
+          "artifacts": [
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/B4DaFiX3ViIkAI-/0/1792651785819?e=1796860800&v=beta&t=Iz6ZVJDVwJUJLQp5qvdWKBsNeIP-F7ZGNxqijgp1oYw",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/B4DaFiX3ViIkAU-/0/1792651785819?e=1796860800&v=beta&t=336yCAlfxUE5zRwi_ZzSyEequhxHQYEHKYUMIh4ccmw",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/B4DaFiX3ViIkAE-/0/1792651785819?e=1796860800&v=beta&t=tvtEfWFNUYMGvEY057ROKzHv1E3x92QaQNKdInFJ8-M",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4D0BAQF_kWFRiMcIZw/company-logo_",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "22 followers",
+     "accessibilityText": "22 followers",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:company:145336642",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowCompany",
+     "followTrackingActionType": "followCompany",
+     "companyFollowingTrackingContext": "MOBILE_NON_SSU",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_company:145336642",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Siraj Ventures",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 14,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:145336642"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 14,
+       "detailData": {
+        "*companyName": "urn:li:fsd_company:145336642"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Siraj Ventures",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "4m •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "4 minutes ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/company/siraj-ventures/posts",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedCompany",
+     "accessibilityText": "View company: Siraj Ventures",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7529179654470070273,urn:li:activity:7529179654470070273,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "‎Which companies made the most profit in the USA? \n‎\n‎Microsoft tops the list with $133.75 billion in profit, narrowly ahead of Apple and Alphabet.\n‎\n‎The top performers shown are:\n‎\n1. ‎Microsoft | $133.75B\n2. ‎Apple | $132.18B\n3. ‎Alphabet (Google) | $132.17B\n4. ‎NVIDIA | $120.07B\n5. ‎Micron Technology | $84.97B\n6. ‎Amazon | $77.67B\n7. ‎Berkshire Hathaway | $66.97B\n8. ‎Meta Platforms | $60.46B\n9. ‎JPMorgan Chase | $57.05B\n10. ‎Bank of America | $30.51B\n‎\n‎What stands out is the dominance of technology.\n‎\n‎Technology, semiconductors, e-commerce, financial services and banking all feature in the top 10, highlighting the diversity of America's biggest profit generators.\n‎\n‎Another interesting point: three semiconductor and technology giants, Microsoft, Apple and Alphabet, occupy the top three positions, while NVIDIA and Micron Technology also feature prominently.\n‎\n‎The bigger takeaway:\n‎\n‎Revenue shows size. Profit shows earning power. And these are some of America's biggest profit engines.\n‎\n‎#USCompanies #Microsoft #Apple #Alphabet #NVIDIA #Amazon #JPMorgan #Business #Investing #Finance",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7529179208732848129",
+    "shareUrn": "urn:li:share:7529179205654249472",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/ronnie-nussbeck-a71b35379_skirse-exactness-phoenixos-activity-7529179208732848129-K27A?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "imageComponent": {
+     "images": [
+      {
+       "attributes": [
+        {
+         "scalingType": "ASPECT_FILL",
+         "detailData": {
+          "vectorImage": {
+           "digitalmediaAsset": "urn:li:digitalmediaAsset:D5622AQEfkKEQ1gBFBA",
+           "artifacts": [
+            {
+             "width": 160,
+             "fileIdentifyingUrlPathSegment": "shrink_160/B56aH0El6LK8Ac-/0/1795096207230?e=1796860800&v=beta&t=EAlUrSM7y4F6sz7yDRXWZTnFFofCJED-ZGZ2Irnu3yc",
+             "expiresAt": 1796860800000,
+             "height": 107,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 20,
+             "fileIdentifyingUrlPathSegment": "shrink_20/B56aH0El6LK8AE-/0/1795096207230?e=1796860800&v=beta&t=7zJGZ9iBhU4TqJppHmGkv-_AEj9ETjELVJqmcYBLdLs",
+             "expiresAt": 1796860800000,
+             "height": 13,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 800,
+             "fileIdentifyingUrlPathSegment": "shrink_800/B56aH0El6LK8Ag-/0/1795096207230?e=1796860800&v=beta&t=tN261_dYwcfwTsicUjFdbJIB27PtbHarghRYP0U61pY",
+             "expiresAt": 1796860800000,
+             "height": 536,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 1168,
+             "fileIdentifyingUrlPathSegment": "shrink_1280/B56aH0El6LK8AI-/0/1795096207230?e=1796860800&v=beta&t=tqtFl1JTU-I0miNk3ZzIDXttV5qbw1gvnMo2CcYoVu0",
+             "expiresAt": 1796860800000,
+             "height": 784,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 480,
+             "fileIdentifyingUrlPathSegment": "shrink_480/B56aH0El6LK8AY-/0/1795096207230?e=1796860800&v=beta&t=rWa7oJctIqGcPUc4cEM57KyaQ1RbYCz6EKxhIt-1Wtk",
+             "expiresAt": 1796860800000,
+             "height": 322,
+             "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+             "width": 1168,
+             "fileIdentifyingUrlPathSegment": "image-high-res/B56aH0El6LK8AQ-/0/1795096207230?e=1796860800&v=beta&t=p0t2W41RVQ5720MuHAsckXkYhlQlTKaPoKe5-9qgEF4",
+             "expiresAt": 1796860800000,
+             "height": 784,
+             "$type": "com.linkedin.common.VectorArtifact"
+            }
+           ],
+           "rootUrl": "https://media.licdn.com/dms/image/v2/D5622AQEfkKEQ1gBFBA/feedshare-",
+           "$type": "com.linkedin.common.VectorImage"
+          }
+         },
+         "displayAspectRatio": 0.6712328767123288,
+         "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+        }
+       ],
+       "editableAccessibilityText": true,
+       "accessibilityText": "View image",
+       "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+      }
+     ],
+     "multiphotoRenderingFormat": "COLLAGE",
+     "showTemplateCta": false,
+     "$type": "com.linkedin.voyager.dash.feed.component.image.ImageComponent"
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7529179208732848129,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAAF2bLrUBnofbqfl2EJiBBQ6T4n4gC62ZlQY",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D5603AQGD__zXMhTY3Q",
+          "artifacts": [
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "scale_100_100/B56Z3LvWYxIIAc-/0/1777239681615?e=1796860800&v=beta&t=AvURO3u0Cgqvm1Xfwrxn1hPckQogn126_7vnK0wshjY",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "scale_200_200/B56Z3LvWYxIIAY-/0/1777239681615?e=1796860800&v=beta&t=EJV2oBxYJo0C-WJa9a74x0eASXvybW6mTpAM5c_7pX4",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "crop_800_800/B56Z3LvWYxIIAI-/0/1777239681535?e=1796860800&v=beta&t=8Z9xNsZuVCxlaKyAU3FEHdDWxNDH8tMU4ZszxK9IKpE",
+            "expiresAt": 1796860800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "scale_400_400/B56Z3LvWYxIIAg-/0/1777239681615?e=1796860800&v=beta&t=VFcY4nWweriX9OZTaPje1tVSL15gIMKAaur5plgCywY",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQGD__zXMhTY3Q/profile-displayphoto-",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Ronnie Nussbeck’s  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": " • 3rd+",
+     "accessibilityText": "3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "Trustee at Nussbeck Trust & CEO Phoenix OS Phoenix OS is a self-evolving, multi-agent operating system designed to support advanced, long-term intelligence growth in complex systems.",
+     "accessibilityText": "Trustee at Nussbeck Trust & CEO Phoenix OS Phoenix OS is a self-evolving, multi-agent operating system designed to support advanced, long-term intelligence growth in complex systems.",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:1570451125",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAAF2bLrUBnofbqfl2EJiBBQ6T4n4gC62ZlQY",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Ronnie Nussbeck",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 15,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAF2bLrUBnofbqfl2EJiBBQ6T4n4gC62ZlQY"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 15,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAF2bLrUBnofbqfl2EJiBBQ6T4n4gC62ZlQY"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Ronnie Nussbeck",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "6m •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "6 minutes ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/ronnie-nussbeck-a71b35379?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAF2bLrUBnofbqfl2EJiBBQ6T4n4gC62ZlQY",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View Ronnie Nussbeck’s profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7529179208732848129,urn:li:activity:7529179208732848129,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "WARNING. DANGER AHEAD. THE WARNINGS ARE NO LONGER THEORETICAL.\nVice President JD Vance told Americans this week: “We don’t see a crisis coming down. But you have to be prepared for everything.” He was answering questions about bunkers and stockpiling after recent disruptions across Microsoft systems, banking, FAA ground stops, and the NSA network. The same day, Google’s Threat Intelligence Group warned that the era of autonomous AI-driven attacks has arrived. Hackers are using AI frameworks to scan software updates, identify newly patched flaws, develop working exploits, and attack vulnerable systems with little or no human involvement. Attacks now run at machine speed and scale.\nBanks have already moved. Citibank, JPMorgan Chase, Bank of America, PNC, Citizens, Ally, and Wells Fargo have updated terms or sent notices making customers responsible for third-party AI agent actions — including when the AI tool is hacked or leaks credentials. Institutions are protecting themselves. The public and businesses absorb the residual risk of hallucinated instructions, misunderstood commands, credential leakage, or agent compromise.\nPower companies, utilities, infrastructure operators, and every organization that relies on automated systems face the same pressure. Contracts can be rewritten after the fact. A live authorization boundary cannot.\nSKI-RSE is that boundary. Every consequential action must be a geometric packet that has already passed Gate-1 (intent, scope, conservation, authorized owner authority) and Gate-2 (current provenance, owner-validation token, live epoch match). The system re-proves the packet immediately before it can be marked executable. Unverified proposals remain evidence only. Fail-closed is the default. The public is no longer the residual risk bearer.\nBanks, AI companies, infrastructure suppliers, and businesses that apply by 30 November receive a 50 percent discount on the annual architecture license. Every organization that applies before the deadline receives the rate even if fulfillment extends through December.\nPhoenix OS supplies the architecture and algorithms only. Partners implement, test, and certify. Message to begin a technical review.\nRonald Nussbeck\n Architect, Phoenix OS\n nussbeckron@aol.com or DM\n#SKIRSE #Exactness #PhoenixOS #AILiability #CriticalInfrastructure #DeterministicAI #Warning",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 62,
+       "detailData": {
+        "style": "BOLD"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7529180776194625538",
+    "shareUrn": "urn:li:share:7529180773380341763",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/will-gowin-1441595_technology-cybersecurity-infrastructure-activity-7529180776194625538-c27x?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7529180776194625538,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAAADpboQBTt5roa_DVNUkeat-PQhEGCMe2uo",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D5603AQHpRaqgSfGF1A",
+          "artifacts": [
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "scale_100_100/B56Zm6T7V7KAAc-/0/1759767410619?e=1796860800&v=beta&t=pDHQZKL5c8s9eS3QX98fWY8W9Ypm7uns8goI-3llodY",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "scale_200_200/B56Zm6T7V7KAAY-/0/1759767410619?e=1796860800&v=beta&t=-1ps0AQAd6_KGFgBPJIoJmofYtWfVrXniM-1V0yVyUM",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "crop_800_800/B56Zm6T7V7KAAI-/0/1759767410521?e=1796860800&v=beta&t=SsKJ1hqtToY8Z1AQZlFH93E5dGr4CislgmJykSGpc8E",
+            "expiresAt": 1796860800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "scale_400_400/B56Zm6T7V7KAAg-/0/1759767410619?e=1796860800&v=beta&t=9T8BOdNadIqkgp7m77TBoFbzShVpXh7xEwzRu7FMRtQ",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D5603AQHpRaqgSfGF1A/profile-displayphoto-",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Will Gowin’s  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": "   • 3rd+",
+     "attributesV2": [
+      {
+       "start": 1,
+       "length": 1,
+       "detailData": {
+        "systemImage": "LOGOS_BUGS_LINKEDIN_BUG_PREMIUM_V2_XXSMALL"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Premium • 3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "Architecture | Civil | Structural | I Connect Architects, Engineers & Designers with Leaders Building the Future",
+     "accessibilityText": "Architecture | Civil | Structural | I Connect Architects, Engineers & Designers with Leaders Building the Future",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:15298180",
+    "followAction": {
+     "unfollowTrackingActionType": "unfollowMember",
+     "followTrackingActionType": "followMember",
+     "type": "FOLLOW_TOGGLE",
+     "*followingState": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAAADpboQBTt5roa_DVNUkeat-PQhEGCMe2uo",
+     "$type": "com.linkedin.voyager.dash.feed.actions.follow.FollowAction"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Will Gowin",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 10,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAADpboQBTt5roa_DVNUkeat-PQhEGCMe2uo"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 10,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAADpboQBTt5roa_DVNUkeat-PQhEGCMe2uo"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Will Gowin",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "now •   ",
+     "attributesV2": [
+      {
+       "start": 6,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Just now • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/will-gowin-1441595?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAADpboQBTt5roa_DVNUkeat-PQhEGCMe2uo",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View Will Gowin’s profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:activity:7529180776194625538,urn:li:activity:7529180776194625538,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "With all these major technology outages lately, I'm starting to wonder if I should be checking the news or checking my generator and toilet paper inventory!\n\nBetween the FAA grounding flights, disruptions involving Microsoft, Bank of America, Apple, and reports of problems at the NSA, it seems like every time you turn around, something else is going down!\n\nAnd apparently, people are getting nervous enough that they're heading to Costco to stock up on emergency supplies.\n\nDoes anybody else remember COVID?\n\nYou couldn't find toilet paper, paper towels, or bottled water anywhere!\nI'm still not sure why toilet paper becomes the most valuable commodity in America whenever there's a crisis, but apparently, it's right up there with gold!\n\nNow, I don't know whether these recent outages are connected, and there's no established evidence that they are. Officials have attributed various disruptions to technical problems rather than coordinated attacks.\n\nBut with AI advancing at an incredible pace and all the talk about superintelligence, I do wonder how prepared we are for something more serious.\n\nAnd I say that as somebody who's always taken preparedness pretty seriously.\nI'm an Eagle Scout, and our motto was simple: Be Prepared.\n\nApparently, I took that motto a little more seriously than some of my fellow Scouts!\nI've got a generator, solar power, batteries, plenty of food and water, and other emergency supplies.\n\nOf course, living in Texas, there are always a few folks who think the answer to every emergency is having 10,000 rounds of ammunition!\n\nI'm all for protecting yourself and your family, but you can't eat bullets, and they won't keep your refrigerator running!\n\nAll joking aside, these disruptions do concern me.\nOur government, banking systems, airlines, businesses, and practically everything else depend on technology working properly.\n\nWhat happens if the next major outage affects the electrical grid?\nOr our water treatment plants and water distribution systems?\nAnd what if something that normally takes a few hours to fix takes several days or even weeks?\n\nLiving in Texas, we've already experienced what happens when the electrical grid has serious problems. It's not much fun!\n\nI'm certainly not predicting some catastrophic event, and I hope these recent incidents are nothing more than unrelated technical failures.\n\nBut I do wonder whether we're becoming so dependent on technology that we're not adequately prepared when it fails.\n\nI'd really like to hear what everybody thinks.\nAre these outages simply an unfortunate coincidence, or are they warning signs that our infrastructure is becoming increasingly vulnerable?\n\nDo you think AI will make these systems safer and more reliable, or introduce even more risks? And are you personally prepared if the power, internet, or water goes out for an extended period?\n\nI'm genuinely curious what people think about all this.\n\nIn the meantime, I'm going to make sure my generator starts, my batteries are charged, and I've got plenty of toilet paper!\n\n#Technology #Cybersecurity #Infrastructure #ArtificialIntelligence #BePrepared",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "metadata": {
+    "backendUrn": "urn:li:activity:7529179494742487040",
+    "shareUrn": "urn:li:ugcPost:7529179493891112960",
+    "$type": "com.linkedin.voyager.dash.feed.metadata.UpdateMetadata"
+   },
+   "socialContent": {
+    "hideCommentsCount": false,
+    "hideReactionsCount": false,
+    "hideSocialActivityCounts": false,
+    "hideShareAction": false,
+    "hideSendAction": false,
+    "hideRepostsCount": false,
+    "$type": "com.linkedin.voyager.dash.social.SocialContent",
+    "hideViewsCount": false,
+    "hideReactAction": false,
+    "hideCommentAction": false,
+    "shareUrl": "https://www.linkedin.com/posts/activity-7529179494742487040-Lybu?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=VIEWER_PLACEHOLDER",
+    "showContributionExperience": false
+   },
+   "content": {
+    "articleComponent": {
+     "headlineBackgroundColor": "DEFAULT",
+     "largeImage": {
+      "attributes": [
+       {
+        "scalingType": "ASPECT_FILL",
+        "detailData": {
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D12AQG_UuH1Fn9cMQ",
+          "artifacts": [
+           {
+            "width": 1016,
+            "fileIdentifyingUrlPathSegment": "600_2000/B4DaH0DLVBJIAU-/0/1795095836913?e=1796860800&v=beta&t=xInDCJzZE_YTc8tO0AUKf-7tlqMjiL0xHVUVGNFzNTQ",
+            "expiresAt": 1796860800000,
+            "height": 572,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 751,
+            "fileIdentifyingUrlPathSegment": "423_752/B4DaH0DLVBJIAg-/0/1795095836913?e=1796860800&v=beta&t=CVJch5reM4D6H8EBz00WlK1PF1kcaybu937-YnBAthE",
+            "expiresAt": 1796860800000,
+            "height": 423,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 1016,
+            "fileIdentifyingUrlPathSegment": "720_1280/B4DaH0DLVBJIAY-/0/1795095836913?e=1796860800&v=beta&t=kDi5URF-Bgx7Y63vCiiYfQSaYP0bNOYVGXEq_wnl3II",
+            "expiresAt": 1796860800000,
+            "height": 572,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 319,
+            "fileIdentifyingUrlPathSegment": "180_320/B4DaH0DLVBJIAc-/0/1795095836913?e=1796860800&v=beta&t=vwNeyerRSPWnNcRVx70aLymntkn_Y8P12OMS0-oNKrY",
+            "expiresAt": 1796860800000,
+            "height": 180,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4D12AQG_UuH1Fn9cMQ/article-cover_image-shrink_",
+          "$type": "com.linkedin.common.VectorImage"
+         }
+        },
+        "displayAspectRatio": 0.5625,
+        "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+       }
+      ],
+      "editableAccessibilityText": false,
+      "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+     },
+     "description": {
+      "textDirection": "FIRST_STRONG",
+      "text": "Global markets are navigating a major structural shift. In a recent column for Reuters, market commentator Mike Dolan examines the emergence of the \"A",
+      "accessibilityText": "Global markets are navigating a major structural shift. In a recent column for Reuters, market commentator Mike Dolan examines the emergence of the \"A",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "type": "FIRST_PARTY",
+     "title": {
+      "textDirection": "FIRST_STRONG",
+      "text": "The \"AI Dollar\" and the Case for Real Assets: Where Smart Capital Is Looking Next",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "articleUrn": "urn:li:linkedInArticle:7529177654281891840",
+     "swapTitleAndSubtitle": false,
+     "showChevron": false,
+     "showSmallTitle": false,
+     "$type": "com.linkedin.voyager.dash.feed.component.article.ArticleComponent",
+     "subtitle": {
+      "textDirection": "USER_LOCALE",
+      "text": "Jaime Lijeron",
+      "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+     },
+     "navigationContext": {
+      "actionTarget": "https://www.linkedin.com/pulse/ai-dollar-case-real-assets-where-smart-capital-looking-jaime-lijeron-xjejf?trackingId=HMO48f%2BSQbOuTQcuxJswsw%3D%3D",
+      "urlViewingBehavior": "DEFAULT",
+      "trackingActionType": "viewLink",
+      "accessibilityText": "Open article: The \"AI Dollar\" and the Case for Real Assets: Where Smart Capital Is Looking Next by Jaime Lijeron • 2 min read",
+      "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+     }
+    }
+   },
+   "entityUrn": "urn:li:fsd_update:(urn:li:activity:7529179494742487040,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+   "$type": "com.linkedin.voyager.dash.feed.Update",
+   "actor": {
+    "image": {
+     "attributes": [
+      {
+       "detailData": {
+        "nonEntityProfilePicture": {
+         "*profile": "urn:li:fsd_profile:ACoAAD5fAzcBXzWetaN-O60bL1B7OHw2cjgW38w",
+         "vectorImage": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:D4D03AQE9sWEudBNRnA",
+          "artifacts": [
+           {
+            "width": 100,
+            "fileIdentifyingUrlPathSegment": "100_100/profile-displayphoto-shrink_100_100/0/1691002264090?e=1796860800&v=beta&t=QAIAvenK5nSPQw9Iom8im2dWJU7Di1PSXMtC35TCcMo",
+            "expiresAt": 1796860800000,
+            "height": 100,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 200,
+            "fileIdentifyingUrlPathSegment": "200_200/profile-displayphoto-shrink_200_200/0/1691002264090?e=1796860800&v=beta&t=YAQsgApO0Tfow3VH7DGetwJ9fguG3RF1w5RpnbkHl24",
+            "expiresAt": 1796860800000,
+            "height": 200,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 400,
+            "fileIdentifyingUrlPathSegment": "400_400/profile-displayphoto-shrink_400_400/0/1691002264090?e=1796860800&v=beta&t=OMWyl_mxy8A_Am2CyBL65C6DcOGf0YuAMiBFcznNxjA",
+            "expiresAt": 1796860800000,
+            "height": 400,
+            "$type": "com.linkedin.common.VectorArtifact"
+           },
+           {
+            "width": 800,
+            "fileIdentifyingUrlPathSegment": "800_800/profile-displayphoto-shrink_800_800/0/1691002264090?e=1796860800&v=beta&t=JXXz1xVdtshbLxAWGFNssgr_2E0uYfaXdJLe2q7WQuw",
+            "expiresAt": 1796860800000,
+            "height": 800,
+            "$type": "com.linkedin.common.VectorArtifact"
+           }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/D4D03AQE9sWEudBNRnA/profile-displayphoto-shrink_",
+          "$type": "com.linkedin.common.VectorImage"
+         },
+         "$type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture"
+        }
+       },
+       "$type": "com.linkedin.voyager.dash.common.image.ImageAttribute"
+      }
+     ],
+     "editableAccessibilityText": false,
+     "accessibilityText": "View Jaime Lijeron’s  graphic link",
+     "$type": "com.linkedin.voyager.dash.common.image.ImageViewModel"
+    },
+    "supplementaryActorInfo": {
+     "textDirection": "USER_LOCALE",
+     "text": " • 3rd+",
+     "accessibilityText": "3rd+",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "description": {
+     "textDirection": "USER_LOCALE",
+     "text": "President ENPP Holding Ltda.",
+     "accessibilityText": "President ENPP Holding Ltda.",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "backendUrn": "urn:li:member:1046414135",
+    "$type": "com.linkedin.voyager.dash.feed.component.actor.ActorComponent",
+    "name": {
+     "textDirection": "FIRST_STRONG",
+     "text": "Jaime Lijeron",
+     "attributesV2": [
+      {
+       "start": 0,
+       "length": 13,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAD5fAzcBXzWetaN-O60bL1B7OHw2cjgW38w"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityTextAttributesV2": [
+      {
+       "start": 0,
+       "length": 13,
+       "detailData": {
+        "*profileFullName": "urn:li:fsd_profile:ACoAAD5fAzcBXzWetaN-O60bL1B7OHw2cjgW38w"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "Jaime Lijeron",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "subDescription": {
+     "textDirection": "USER_LOCALE",
+     "text": "5m •   ",
+     "attributesV2": [
+      {
+       "start": 5,
+       "length": 1,
+       "detailData": {
+        "icon": "IC_GLOBE_16DP"
+       },
+       "$type": "com.linkedin.voyager.dash.common.text.TextAttribute"
+      }
+     ],
+     "accessibilityText": "5 minutes ago • Visible to anyone on or off LinkedIn",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "navigationContext": {
+     "actionTarget": "https://www.linkedin.com/in/jaime-lijeron-89b537252?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAD5fAzcBXzWetaN-O60bL1B7OHw2cjgW38w",
+     "urlViewingBehavior": "DEFAULT",
+     "trackingActionType": "viewAttributedMember",
+     "accessibilityText": "View Jaime Lijeron’s profile",
+     "$type": "com.linkedin.voyager.dash.feed.navigation.FeedNavigationContext"
+    },
+    "showSmallActorPortrait": false
+   },
+   "*socialDetail": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7529179493891112960,urn:li:ugcPost:7529179493891112960,urn:li:highlightedReply:-)",
+   "commentary": {
+    "numLines": 3,
+    "text": {
+     "textDirection": "FIRST_STRONG",
+     "text": "The \"AI Dollar\" Has Arrived—And Its Direction Is Still Unclear\n\nIn a compelling new piece for Reuters, Mike Dolan breaks down how artificial intelligence and semiconductors are reshaping the U.S. dollar and global capital flows:\n\nAI as a growth engine: Massive investments in data centers, chips, and AI infrastructure have helped power U.S. GDP growth—driving the dollar index (.DXY) to 19-month highs on expectations of a firmer Fed stance.\n\"Chipdollars\" vs. Treasuries: As Deutsche Bank notes, global chip trade has surpassed oil and gas, with cross-border surpluses flowing more into U.S. equities than traditional safe-haven Treasuries—bringing higher market volatility.\nA tug-of-war ahead: While hyperscaler capex plans remain resilient for now, Bank of America's fund manager survey highlights growing caution around tech concentration and spending discipline, leaving the dollar's trajectory open as we head toward 2027.\nA must-read for anyone tracking where macro liquidity, tech valuations, and real-economy fundamentals are heading next.\n\n#Markets #Macroeconomics #AIDollar #Semiconductors #CapitalFlows #Investing",
+     "$type": "com.linkedin.voyager.dash.common.text.TextViewModel"
+    },
+    "$type": "com.linkedin.voyager.dash.feed.component.commentary.CommentaryComponent"
+   }
+  },
+  {
+   "firstName": "Fahad",
+   "lastName": "Siraj",
+   "entityUrn": "urn:li:fsd_profile:ACoAADNEDF0Bc1UrGrnVXmGFO3V7b72GeMBPjd4",
+   "publicIdentifier": "fahadmsiraj",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Gilberto",
+   "lastName": "Vera",
+   "entityUrn": "urn:li:fsd_profile:ACoAAAUk8fUBDyVIFgd9xXlcsZC5QJjoZ3MtIbk",
+   "publicIdentifier": "gilberto-antonio-vera-cantoral-445aa224",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Marco",
+   "lastName": "Altamura",
+   "entityUrn": "urn:li:fsd_profile:ACoAAADNKREBZH6O_yQky2PlxNt06pKdyK1_4Fc",
+   "publicIdentifier": "marco-altamura-a956044",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Brenda",
+   "lastName": "Pequeño",
+   "entityUrn": "urn:li:fsd_profile:ACoAABFJx9MBUa2NEbd1f2ZQV3E3O4IFIYmc4Rg",
+   "publicIdentifier": "brenda-pequeno",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Jaime",
+   "lastName": "Lijeron",
+   "entityUrn": "urn:li:fsd_profile:ACoAAD5fAzcBXzWetaN-O60bL1B7OHw2cjgW38w",
+   "publicIdentifier": "jaime-lijeron-89b537252",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Andrea",
+   "lastName": "Saracini",
+   "entityUrn": "urn:li:fsd_profile:ACoAAAH4YPUBrwH-xiLpvXu4m2jvsOzTEJM5v-0",
+   "publicIdentifier": "andrea-saracini-0450a1b",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Ronnie",
+   "lastName": "Nussbeck",
+   "entityUrn": "urn:li:fsd_profile:ACoAAF2bLrUBnofbqfl2EJiBBQ6T4n4gC62ZlQY",
+   "publicIdentifier": "ronnie-nussbeck-a71b35379",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Fabio",
+   "lastName": "Sorrentino",
+   "entityUrn": "urn:li:fsd_profile:ACoAAAzhwRwBocPBxxH3USxehV5Jvfo_YKZ4_Us",
+   "publicIdentifier": "fabio-sorrentino-47846660",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Maria",
+   "lastName": "Gambardella",
+   "entityUrn": "urn:li:fsd_profile:ACoAAAJnqzgBdFSJkRh1px3Brq5y_dPkDoMP98E",
+   "publicIdentifier": "maria-gambardella-98861911",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Eugenio",
+   "lastName": "A.",
+   "entityUrn": "urn:li:fsd_profile:ACoAAABve8kBk6vKjMk6DZNAjqjfS1djvY2apuc",
+   "publicIdentifier": "eugenioamador",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Daniel",
+   "lastName": "Jenkins",
+   "entityUrn": "urn:li:fsd_profile:ACoAADx5bEcB5pMuWANJ8wc7fNrZWT4q0F5NSys",
+   "publicIdentifier": "danjenkinsrealestate",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Will",
+   "lastName": "Gowin",
+   "entityUrn": "urn:li:fsd_profile:ACoAAADpboQBTt5roa_DVNUkeat-PQhEGCMe2uo",
+   "publicIdentifier": "will-gowin-1441595",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "José Luis",
+   "lastName": "Martínez González",
+   "entityUrn": "urn:li:fsd_profile:ACoAACkAOOQB-I3pcaem3WQcFssFeJgwIuie5EQ",
+   "publicIdentifier": "josé-luis-martínez-gonzález-b44452172",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Mark",
+   "lastName": "Dennes",
+   "entityUrn": "urn:li:fsd_profile:ACoAAAAK4PwBgvm5x4Vy3cCioare3euVmBr0c4s",
+   "publicIdentifier": "markdennes",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Alejandro",
+   "lastName": "Alvarado",
+   "entityUrn": "urn:li:fsd_profile:ACoAAAn23FsBTM-MPFk3z6uVP_gSw92TVYCoVmM",
+   "publicIdentifier": "alejandro-alvarado-90bb9b47",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "Cajeme",
+   "lastName": "Villarreal",
+   "entityUrn": "urn:li:fsd_profile:ACoAAAVbHIoBDPkO3L74ZG4Y4xLrk_0o3WqP23U",
+   "publicIdentifier": "cajeme-villarreal-80a11426",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "firstName": "María",
+   "lastName": "Cáceres Moreno",
+   "entityUrn": "urn:li:fsd_profile:ACoAABGtJosBx8gK-xIjcvJGn3SU_Ww9qo5ARsY",
+   "publicIdentifier": "maria-caceres-moreno",
+   "$type": "com.linkedin.voyager.dash.identity.profile.Profile"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:70646",
+   "name": "BBVA en México",
+   "url": "https://www.linkedin.com/company/bbva-mexico/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:2756919",
+   "name": "BDO",
+   "url": "https://www.linkedin.com/company/bdo-international/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:1254727",
+   "name": "Santander México",
+   "url": "https://www.linkedin.com/company/santander-mexico/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:139445",
+   "name": "Actinver",
+   "url": "https://www.linkedin.com/company/actinver/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:11448",
+   "name": "Citi",
+   "url": "https://www.linkedin.com/company/citi/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:4862",
+   "name": "Skadden, Arps, Slate, Meagher & Flom LLP and Affiliates",
+   "url": "https://www.linkedin.com/company/skadden-arps-slate-meagher-flom-llp-affiliates/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:1508",
+   "name": "BNP Paribas",
+   "url": "https://www.linkedin.com/company/bnp-paribas/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:62554816",
+   "name": "CFECapital",
+   "url": "https://www.linkedin.com/company/cfecapital/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "name": "Siraj Ventures",
+   "entityUrn": "urn:li:fsd_company:145336642",
+   "url": "https://www.linkedin.com/company/siraj-ventures/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:94230137",
+   "name": "Prospect Rock Partners",
+   "url": "https://www.linkedin.com/company/prospect-rock-partners/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "name": "BSJ Ventures",
+   "entityUrn": "urn:li:fsd_company:143791969",
+   "url": "https://www.linkedin.com/company/bsj-ventures/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:10150594",
+   "name": "Ritch, Mueller, Heather y Nicolau, S.C.",
+   "url": "https://www.linkedin.com/company/ritch-mueller-heather-y-nicolau-s-c-/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:1382",
+   "name": "Goldman Sachs",
+   "url": "https://www.linkedin.com/company/goldman-sachs/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:164437",
+   "name": "Intesa Sanpaolo",
+   "url": "https://www.linkedin.com/company/intesa-sanpaolo/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:11096664",
+   "name": "Gruppo BCC Iccrea",
+   "url": "https://www.linkedin.com/company/gruppobcciccrea/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:5507",
+   "name": "Crowe",
+   "url": "https://www.linkedin.com/company/crowe/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:103662789",
+   "name": "Il Salone dei Pagamenti",
+   "url": "https://www.linkedin.com/showcase/il-salone-dei-pagamenti/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:20869",
+   "name": "Banca d'Italia",
+   "url": "https://www.linkedin.com/company/banca-d%27italia/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:1123",
+   "name": "Bank of America",
+   "url": "https://www.linkedin.com/company/bank-of-america/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "entityUrn": "urn:li:fsd_company:4920",
+   "name": "White & Case LLP",
+   "url": "https://www.linkedin.com/company/white-&-case/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "name": "CBI S.c.p.a. Società Benefit",
+   "entityUrn": "urn:li:fsd_company:1979957",
+   "url": "https://www.linkedin.com/company/cbi-scpa/",
+   "$type": "com.linkedin.voyager.dash.organization.Company"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:activity:7529179427205902336",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529179427205902336",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7529179427205902336,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7529179427205902336,urn:li:activity:7529179427205902336,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7529179427205902336"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:ugcPost:7529179493891112960",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:ugcPost:7529179493891112960",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:ugcPost:7529179493891112960,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:ugcPost:7529179493891112960,urn:li:ugcPost:7529179493891112960,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:ugcPost:7529179493891112960"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:activity:7529179043053772800",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529179043053772800",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7529179043053772800,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7529179043053772800,urn:li:activity:7529179043053772800,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7529179043053772800"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:activity:7529179654470070273",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529179654470070273",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7529179654470070273,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7529179654470070273,urn:li:activity:7529179654470070273,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7529179654470070273"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:activity:7529178435005480961",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529178435005480961",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7529178435005480961,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7529178435005480961,urn:li:activity:7529178435005480961,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7529178435005480961"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:activity:7529178288389545985",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529178288389545985",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7529178288389545985,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7529178288389545985,urn:li:activity:7529178288389545985,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7529178288389545985"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:activity:7529180776194625538",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529180776194625538",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7529180776194625538,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7529180776194625538,urn:li:activity:7529180776194625538,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7529180776194625538"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:activity:7529179154949316608",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529179154949316608",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7529179154949316608,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7529179154949316608,urn:li:activity:7529179154949316608,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7529179154949316608"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:activity:7529179208732848129",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529179208732848129",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7529179208732848129,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7529179208732848129,urn:li:activity:7529179208732848129,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7529179208732848129"
+  },
+  {
+   "hideSocialCountsIfAllowed": false,
+   "threadUrn": "urn:li:activity:7529179295630417920",
+   "*totalSocialActivityCounts": "urn:li:fsd_socialActivityCounts:urn:li:activity:7529179295630417920",
+   "showPremiumAnalytics": false,
+   "$type": "com.linkedin.voyager.dash.social.SocialDetail",
+   "*socialPermissions": "urn:li:fsd_socialPermissions:(urn:li:activity:7529179295630417920,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "allowedCommentersScope": "ALL",
+   "entityUrn": "urn:li:fsd_socialDetail:(urn:li:activity:7529179295630417920,urn:li:activity:7529179295630417920,urn:li:highlightedReply:-)",
+   "preDashEntityUrn": "urn:li:fs_socialDetail:urn:li:activity:7529179295630417920"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:ugcPost:7529179493891112960,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:ugcPost:7529179493891112960,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7529178288389545985,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7529178288389545985,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7529180776194625538,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7529180776194625538,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7529179043053772800,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7529179043053772800,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7529179208732848129,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7529179208732848129,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7529179154949316608,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7529179154949316608,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7529179427205902336,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7529179427205902336,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7529179295630417920,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7529179295630417920,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7529178435005480961,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7529178435005480961,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  },
+  {
+   "entityUrn": "urn:li:fsd_socialPermissions:(urn:li:activity:7529179654470070273,urn:li:fsd_profile:VIEWER_PLACEHOLDER)",
+   "messagePermission": "PUBLIC",
+   "canShare": true,
+   "canReact": true,
+   "canPostComments": true,
+   "preDashEntityUrn": "urn:li:fs_socialPermissions:(urn:li:activity:7529179654470070273,urn:li:fs_profile:(VIEWER_PLACEHOLDER,en_US))",
+   "$type": "com.linkedin.voyager.dash.social.SocialPermissions"
+  }
+ ]
+}

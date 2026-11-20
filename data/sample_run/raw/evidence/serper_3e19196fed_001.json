@@ -1,0 +1,93 @@
+{
+ "provider": "serper",
+ "query": "Iran is behind the cyber-attacks and banking issues affecting Bank of America.",
+ "params": {
+  "q": "Iran is behind the cyber-attacks and banking issues affecting Bank of America.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:26Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Iran is behind the cyber-attacks and banking issues affecting Bank of America.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Thousands report online outages at major US banks",
+    "link": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks",
+    "date": "3 days ago",
+    "source": "Al Jazeera",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Widespread service outages at major U.S. banks appear to be over",
+    "link": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+    "date": "3 days ago",
+    "source": "CBS News",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Trump Says He’s Not Worried About Outages Affecting Banks, FAA: ‘It’s Life’",
+    "link": "https://www.newsweek.com/dhs-says-ai-could-be-responsible-outages-faa-aviation-ground-stop-banks-12725688",
+    "date": "2 days ago",
+    "source": "Newsweek",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Iran targeted US infrastructure with cyberattacks since start of war, Homeland Security chief says",
+    "link": "https://www.jpost.com/middle-east/iran-news/article-915348",
+    "date": "1 day ago",
+    "source": "The Jerusalem Post",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Iran, China, Or AI: Who Is Behind Cyber Attacks On Major Systems In US?",
+    "link": "https://edtimes.in/iran-china-or-ai-who-is-behind-cyber-attacks-on-major-systems-in-us-2/",
+    "date": "1 day ago",
+    "source": "ED Times",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "A brief timeline of Iranian cyberattacks on U.S. companies, political figures, water systems and more",
+    "link": "https://www.cbsnews.com/news/iranian-cyberattacks-timeline-u-s-companies-water-systems-minnesota-hacked/",
+    "date": "Aug 1, 2026",
+    "source": "CBS News",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Iran names US banks as targets, ratcheting up cyber threat",
+    "link": "https://www.americanbanker.com/news/iran-names-u-s-banks-as-targets-ratcheting-up-cyber-threat",
+    "date": "Mar 12, 2026",
+    "source": "American Banker",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "US banks on high alert for cyberattacks as Iran war escalates",
+    "link": "https://www.reuters.com/business/finance/us-banks-high-alert-cyberattacks-iran-war-escalates-2026-03-03/",
+    "date": "Mar 4, 2026",
+    "source": "Reuters",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks",
+    "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+    "date": "3 days ago",
+    "source": "AP News",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank regulators warn of increased cyber risk from Iran war",
+    "link": "https://www.bankingdive.com/news/bank-cyber-risk-iran-war-regulators-cybersecurity/814564/",
+    "date": "Mar 12, 2026",
+    "source": "Banking Dive",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

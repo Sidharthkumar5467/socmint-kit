@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "Downdetector showed more than 4,300 reports for Chase alone on a Monday during a banking outage.",
+ "params": {
+  "query": "Downdetector showed more than 4,300 reports for Chase alone on a Monday during a banking outage.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:58Z",
+ "error": null,
+ "response": {}
+}

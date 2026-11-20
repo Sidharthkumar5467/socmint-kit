@@ -1,0 +1,3306 @@
+[
+  {
+    "id": "C1",
+    "member_author_ids": [
+      "telegram:3258616520",
+      "telegram:3301058737",
+      "telegram:3511402709",
+      "telegram:3534281549",
+      "telegram:3538853097",
+      "telegram:3549017487",
+      "telegram:3694396213",
+      "telegram:3701059792",
+      "telegram:3706791052",
+      "telegram:3708315539",
+      "telegram:3710415232",
+      "telegram:3714368956",
+      "telegram:3721682477",
+      "telegram:3725044987",
+      "telegram:3725381208",
+      "telegram:3730006234",
+      "telegram:3743854680",
+      "telegram:3754280722",
+      "telegram:3765552505",
+      "telegram:3769398394",
+      "telegram:3779156750",
+      "telegram:3785797003",
+      "telegram:3796702007",
+      "telegram:3815442933",
+      "telegram:3815735070",
+      "telegram:3817155267",
+      "telegram:3819226760",
+      "telegram:3823216189",
+      "telegram:3827300984",
+      "telegram:3846243044",
+      "telegram:3853096672",
+      "telegram:3853899963",
+      "telegram:3854952602",
+      "telegram:3857569967",
+      "telegram:3857856498",
+      "telegram:3859913414",
+      "telegram:3871229680",
+      "telegram:3882132845",
+      "telegram:3895692234",
+      "telegram:3896690336",
+      "telegram:3903403580",
+      "telegram:3909347339",
+      "telegram:3909790904",
+      "telegram:3910129147",
+      "telegram:3913722221",
+      "telegram:3914583318",
+      "telegram:3916878689",
+      "telegram:3917020542",
+      "telegram:3917366636",
+      "telegram:3918479355",
+      "telegram:3919562322",
+      "telegram:3921137121",
+      "telegram:3922644791",
+      "telegram:3922877855",
+      "telegram:3923282776",
+      "telegram:3930338913",
+      "telegram:3935223705",
+      "telegram:3936348430",
+      "telegram:3940663895",
+      "telegram:3941940848",
+      "telegram:3943515387",
+      "telegram:3949644963",
+      "telegram:3950445685",
+      "telegram:3951573738",
+      "telegram:3953027199",
+      "telegram:3955682727",
+      "telegram:3955930201",
+      "telegram:3957304782",
+      "telegram:3957384766",
+      "telegram:3957898666",
+      "telegram:3958519016",
+      "telegram:3958737023",
+      "telegram:3960625402",
+      "telegram:3961807389",
+      "telegram:3965641881",
+      "telegram:3976127239",
+      "telegram:3982447619",
+      "telegram:3985600958",
+      "telegram:3985822795",
+      "telegram:3987021719",
+      "telegram:3989516535",
+      "telegram:3992636550",
+      "telegram:3994201914",
+      "telegram:3994279461",
+      "telegram:3994707783",
+      "telegram:3994810494",
+      "telegram:3997782958",
+      "telegram:4203488059",
+      "telegram:4205127046",
+      "telegram:4220873080",
+      "telegram:4229753730",
+      "telegram:4236050144",
+      "telegram:4245092685",
+      "telegram:4291494022",
+      "telegram:4292925207",
+      "telegram:4296540133",
+      "telegram:4298321897",
+      "telegram:4303043934",
+      "telegram:4303812472",
+      "telegram:4304466228",
+      "telegram:4304738039",
+      "telegram:4305742503",
+      "telegram:4306224735",
+      "telegram:4306708305",
+      "telegram:4307035151",
+      "telegram:4311442146",
+      "telegram:4312417615",
+      "telegram:4312765247",
+      "telegram:4312983137",
+      "telegram:4313622857",
+      "telegram:4314191284",
+      "telegram:4314521323",
+      "telegram:4315492273",
+      "telegram:4317345612",
+      "telegram:4317799550",
+      "telegram:4318405167",
+      "telegram:4318644003",
+      "telegram:4319442400",
+      "telegram:4322710052",
+      "telegram:4323018338",
+      "telegram:4323207823",
+      "telegram:4323306394",
+      "telegram:4323567513",
+      "telegram:4324874610",
+      "telegram:4326225920",
+      "telegram:4328914870",
+      "telegram:4332673310",
+      "telegram:4334040519",
+      "telegram:4334441784",
+      "telegram:4334921893",
+      "telegram:4335998279",
+      "telegram:4337703793",
+      "telegram:4338118213",
+      "telegram:4340647202",
+      "telegram:4342453618",
+      "telegram:4342599419",
+      "telegram:4342872854",
+      "telegram:4343008577",
+      "telegram:4343808624",
+      "telegram:4343856137",
+      "telegram:4343876116",
+      "telegram:4347310064",
+      "telegram:4347655338",
+      "telegram:4351992351",
+      "telegram:4353818849",
+      "telegram:4354091808",
+      "telegram:4354339774",
+      "telegram:4354870533",
+      "telegram:4355000492",
+      "telegram:4358877125",
+      "telegram:4362570248",
+      "telegram:4362783954",
+      "telegram:4363811927",
+      "telegram:4364615584",
+      "telegram:4365167198",
+      "telegram:4370460027",
+      "telegram:4371684835",
+      "telegram:4372736147",
+      "telegram:4373608921",
+      "telegram:4374011115",
+      "telegram:4378109943",
+      "telegram:4379274438",
+      "telegram:4379406067",
+      "telegram:4381540758",
+      "telegram:4382306291",
+      "telegram:4382892361",
+      "telegram:4383063066",
+      "telegram:4384990750",
+      "telegram:4385448296",
+      "telegram:4385654988",
+      "telegram:4387957733",
+      "telegram:4388985377",
+      "telegram:4389784660",
+      "telegram:4390202838",
+      "telegram:4390663135",
+      "telegram:4391370806",
+      "telegram:4392816785",
+      "telegram:4392844580",
+      "telegram:4393425931",
+      "telegram:4393754667",
+      "telegram:4394653881",
+      "telegram:4395575534",
+      "telegram:4396630791",
+      "telegram:4397715706",
+      "telegram:4398693946",
+      "telegram:4399566298",
+      "telegram:4400222430",
+      "telegram:4402523314",
+      "telegram:4403505004",
+      "telegram:4404270270",
+      "telegram:4404297585",
+      "telegram:4405773631",
+      "telegram:4406825180",
+      "telegram:4409280721",
+      "telegram:4409966582",
+      "telegram:4413343968",
+      "telegram:4415968034",
+      "telegram:4416543181",
+      "telegram:4417055998",
+      "telegram:4417207685",
+      "telegram:4418779570",
+      "telegram:4418864600",
+      "telegram:4419514774",
+      "telegram:4420459354",
+      "telegram:4423616261",
+      "telegram:4424205746",
+      "telegram:4426895901",
+      "telegram:4427781415",
+      "telegram:4428862700",
+      "telegram:4430113486",
+      "telegram:4430415333",
+      "telegram:4430481398",
+      "telegram:4430535129",
+      "telegram:4433681763",
+      "telegram:4434336214",
+      "telegram:4434641278",
+      "telegram:4436197488",
+      "telegram:4436535944",
+      "telegram:4437269265",
+      "telegram:4439539424",
+      "telegram:4441810009",
+      "telegram:4442125433",
+      "telegram:4442503131",
+      "telegram:4443078914",
+      "telegram:4447182741",
+      "telegram:4448178133",
+      "telegram:4448618470",
+      "telegram:4452336025",
+      "telegram:4452406719",
+      "telegram:4452468813",
+      "telegram:4453903602",
+      "telegram:4454902351",
+      "telegram:4456147151",
+      "telegram:4458471781",
+      "telegram:4460115112",
+      "telegram:4461333024",
+      "telegram:4462821506",
+      "telegram:4465271247",
+      "telegram:4465451784",
+      "telegram:4466201063",
+      "telegram:4467379124",
+      "telegram:4469073104",
+      "telegram:4471296748",
+      "telegram:4472738865",
+      "telegram:4472874545",
+      "telegram:4473212782",
+      "telegram:4475063658",
+      "telegram:4475798594",
+      "telegram:4476129985",
+      "telegram:4478137184",
+      "telegram:4481056254",
+      "telegram:4482405070",
+      "telegram:4482847607",
+      "telegram:4484701208",
+      "telegram:4489381035",
+      "telegram:4489567673",
+      "telegram:4491935150",
+      "telegram:4492383556",
+      "telegram:4492617606",
+      "telegram:4494335150",
+      "telegram:4494404227",
+      "telegram:4495034217",
+      "telegram:4495267483",
+      "telegram:4495615854",
+      "telegram:4495695897",
+      "telegram:4497829992",
+      "telegram:4499081736"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:america_bank_account_hong:276",
+          "telegram:america_buy_usdt_hong_kong_buy_u:39",
+          "telegram:america_c2c_p2p_canada_c2c_p2p_m:39",
+          "telegram:america_convert_to_usdt_hong:39",
+          "telegram:america_convert_to_usdt_hong_kon:39",
+          "telegram:america_funds_canada_funds_mexic:39",
+          "telegram:america_funds_hong_kong_funds:39",
+          "telegram:america_money_hong_kong_money:39",
+          "telegram:america_purchase_usdt_canada_pur:39",
+          "telegram:america_usdt_exchange_hongkong:39",
+          "telegram:america_usdt_rate_canada_usdt_ra:39",
+          "telegram:america_usdt_rate_hong_kong:39",
+          "telegram:asdkjhfiua:35",
+          "telegram:asfasret:35",
+          "telegram:asgreds:35",
+          "telegram:asjniugi:35",
+          "telegram:asldihf:35",
+          "telegram:asshnfhg:35",
+          "telegram:australian_c2c_p2p_malaysia:39",
+          "telegram:australian_c2c_p2p_malaysia_c2c:39",
+          "telegram:australian_convert_to_usdt:275",
+          "telegram:australian_convert_to_usdt_malay:39",
+          "telegram:australian_purchase_usdt_malaysi:39",
+          "telegram:australian_to_usdt_malaysia_to_u:39",
+          "telegram:bdfghdfj:35",
+          "telegram:bdfgsfs:35",
+          "telegram:bdfujyt:40",
+          "telegram:bdiashid:36",
+          "telegram:bfdhrtgr:35",
+          "telegram:bfdsuty:36",
+          "telegram:bghyrer:35",
+          "telegram:brazil_crypto_exchange_brazil_us:60",
+          "telegram:brazil_crypto_seller_brazil_fund:59",
+          "telegram:brazil_local_usdt_usdt_serv:39",
+          "telegram:brazil_local_usdt_usdt_service:59",
+          "telegram:brazil_money_brazil_withdrawal:39",
+          "telegram:brazil_p2p_crypto_brazil_usdt:59",
+          "telegram:brazil_p2p_crypto_brazil_usdt_ca:59",
+          "telegram:brazil_payment_gateway_brazil_bu:59",
+          "telegram:brazil_purchases_usdt_brazil_sel:39",
+          "telegram:brazil_tether_usdt_avail:19",
+          "telegram:brazil_tether_usdt_available:59",
+          "telegram:brazil_usdt_acceptance_the_pr:59",
+          "telegram:brazil_usdt_best_rate_brazil_sta:59",
+          "telegram:brazil_usdt_channel_brazi:39",
+          "telegram:brazil_usdt_channel_brazil:59",
+          "telegram:brazil_usdt_dealer_brazil_usdt_s:39",
+          "telegram:brazil_usdt_platform_brazil_usdt:39",
+          "telegram:buy_usdt_cash_in_person:48",
+          "telegram:buy_usdt_in_hong_kongsell_usdt:39",
+          "telegram:buy_usdt_in_indonesia0:39",
+          "telegram:buy_usdt_in_indonesia:39",
+          "telegram:buy_usdt_in_japan00:19",
+          "telegram:buy_usdt_in_japan0:59",
+          "telegram:buy_usdt_in_malaysiabuy_usdt_in:39",
+          "telegram:buy_usdt_in_malaysiasell_usdt:39",
+          "telegram:buy_usdt_in_malaysiasell_usdt_in:59",
+          "telegram:buy_usdt_in_singaporebuy_usdt:39",
+          "telegram:buy_usdt_in_singaporesell_usdt:39",
+          "telegram:buy_usdt_in_singaporesell_usdt_i:59",
+          "telegram:buy_usdt_in_south_korea_buy:59",
+          "telegram:buy_usdt_in_thailandsell_usd:59",
+          "telegram:buy_usdt_in_usabuy_usdt_in:59",
+          "telegram:buy_usdt_in_usabuy_usdt_in_indon:19",
+          "telegram:buy_usdt_in_usasell_usdt_in_usap:39",
+          "telegram:buy_usdt_with_neteller:19",
+          "telegram:buy_usdt_with_revolut:19",
+          "telegram:bvdfsger:35",
+          "telegram:bvfdsger:35",
+          "telegram:cad_to_usdt_australian_dollar:19",
+          "telegram:casfasd:35",
+          "telegram:casgergfd:35",
+          "telegram:cgdsgfds:35",
+          "telegram:cnkjhasdui:35",
+          "telegram:cnoiyhsuia:35",
+          "telegram:columbia_usdt_exchange_peru_usdt:39",
+          "telegram:csdagsf:35",
+          "telegram:cxsdfdyr:35",
+          "telegram:dashterfa:35",
+          "telegram:dasjiofas:40",
+          "telegram:dfhrtdda:35",
+          "telegram:dfsbgjhf:40",
+          "telegram:dgvajhuhuew:35",
+          "telegram:dsjhgusd:35",
+          "telegram:england_convert_to_usdt_uk_conve:19",
+          "telegram:england_to_usdt_uk_to_usdt:39",
+          "telegram:england_usdt_exchange_uk_usdt_ex:39",
+          "telegram:england_usdt_rate_uk_usdt_rate_g:39",
+          "telegram:fasdyge:35",
+          "telegram:fashrawe:40",
+          "telegram:fasrecddx:35",
+          "telegram:fdsaghfg:35",
+          "telegram:fdsahga:35",
+          "telegram:fdsahtw:35",
+          "telegram:fdsghdfgd:35",
+          "telegram:ffewrewr:35",
+          "telegram:fgdhdsfc:35",
+          "telegram:fhadfgads:35",
+          "telegram:fjwrtywe:35",
+          "telegram:fsadeer:35",
+          "telegram:fsadger:40",
+          "telegram:fsafgreg:35",
+          "telegram:fsdafwerrwe:40",
+          "telegram:fsdtyrheh:35",
+          "telegram:gastreqw:36",
+          "telegram:gdsfjyr:35",
+          "telegram:germany_collects_money_germany:39",
+          "telegram:germany_crypto_exchange_germanyu:39",
+          "telegram:germany_crypto_seller_germany_fu:39",
+          "telegram:germany_currency_buy_usdt_ge:39",
+          "telegram:germany_money_germany_withdrawal:39",
+          "telegram:germany_p2p_crypto_germany_usd:39",
+          "telegram:germany_p2p_crypto_germany_usdt:39",
+          "telegram:germany_tether_usdt_available:39",
+          "telegram:germany_tether_usdt_available_ge:39",
+          "telegram:germany_usdt_acceptance_the_pric:39",
+          "telegram:germany_usdt_best_rate_germany_s:39",
+          "telegram:germany_usdt_dealer_germany_usdt:39",
+          "telegram:germany_usdt_germany_buy:39",
+          "telegram:gfdhfjdgh:35",
+          "telegram:ghfsghfg:35",
+          "telegram:gpb_to_usdthdk_to_usdt:19",
+          "telegram:gretyretre:35",
+          "telegram:gsdftyer:35",
+          "telegram:gvdfahty:40",
+          "telegram:hong_kong_dollar_to_usdt_idr_to:19",
+          "telegram:hsgjhjydf:35",
+          "telegram:india_c2c_p2p_bangladesh_c2c_p2p:39",
+          "telegram:india_usdt_exchange_bangladesh_u:39",
+          "telegram:indonesia_bank_account_india_ban:39",
+          "telegram:indonesia_bank_transfer_india_ba:39",
+          "telegram:indonesia_c2c_p2p_india:39",
+          "telegram:indonesia_money_india_money_bang:39",
+          "telegram:indonesia_usdt_exchangeunited_ar:39",
+          "telegram:iosajoi:35",
+          "telegram:italy_usdt_exchange_france_usdt:39",
+          "telegram:japanese_convert_to_usdt_singapo:39",
+          "telegram:japanese_money_singapore_moneyus:39",
+          "telegram:japanese_usdt_rate_singapore_usd:39",
+          "telegram:jhfausda:35",
+          "telegram:kjasdhuias:35",
+          "telegram:kjhdasiugtydua:35",
+          "telegram:mcihsai:35",
+          "telegram:mexico_c2c_p2p_brazil_c2c_p2p_ch:39",
+          "telegram:mexico_convert_to_usdt_brazil_co:19",
+          "telegram:mexico_local_usdt_usdt_serv:19",
+          "telegram:mexico_p2p_crypto_mexico_usd:39",
+          "telegram:mexico_purchase_usdt_brazil_purc:39",
+          "telegram:mexico_usdt_channel_mexico:19",
+          "telegram:mexico_usdt_exchange_brazil_usdt:39",
+          "telegram:mjytiu:35",
+          "telegram:mnfghjdf:40",
+          "telegram:moivhas:35",
+          "telegram:nbfgdhf:35",
+          "telegram:nbiujdsf:36",
+          "telegram:nciosahi:35",
+          "telegram:ncohoiifas:35",
+          "telegram:ncoisho:36",
+          "telegram:ndkoashyiudgas:35",
+          "telegram:nepal_money_taiwan_money_hong_ko:39",
+          "telegram:nepal_purchase_usdt_taiwan_pur:39",
+          "telegram:nepal_usdt_exchange_taiwan:39",
+          "telegram:nigeria_bank_transfer_kenya_bank:39",
+          "telegram:nigeria_currency_buy_usdt_nigeri:39",
+          "telegram:nincisau:35",
+          "telegram:njfdhtyi:35",
+          "telegram:noisaiuh:35",
+          "telegram:nuiasgdi:28",
+          "telegram:p2p_usdt_in_malaysia_p2p_usdt:39",
+          "telegram:p2p_usdt_in_south_korea_p2p_usdt:19",
+          "telegram:p2p_usdt_in_usa_p2p_usdt_in_in:39",
+          "telegram:pakistan_collects_money:19",
+          "telegram:pakistan_collects_money_pakist:59",
+          "telegram:pakistan_local_usdt_u:275",
+          "telegram:pakistan_local_usdt_usdt:39",
+          "telegram:pakistan_local_usdt_usdt_serv:59",
+          "telegram:pakistan_p2p_crypto_pakistan_usd:39",
+          "telegram:pakistan_payment_gateway_paki:39",
+          "telegram:pakistan_tether_usdt_av:19",
+          "telegram:pakistan_tether_usdt_available:39",
+          "telegram:pakistan_usdt_acceptance_the_pri:40",
+          "telegram:pakistan_usdt_best_rate_pakistan:39",
+          "telegram:pakistan_usdt_channel_pakistan:59",
+          "telegram:pakistan_usdt_dealer_p:19",
+          "telegram:pound_to_usdt_euro_to_usdt:18",
+          "telegram:sadtrere:35",
+          "telegram:saudi_arabia_c2c_p2p_turkey_c2c:39",
+          "telegram:saudi_arabia_usdt_exchange_turke:39",
+          "telegram:saudi_arabia_usdt_rate_turkey_us:39",
+          "telegram:sdafgerggf:35",
+          "telegram:sdfarsww:35",
+          "telegram:sdfatgr:35",
+          "telegram:sdferywer:35",
+          "telegram:sell_usdt_in_germany_trade_usdt:39",
+          "telegram:sell_usdt_in_japansell_usdt_in_s:39",
+          "telegram:sell_usdt_in_malaysiasell_usdt_i:59",
+          "telegram:sell_usdt_in_singaporesell_usdt:19",
+          "telegram:sell_usdt_in_south_africa_trade:19",
+          "telegram:sell_usdt_to_e_wallet:39",
+          "telegram:sell_usdt_western_union:39",
+          "telegram:sell_usdt_wise:48",
+          "telegram:sepa_transfer_usdt_buy:19",
+          "telegram:sldihfgg:35",
+          "telegram:south_africa_account_south:39",
+          "telegram:south_africa_p2p_crypto_south:39",
+          "telegram:south_africa_payment_south_afric:39",
+          "telegram:south_africa_tether_usdt_availab:39",
+          "telegram:south_africa_usdt_acceptance:39",
+          "telegram:south_africa_usdt_channel_south:39",
+          "telegram:south_africa_usdt_dealer_south:39",
+          "telegram:south_africa_usdt_dealer_south_a:39",
+          "telegram:south_africa_usdt_platform_south:39",
+          "telegram:south_africa_usdt_south_africa_b:39",
+          "telegram:south_africausdt_p2p_south_afric:39",
+          "telegram:sterling_to_usdt_hong_kong_dolla:19",
+          "telegram:taiwan_bank_transfer_singapore_b:39",
+          "telegram:taiwan_funds_singapore_funds_hon:39",
+          "telegram:taiwan_purchase_usdt_singapore_p:39",
+          "telegram:thai_baht_to_usdt_indonesia:19",
+          "telegram:thai_baht_to_usdt_indonesian:19",
+          "telegram:thai_baht_to_usdt_indonesian_rup:19",
+          "telegram:thailand_buy_usdt_philippines_bu:39",
+          "telegram:thailand_c2c_p2p_philippines:39",
+          "telegram:thailand_fiat_currency_philippin:39",
+          "telegram:thailand_purchase_usdt_philipp:39",
+          "telegram:thailand_usdt_exchange:39",
+          "telegram:thailand_usdt_rate_philippines:39",
+          "telegram:thailand_usdt_rate_philippines_u:39",
+          "telegram:thb_to_usdt_mmk_to_usdt_php_to_u:19",
+          "telegram:turkey_purchase_usdt_egypt_pu:39",
+          "telegram:turkey_purchase_usdt_egypt_purch:39",
+          "telegram:turkey_usdt_exchange_egypt_usdt:39",
+          "telegram:united_arab_emirates_buy_usdt_sa:39",
+          "telegram:united_arab_emirates_c2c_p2p_sau:39",
+          "telegram:united_arab_emirates_money_saudi:39",
+          "telegram:usa_bank_transfer_columbia_bank:275",
+          "telegram:usa_usdt_exchange00:39",
+          "telegram:usa_usdt_rate_columbia_usdt_ra:39",
+          "telegram:usd_to_usdt_euro_to_usdt0:19",
+          "telegram:usd_to_usdt_euro_to_usdt:18",
+          "telegram:usd_to_usdt_in_hong_kongwtb:59",
+          "telegram:usd_to_usdt_in_japanwtb_usdt_ja:39",
+          "telegram:usd_to_usdt_in_malaysia_usd_to_u:59",
+          "telegram:usd_to_usdt_in_singapore_usd:39",
+          "telegram:usd_to_usdt_in_singapore_usd_to:59",
+          "telegram:usd_to_usdt_in_south_korea_usd_t:39",
+          "telegram:usd_to_usdt_in_thailandwtb:59",
+          "telegram:usd_to_usdt_in_thailandwtb_usdt:39",
+          "telegram:usd_to_usdt_in_usa_usd_to_usd:59",
+          "telegram:usd_to_usdt_in_usa_usd_to_usdt_i:59",
+          "telegram:usd_to_usdt_in_usawtb:19",
+          "telegram:usd_to_usdt_in_vietnam0:39",
+          "telegram:vadfhtfd:35",
+          "telegram:vdfhjytre:35",
+          "telegram:vdsfhdtdgsf:35",
+          "telegram:vdsftg:35",
+          "telegram:vdshfsdsd:36",
+          "telegram:vfdagytwer:35",
+          "telegram:vniuaghdi:35",
+          "telegram:vsadsghfd:35",
+          "telegram:vsagtstre:40",
+          "telegram:vsdadgd:36",
+          "telegram:wsdfatr:35",
+          "telegram:wtb_usdt_in_malaysiawtb_usdt_in:59",
+          "telegram:wtb_usdt_in_south_korea_wtb:59",
+          "telegram:wtb_usdt_in_usawtb_usdt_in_indon:39",
+          "telegram:xxsadas:35"
+        ],
+        "detail": "267 posts by 267 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.962,
+        "evidence_post_ids": [
+          "telegram:america_bank_account_hong:276",
+          "telegram:america_buy_usdt_hong_kong_buy_u:39",
+          "telegram:america_c2c_p2p_canada_c2c_p2p_m:39",
+          "telegram:america_convert_to_usdt_hong:39",
+          "telegram:america_convert_to_usdt_hong_kon:39",
+          "telegram:america_funds_canada_funds_mexic:39",
+          "telegram:america_funds_hong_kong_funds:39",
+          "telegram:america_money_hong_kong_money:39",
+          "telegram:america_purchase_usdt_canada_pur:39",
+          "telegram:america_usdt_exchange_hongkong:39",
+          "telegram:america_usdt_rate_canada_usdt_ra:39",
+          "telegram:america_usdt_rate_hong_kong:39",
+          "telegram:asdkjhfiua:35",
+          "telegram:asfasret:35",
+          "telegram:asgreds:35",
+          "telegram:asjniugi:35",
+          "telegram:asldihf:35",
+          "telegram:asshnfhg:35",
+          "telegram:australian_c2c_p2p_malaysia:39",
+          "telegram:australian_c2c_p2p_malaysia_c2c:39",
+          "telegram:australian_convert_to_usdt:275",
+          "telegram:australian_convert_to_usdt_malay:39",
+          "telegram:australian_purchase_usdt_malaysi:39",
+          "telegram:australian_to_usdt_malaysia_to_u:39",
+          "telegram:bdfghdfj:35",
+          "telegram:bdfgsfs:35",
+          "telegram:bdfujyt:40",
+          "telegram:bdiashid:36",
+          "telegram:bfdhrtgr:35",
+          "telegram:bfdsuty:36",
+          "telegram:bghyrer:35",
+          "telegram:brazil_crypto_exchange_brazil_us:60",
+          "telegram:brazil_crypto_seller_brazil_fund:59",
+          "telegram:brazil_local_usdt_usdt_serv:39",
+          "telegram:brazil_local_usdt_usdt_service:59",
+          "telegram:brazil_money_brazil_withdrawal:39",
+          "telegram:brazil_p2p_crypto_brazil_usdt:59",
+          "telegram:brazil_p2p_crypto_brazil_usdt_ca:59",
+          "telegram:brazil_payment_gateway_brazil_bu:59",
+          "telegram:brazil_purchases_usdt_brazil_sel:39",
+          "telegram:brazil_tether_usdt_avail:19",
+          "telegram:brazil_tether_usdt_available:59",
+          "telegram:brazil_usdt_acceptance_the_pr:59",
+          "telegram:brazil_usdt_best_rate_brazil_sta:59",
+          "telegram:brazil_usdt_channel_brazi:39",
+          "telegram:brazil_usdt_channel_brazil:59",
+          "telegram:brazil_usdt_dealer_brazil_usdt_s:39",
+          "telegram:brazil_usdt_platform_brazil_usdt:39",
+          "telegram:buy_usdt_cash_in_person:48",
+          "telegram:buy_usdt_in_hong_kongsell_usdt:39",
+          "telegram:buy_usdt_in_indonesia0:39",
+          "telegram:buy_usdt_in_indonesia:39",
+          "telegram:buy_usdt_in_japan00:19",
+          "telegram:buy_usdt_in_japan0:59",
+          "telegram:buy_usdt_in_malaysiabuy_usdt_in:39",
+          "telegram:buy_usdt_in_malaysiasell_usdt:39",
+          "telegram:buy_usdt_in_malaysiasell_usdt_in:59",
+          "telegram:buy_usdt_in_singaporebuy_usdt:39",
+          "telegram:buy_usdt_in_singaporesell_usdt:39",
+          "telegram:buy_usdt_in_singaporesell_usdt_i:59",
+          "telegram:buy_usdt_in_south_korea_buy:59",
+          "telegram:buy_usdt_in_thailandsell_usd:59",
+          "telegram:buy_usdt_in_usabuy_usdt_in:59",
+          "telegram:buy_usdt_in_usabuy_usdt_in_indon:19",
+          "telegram:buy_usdt_in_usasell_usdt_in_usap:39",
+          "telegram:buy_usdt_with_neteller:19",
+          "telegram:buy_usdt_with_revolut:19",
+          "telegram:bvdfsger:35",
+          "telegram:bvfdsger:35",
+          "telegram:cad_to_usdt_australian_dollar:19",
+          "telegram:casfasd:35",
+          "telegram:casgergfd:35",
+          "telegram:cgdsgfds:35",
+          "telegram:cnkjhasdui:35",
+          "telegram:cnoiyhsuia:35",
+          "telegram:columbia_usdt_exchange_peru_usdt:39",
+          "telegram:csdagsf:35",
+          "telegram:cxsdfdyr:35",
+          "telegram:dashterfa:35",
+          "telegram:dasjiofas:40",
+          "telegram:dfhrtdda:35",
+          "telegram:dfsbgjhf:40",
+          "telegram:dgvajhuhuew:35",
+          "telegram:dsjhgusd:35",
+          "telegram:england_convert_to_usdt_uk_conve:19",
+          "telegram:england_to_usdt_uk_to_usdt:39",
+          "telegram:england_usdt_exchange_uk_usdt_ex:39",
+          "telegram:england_usdt_rate_uk_usdt_rate_g:39",
+          "telegram:fasdyge:35",
+          "telegram:fashrawe:40",
+          "telegram:fasrecddx:35",
+          "telegram:fdsaghfg:35",
+          "telegram:fdsahga:35",
+          "telegram:fdsahtw:35",
+          "telegram:fdsghdfgd:35",
+          "telegram:ffewrewr:35",
+          "telegram:fgdhdsfc:35",
+          "telegram:fhadfgads:35",
+          "telegram:fjwrtywe:35",
+          "telegram:fsadeer:35",
+          "telegram:fsadger:40",
+          "telegram:fsafgreg:35",
+          "telegram:fsdafwerrwe:40",
+          "telegram:fsdtyrheh:35",
+          "telegram:gastreqw:36",
+          "telegram:gdsfjyr:35",
+          "telegram:germany_collects_money_germany:39",
+          "telegram:germany_crypto_exchange_germanyu:39",
+          "telegram:germany_crypto_seller_germany_fu:39",
+          "telegram:germany_currency_buy_usdt_ge:39",
+          "telegram:germany_money_germany_withdrawal:39",
+          "telegram:germany_p2p_crypto_germany_usd:39",
+          "telegram:germany_p2p_crypto_germany_usdt:39",
+          "telegram:germany_tether_usdt_available:39",
+          "telegram:germany_tether_usdt_available_ge:39",
+          "telegram:germany_usdt_acceptance_the_pric:39",
+          "telegram:germany_usdt_best_rate_germany_s:39",
+          "telegram:germany_usdt_dealer_germany_usdt:39",
+          "telegram:germany_usdt_germany_buy:39",
+          "telegram:gfdhfjdgh:35",
+          "telegram:ghfsghfg:35",
+          "telegram:gpb_to_usdthdk_to_usdt:19",
+          "telegram:gretyretre:35",
+          "telegram:gsdftyer:35",
+          "telegram:gvdfahty:40",
+          "telegram:hong_kong_dollar_to_usdt_idr_to:19",
+          "telegram:hsgjhjydf:35",
+          "telegram:india_c2c_p2p_bangladesh_c2c_p2p:39",
+          "telegram:india_usdt_exchange_bangladesh_u:39",
+          "telegram:indonesia_bank_account_india_ban:39",
+          "telegram:indonesia_bank_transfer_india_ba:39",
+          "telegram:indonesia_c2c_p2p_india:39",
+          "telegram:indonesia_money_india_money_bang:39",
+          "telegram:indonesia_usdt_exchangeunited_ar:39",
+          "telegram:iosajoi:35",
+          "telegram:italy_usdt_exchange_france_usdt:39",
+          "telegram:japanese_convert_to_usdt_singapo:39",
+          "telegram:japanese_money_singapore_moneyus:39",
+          "telegram:japanese_usdt_rate_singapore_usd:39",
+          "telegram:jhfausda:35",
+          "telegram:kjasdhuias:35",
+          "telegram:kjhdasiugtydua:35",
+          "telegram:mcihsai:35",
+          "telegram:mexico_c2c_p2p_brazil_c2c_p2p_ch:39",
+          "telegram:mexico_convert_to_usdt_brazil_co:19",
+          "telegram:mexico_local_usdt_usdt_serv:19",
+          "telegram:mexico_p2p_crypto_mexico_usd:39",
+          "telegram:mexico_purchase_usdt_brazil_purc:39",
+          "telegram:mexico_usdt_channel_mexico:19",
+          "telegram:mexico_usdt_exchange_brazil_usdt:39",
+          "telegram:mjytiu:35",
+          "telegram:mnfghjdf:40",
+          "telegram:moivhas:35",
+          "telegram:nbfgdhf:35",
+          "telegram:nbiujdsf:36",
+          "telegram:nciosahi:35",
+          "telegram:ncohoiifas:35",
+          "telegram:ncoisho:36",
+          "telegram:ndkoashyiudgas:35",
+          "telegram:nepal_money_taiwan_money_hong_ko:39",
+          "telegram:nepal_purchase_usdt_taiwan_pur:39",
+          "telegram:nepal_usdt_exchange_taiwan:39",
+          "telegram:nigeria_bank_transfer_kenya_bank:39",
+          "telegram:nigeria_currency_buy_usdt_nigeri:39",
+          "telegram:nincisau:35",
+          "telegram:njfdhtyi:35",
+          "telegram:noisaiuh:35",
+          "telegram:nuiasgdi:28",
+          "telegram:p2p_usdt_in_malaysia_p2p_usdt:39",
+          "telegram:p2p_usdt_in_south_korea_p2p_usdt:19",
+          "telegram:p2p_usdt_in_usa_p2p_usdt_in_in:39",
+          "telegram:pakistan_collects_money:19",
+          "telegram:pakistan_collects_money_pakist:59",
+          "telegram:pakistan_local_usdt_u:275",
+          "telegram:pakistan_local_usdt_usdt:39",
+          "telegram:pakistan_local_usdt_usdt_serv:59",
+          "telegram:pakistan_p2p_crypto_pakistan_usd:39",
+          "telegram:pakistan_payment_gateway_paki:39",
+          "telegram:pakistan_tether_usdt_av:19",
+          "telegram:pakistan_tether_usdt_available:39",
+          "telegram:pakistan_usdt_acceptance_the_pri:40",
+          "telegram:pakistan_usdt_best_rate_pakistan:39",
+          "telegram:pakistan_usdt_channel_pakistan:59",
+          "telegram:pakistan_usdt_dealer_p:19",
+          "telegram:pound_to_usdt_euro_to_usdt:18",
+          "telegram:sadtrere:35",
+          "telegram:saudi_arabia_c2c_p2p_turkey_c2c:39",
+          "telegram:saudi_arabia_usdt_exchange_turke:39",
+          "telegram:saudi_arabia_usdt_rate_turkey_us:39",
+          "telegram:sdafgerggf:35",
+          "telegram:sdfarsww:35",
+          "telegram:sdfatgr:35",
+          "telegram:sdferywer:35",
+          "telegram:sell_usdt_in_germany_trade_usdt:39",
+          "telegram:sell_usdt_in_japansell_usdt_in_s:39",
+          "telegram:sell_usdt_in_malaysiasell_usdt_i:59",
+          "telegram:sell_usdt_in_singaporesell_usdt:19",
+          "telegram:sell_usdt_in_south_africa_trade:19",
+          "telegram:sell_usdt_to_e_wallet:39",
+          "telegram:sell_usdt_western_union:39",
+          "telegram:sell_usdt_wise:48",
+          "telegram:sepa_transfer_usdt_buy:19",
+          "telegram:sldihfgg:35",
+          "telegram:south_africa_account_south:39",
+          "telegram:south_africa_p2p_crypto_south:39",
+          "telegram:south_africa_payment_south_afric:39",
+          "telegram:south_africa_tether_usdt_availab:39",
+          "telegram:south_africa_usdt_acceptance:39",
+          "telegram:south_africa_usdt_channel_south:39",
+          "telegram:south_africa_usdt_dealer_south:39",
+          "telegram:south_africa_usdt_dealer_south_a:39",
+          "telegram:south_africa_usdt_platform_south:39",
+          "telegram:south_africa_usdt_south_africa_b:39",
+          "telegram:south_africausdt_p2p_south_afric:39",
+          "telegram:sterling_to_usdt_hong_kong_dolla:19",
+          "telegram:taiwan_bank_transfer_singapore_b:39",
+          "telegram:taiwan_funds_singapore_funds_hon:39",
+          "telegram:taiwan_purchase_usdt_singapore_p:39",
+          "telegram:thai_baht_to_usdt_indonesia:19",
+          "telegram:thai_baht_to_usdt_indonesian:19",
+          "telegram:thai_baht_to_usdt_indonesian_rup:19",
+          "telegram:thailand_buy_usdt_philippines_bu:39",
+          "telegram:thailand_c2c_p2p_philippines:39",
+          "telegram:thailand_fiat_currency_philippin:39",
+          "telegram:thailand_purchase_usdt_philipp:39",
+          "telegram:thailand_usdt_exchange:39",
+          "telegram:thailand_usdt_rate_philippines:39",
+          "telegram:thailand_usdt_rate_philippines_u:39",
+          "telegram:thb_to_usdt_mmk_to_usdt_php_to_u:19",
+          "telegram:turkey_purchase_usdt_egypt_pu:39",
+          "telegram:turkey_purchase_usdt_egypt_purch:39",
+          "telegram:turkey_usdt_exchange_egypt_usdt:39",
+          "telegram:united_arab_emirates_buy_usdt_sa:39",
+          "telegram:united_arab_emirates_c2c_p2p_sau:39",
+          "telegram:united_arab_emirates_money_saudi:39",
+          "telegram:usa_bank_transfer_columbia_bank:275",
+          "telegram:usa_usdt_exchange00:39",
+          "telegram:usa_usdt_rate_columbia_usdt_ra:39",
+          "telegram:usd_to_usdt_euro_to_usdt0:19",
+          "telegram:usd_to_usdt_euro_to_usdt:18",
+          "telegram:usd_to_usdt_in_hong_kongwtb:59",
+          "telegram:usd_to_usdt_in_japanwtb_usdt_ja:39",
+          "telegram:usd_to_usdt_in_malaysia_usd_to_u:59",
+          "telegram:usd_to_usdt_in_singapore_usd:39",
+          "telegram:usd_to_usdt_in_singapore_usd_to:59",
+          "telegram:usd_to_usdt_in_south_korea_usd_t:39",
+          "telegram:usd_to_usdt_in_thailandwtb:59",
+          "telegram:usd_to_usdt_in_thailandwtb_usdt:39",
+          "telegram:usd_to_usdt_in_usa_usd_to_usd:59",
+          "telegram:usd_to_usdt_in_usa_usd_to_usdt_i:59",
+          "telegram:usd_to_usdt_in_usawtb:19",
+          "telegram:usd_to_usdt_in_vietnam0:39",
+          "telegram:vadfhtfd:35",
+          "telegram:vdfhjytre:35",
+          "telegram:vdsfhdtdgsf:35",
+          "telegram:vdsftg:35",
+          "telegram:vdshfsdsd:36",
+          "telegram:vfdagytwer:35",
+          "telegram:vniuaghdi:35",
+          "telegram:vsadsghfd:35",
+          "telegram:vsagtstre:40",
+          "telegram:vsdadgd:36",
+          "telegram:wsdfatr:35",
+          "telegram:wtb_usdt_in_malaysiawtb_usdt_in:59",
+          "telegram:wtb_usdt_in_south_korea_wtb:59",
+          "telegram:wtb_usdt_in_usawtb_usdt_in_indon:39",
+          "telegram:xxsadas:35"
+        ],
+        "detail": "35511 same-content post pairs (35511 near-duplicate text, 0 same link) by 267 accounts posted within 10 min of each other (median lag 20 s; platform timestamps)"
+      },
+      {
+        "type": "similar_creation_dates",
+        "score": 0.967,
+        "evidence_post_ids": [
+          "telegram:america_bank_account_hong:276",
+          "telegram:america_buy_usdt_hong_kong_buy_u:39",
+          "telegram:america_c2c_p2p_canada_c2c_p2p_m:39",
+          "telegram:america_convert_to_usdt_hong:39",
+          "telegram:america_convert_to_usdt_hong_kon:39",
+          "telegram:america_funds_canada_funds_mexic:39",
+          "telegram:america_funds_hong_kong_funds:39",
+          "telegram:america_money_hong_kong_money:39",
+          "telegram:america_purchase_usdt_canada_pur:39",
+          "telegram:america_usdt_exchange_hongkong:39",
+          "telegram:america_usdt_rate_canada_usdt_ra:39",
+          "telegram:america_usdt_rate_hong_kong:39",
+          "telegram:asdkjhfiua:35",
+          "telegram:asfasret:35",
+          "telegram:asgreds:35",
+          "telegram:asjniugi:35",
+          "telegram:asldihf:35",
+          "telegram:asshnfhg:35",
+          "telegram:australian_c2c_p2p_malaysia:39",
+          "telegram:australian_c2c_p2p_malaysia_c2c:39",
+          "telegram:australian_convert_to_usdt:275",
+          "telegram:australian_convert_to_usdt_malay:39",
+          "telegram:australian_purchase_usdt_malaysi:39",
+          "telegram:australian_to_usdt_malaysia_to_u:39",
+          "telegram:bdfghdfj:35",
+          "telegram:bdfgsfs:35",
+          "telegram:bdfujyt:40",
+          "telegram:bdiashid:36",
+          "telegram:bfdhrtgr:35",
+          "telegram:bfdsuty:36",
+          "telegram:bghyrer:35",
+          "telegram:brazil_crypto_exchange_brazil_us:60",
+          "telegram:brazil_crypto_seller_brazil_fund:59",
+          "telegram:brazil_local_usdt_usdt_serv:39",
+          "telegram:brazil_local_usdt_usdt_service:59",
+          "telegram:brazil_money_brazil_withdrawal:39",
+          "telegram:brazil_p2p_crypto_brazil_usdt:59",
+          "telegram:brazil_p2p_crypto_brazil_usdt_ca:59",
+          "telegram:brazil_payment_gateway_brazil_bu:59",
+          "telegram:brazil_purchases_usdt_brazil_sel:39",
+          "telegram:brazil_tether_usdt_avail:19",
+          "telegram:brazil_tether_usdt_available:59",
+          "telegram:brazil_usdt_acceptance_the_pr:59",
+          "telegram:brazil_usdt_best_rate_brazil_sta:59",
+          "telegram:brazil_usdt_channel_brazi:39",
+          "telegram:brazil_usdt_channel_brazil:59",
+          "telegram:brazil_usdt_dealer_brazil_usdt_s:39",
+          "telegram:brazil_usdt_platform_brazil_usdt:39",
+          "telegram:buy_usdt_cash_in_person:48",
+          "telegram:buy_usdt_in_hong_kongsell_usdt:39",
+          "telegram:buy_usdt_in_indonesia0:39",
+          "telegram:buy_usdt_in_indonesia:39",
+          "telegram:buy_usdt_in_japan00:19",
+          "telegram:buy_usdt_in_japan0:59",
+          "telegram:buy_usdt_in_malaysiabuy_usdt_in:39",
+          "telegram:buy_usdt_in_malaysiasell_usdt:39",
+          "telegram:buy_usdt_in_malaysiasell_usdt_in:59",
+          "telegram:buy_usdt_in_singaporebuy_usdt:39",
+          "telegram:buy_usdt_in_singaporesell_usdt:39",
+          "telegram:buy_usdt_in_singaporesell_usdt_i:59",
+          "telegram:buy_usdt_in_south_korea_buy:59",
+          "telegram:buy_usdt_in_thailandsell_usd:59",
+          "telegram:buy_usdt_in_usabuy_usdt_in:59",
+          "telegram:buy_usdt_in_usabuy_usdt_in_indon:19",
+          "telegram:buy_usdt_in_usasell_usdt_in_usap:39",
+          "telegram:buy_usdt_with_neteller:19",
+          "telegram:buy_usdt_with_revolut:19",
+          "telegram:bvdfsger:35",
+          "telegram:bvfdsger:35",
+          "telegram:cad_to_usdt_australian_dollar:19",
+          "telegram:casfasd:35",
+          "telegram:casgergfd:35",
+          "telegram:cgdsgfds:35",
+          "telegram:cnkjhasdui:35",
+          "telegram:cnoiyhsuia:35",
+          "telegram:columbia_usdt_exchange_peru_usdt:39",
+          "telegram:csdagsf:35",
+          "telegram:cxsdfdyr:35",
+          "telegram:dashterfa:35",
+          "telegram:dasjiofas:40",
+          "telegram:dfhrtdda:35",
+          "telegram:dfsbgjhf:40",
+          "telegram:dgvajhuhuew:35",
+          "telegram:dsjhgusd:35",
+          "telegram:england_convert_to_usdt_uk_conve:19",
+          "telegram:england_to_usdt_uk_to_usdt:39",
+          "telegram:england_usdt_exchange_uk_usdt_ex:39",
+          "telegram:england_usdt_rate_uk_usdt_rate_g:39",
+          "telegram:fasdyge:35",
+          "telegram:fashrawe:40",
+          "telegram:fasrecddx:35",
+          "telegram:fdsaghfg:35",
+          "telegram:fdsahga:35",
+          "telegram:fdsahtw:35",
+          "telegram:fdsghdfgd:35",
+          "telegram:ffewrewr:35",
+          "telegram:fgdhdsfc:35",
+          "telegram:fhadfgads:35",
+          "telegram:fjwrtywe:35",
+          "telegram:fsadeer:35",
+          "telegram:fsadger:40",
+          "telegram:fsafgreg:35",
+          "telegram:fsdafwerrwe:40",
+          "telegram:fsdtyrheh:35",
+          "telegram:gastreqw:36",
+          "telegram:gdsfjyr:35",
+          "telegram:germany_collects_money_germany:39",
+          "telegram:germany_crypto_exchange_germanyu:39",
+          "telegram:germany_crypto_seller_germany_fu:39",
+          "telegram:germany_currency_buy_usdt_ge:39",
+          "telegram:germany_money_germany_withdrawal:39",
+          "telegram:germany_p2p_crypto_germany_usd:39",
+          "telegram:germany_p2p_crypto_germany_usdt:39",
+          "telegram:germany_tether_usdt_available:39",
+          "telegram:germany_tether_usdt_available_ge:39",
+          "telegram:germany_usdt_acceptance_the_pric:39",
+          "telegram:germany_usdt_best_rate_germany_s:39",
+          "telegram:germany_usdt_dealer_germany_usdt:39",
+          "telegram:germany_usdt_germany_buy:39",
+          "telegram:gfdhfjdgh:35",
+          "telegram:ghfsghfg:35",
+          "telegram:gpb_to_usdthdk_to_usdt:19",
+          "telegram:gretyretre:35",
+          "telegram:gsdftyer:35",
+          "telegram:gvdfahty:40",
+          "telegram:hong_kong_dollar_to_usdt_idr_to:19",
+          "telegram:hsgjhjydf:35",
+          "telegram:india_c2c_p2p_bangladesh_c2c_p2p:39",
+          "telegram:india_usdt_exchange_bangladesh_u:39",
+          "telegram:indonesia_bank_account_india_ban:39",
+          "telegram:indonesia_bank_transfer_india_ba:39",
+          "telegram:indonesia_c2c_p2p_india:39",
+          "telegram:indonesia_money_india_money_bang:39",
+          "telegram:indonesia_usdt_exchangeunited_ar:39",
+          "telegram:iosajoi:35",
+          "telegram:italy_usdt_exchange_france_usdt:39",
+          "telegram:japanese_convert_to_usdt_singapo:39",
+          "telegram:japanese_money_singapore_moneyus:39",
+          "telegram:japanese_usdt_rate_singapore_usd:39",
+          "telegram:jhfausda:35",
+          "telegram:kjasdhuias:35",
+          "telegram:kjhdasiugtydua:35",
+          "telegram:mcihsai:35",
+          "telegram:mexico_c2c_p2p_brazil_c2c_p2p_ch:39",
+          "telegram:mexico_convert_to_usdt_brazil_co:19",
+          "telegram:mexico_local_usdt_usdt_serv:19",
+          "telegram:mexico_p2p_crypto_mexico_usd:39",
+          "telegram:mexico_purchase_usdt_brazil_purc:39",
+          "telegram:mexico_usdt_channel_mexico:19",
+          "telegram:mexico_usdt_exchange_brazil_usdt:39",
+          "telegram:mjytiu:35",
+          "telegram:mnfghjdf:40",
+          "telegram:moivhas:35",
+          "telegram:nbfgdhf:35",
+          "telegram:nbiujdsf:36",
+          "telegram:nciosahi:35",
+          "telegram:ncohoiifas:35",
+          "telegram:ncoisho:36",
+          "telegram:ndkoashyiudgas:35",
+          "telegram:nepal_money_taiwan_money_hong_ko:39",
+          "telegram:nepal_purchase_usdt_taiwan_pur:39",
+          "telegram:nepal_usdt_exchange_taiwan:39",
+          "telegram:nigeria_bank_transfer_kenya_bank:39",
+          "telegram:nigeria_currency_buy_usdt_nigeri:39",
+          "telegram:nincisau:35",
+          "telegram:njfdhtyi:35",
+          "telegram:noisaiuh:35",
+          "telegram:nuiasgdi:28",
+          "telegram:p2p_usdt_in_malaysia_p2p_usdt:39",
+          "telegram:p2p_usdt_in_south_korea_p2p_usdt:19",
+          "telegram:p2p_usdt_in_usa_p2p_usdt_in_in:39",
+          "telegram:pakistan_collects_money:19",
+          "telegram:pakistan_collects_money_pakist:59",
+          "telegram:pakistan_local_usdt_u:275",
+          "telegram:pakistan_local_usdt_usdt:39",
+          "telegram:pakistan_local_usdt_usdt_serv:59",
+          "telegram:pakistan_p2p_crypto_pakistan_usd:39",
+          "telegram:pakistan_payment_gateway_paki:39",
+          "telegram:pakistan_tether_usdt_av:19",
+          "telegram:pakistan_tether_usdt_available:39",
+          "telegram:pakistan_usdt_acceptance_the_pri:40",
+          "telegram:pakistan_usdt_best_rate_pakistan:39",
+          "telegram:pakistan_usdt_channel_pakistan:59",
+          "telegram:pakistan_usdt_dealer_p:19",
+          "telegram:pound_to_usdt_euro_to_usdt:18",
+          "telegram:sadtrere:35",
+          "telegram:saudi_arabia_c2c_p2p_turkey_c2c:39",
+          "telegram:saudi_arabia_usdt_exchange_turke:39",
+          "telegram:saudi_arabia_usdt_rate_turkey_us:39",
+          "telegram:sdafgerggf:35",
+          "telegram:sdfarsww:35",
+          "telegram:sdfatgr:35",
+          "telegram:sdferywer:35",
+          "telegram:sell_usdt_in_germany_trade_usdt:39",
+          "telegram:sell_usdt_in_japansell_usdt_in_s:39",
+          "telegram:sell_usdt_in_malaysiasell_usdt_i:59",
+          "telegram:sell_usdt_in_singaporesell_usdt:19",
+          "telegram:sell_usdt_in_south_africa_trade:19",
+          "telegram:sell_usdt_to_e_wallet:39",
+          "telegram:sell_usdt_western_union:39",
+          "telegram:sell_usdt_wise:48",
+          "telegram:sepa_transfer_usdt_buy:19",
+          "telegram:sldihfgg:35",
+          "telegram:south_africa_account_south:39",
+          "telegram:south_africa_p2p_crypto_south:39",
+          "telegram:south_africa_payment_south_afric:39",
+          "telegram:south_africa_tether_usdt_availab:39",
+          "telegram:south_africa_usdt_acceptance:39",
+          "telegram:south_africa_usdt_channel_south:39",
+          "telegram:south_africa_usdt_dealer_south:39",
+          "telegram:south_africa_usdt_dealer_south_a:39",
+          "telegram:south_africa_usdt_platform_south:39",
+          "telegram:south_africa_usdt_south_africa_b:39",
+          "telegram:south_africausdt_p2p_south_afric:39",
+          "telegram:sterling_to_usdt_hong_kong_dolla:19",
+          "telegram:taiwan_bank_transfer_singapore_b:39",
+          "telegram:taiwan_funds_singapore_funds_hon:39",
+          "telegram:taiwan_purchase_usdt_singapore_p:39",
+          "telegram:thai_baht_to_usdt_indonesia:19",
+          "telegram:thai_baht_to_usdt_indonesian:19",
+          "telegram:thai_baht_to_usdt_indonesian_rup:19",
+          "telegram:thailand_buy_usdt_philippines_bu:39",
+          "telegram:thailand_c2c_p2p_philippines:39",
+          "telegram:thailand_fiat_currency_philippin:39",
+          "telegram:thailand_purchase_usdt_philipp:39",
+          "telegram:thailand_usdt_exchange:39",
+          "telegram:thailand_usdt_rate_philippines:39",
+          "telegram:thailand_usdt_rate_philippines_u:39",
+          "telegram:thb_to_usdt_mmk_to_usdt_php_to_u:19",
+          "telegram:turkey_purchase_usdt_egypt_pu:39",
+          "telegram:turkey_purchase_usdt_egypt_purch:39",
+          "telegram:turkey_usdt_exchange_egypt_usdt:39",
+          "telegram:united_arab_emirates_buy_usdt_sa:39",
+          "telegram:united_arab_emirates_c2c_p2p_sau:39",
+          "telegram:united_arab_emirates_money_saudi:39",
+          "telegram:usa_bank_transfer_columbia_bank:275",
+          "telegram:usa_usdt_exchange00:39",
+          "telegram:usa_usdt_rate_columbia_usdt_ra:39",
+          "telegram:usd_to_usdt_euro_to_usdt0:19",
+          "telegram:usd_to_usdt_euro_to_usdt:18",
+          "telegram:usd_to_usdt_in_hong_kongwtb:59",
+          "telegram:usd_to_usdt_in_japanwtb_usdt_ja:39",
+          "telegram:usd_to_usdt_in_malaysia_usd_to_u:59",
+          "telegram:usd_to_usdt_in_singapore_usd:39",
+          "telegram:usd_to_usdt_in_singapore_usd_to:59",
+          "telegram:usd_to_usdt_in_south_korea_usd_t:39",
+          "telegram:usd_to_usdt_in_thailandwtb:59",
+          "telegram:usd_to_usdt_in_thailandwtb_usdt:39",
+          "telegram:usd_to_usdt_in_usa_usd_to_usd:59",
+          "telegram:usd_to_usdt_in_usa_usd_to_usdt_i:59",
+          "telegram:usd_to_usdt_in_usawtb:19",
+          "telegram:usd_to_usdt_in_vietnam0:39",
+          "telegram:vadfhtfd:35",
+          "telegram:vdfhjytre:35",
+          "telegram:vdsfhdtdgsf:35",
+          "telegram:vdsftg:35",
+          "telegram:vdshfsdsd:36",
+          "telegram:vfdagytwer:35",
+          "telegram:vniuaghdi:35",
+          "telegram:vsadsghfd:35",
+          "telegram:vsagtstre:40",
+          "telegram:vsdadgd:36",
+          "telegram:wsdfatr:35",
+          "telegram:wtb_usdt_in_malaysiawtb_usdt_in:59",
+          "telegram:wtb_usdt_in_south_korea_wtb:59",
+          "telegram:wtb_usdt_in_usawtb_usdt_in_indon:39",
+          "telegram:xxsadas:35"
+        ],
+        "detail": "267 of 267 accounts with a platform-reported creation date were created within 3 days of each other (max gap 0.6 days)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:america_bank_account_hong:276",
+      "telegram:america_buy_usdt_hong_kong_buy_u:39",
+      "telegram:america_c2c_p2p_canada_c2c_p2p_m:39",
+      "telegram:america_convert_to_usdt_hong:39",
+      "telegram:america_convert_to_usdt_hong_kon:39",
+      "telegram:america_funds_canada_funds_mexic:39",
+      "telegram:america_funds_hong_kong_funds:39",
+      "telegram:america_money_hong_kong_money:39",
+      "telegram:america_purchase_usdt_canada_pur:39",
+      "telegram:america_usdt_exchange_hongkong:39",
+      "telegram:america_usdt_rate_canada_usdt_ra:39",
+      "telegram:america_usdt_rate_hong_kong:39",
+      "telegram:asdkjhfiua:35",
+      "telegram:asfasret:35",
+      "telegram:asgreds:35",
+      "telegram:asjniugi:35",
+      "telegram:asldihf:35",
+      "telegram:asshnfhg:35",
+      "telegram:australian_c2c_p2p_malaysia:39",
+      "telegram:australian_c2c_p2p_malaysia_c2c:39",
+      "telegram:australian_convert_to_usdt:275",
+      "telegram:australian_convert_to_usdt_malay:39",
+      "telegram:australian_purchase_usdt_malaysi:39",
+      "telegram:australian_to_usdt_malaysia_to_u:39",
+      "telegram:bdfghdfj:35",
+      "telegram:bdfgsfs:35",
+      "telegram:bdfujyt:40",
+      "telegram:bdiashid:36",
+      "telegram:bfdhrtgr:35",
+      "telegram:bfdsuty:36",
+      "telegram:bghyrer:35",
+      "telegram:brazil_crypto_exchange_brazil_us:60",
+      "telegram:brazil_crypto_seller_brazil_fund:59",
+      "telegram:brazil_local_usdt_usdt_serv:39",
+      "telegram:brazil_local_usdt_usdt_service:59",
+      "telegram:brazil_money_brazil_withdrawal:39",
+      "telegram:brazil_p2p_crypto_brazil_usdt:59",
+      "telegram:brazil_p2p_crypto_brazil_usdt_ca:59",
+      "telegram:brazil_payment_gateway_brazil_bu:59",
+      "telegram:brazil_purchases_usdt_brazil_sel:39",
+      "telegram:brazil_tether_usdt_avail:19",
+      "telegram:brazil_tether_usdt_available:59",
+      "telegram:brazil_usdt_acceptance_the_pr:59",
+      "telegram:brazil_usdt_best_rate_brazil_sta:59",
+      "telegram:brazil_usdt_channel_brazi:39",
+      "telegram:brazil_usdt_channel_brazil:59",
+      "telegram:brazil_usdt_dealer_brazil_usdt_s:39",
+      "telegram:brazil_usdt_platform_brazil_usdt:39",
+      "telegram:buy_usdt_cash_in_person:48",
+      "telegram:buy_usdt_in_hong_kongsell_usdt:39",
+      "telegram:buy_usdt_in_indonesia0:39",
+      "telegram:buy_usdt_in_indonesia:39",
+      "telegram:buy_usdt_in_japan00:19",
+      "telegram:buy_usdt_in_japan0:59",
+      "telegram:buy_usdt_in_malaysiabuy_usdt_in:39",
+      "telegram:buy_usdt_in_malaysiasell_usdt:39",
+      "telegram:buy_usdt_in_malaysiasell_usdt_in:59",
+      "telegram:buy_usdt_in_singaporebuy_usdt:39",
+      "telegram:buy_usdt_in_singaporesell_usdt:39",
+      "telegram:buy_usdt_in_singaporesell_usdt_i:59",
+      "telegram:buy_usdt_in_south_korea_buy:59",
+      "telegram:buy_usdt_in_thailandsell_usd:59",
+      "telegram:buy_usdt_in_usabuy_usdt_in:59",
+      "telegram:buy_usdt_in_usabuy_usdt_in_indon:19",
+      "telegram:buy_usdt_in_usasell_usdt_in_usap:39",
+      "telegram:buy_usdt_with_neteller:19",
+      "telegram:buy_usdt_with_revolut:19",
+      "telegram:bvdfsger:35",
+      "telegram:bvfdsger:35",
+      "telegram:cad_to_usdt_australian_dollar:19",
+      "telegram:casfasd:35",
+      "telegram:casgergfd:35",
+      "telegram:cgdsgfds:35",
+      "telegram:cnkjhasdui:35",
+      "telegram:cnoiyhsuia:35",
+      "telegram:columbia_usdt_exchange_peru_usdt:39",
+      "telegram:csdagsf:35",
+      "telegram:cxsdfdyr:35",
+      "telegram:dashterfa:35",
+      "telegram:dasjiofas:40",
+      "telegram:dfhrtdda:35",
+      "telegram:dfsbgjhf:40",
+      "telegram:dgvajhuhuew:35",
+      "telegram:dsjhgusd:35",
+      "telegram:england_convert_to_usdt_uk_conve:19",
+      "telegram:england_to_usdt_uk_to_usdt:39",
+      "telegram:england_usdt_exchange_uk_usdt_ex:39",
+      "telegram:england_usdt_rate_uk_usdt_rate_g:39",
+      "telegram:fasdyge:35",
+      "telegram:fashrawe:40",
+      "telegram:fasrecddx:35",
+      "telegram:fdsaghfg:35",
+      "telegram:fdsahga:35",
+      "telegram:fdsahtw:35",
+      "telegram:fdsghdfgd:35",
+      "telegram:ffewrewr:35",
+      "telegram:fgdhdsfc:35",
+      "telegram:fhadfgads:35",
+      "telegram:fjwrtywe:35",
+      "telegram:fsadeer:35",
+      "telegram:fsadger:40",
+      "telegram:fsafgreg:35",
+      "telegram:fsdafwerrwe:40",
+      "telegram:fsdtyrheh:35",
+      "telegram:gastreqw:36",
+      "telegram:gdsfjyr:35",
+      "telegram:germany_collects_money_germany:39",
+      "telegram:germany_crypto_exchange_germanyu:39",
+      "telegram:germany_crypto_seller_germany_fu:39",
+      "telegram:germany_currency_buy_usdt_ge:39",
+      "telegram:germany_money_germany_withdrawal:39",
+      "telegram:germany_p2p_crypto_germany_usd:39",
+      "telegram:germany_p2p_crypto_germany_usdt:39",
+      "telegram:germany_tether_usdt_available:39",
+      "telegram:germany_tether_usdt_available_ge:39",
+      "telegram:germany_usdt_acceptance_the_pric:39",
+      "telegram:germany_usdt_best_rate_germany_s:39",
+      "telegram:germany_usdt_dealer_germany_usdt:39",
+      "telegram:germany_usdt_germany_buy:39",
+      "telegram:gfdhfjdgh:35",
+      "telegram:ghfsghfg:35",
+      "telegram:gpb_to_usdthdk_to_usdt:19",
+      "telegram:gretyretre:35",
+      "telegram:gsdftyer:35",
+      "telegram:gvdfahty:40",
+      "telegram:hong_kong_dollar_to_usdt_idr_to:19",
+      "telegram:hsgjhjydf:35",
+      "telegram:india_c2c_p2p_bangladesh_c2c_p2p:39",
+      "telegram:india_usdt_exchange_bangladesh_u:39",
+      "telegram:indonesia_bank_account_india_ban:39",
+      "telegram:indonesia_bank_transfer_india_ba:39",
+      "telegram:indonesia_c2c_p2p_india:39",
+      "telegram:indonesia_money_india_money_bang:39",
+      "telegram:indonesia_usdt_exchangeunited_ar:39",
+      "telegram:iosajoi:35",
+      "telegram:italy_usdt_exchange_france_usdt:39",
+      "telegram:japanese_convert_to_usdt_singapo:39",
+      "telegram:japanese_money_singapore_moneyus:39",
+      "telegram:japanese_usdt_rate_singapore_usd:39",
+      "telegram:jhfausda:35",
+      "telegram:kjasdhuias:35",
+      "telegram:kjhdasiugtydua:35",
+      "telegram:mcihsai:35",
+      "telegram:mexico_c2c_p2p_brazil_c2c_p2p_ch:39",
+      "telegram:mexico_convert_to_usdt_brazil_co:19",
+      "telegram:mexico_local_usdt_usdt_serv:19",
+      "telegram:mexico_p2p_crypto_mexico_usd:39",
+      "telegram:mexico_purchase_usdt_brazil_purc:39",
+      "telegram:mexico_usdt_channel_mexico:19",
+      "telegram:mexico_usdt_exchange_brazil_usdt:39",
+      "telegram:mjytiu:35",
+      "telegram:mnfghjdf:40",
+      "telegram:moivhas:35",
+      "telegram:nbfgdhf:35",
+      "telegram:nbiujdsf:36",
+      "telegram:nciosahi:35",
+      "telegram:ncohoiifas:35",
+      "telegram:ncoisho:36",
+      "telegram:ndkoashyiudgas:35",
+      "telegram:nepal_money_taiwan_money_hong_ko:39",
+      "telegram:nepal_purchase_usdt_taiwan_pur:39",
+      "telegram:nepal_usdt_exchange_taiwan:39",
+      "telegram:nigeria_bank_transfer_kenya_bank:39",
+      "telegram:nigeria_currency_buy_usdt_nigeri:39",
+      "telegram:nincisau:35",
+      "telegram:njfdhtyi:35",
+      "telegram:noisaiuh:35",
+      "telegram:nuiasgdi:28",
+      "telegram:p2p_usdt_in_malaysia_p2p_usdt:39",
+      "telegram:p2p_usdt_in_south_korea_p2p_usdt:19",
+      "telegram:p2p_usdt_in_usa_p2p_usdt_in_in:39",
+      "telegram:pakistan_collects_money:19",
+      "telegram:pakistan_collects_money_pakist:59",
+      "telegram:pakistan_local_usdt_u:275",
+      "telegram:pakistan_local_usdt_usdt:39",
+      "telegram:pakistan_local_usdt_usdt_serv:59",
+      "telegram:pakistan_p2p_crypto_pakistan_usd:39",
+      "telegram:pakistan_payment_gateway_paki:39",
+      "telegram:pakistan_tether_usdt_av:19",
+      "telegram:pakistan_tether_usdt_available:39",
+      "telegram:pakistan_usdt_acceptance_the_pri:40",
+      "telegram:pakistan_usdt_best_rate_pakistan:39",
+      "telegram:pakistan_usdt_channel_pakistan:59",
+      "telegram:pakistan_usdt_dealer_p:19",
+      "telegram:pound_to_usdt_euro_to_usdt:18",
+      "telegram:sadtrere:35",
+      "telegram:saudi_arabia_c2c_p2p_turkey_c2c:39",
+      "telegram:saudi_arabia_usdt_exchange_turke:39",
+      "telegram:saudi_arabia_usdt_rate_turkey_us:39",
+      "telegram:sdafgerggf:35",
+      "telegram:sdfarsww:35",
+      "telegram:sdfatgr:35",
+      "telegram:sdferywer:35",
+      "telegram:sell_usdt_in_germany_trade_usdt:39",
+      "telegram:sell_usdt_in_japansell_usdt_in_s:39",
+      "telegram:sell_usdt_in_malaysiasell_usdt_i:59",
+      "telegram:sell_usdt_in_singaporesell_usdt:19",
+      "telegram:sell_usdt_in_south_africa_trade:19",
+      "telegram:sell_usdt_to_e_wallet:39",
+      "telegram:sell_usdt_western_union:39",
+      "telegram:sell_usdt_wise:48",
+      "telegram:sepa_transfer_usdt_buy:19",
+      "telegram:sldihfgg:35",
+      "telegram:south_africa_account_south:39",
+      "telegram:south_africa_p2p_crypto_south:39",
+      "telegram:south_africa_payment_south_afric:39",
+      "telegram:south_africa_tether_usdt_availab:39",
+      "telegram:south_africa_usdt_acceptance:39",
+      "telegram:south_africa_usdt_channel_south:39",
+      "telegram:south_africa_usdt_dealer_south:39",
+      "telegram:south_africa_usdt_dealer_south_a:39",
+      "telegram:south_africa_usdt_platform_south:39",
+      "telegram:south_africa_usdt_south_africa_b:39",
+      "telegram:south_africausdt_p2p_south_afric:39",
+      "telegram:sterling_to_usdt_hong_kong_dolla:19",
+      "telegram:taiwan_bank_transfer_singapore_b:39",
+      "telegram:taiwan_funds_singapore_funds_hon:39",
+      "telegram:taiwan_purchase_usdt_singapore_p:39",
+      "telegram:thai_baht_to_usdt_indonesia:19",
+      "telegram:thai_baht_to_usdt_indonesian:19",
+      "telegram:thai_baht_to_usdt_indonesian_rup:19",
+      "telegram:thailand_buy_usdt_philippines_bu:39",
+      "telegram:thailand_c2c_p2p_philippines:39",
+      "telegram:thailand_fiat_currency_philippin:39",
+      "telegram:thailand_purchase_usdt_philipp:39",
+      "telegram:thailand_usdt_exchange:39",
+      "telegram:thailand_usdt_rate_philippines:39",
+      "telegram:thailand_usdt_rate_philippines_u:39",
+      "telegram:thb_to_usdt_mmk_to_usdt_php_to_u:19",
+      "telegram:turkey_purchase_usdt_egypt_pu:39",
+      "telegram:turkey_purchase_usdt_egypt_purch:39",
+      "telegram:turkey_usdt_exchange_egypt_usdt:39",
+      "telegram:united_arab_emirates_buy_usdt_sa:39",
+      "telegram:united_arab_emirates_c2c_p2p_sau:39",
+      "telegram:united_arab_emirates_money_saudi:39",
+      "telegram:usa_bank_transfer_columbia_bank:275",
+      "telegram:usa_usdt_exchange00:39",
+      "telegram:usa_usdt_rate_columbia_usdt_ra:39",
+      "telegram:usd_to_usdt_euro_to_usdt0:19",
+      "telegram:usd_to_usdt_euro_to_usdt:18",
+      "telegram:usd_to_usdt_in_hong_kongwtb:59",
+      "telegram:usd_to_usdt_in_japanwtb_usdt_ja:39",
+      "telegram:usd_to_usdt_in_malaysia_usd_to_u:59",
+      "telegram:usd_to_usdt_in_singapore_usd:39",
+      "telegram:usd_to_usdt_in_singapore_usd_to:59",
+      "telegram:usd_to_usdt_in_south_korea_usd_t:39",
+      "telegram:usd_to_usdt_in_thailandwtb:59",
+      "telegram:usd_to_usdt_in_thailandwtb_usdt:39",
+      "telegram:usd_to_usdt_in_usa_usd_to_usd:59",
+      "telegram:usd_to_usdt_in_usa_usd_to_usdt_i:59",
+      "telegram:usd_to_usdt_in_usawtb:19",
+      "telegram:usd_to_usdt_in_vietnam0:39",
+      "telegram:vadfhtfd:35",
+      "telegram:vdfhjytre:35",
+      "telegram:vdsfhdtdgsf:35",
+      "telegram:vdsftg:35",
+      "telegram:vdshfsdsd:36",
+      "telegram:vfdagytwer:35",
+      "telegram:vniuaghdi:35",
+      "telegram:vsadsghfd:35",
+      "telegram:vsagtstre:40",
+      "telegram:vsdadgd:36",
+      "telegram:wsdfatr:35",
+      "telegram:wtb_usdt_in_malaysiawtb_usdt_in:59",
+      "telegram:wtb_usdt_in_south_korea_wtb:59",
+      "telegram:wtb_usdt_in_usawtb_usdt_in_indon:39",
+      "telegram:xxsadas:35"
+    ],
+    "benign_explanations": [
+      "2 accounts share the display name 'america currency exchange hong kong currency exchange europe currency exchange' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'australian account australian payment collection' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'australian money malaysia money singapore money japanese money korea money' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'australian p2p crypto australian usdt cash australian usdt bank' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'australian tether usdt available australian australian instant usdt' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'australian usdt best rate australian stablecoin' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'brazil local usdt usdt service brazil brazil crypto exchange' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'brazil tether usdt available brazil brazil instant usdt' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'buy usdt in indonesia sell usdt in indonesia p2p usdt in indonesia' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'buy usdt in japan sell usdt in japan p2p usdt in japan' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'buy usdt in malaysiasell usdt in malaysiap2p usdt in malaysia' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'buy usdt in singaporesell usdt in singaporep2p usdt in singapore' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'buy usdt in usabuy usdt in indonesiabuy usdt in japan' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'cad to usdt australian dollar to usdt aed to usdt jpy to usdt vietnamese dong to usdt' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'euro currency buy usdt euro transfer' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'euro currency exchange euro currency to usdt' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'euro local usdt usdt service euro euro crypto exchange' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'euro p2p crypto euro usdt cash euro usdt bank' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'euro usdt channel euro usdt trading usdt for euro currency' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'euro usdt dealer euro usdt seller' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'europe p2p crypto europe usdt cash europe usdt bank' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'europe usdt channel europe usdt trading usdt for europe currency' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'germany p2p crypto germany usdt cash germany usdt bank' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'germany tether usdt available germany germany instant usdt' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'hong kong dollar to usdt idr to usdt inr to usdt myr to usdt australian dollar to usdt' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'indonesia p2p crypto indonesia usdt cash indonesia usdt bank' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'indonesia usdt acceptance the price of usdt in indonesia' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'malaysia p2p crypto malaysia usdt cash malaysia usdt bank' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'nepal usdt rate taiwan usdt rate hong kong usdt rate myanmar usdt rate cambodia usdt rate' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'nigeria currency buy usdt nigeria transfer' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'nigeria payment gateway nigeria buy sell crypto' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'pakistan collects money pakistan receives money' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "3 accounts share the display name 'pakistan local usdt usdt service pakistan pakistan crypto exchange' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'pakistan tether usdt available pakistan pakistan instant usdt' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'south africa usdt dealer south africa usdt seller' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'usd to usdt in singapore usd to usdt in hong kong' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "2 accounts share the display name 'usd to usdt in thailandwtb usdt thailand' (on telegram): possibly one organisation's official accounts cross-posting.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@America_C2C_P2P_Canada_C2C_P2P_M",
+      "@America_Purchase_USDT_Canada_Pur",
+      "@America_USDT_exchange_HongKong",
+      "@America_USDT_rate_Canada_USDT_ra",
+      "@America_USDT_rate_Hong_Kong",
+      "@America_bank_account_Hong",
+      "@America_buy_USDT_Hong_Kong_buy_U",
+      "@America_convert_to_usdt_Hong",
+      "@America_convert_to_usdt_Hong_Kon",
+      "@America_funds_Canada_funds_Mexic",
+      "@America_funds_Hong_Kong_funds",
+      "@America_money_Hong_Kong_money",
+      "@Australian_C2C_P2P_Malaysia",
+      "@Australian_C2C_P2P_Malaysia_C2C",
+      "@Australian_Purchase_USDT_Malaysi",
+      "@Australian_convert_to_usdt",
+      "@Australian_convert_to_usdt_Malay",
+      "@Australian_to_usdt_Malaysia_to_u",
+      "@Brazil_CRYPTO_SELLER_Brazil_fund",
+      "@Brazil_Crypto_Exchange_Brazil_US",
+      "@Brazil_P2P_crypto_Brazil_USDT",
+      "@Brazil_P2P_crypto_Brazil_USDT_ca",
+      "@Brazil_Payment_Gateway_Brazil_Bu",
+      "@Brazil_Tether_USDT_avail",
+      "@Brazil_Tether_USDT_available",
+      "@Brazil_USDT_acceptance_The_pr",
+      "@Brazil_USDT_best_rate_Brazil_sta",
+      "@Brazil_USDT_channel_Brazi",
+      "@Brazil_USDT_channel_Brazil",
+      "@Brazil_USDT_dealer_Brazil_USDT_s",
+      "@Brazil_USDT_platform_Brazil_USDT",
+      "@Brazil_local_USDT_USDT_serv",
+      "@Brazil_local_USDT_USDT_service",
+      "@Brazil_money_Brazil_Withdrawal",
+      "@Brazil_purchases_USDT_Brazil_sel",
+      "@Buy_USDT_cash_in_person",
+      "@Buy_USDT_in_Hong_KongSell_USDT",
+      "@Buy_USDT_in_Indonesia",
+      "@Buy_USDT_in_Indonesia0",
+      "@Buy_USDT_in_Japan0",
+      "@Buy_USDT_in_Japan00",
+      "@Buy_USDT_in_MalaysiaBuy_USDT_in",
+      "@Buy_USDT_in_MalaysiaSell_USDT",
+      "@Buy_USDT_in_MalaysiaSell_USDT_in",
+      "@Buy_USDT_in_SingaporeBuy_USDT",
+      "@Buy_USDT_in_SingaporeSell_USDT",
+      "@Buy_USDT_in_SingaporeSell_USDT_i",
+      "@Buy_USDT_in_South_Korea_Buy",
+      "@Buy_USDT_in_ThailandSell_USD",
+      "@Buy_USDT_in_USABuy_USDT_in",
+      "@Buy_USDT_in_USABuy_USDT_in_Indon",
+      "@Buy_USDT_in_USASell_USDT_in_USAP",
+      "@Buy_USDT_with_Neteller",
+      "@Buy_USDT_with_Revolut",
+      "@CAD_to_usdt_Australian_dollar",
+      "@Columbia_USDT_exchange_Peru_USDT",
+      "@England_USDT_exchange_UK_USDT_ex",
+      "@England_USDT_rate_UK_USDT_rate_G",
+      "@England_convert_to_usdt_UK_conve",
+      "@England_to_usdt_UK_to_usdt",
+      "@GPB_to_usdtHDK_to_usdt",
+      "@Germany_CRYPTO_SELLER_Germany_fu",
+      "@Germany_Crypto_Exchange_GermanyU",
+      "@Germany_P2P_crypto_Germany_USD",
+      "@Germany_P2P_crypto_Germany_USDT",
+      "@Germany_Tether_USDT_available",
+      "@Germany_Tether_USDT_available_Ge",
+      "@Germany_USDT_Germany_buy",
+      "@Germany_USDT_acceptance_The_pric",
+      "@Germany_USDT_best_rate_Germany_s",
+      "@Germany_USDT_dealer_Germany_USDT",
+      "@Germany_collects_money_Germany",
+      "@Germany_currency_buy_usdt_Ge",
+      "@Germany_money_Germany_Withdrawal",
+      "@Hong_Kong_dollar_to_usdt_IDR_to",
+      "@India_C2C_P2P_Bangladesh_C2C_P2P",
+      "@India_USDT_exchange_Bangladesh_U",
+      "@Indonesia_C2C_P2P_India",
+      "@Indonesia_USDT_exchangeUnited_Ar",
+      "@Indonesia_bank_account_India_ban",
+      "@Indonesia_bank_transfer_India_ba",
+      "@Indonesia_money_India_money_Bang",
+      "@Italy_USDT_exchange_France_USDT",
+      "@Japanese_USDT_rate_Singapore_USD",
+      "@Japanese_convert_to_usdt_Singapo",
+      "@Japanese_money_Singapore_moneyUS",
+      "@Mexico_C2C_P2P_Brazil_C2C_P2P_Ch",
+      "@Mexico_P2P_crypto_Mexico_USD",
+      "@Mexico_Purchase_USDT_Brazil_Purc",
+      "@Mexico_USDT_channel_Mexico",
+      "@Mexico_USDT_exchange_Brazil_USDT",
+      "@Mexico_convert_to_usdt_Brazil_co",
+      "@Mexico_local_USDT_USDT_serv",
+      "@Nepal_Purchase_USDT_Taiwan_Pur",
+      "@Nepal_USDT_exchange_Taiwan",
+      "@Nepal_money_Taiwan_money_Hong_Ko",
+      "@Nigeria_bank_transfer_Kenya_bank",
+      "@Nigeria_currency_buy_usdt_Nigeri",
+      "@P2P_USDT_in_Malaysia_P2P_USDT",
+      "@P2P_USDT_in_South_Korea_P2P_USDT",
+      "@P2P_USDT_in_USA_P2P_USDT_in_In",
+      "@Pakistan_P2P_crypto_Pakistan_USD",
+      "@Pakistan_Payment_Gateway_Paki",
+      "@Pakistan_Tether_USDT_av",
+      "@Pakistan_Tether_USDT_available",
+      "@Pakistan_USDT_acceptance_The_pri",
+      "@Pakistan_USDT_best_rate_Pakistan",
+      "@Pakistan_USDT_channel_Pakistan",
+      "@Pakistan_USDT_dealer_P",
+      "@Pakistan_collects_money",
+      "@Pakistan_collects_money_Pakist",
+      "@Pakistan_local_USDT_U",
+      "@Pakistan_local_USDT_USDT",
+      "@Pakistan_local_USDT_USDT_serv",
+      "@SEPA_transfer_USDT_buy",
+      "@Saudi_Arabia_C2C_P2P_Turkey_C2C",
+      "@Saudi_Arabia_USDT_exchange_Turke",
+      "@Saudi_Arabia_USDT_rate_Turkey_US",
+      "@Sell_USDT_Western_Union",
+      "@Sell_USDT_Wise",
+      "@Sell_USDT_in_Germany_Trade_USDT",
+      "@Sell_USDT_in_JapanSell_USDT_in_S",
+      "@Sell_USDT_in_MalaysiaSell_USDT_i",
+      "@Sell_USDT_in_SingaporeSell_USDT",
+      "@Sell_USDT_in_South_Africa_Trade",
+      "@Sell_USDT_to_e_wallet",
+      "@South_AfricaUSDT_P2P_South_Afric",
+      "@South_Africa_P2P_crypto_South",
+      "@South_Africa_Payment_South_Afric",
+      "@South_Africa_Tether_USDT_availab",
+      "@South_Africa_USDT_South_Africa_b",
+      "@South_Africa_USDT_acceptance",
+      "@South_Africa_USDT_channel_South",
+      "@South_Africa_USDT_dealer_South",
+      "@South_Africa_USDT_dealer_South_A",
+      "@South_Africa_USDT_platform_South",
+      "@South_Africa_account_South",
+      "@THB_to_usdt_MMK_to_usdt_PHP_to_u",
+      "@Taiwan_Purchase_USDT_Singapore_P",
+      "@Taiwan_bank_transfer_Singapore_b",
+      "@Taiwan_funds_Singapore_funds_Hon",
+      "@Thai_Baht_to_usdt_Indonesia",
+      "@Thai_Baht_to_usdt_Indonesian",
+      "@Thai_Baht_to_usdt_Indonesian_rup",
+      "@Thailand_C2C_P2P_Philippines",
+      "@Thailand_Purchase_USDT_Philipp",
+      "@Thailand_USDT_exchange",
+      "@Thailand_USDT_rate_Philippines",
+      "@Thailand_USDT_rate_Philippines_U",
+      "@Thailand_buy_USDT_Philippines_bu",
+      "@Thailand_fiat_currency_Philippin",
+      "@Turkey_Purchase_USDT_Egypt_Pu",
+      "@Turkey_Purchase_USDT_Egypt_Purch",
+      "@Turkey_USDT_exchange_Egypt_USDT",
+      "@USA_USDT_exchange00",
+      "@USA_USDT_rate_Columbia_USDT_ra",
+      "@USA_bank_transfer_Columbia_bank",
+      "@USD_to_USDT_in_Hong_KongWTB",
+      "@USD_to_USDT_in_JapanWTB_USDT_Ja",
+      "@USD_to_USDT_in_Malaysia_USD_to_U",
+      "@USD_to_USDT_in_Singapore_USD",
+      "@USD_to_USDT_in_Singapore_USD_to",
+      "@USD_to_USDT_in_South_Korea_USD_t",
+      "@USD_to_USDT_in_ThailandWTB",
+      "@USD_to_USDT_in_ThailandWTB_USDT",
+      "@USD_to_USDT_in_USAWTB",
+      "@USD_to_USDT_in_USA_USD_to_USD",
+      "@USD_to_USDT_in_USA_USD_to_USDT_i",
+      "@USD_to_USDT_in_Vietnam0",
+      "@United_Arab_Emirates_C2C_P2P_Sau",
+      "@United_Arab_Emirates_buy_USDT_Sa",
+      "@United_Arab_Emirates_money_Saudi",
+      "@WTB_USDT_in_MalaysiaWTB_USDT_in",
+      "@WTB_USDT_in_South_Korea_WTB",
+      "@WTB_USDT_in_USAWTB_USDT_in_Indon",
+      "@asdkjhfiua",
+      "@asfasret",
+      "@asgreds",
+      "@asjniugi",
+      "@asldihf",
+      "@asshnfhg",
+      "@bdfghdfj",
+      "@bdfgsfs",
+      "@bdfujyt",
+      "@bdiashid",
+      "@bfdhrtgr",
+      "@bfdsuty",
+      "@bghyrer",
+      "@bvdfsger",
+      "@bvfdsger",
+      "@casfasd",
+      "@casgergfd",
+      "@cgdsgfds",
+      "@cnkjhasdui",
+      "@cnoiyhsuia",
+      "@csdagsf",
+      "@cxsdfdyr",
+      "@dashterfa",
+      "@dasjiofas",
+      "@dfhrtdda",
+      "@dfsbgjhf",
+      "@dgvajhuhuew",
+      "@dsjhgusd",
+      "@fasdyge",
+      "@fashrawe",
+      "@fasrecddx",
+      "@fdsaghfg",
+      "@fdsahga",
+      "@fdsahtw",
+      "@fdsghdfgd",
+      "@ffewrewr",
+      "@fgdhdsfc",
+      "@fhadfgads",
+      "@fjwrtywe",
+      "@fsadeer",
+      "@fsadger",
+      "@fsafgreg",
+      "@fsdafwerrwe",
+      "@fsdtyrheh",
+      "@gastreqw",
+      "@gdsfjyr",
+      "@gfdhfjdgh",
+      "@ghfsghfg",
+      "@gretyretre",
+      "@gsdftyer",
+      "@gvdfahty",
+      "@hsgjhjydf",
+      "@iosajoi",
+      "@jhfausda",
+      "@kjasdhuias",
+      "@kjhdasiugtydua",
+      "@mcihsai",
+      "@mjytiu",
+      "@mnfghjdf",
+      "@moivhas",
+      "@nbfgdhf",
+      "@nbiujdsf",
+      "@nciosahi",
+      "@ncohoiifas",
+      "@ncoisho",
+      "@ndkoashyiudgas",
+      "@nincisau",
+      "@njfdhtyi",
+      "@noisaiuh",
+      "@nuiasgdi",
+      "@pound_to_usdt_Euro_to_usdt",
+      "@sadtrere",
+      "@sdafgerggf",
+      "@sdfarsww",
+      "@sdfatgr",
+      "@sdferywer",
+      "@sldihfgg",
+      "@sterling_to_usdt_Hong_Kong_dolla",
+      "@usd_to_usdt_Euro_to_usdt",
+      "@usd_to_usdt_Euro_to_usdt0",
+      "@vadfhtfd",
+      "@vdfhjytre",
+      "@vdsfhdtdgsf",
+      "@vdsftg",
+      "@vdshfsdsd",
+      "@vfdagytwer",
+      "@vniuaghdi",
+      "@vsadsghfd",
+      "@vsagtstre",
+      "@vsdadgd",
+      "@wsdfatr",
+      "@xxsadas"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "267 Telegram accounts posted near-identical text, a median 20 s apart; all 267 were created within 3 days of each other."
+  },
+  {
+    "id": "C2",
+    "member_author_ids": [
+      "telegram:2725071882",
+      "telegram:2757573782",
+      "telegram:2774624409",
+      "telegram:2883270205",
+      "telegram:3222644314",
+      "telegram:3225345441",
+      "telegram:3232184544",
+      "telegram:3284067944",
+      "telegram:3327626436",
+      "telegram:3358949062",
+      "telegram:3367168253",
+      "telegram:3411918118",
+      "telegram:3416270808",
+      "telegram:3476595445",
+      "telegram:3653327121"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:berniesandersq:780",
+          "telegram:buzzpatterson_q:653",
+          "telegram:chrismartenson_x:720",
+          "telegram:danscavinox:1382",
+          "telegram:darrenbailey_q:692",
+          "telegram:dineshjdsouzax:1119",
+          "telegram:edwarddowdq:649",
+          "telegram:jefferymeadq:888",
+          "telegram:mattgaetz_q:325",
+          "telegram:realgenflynnx:1175",
+          "telegram:seanhannity_q:763",
+          "telegram:sidneypowellq:758",
+          "telegram:stephenmillerx:778",
+          "telegram:stevebannonz:596",
+          "telegram:stkirschx:687"
+        ],
+        "detail": "15 posts by 15 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.672,
+        "evidence_post_ids": [
+          "telegram:berniesandersq:780",
+          "telegram:buzzpatterson_q:653",
+          "telegram:chrismartenson_x:720",
+          "telegram:danscavinox:1382",
+          "telegram:darrenbailey_q:692",
+          "telegram:dineshjdsouzax:1119",
+          "telegram:edwarddowdq:649",
+          "telegram:jefferymeadq:888",
+          "telegram:mattgaetz_q:325",
+          "telegram:realgenflynnx:1175",
+          "telegram:seanhannity_q:763",
+          "telegram:sidneypowellq:758",
+          "telegram:stephenmillerx:778",
+          "telegram:stevebannonz:596",
+          "telegram:stkirschx:687"
+        ],
+        "detail": "105 same-content post pairs (105 near-duplicate text, 0 same link) by 15 accounts posted within 10 min of each other (median lag 2.9 min; platform timestamps)"
+      },
+      {
+        "type": "similar_creation_dates",
+        "score": 0.572,
+        "evidence_post_ids": [
+          "telegram:berniesandersq:780",
+          "telegram:buzzpatterson_q:653",
+          "telegram:chrismartenson_x:720",
+          "telegram:darrenbailey_q:692",
+          "telegram:dineshjdsouzax:1119",
+          "telegram:edwarddowdq:649",
+          "telegram:jefferymeadq:888",
+          "telegram:realgenflynnx:1175",
+          "telegram:sidneypowellq:758",
+          "telegram:stephenmillerx:778",
+          "telegram:stkirschx:687"
+        ],
+        "detail": "11 of 15 accounts with a platform-reported creation date were created within 3 days of each other (max gap 2.7 days)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:berniesandersq:780",
+      "telegram:buzzpatterson_q:653",
+      "telegram:chrismartenson_x:720",
+      "telegram:danscavinox:1382",
+      "telegram:darrenbailey_q:692",
+      "telegram:dineshjdsouzax:1119",
+      "telegram:edwarddowdq:649",
+      "telegram:jefferymeadq:888",
+      "telegram:mattgaetz_q:325",
+      "telegram:realgenflynnx:1175",
+      "telegram:seanhannity_q:763",
+      "telegram:sidneypowellq:758",
+      "telegram:stephenmillerx:778",
+      "telegram:stevebannonz:596",
+      "telegram:stkirschx:687"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@BernieSandersQ",
+      "@BuzzPatterson_Q",
+      "@DanScavinoX",
+      "@DarrenBailey_Q",
+      "@DineshJDSouzaX",
+      "@EdwardDowdQ",
+      "@JefferymeadQ",
+      "@MattGaetz_Q",
+      "@RealGenFlynnX",
+      "@SidneyPowellQ",
+      "@StephenMillerX",
+      "@StevebannonZ",
+      "@chrismartenson_X",
+      "@seanhannity_Q",
+      "@stkirschX"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "15 Telegram accounts posted near-identical text, a median 2.9 min apart; 11 were created within 3 days of each other."
+  },
+  {
+    "id": "C3",
+    "member_author_ids": [
+      "telegram:2773583756",
+      "telegram:3185049441",
+      "telegram:3250763675",
+      "telegram:3732135545",
+      "telegram:3777595359",
+      "telegram:3778814784",
+      "telegram:3823291193",
+      "telegram:3885897832",
+      "telegram:3952170555",
+      "telegram:4300559563",
+      "telegram:4355541594"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:amonyx_tv:1712",
+          "telegram:anders_tv:4499",
+          "telegram:dylanteil_channel:3383",
+          "telegram:eleanor1terrettchannel:3345",
+          "telegram:gregbrockman_channel:3845",
+          "telegram:henrikzeberg_channel:3375",
+          "telegram:katiepavlichreports:7070",
+          "telegram:kingryansolomon_channel:1746",
+          "telegram:paulgrewal_channel:1215",
+          "telegram:stuartalderoty4_channel:3382",
+          "telegram:tonyedward_channel:3393"
+        ],
+        "detail": "11 posts by 11 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.956,
+        "evidence_post_ids": [
+          "telegram:amonyx_tv:1712",
+          "telegram:anders_tv:4499",
+          "telegram:dylanteil_channel:3383",
+          "telegram:eleanor1terrettchannel:3345",
+          "telegram:gregbrockman_channel:3845",
+          "telegram:henrikzeberg_channel:3375",
+          "telegram:katiepavlichreports:7070",
+          "telegram:kingryansolomon_channel:1746",
+          "telegram:paulgrewal_channel:1215",
+          "telegram:stuartalderoty4_channel:3382",
+          "telegram:tonyedward_channel:3393"
+        ],
+        "detail": "55 same-content post pairs (55 near-duplicate text, 0 same link) by 11 accounts posted within 10 min of each other (median lag 25 s; platform timestamps)"
+      },
+      {
+        "type": "similar_creation_dates",
+        "score": 0.905,
+        "evidence_post_ids": [
+          "telegram:amonyx_tv:1712",
+          "telegram:dylanteil_channel:3383",
+          "telegram:eleanor1terrettchannel:3345",
+          "telegram:henrikzeberg_channel:3375",
+          "telegram:kingryansolomon_channel:1746",
+          "telegram:stuartalderoty4_channel:3382",
+          "telegram:tonyedward_channel:3393"
+        ],
+        "detail": "7 of 11 accounts with a platform-reported creation date were created within 3 days of each other (max gap 1.3 days)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:amonyx_tv:1712",
+      "telegram:anders_tv:4499",
+      "telegram:dylanteil_channel:3383",
+      "telegram:eleanor1terrettchannel:3345",
+      "telegram:gregbrockman_channel:3845",
+      "telegram:henrikzeberg_channel:3375",
+      "telegram:katiepavlichreports:7070",
+      "telegram:kingryansolomon_channel:1746",
+      "telegram:paulgrewal_channel:1215",
+      "telegram:stuartalderoty4_channel:3382",
+      "telegram:tonyedward_channel:3393"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@amonyx_TV",
+      "@anders_tv",
+      "@dylanteil_channel",
+      "@eleanor1terrettchannel",
+      "@gregbrockman_channel",
+      "@henrikzeberg_channel",
+      "@katiepavlichReports",
+      "@kingryansolomon_channel",
+      "@paulgrewal_channel",
+      "@stuartalderoty4_channel",
+      "@tonyedward_channel"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "11 Telegram accounts posted near-identical text, a median 25 s apart; 7 were created within 3 days of each other."
+  },
+  {
+    "id": "C4",
+    "member_author_ids": [
+      "telegram:2601559299",
+      "telegram:2605330803",
+      "telegram:2608717558",
+      "telegram:2642493038",
+      "telegram:2649955081",
+      "telegram:2651201061",
+      "telegram:2655064284"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:francepay_04:148",
+          "telegram:germanypay_07:150",
+          "telegram:singapore_3rd_party:150",
+          "telegram:singapore_transfer:149",
+          "telegram:thailandpay_01:150",
+          "telegram:turkey_usdt_trader:151",
+          "telegram:uaepay_03:147"
+        ],
+        "detail": "7 posts by 7 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.994,
+        "evidence_post_ids": [
+          "telegram:francepay_04:148",
+          "telegram:germanypay_07:150",
+          "telegram:singapore_3rd_party:150",
+          "telegram:singapore_transfer:149",
+          "telegram:thailandpay_01:150",
+          "telegram:turkey_usdt_trader:151",
+          "telegram:uaepay_03:147"
+        ],
+        "detail": "21 same-content post pairs (21 near-duplicate text, 0 same link) by 7 accounts posted within 10 min of each other (median lag 3 s; platform timestamps)"
+      },
+      {
+        "type": "similar_creation_dates",
+        "score": 0.995,
+        "evidence_post_ids": [
+          "telegram:francepay_04:148",
+          "telegram:germanypay_07:150",
+          "telegram:singapore_3rd_party:150",
+          "telegram:singapore_transfer:149",
+          "telegram:thailandpay_01:150",
+          "telegram:turkey_usdt_trader:151",
+          "telegram:uaepay_03:147"
+        ],
+        "detail": "7 of 7 accounts with a platform-reported creation date were created within 3 days of each other (max gap 0.0 days)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:francepay_04:148",
+      "telegram:germanypay_07:150",
+      "telegram:singapore_3rd_party:150",
+      "telegram:singapore_transfer:149",
+      "telegram:thailandpay_01:150",
+      "telegram:turkey_usdt_trader:151",
+      "telegram:uaepay_03:147"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@Francepay_04",
+      "@Germanypay_07",
+      "@Singapore_3rd_party",
+      "@Singapore_transfer",
+      "@Thailandpay_01",
+      "@Turkey_usdt_trader",
+      "@UAEpay_03"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "7 Telegram accounts posted near-identical text, a median 3 s apart; all 7 were created within 3 days of each other."
+  },
+  {
+    "id": "C5",
+    "member_author_ids": [
+      "telegram:1574435114",
+      "telegram:1981377228",
+      "telegram:2025388211",
+      "telegram:2041458511",
+      "telegram:2116059911"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:gitmotv01:3378",
+          "telegram:johnfkennedy35:2896",
+          "telegram:kayleighkennedy1:3341",
+          "telegram:official_patrickkennedy:2580",
+          "telegram:real_ezracohen:3445"
+        ],
+        "detail": "5 posts by 5 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.276,
+        "evidence_post_ids": [
+          "telegram:gitmotv01:3378",
+          "telegram:johnfkennedy35:2896",
+          "telegram:kayleighkennedy1:3341",
+          "telegram:official_patrickkennedy:2580",
+          "telegram:real_ezracohen:3445"
+        ],
+        "detail": "3 same-content post pairs (3 near-duplicate text, 0 same link) by 5 accounts posted within 10 min of each other (median lag 7.7 min; platform timestamps)"
+      },
+      {
+        "type": "similar_creation_dates",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:gitmotv01:3378",
+          "telegram:kayleighkennedy1:3341"
+        ],
+        "detail": "2 of 5 accounts with a platform-reported creation date were created within 3 days of each other (max gap 0.0 days)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:gitmotv01:3378",
+      "telegram:johnfkennedy35:2896",
+      "telegram:kayleighkennedy1:3341",
+      "telegram:official_patrickkennedy:2580",
+      "telegram:real_ezracohen:3445"
+    ],
+    "benign_explanations": [
+      "5 of 5 supporting posts link to cutt.ly: news syndication or wire-copy sharing can produce identical text and timing.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@KayleighKennedy1",
+      "@Official_PatrickKennedy",
+      "@Real_EzraCohen",
+      "@gitmotv01",
+      "@johnfkennedy35"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "5 Telegram accounts posted near-identical text, a median 7.7 min apart; 2 were created within 3 days of each other."
+  },
+  {
+    "id": "C6",
+    "member_author_ids": [
+      "telegram:3859088502",
+      "telegram:3936549368",
+      "telegram:4341418328",
+      "telegram:4448034601"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:derekjohnson09:846",
+          "telegram:jfk_pascal_najadi1:852",
+          "telegram:nesaragesaraupdates101:798",
+          "telegram:realcatherineaustinfitts11:853"
+        ],
+        "detail": "4 posts by 4 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.635,
+        "evidence_post_ids": [
+          "telegram:derekjohnson09:846",
+          "telegram:jfk_pascal_najadi1:852",
+          "telegram:nesaragesaraupdates101:798",
+          "telegram:realcatherineaustinfitts11:853"
+        ],
+        "detail": "6 same-content post pairs (6 near-duplicate text, 0 same link) by 4 accounts posted within 10 min of each other (median lag 3.9 min; platform timestamps)"
+      },
+      {
+        "type": "similar_creation_dates",
+        "score": 0.604,
+        "evidence_post_ids": [
+          "telegram:derekjohnson09:846",
+          "telegram:jfk_pascal_najadi1:852",
+          "telegram:nesaragesaraupdates101:798",
+          "telegram:realcatherineaustinfitts11:853"
+        ],
+        "detail": "4 of 4 accounts with a platform-reported creation date were created within 3 days of each other (max gap 2.4 days)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:derekjohnson09:846",
+      "telegram:jfk_pascal_najadi1:852",
+      "telegram:nesaragesaraupdates101:798",
+      "telegram:realcatherineaustinfitts11:853"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@DerekJohnson09",
+      "@JFK_Pascal_Najadi1",
+      "@NesaraGesaraUpdates101",
+      "@RealCatherineAustinFitts11"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "4 Telegram accounts posted near-identical text, a median 3.9 min apart; all 4 were created within 3 days of each other."
+  },
+  {
+    "id": "C7",
+    "member_author_ids": [
+      "x:1202575908990832640",
+      "x:1387497871751196672",
+      "x:1465287137646026754",
+      "x:1942214670393176064"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "x:2122088800264626645",
+          "x:2122088921974616541",
+          "x:2122090303855145259",
+          "x:2122090689303359710"
+        ],
+        "detail": "4 posts by 4 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.534,
+        "evidence_post_ids": [
+          "x:2122088800264626645",
+          "x:2122088921974616541",
+          "x:2122090303855145259",
+          "x:2122090689303359710"
+        ],
+        "detail": "6 same-content post pairs (6 near-duplicate text, 0 same link) by 4 accounts posted within 10 min of each other (median lag 6.0 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "x:2122088800264626645",
+      "x:2122088921974616541",
+      "x:2122090303855145259",
+      "x:2122090689303359710"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@Geo_News_Alert_",
+      "@MarketNews_Feed",
+      "@ParadoxAlgo",
+      "@WatcherGuru"
+    ],
+    "sources": [
+      "x"
+    ],
+    "summary": "4 X accounts posted near-identical text, a median 6.0 min apart."
+  },
+  {
+    "id": "C8",
+    "member_author_ids": [
+      "x:139022852",
+      "x:34903414",
+      "x:845097667877318656"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "x:2121747444258025826",
+          "x:2121747444362829836",
+          "x:2121747445541470625",
+          "x:2122117397444280531",
+          "x:2122117398429831174",
+          "x:2122117399075791011",
+          "x:2122834506059067838",
+          "x:2122834506092609990",
+          "x:2122834506495197457",
+          "x:2123559295581143162",
+          "x:2123559295665017298",
+          "x:2123559296092840013"
+        ],
+        "detail": "12 posts by 3 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "x:2121747444258025826",
+          "x:2121747444362829836",
+          "x:2121747445541470625",
+          "x:2122117397444280531",
+          "x:2122117398429831174",
+          "x:2122117399075791011",
+          "x:2122834506059067838",
+          "x:2122834506092609990",
+          "x:2122834506495197457",
+          "x:2123559295581143162",
+          "x:2123559295665017298",
+          "x:2123559296092840013"
+        ],
+        "detail": "12 same-content post pairs (12 near-duplicate text, 0 same link) by 3 accounts posted within 10 min of each other (median lag 0 s; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "x:2121747444258025826",
+      "x:2121747444362829836",
+      "x:2121747445541470625",
+      "x:2122117397444280531",
+      "x:2122117398429831174",
+      "x:2122117399075791011",
+      "x:2122834506059067838",
+      "x:2122834506092609990",
+      "x:2122834506495197457",
+      "x:2123559295581143162",
+      "x:2123559295665017298",
+      "x:2123559296092840013"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@FlyersBroadcast",
+      "@ctherien6",
+      "@jasonmyrt"
+    ],
+    "sources": [
+      "x"
+    ],
+    "summary": "3 X accounts posted near-identical text, within the same second."
+  },
+  {
+    "id": "C9",
+    "member_author_ids": [
+      "telegram:3429471683",
+      "telegram:3508701353",
+      "telegram:3698684509"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:catherinekellerchannel:1965",
+          "telegram:kevinhassettchannel:2168",
+          "telegram:tobydeenchannel:2145"
+        ],
+        "detail": "3 posts by 3 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.996,
+        "evidence_post_ids": [
+          "telegram:catherinekellerchannel:1965",
+          "telegram:kevinhassettchannel:2168",
+          "telegram:tobydeenchannel:2145"
+        ],
+        "detail": "3 same-content post pairs (3 near-duplicate text, 0 same link) by 3 accounts posted within 10 min of each other (median lag 3 s; platform timestamps)"
+      },
+      {
+        "type": "similar_creation_dates",
+        "score": 0.996,
+        "evidence_post_ids": [
+          "telegram:kevinhassettchannel:2168",
+          "telegram:tobydeenchannel:2145"
+        ],
+        "detail": "2 of 3 accounts with a platform-reported creation date were created within 3 days of each other (max gap 0.0 days)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:catherinekellerchannel:1965",
+      "telegram:kevinhassettchannel:2168",
+      "telegram:tobydeenchannel:2145"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@CatherineKellerChannel",
+      "@KevinHassettChannel",
+      "@TobyDeenChannel"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "3 Telegram accounts posted near-identical text, a median 3 s apart; 2 were created within 3 days of each other."
+  },
+  {
+    "id": "C10",
+    "member_author_ids": [
+      "x:1285103375118467073",
+      "x:1351062375177269251",
+      "x:1967956031276773376"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "x:2122089679742988306",
+          "x:2122089812220080407",
+          "x:2122091831949242687"
+        ],
+        "detail": "3 posts by 3 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.43,
+        "evidence_post_ids": [
+          "x:2122089679742988306",
+          "x:2122089812220080407",
+          "x:2122091831949242687"
+        ],
+        "detail": "3 same-content post pairs (3 near-duplicate text, 0 same link) by 3 accounts posted within 10 min of each other (median lag 8.0 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "x:2122089679742988306",
+      "x:2122089812220080407",
+      "x:2122091831949242687"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@freebirds0",
+      "@mrgreg779",
+      "@peterkkhan"
+    ],
+    "sources": [
+      "x"
+    ],
+    "summary": "3 X accounts posted near-identical text, a median 8.0 min apart."
+  },
+  {
+    "id": "C11",
+    "member_author_ids": [
+      "x:1976277418135506944",
+      "x:885137567175376896",
+      "x:932570451892686849"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "x:2123685432588206136",
+          "x:2123686191241519581",
+          "x:2123686652790845863"
+        ],
+        "detail": "3 posts by 3 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.677,
+        "evidence_post_ids": [
+          "x:2123685432588206136",
+          "x:2123686191241519581",
+          "x:2123686652790845863"
+        ],
+        "detail": "3 same-content post pairs (3 near-duplicate text, 0 same link) by 3 accounts posted within 10 min of each other (median lag 3.0 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "x:2123685432588206136",
+      "x:2123686191241519581",
+      "x:2123686652790845863"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@STmusicrecords",
+      "@ugobest_music",
+      "@ugobestlabel"
+    ],
+    "sources": [
+      "x"
+    ],
+    "summary": "3 X accounts posted near-identical text, a median 3.0 min apart."
+  },
+  {
+    "id": "C12",
+    "member_author_ids": [
+      "x:37796310",
+      "x:65501379",
+      "x:65505209"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "x:2123177207212151078",
+          "x:2123177207384137821",
+          "x:2123177209896542312"
+        ],
+        "detail": "3 posts by 3 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.999,
+        "evidence_post_ids": [
+          "x:2123177207212151078",
+          "x:2123177207384137821",
+          "x:2123177209896542312"
+        ],
+        "detail": "3 same-content post pairs (3 near-duplicate text, 0 same link) by 3 accounts posted within 10 min of each other (median lag 1 s; platform timestamps)"
+      },
+      {
+        "type": "similar_creation_dates",
+        "score": 0.996,
+        "evidence_post_ids": [
+          "x:2123177207212151078",
+          "x:2123177207384137821"
+        ],
+        "detail": "2 of 3 accounts with a platform-reported creation date were created within 3 days of each other (max gap 0.0 days)"
+      }
+    ],
+    "supporting_post_ids": [
+      "x:2123177207212151078",
+      "x:2123177207384137821",
+      "x:2123177209896542312"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@elimparcialcom",
+      "@fronterainfo",
+      "@lacronicacom"
+    ],
+    "sources": [
+      "x"
+    ],
+    "summary": "3 X accounts posted near-identical text, a median 1 s apart; 2 were created within 3 days of each other."
+  },
+  {
+    "id": "C13",
+    "member_author_ids": [
+      "linkedin:company/ai-by-aakash",
+      "x:101805159"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "linkedin:7529312601000984577",
+          "x:2123545137003565396"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.295,
+        "evidence_post_ids": [
+          "linkedin:7529312601000984577",
+          "x:2123545137003565396"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 7.0 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "linkedin:7529312601000984577",
+      "x:2123545137003565396"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@aakashgupta",
+      "company/ai-by-aakash"
+    ],
+    "sources": [
+      "linkedin",
+      "x"
+    ],
+    "summary": "2 accounts across LinkedIn and X posted near-identical text, a median 7.0 min apart."
+  },
+  {
+    "id": "C14",
+    "member_author_ids": [
+      "linkedin:company/course-joiner",
+      "telegram:1411666085"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "linkedin:7529435660563320832",
+          "telegram:coursejoiner:44613"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.24,
+        "evidence_post_ids": [
+          "linkedin:7529435660563320832",
+          "telegram:coursejoiner:44613"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 7.6 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "linkedin:7529435660563320832",
+      "telegram:coursejoiner:44613"
+    ],
+    "benign_explanations": [
+      "2 accounts share the display name 'course joiner' (on linkedin, telegram): possibly one organisation's official accounts cross-posting.",
+      "1 of 2 supporting posts link to coursejoiner.com: news syndication or wire-copy sharing can produce identical text and timing.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@coursejoiner",
+      "company/course-joiner"
+    ],
+    "sources": [
+      "linkedin",
+      "telegram"
+    ],
+    "summary": "2 accounts across LinkedIn and Telegram posted near-identical text, a median 7.6 min apart."
+  },
+  {
+    "id": "C15",
+    "member_author_ids": [
+      "linkedin:company/remaxwestsiderealty",
+      "x:97035463"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 0.926,
+        "evidence_post_ids": [
+          "linkedin:7529451834625822720",
+          "x:2123685927621189794"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 0.93)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.913,
+        "evidence_post_ids": [
+          "linkedin:7529451834625822720",
+          "x:2123685927621189794"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 52 s; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "linkedin:7529451834625822720",
+      "x:2123685927621189794"
+    ],
+    "benign_explanations": [
+      "2 accounts share the display name 'remax westside realty' (on linkedin, x): possibly one organisation's official accounts cross-posting.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@remaxwestside",
+      "company/remaxwestsiderealty"
+    ],
+    "sources": [
+      "linkedin",
+      "x"
+    ],
+    "summary": "2 accounts across LinkedIn and X posted near-identical text, a median 52 s apart."
+  },
+  {
+    "id": "C16",
+    "member_author_ids": [
+      "linkedin:company/zadrig-technology",
+      "youtube:UC3oWyb3LcEtnLrCoGFbaUgQ"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 0.933,
+        "evidence_post_ids": [
+          "linkedin:7529390415506984961",
+          "youtube:DA4ZaWT5scc"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 0.93)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.97,
+        "evidence_post_ids": [
+          "linkedin:7529390415506984961",
+          "youtube:DA4ZaWT5scc"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 18 s; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "linkedin:7529390415506984961",
+      "youtube:DA4ZaWT5scc"
+    ],
+    "benign_explanations": [
+      "2 accounts share the display name 'zadrig technology' (on linkedin, youtube): possibly one organisation's official accounts cross-posting.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@zadrigtechnology",
+      "company/zadrig-technology"
+    ],
+    "sources": [
+      "linkedin",
+      "youtube"
+    ],
+    "summary": "2 accounts across LinkedIn and YouTube posted near-identical text, a median 18 s apart."
+  },
+  {
+    "id": "C17",
+    "member_author_ids": [
+      "linkedin:in/rajvee-bhavsar-9a0ba437b",
+      "linkedin:in/sushil-ramdhiraj-pandey-6831693a1"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "linkedin:7527028956626161664",
+          "linkedin:7527029207735107584"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.9,
+        "evidence_post_ids": [
+          "linkedin:7527028956626161664",
+          "linkedin:7527029207735107584"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 1.0 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "linkedin:7527028956626161664",
+      "linkedin:7527029207735107584"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "in/rajvee-bhavsar-9a0ba437b",
+      "in/sushil-ramdhiraj-pandey-6831693a1"
+    ],
+    "sources": [
+      "linkedin"
+    ],
+    "summary": "2 LinkedIn accounts posted near-identical text, a median 1.0 min apart."
+  },
+  {
+    "id": "C18",
+    "member_author_ids": [
+      "linkedin:school/charmeckschools",
+      "x:199341683"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "linkedin:7529294959934492674",
+          "x:2123529266478350457"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "linkedin:7529294959934492674",
+          "x:2123529266478350457"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 0 s; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "linkedin:7529294959934492674",
+      "x:2123529266478350457"
+    ],
+    "benign_explanations": [
+      "2 accounts share the display name 'charlotte mecklenburg schools' (on linkedin, x): possibly one organisation's official accounts cross-posting.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@CharMeckSchools",
+      "school/charmeckschools"
+    ],
+    "sources": [
+      "linkedin",
+      "x"
+    ],
+    "summary": "2 accounts across LinkedIn and X posted near-identical text, within the same second."
+  },
+  {
+    "id": "C19",
+    "member_author_ids": [
+      "telegram:1487521699",
+      "telegram:1591539701"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 0.893,
+        "evidence_post_ids": [
+          "telegram:qnewsofficialtv:162747",
+          "telegram:whistleblowerdocs:1220"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 0.89)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.978,
+        "evidence_post_ids": [
+          "telegram:qnewsofficialtv:162747",
+          "telegram:whistleblowerdocs:1220"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 13 s; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:qnewsofficialtv:162747",
+      "telegram:whistleblowerdocs:1220"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@QNewsOfficialTV",
+      "@WhistleblowerDocs"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "2 Telegram accounts posted near-identical text, a median 13 s apart."
+  },
+  {
+    "id": "C20",
+    "member_author_ids": [
+      "telegram:1537505266",
+      "telegram:1935731426"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 0.955,
+        "evidence_post_ids": [
+          "telegram:general_pattonq:1113",
+          "telegram:qanonbrief1:5190"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 0.95)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.528,
+        "evidence_post_ids": [
+          "telegram:general_pattonq:1113",
+          "telegram:qanonbrief1:5190"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 4.7 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:general_pattonq:1113",
+      "telegram:qanonbrief1:5190"
+    ],
+    "benign_explanations": [
+      "2 of 2 supporting posts link to cutt.ly: news syndication or wire-copy sharing can produce identical text and timing.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@General_PattonQ",
+      "@qanonbrief1"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "2 Telegram accounts posted near-identical text, a median 4.7 min apart."
+  },
+  {
+    "id": "C21",
+    "member_author_ids": [
+      "telegram:1730054033",
+      "telegram:2103129260"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 0.926,
+        "evidence_post_ids": [
+          "telegram:bamthadsot:546185",
+          "telegram:hadashot360:77734"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 0.93)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.872,
+        "evidence_post_ids": [
+          "telegram:bamthadsot:546185",
+          "telegram:hadashot360:77734"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 1.3 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:bamthadsot:546185",
+      "telegram:hadashot360:77734"
+    ],
+    "benign_explanations": [
+      "1 of 2 supporting posts link to tapo.cc: news syndication or wire-copy sharing can produce identical text and timing.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@bamthadsot",
+      "@hadashot360"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "2 Telegram accounts posted near-identical text, a median 1.3 min apart."
+  },
+  {
+    "id": "C22",
+    "member_author_ids": [
+      "telegram:1866129423",
+      "telegram:2018785284"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:q_whitehats:2611",
+          "telegram:shadowezra1:3447"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.385,
+        "evidence_post_ids": [
+          "telegram:q_whitehats:2611",
+          "telegram:shadowezra1:3447"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 6.2 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:q_whitehats:2611",
+      "telegram:shadowezra1:3447"
+    ],
+    "benign_explanations": [
+      "2 of 2 supporting posts link to cutt.ly: news syndication or wire-copy sharing can produce identical text and timing.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@Q_WhiteHats",
+      "@ShadowEzra1"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "2 Telegram accounts posted near-identical text, a median 6.2 min apart."
+  },
+  {
+    "id": "C23",
+    "member_author_ids": [
+      "telegram:1961615528",
+      "telegram:2192406509"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:kayleigh_kennedy_q:3263",
+          "telegram:quantum_financial_system47:2638"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.497,
+        "evidence_post_ids": [
+          "telegram:kayleigh_kennedy_q:3263",
+          "telegram:quantum_financial_system47:2638"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 5.0 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:kayleigh_kennedy_q:3263",
+      "telegram:quantum_financial_system47:2638"
+    ],
+    "benign_explanations": [
+      "2 of 2 supporting posts link to cutt.ly: news syndication or wire-copy sharing can produce identical text and timing.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@Kayleigh_Kennedy_Q",
+      "@Quantum_Financial_System47"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "2 Telegram accounts posted near-identical text, a median 5.0 min apart."
+  },
+  {
+    "id": "C24",
+    "member_author_ids": [
+      "telegram:2111871306",
+      "telegram:2251321055"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:official_kerrycassidy1:4321",
+          "telegram:restoredrepublic_benjaminfulford:5215"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.385,
+        "evidence_post_ids": [
+          "telegram:official_kerrycassidy1:4321",
+          "telegram:restoredrepublic_benjaminfulford:5215"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 6.2 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:official_kerrycassidy1:4321",
+      "telegram:restoredrepublic_benjaminfulford:5215"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@Official_KerryCassidy1",
+      "@RestoredRepublic_BenjaminFulford"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "2 Telegram accounts posted near-identical text, a median 6.2 min apart."
+  },
+  {
+    "id": "C25",
+    "member_author_ids": [
+      "telegram:2241029592",
+      "telegram:3923336693"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 0.832,
+        "evidence_post_ids": [
+          "telegram:benjaminfulfordnew:1610",
+          "telegram:t4biso20022:98"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 0.83)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.613,
+        "evidence_post_ids": [
+          "telegram:benjaminfulfordnew:1610",
+          "telegram:t4biso20022:98"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 3.9 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:benjaminfulfordnew:1610",
+      "telegram:t4biso20022:98"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@BenjaminFulfordNew",
+      "@T4Biso20022"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "2 Telegram accounts posted near-identical text, a median 3.9 min apart."
+  },
+  {
+    "id": "C26",
+    "member_author_ids": [
+      "telegram:2362274181",
+      "telegram:3788051615"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 0.972,
+        "evidence_post_ids": [
+          "telegram:bistbalinaavi:10981",
+          "telegram:boptanalytics:8112"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 0.97)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.803,
+        "evidence_post_ids": [
+          "telegram:bistbalinaavi:10981",
+          "telegram:boptanalytics:8112"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 2.0 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:bistbalinaavi:10981",
+      "telegram:boptanalytics:8112"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@bistbalinaavi",
+      "@boptanalytics"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "2 Telegram accounts posted near-identical text, a median 2.0 min apart."
+  },
+  {
+    "id": "C27",
+    "member_author_ids": [
+      "telegram:2535957037",
+      "telegram:2992512221"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:projectodin:1249",
+          "telegram:realprincessdianaq:1856"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.772,
+        "evidence_post_ids": [
+          "telegram:projectodin:1249",
+          "telegram:realprincessdianaq:1856"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 2.3 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:projectodin:1249",
+      "telegram:realprincessdianaq:1856"
+    ],
+    "benign_explanations": [
+      "2 of 2 supporting posts link to cutt.ly: news syndication or wire-copy sharing can produce identical text and timing.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@ProjectOdin",
+      "@RealPrincessDianaQ"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "2 Telegram accounts posted near-identical text, a median 2.3 min apart."
+  },
+  {
+    "id": "C28",
+    "member_author_ids": [
+      "telegram:2730618230",
+      "telegram:2731736492"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:mjhistorytg:114",
+          "telegram:zachariatg:165"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "similar_creation_dates",
+        "score": 0.995,
+        "evidence_post_ids": [
+          "telegram:mjhistorytg:114",
+          "telegram:zachariatg:165"
+        ],
+        "detail": "2 of 2 accounts with a platform-reported creation date were created within 3 days of each other (max gap 0.0 days)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:mjhistorytg:114",
+      "telegram:zachariatg:165"
+    ],
+    "benign_explanations": [
+      "2 of 2 supporting posts link to cutt.ly: news syndication or wire-copy sharing can produce identical text and timing.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@MJhistorytg",
+      "@zachariatg"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "2 Telegram accounts posted near-identical text; both were created within 3 days of each other."
+  },
+  {
+    "id": "C29",
+    "member_author_ids": [
+      "telegram:3083034361",
+      "telegram:3977296658"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:jeanjacquestv:473",
+          "telegram:thierrymeyssan:1262"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.99,
+        "evidence_post_ids": [
+          "telegram:jeanjacquestv:473",
+          "telegram:thierrymeyssan:1262"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 6 s; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:jeanjacquestv:473",
+      "telegram:thierrymeyssan:1262"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@ThierryMeyssan",
+      "@jeanjacquestv"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "2 Telegram accounts posted near-identical text, a median 6 s apart."
+  },
+  {
+    "id": "C30",
+    "member_author_ids": [
+      "telegram:3814619445",
+      "telegram:3885709833"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "telegram:chuliuya:388",
+          "telegram:shisancc991:396"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.977,
+        "evidence_post_ids": [
+          "telegram:chuliuya:388",
+          "telegram:shisancc991:396"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 14 s; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "telegram:chuliuya:388",
+      "telegram:shisancc991:396"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@chuliuya",
+      "@shisancc991"
+    ],
+    "sources": [
+      "telegram"
+    ],
+    "summary": "2 Telegram accounts posted near-identical text, a median 14 s apart."
+  },
+  {
+    "id": "C31",
+    "member_author_ids": [
+      "x:1384894337134252033",
+      "x:194235592"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 1.0,
+        "evidence_post_ids": [
+          "x:2123163130125488444",
+          "x:2123163133795537191"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 1.00)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.998,
+        "evidence_post_ids": [
+          "x:2123163130125488444",
+          "x:2123163133795537191"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 1 s; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "x:2123163130125488444",
+      "x:2123163133795537191"
+    ],
+    "benign_explanations": [
+      "2 of 2 supporting posts link to bizjournals.com: news syndication or wire-copy sharing can produce identical text and timing.",
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@StLouis_Inno",
+      "@stlouisbiz"
+    ],
+    "sources": [
+      "x"
+    ],
+    "summary": "2 X accounts posted near-identical text, a median 1 s apart."
+  },
+  {
+    "id": "C32",
+    "member_author_ids": [
+      "x:1821734608926388224",
+      "x:2011073857273364480"
+    ],
+    "signals": [
+      {
+        "type": "near_duplicate_text",
+        "score": 0.989,
+        "evidence_post_ids": [
+          "x:2122835764807438628",
+          "x:2122836932468060245"
+        ],
+        "detail": "2 posts by 2 accounts with near-identical text (shingle Jaccard >= 0.8, mean 0.99)"
+      },
+      {
+        "type": "near_simultaneous_posting",
+        "score": 0.537,
+        "evidence_post_ids": [
+          "x:2122835764807438628",
+          "x:2122836932468060245"
+        ],
+        "detail": "1 same-content post pairs (1 near-duplicate text, 0 same link) by 2 accounts posted within 10 min of each other (median lag 4.6 min; platform timestamps)"
+      }
+    ],
+    "supporting_post_ids": [
+      "x:2122835764807438628",
+      "x:2122836932468060245"
+    ],
+    "benign_explanations": [
+      "Coordination signals show accounts acting similarly; they do not by themselves prove inauthentic behaviour."
+    ],
+    "member_handles": [
+      "@ZaksMetaX",
+      "@bitcoinxalerts"
+    ],
+    "sources": [
+      "x"
+    ],
+    "summary": "2 X accounts posted near-identical text, a median 4.6 min apart."
+  }
+]

@@ -1,0 +1,31 @@
+# Installed automatically by run.py on first launch (into .venv/).
+# Exact pins are filled in from the tested environment (see docs/DECISIONS.md).
+# Web GUI + server
+fastapi
+uvicorn[standard]
+jinja2
+python-multipart
+# HTTP / collection
+httpx
+truststore            # verify TLS with the OS trust store (works behind corporate TLS inspection)
+telethon
+beautifulsoup4
+playwright            # X web_session provider: drives the owner's logged-in browser session
+# Analysis (HDBSCAN comes from scikit-learn >= 1.3; no separate hdbscan build needed)
+sentence-transformers
+scikit-learn
+numpy
+datasketch            # MinHash near-duplicate detection
+imagehash             # perceptual hashing for reused avatars/thumbnails
+pillow
+networkx
+langdetect
+# LLM (narrative labels, claim extraction/stance)
+anthropic
+# Utilities
+python-dotenv
+pydantic
+# Dev / tests
+pytest
+ruff
+respx

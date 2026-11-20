@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "On October 13, 2026, the U.S. Treasury announced more than $1.21 billion in penalties against Bank of America across three agencies.",
+ "params": {
+  "query": "On October 13, 2026, the U.S. Treasury announced more than $1.21 billion in penalties against Bank of America across three agencies.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:01Z",
+ "error": null,
+ "response": {}
+}

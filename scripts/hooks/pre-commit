@@ -1,0 +1,38 @@
+#!/bin/sh
+# Pre-commit secret guard (CLAUDE.md §5). Installed by scripts/install-hooks.sh.
+# 1. Blocks staged files that must never be committed (.env, sessions, cookies, runs/...).
+# 2. Runs gitleaks on staged changes when gitleaks is installed; otherwise a built-in
+#    pattern scan for common API-key formats.
+set -eu
+
+fail=0
+staged=$(git diff --cached --name-only --diff-filter=ACMR)
+
+for f in $staged; do
+  case "$f" in
+    .env.example) ;;
+    .env|.env.*|*/.env|*/.env.*|*.session|*.session-journal|sessions/*|*/sessions/*|cookies*|*/cookies*|_reference/*|runs/*|*state.sqlite*)
+      echo "pre-commit: refusing to commit '$f' (secrets/sessions/run output; see CLAUDE.md §5)"
+      fail=1 ;;
+  esac
+done
+
+if [ "${1:-}" = "--blocked-only" ]; then
+  exit $fail
+fi
+
+if command -v gitleaks >/dev/null 2>&1; then
+  gitleaks protect --staged --redact --no-banner || fail=1
+else
+  # Fallback scan of added lines. Patterns: Anthropic, Google, OpenAI-style, GitHub,
+  # AWS keys, LinkedIn li_at cookies, Telegram api_hash assignments with a value.
+  if git diff --cached -U0 --diff-filter=ACMR -- . ':(exclude)scripts/hooks/pre-commit' \
+      | grep -E '^\+' \
+      | grep -nE 'sk-ant-[A-Za-z0-9_-]{20,}|AIza[0-9A-Za-z_-]{30,}|sk-[A-Za-z0-9]{32,}|gh[pousr]_[A-Za-z0-9]{30,}|AKIA[0-9A-Z]{16}|li_at=[A-Za-z0-9_-]{20,}|(API_HASH|API_KEY|BEARER_TOKEN|_KEY)=[A-Za-z0-9_\-]{16,}' ; then
+    echo "pre-commit: possible secret in staged changes (install gitleaks for a full scan)"
+    fail=1
+  fi
+  echo "pre-commit: gitleaks not installed; ran built-in pattern scan (brew install gitleaks)"
+fi
+
+exit $fail

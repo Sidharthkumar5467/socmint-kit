@@ -1,0 +1,39 @@
+{
+  "_fixture_note": "Built by hand from the documented searchListResponse / search resource shapes at developers.google.com/youtube/v3/docs/search (not a live response). IDs and text are synthetic.",
+  "kind": "youtube#searchListResponse",
+  "etag": "etag-p1",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": {"totalResults": 3, "resultsPerPage": 2},
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "etag-a",
+      "id": {"kind": "youtube#video", "videoId": "vidAAAAAAA1"},
+      "snippet": {
+        "publishedAt": "2026-11-05T14:00:00Z",
+        "channelId": "UCchannelOne0000000000",
+        "title": "Flood barrier collapse claim explained",
+        "description": "Truncated search description...",
+        "thumbnails": {"default": {"url": "https://i.ytimg.com/vi/vidAAAAAAA1/default.jpg", "width": 120, "height": 90},
+                       "high": {"url": "https://i.ytimg.com/vi/vidAAAAAAA1/hqdefault.jpg", "width": 480, "height": 360}},
+        "channelTitle": "Channel One",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "etag-b",
+      "id": {"kind": "youtube#video", "videoId": "vidBBBBBBB2"},
+      "snippet": {
+        "publishedAt": "2026-11-04T09:30:00Z",
+        "channelId": "UCchannelTwo0000000000",
+        "title": "سد الفيضان - ما الذي حدث؟",
+        "description": "وصف مختصر",
+        "thumbnails": {"high": {"url": "https://i.ytimg.com/vi/vidBBBBBBB2/hqdefault.jpg", "width": 480, "height": 360}},
+        "channelTitle": "Channel Two",
+        "liveBroadcastContent": "none"
+      }
+    }
+  ]
+}

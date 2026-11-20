@@ -1,0 +1,449 @@
+{
+  "run_id": "2026-11-20-bank-of-america-567b06",
+  "topic": "bank of america",
+  "start": "2026-11-13",
+  "end": "2026-11-20",
+  "sources": [
+    "x",
+    "telegram",
+    "youtube",
+    "linkedin"
+  ],
+  "created_at": "2026-11-20T09:14:01Z",
+  "finished_at": "2026-11-20T09:20:02Z",
+  "status": "complete",
+  "versions": {
+    "socmint": "0.1.0"
+  },
+  "timings": {
+    "collect": 114.47,
+    "verify": 4.15,
+    "narratives": 61.53,
+    "coordination": 1.53,
+    "origin": 17.08,
+    "claims": 108.41,
+    "brief": 0.02,
+    "total": 360.72,
+    "export": 0.15,
+    "report": 0.13
+  },
+  "costs": {
+    "x": 0.0,
+    "telegram": 0.0,
+    "youtube": 0.0,
+    "linkedin": 0.0,
+    "llm_calls": 241.0,
+    "llm_input_tokens": 670657.0,
+    "llm_output_tokens": 104579.0
+  },
+  "counts": {
+    "posts_in_scope": 2255,
+    "posts_pruned": 80,
+    "posts_pruned_unassigned": 31,
+    "narratives_split": 11,
+    "narratives_mixed": 25,
+    "narratives_label_llm": 150,
+    "narratives_label_keyword": 119,
+    "narratives_label_small": 119,
+    "narratives_claims_assessed": 10,
+    "narratives": 269,
+    "clusters": 32,
+    "origin_traces": 269,
+    "claims": 30,
+    "posts": 2287,
+    "posts_analysable": 2255,
+    "posts_unverified_timestamp": 0,
+    "posts_out_of_window": 3
+  },
+  "options": {
+    "limit": 500,
+    "match": "phrase",
+    "window_preset": "7d",
+    "window_start_at": "2026-11-13T09:14:01Z",
+    "window_end_at": "2026-11-20T09:14:01Z",
+    "time_limit_s": null,
+    "llm": "claude-haiku-5-5",
+    "pruned_post_ids": {
+      "N1": [
+        "x:2122831846631244079",
+        "youtube:comment:Ugx29kpVCUUPYr5fxNp4AaABAg",
+        "telegram:kaiforbiz:202",
+        "youtube:comment:Ugyv_jDXjSXsJBvQhIN4AaABAg",
+        "telegram:indonesiadefacer:2280545"
+      ],
+      "N6": [
+        "x:2123680185048588769",
+        "telegram:twobeextras2:147861",
+        "telegram:twobeextras2:146480",
+        "telegram:twobeextras2:147907",
+        "telegram:twobeextras2:146443",
+        "telegram:twobeextras2:146572",
+        "x:2122479688132043088",
+        "youtube:lrBVK5UhuNc",
+        "youtube:QG-gRVOSW8c"
+      ],
+      "N9": [
+        "x:2123546200179974227",
+        "telegram:testnetgems174axyn178:348",
+        "x:2122095391919477227",
+        "youtube:8rmwFdyO1vM"
+      ],
+      "N10": [
+        "youtube:kQ_8ABmdqtA",
+        "linkedin:7528788598708518912",
+        "linkedin:7528351907539603456",
+        "youtube:yCpGZM8NU4E"
+      ],
+      "N11": [
+        "telegram:fdwoeff:3369",
+        "telegram:kriptokurduhaber:252801",
+        "telegram:criptocomlatino:99296",
+        "x:2123702536020332544",
+        "youtube:comment:Ugy13lPb7pRQX5s_C3J4AaABAg"
+      ],
+      "N12": [
+        "x:2123646285299208467",
+        "x:2122105201121526205",
+        "x:2122064929146442183",
+        "x:2121382121336111262",
+        "x:2121702209129722045"
+      ],
+      "N14": [
+        "x:2121359918846431423",
+        "telegram:blockchainworldcryptowatch:156096",
+        "x:2121376764807049278"
+      ],
+      "N15": [
+        "linkedin:7528908731229818880"
+      ],
+      "N16": [
+        "youtube:b-gGOUCM3kw",
+        "youtube:cBA_Xnhnd60",
+        "youtube:AKGh3_xxeLQ",
+        "youtube:QRN8QLjSZQw"
+      ],
+      "N19": [
+        "youtube:JighOdxxoEw",
+        "youtube:wTqHAI2v1ls"
+      ],
+      "N22": [
+        "x:2122108402197217730",
+        "x:2121746722280104368"
+      ],
+      "N23": [
+        "telegram:panoramamoscca:226071",
+        "youtube:uNj3WhoJzYw"
+      ],
+      "N26": [
+        "x:2122828379049377913",
+        "x:2121693178957042073",
+        "telegram:heydascrypto:35907"
+      ],
+      "N28": [
+        "x:2122478005511442635",
+        "youtube:comment:UgwSYFclMdw857t588J4AaABAg"
+      ],
+      "N30": [
+        "youtube:4vHX_vZAR4c",
+        "youtube:3BOT6MBUzMc",
+        "youtube:comment:UgzyuU2Iv5Kr0LF-Nk14AaABAg",
+        "linkedin:7529398153104498688"
+      ],
+      "N36": [
+        "youtube:seIbOzo2_Ko"
+      ],
+      "N37": [
+        "telegram:axtronok:63585",
+        "telegram:abkrenonews:37727",
+        "telegram:economiaaldia:398"
+      ],
+      "N38": [
+        "x:2121356524274782610",
+        "youtube:comment:UgxV9WaZUZFN6uIaNRx4AaABAg"
+      ],
+      "N41": [
+        "youtube:comment:UgzNxbTeKbzmIEYQ7-N4AaABAg"
+      ],
+      "N42": [
+        "x:2121667881054179826"
+      ],
+      "N43": [
+        "linkedin:7529373212451852288",
+        "linkedin:7527706774754451456"
+      ],
+      "N45": [
+        "x:2123703170836684863",
+        "x:2122840043689513404"
+      ],
+      "N49": [
+        "linkedin:7528132549815152640"
+      ],
+      "N51": [
+        "linkedin:7529312649667342336"
+      ],
+      "N53": [
+        "telegram:zhmerpegas:12384"
+      ],
+      "N54": [
+        "x:2123653470506942791",
+        "youtube:tJ1Gz9fZ8OE"
+      ],
+      "N55": [
+        "youtube:comment:Ugz1iL-ccvX3YfogEuh4AaABAg"
+      ],
+      "N57": [
+        "x:2122076643384754251"
+      ],
+      "N58": [
+        "youtube:comment:UgzTDSpGCtWpxoQcE_14AaABAg",
+        "youtube:comment:UgwfoBPscbQ6rcFf7o14AaABAg"
+      ],
+      "N61": [
+        "linkedin:7529329291189297152"
+      ],
+      "N63": [
+        "youtube:comment:Ugxg3LTQUaPCGuA0y3B4AaABAg"
+      ],
+      "N64": [
+        "x:2121373171781624023"
+      ],
+      "N69": [
+        "x:2121748635180290295"
+      ]
+    },
+    "pruned_split_into": {
+      "N1": "N259",
+      "N6": "N260",
+      "N9": "N261",
+      "N10": "N262",
+      "N11": "N263",
+      "N12": "N264",
+      "N14": "N265",
+      "N16": "N266",
+      "N26": "N267",
+      "N30": "N268",
+      "N37": "N269"
+    },
+    "narratives_mixed": {
+      "N34": {
+        "flagged": 4,
+        "shown": 7,
+        "reason": "share",
+        "flagged_post_ids": [
+          "youtube:I9uoZpLX2mo",
+          "linkedin:7528100315062214657",
+          "youtube:QFdD3hM6x9o",
+          "x:2121679670961963235"
+        ]
+      },
+      "N40": {
+        "flagged": 4,
+        "shown": 7,
+        "reason": "share",
+        "flagged_post_ids": [
+          "youtube:tlYuVWQAmD8",
+          "youtube:tELSLttmVvY",
+          "x:2122099228642005181",
+          "x:2121374138040225853"
+        ]
+      },
+      "N46": {
+        "flagged": 4,
+        "shown": 6,
+        "reason": "share",
+        "flagged_post_ids": [
+          "youtube:comment:UgzQytN-MyBFA2qWmN94AaABAg",
+          "youtube:comment:UgzAWti-wFGS4PhQiTN4AaABAg",
+          "youtube:comment:UgweYFQKI2b2ykjZRgl4AaABAg",
+          "youtube:comment:UgzBJ0o1cJZZo87Is214AaABAg"
+        ]
+      },
+      "N67": {
+        "flagged": 2,
+        "shown": 4,
+        "reason": "share",
+        "flagged_post_ids": [
+          "x:2122828109493801156",
+          "x:2122039129122705726"
+        ]
+      },
+      "N68": {
+        "flagged": 2,
+        "shown": 4,
+        "reason": "share",
+        "flagged_post_ids": [
+          "youtube:comment:UgyRGdbvzM3MElx5ZPZ4AaABAg",
+          "x:2123682540070305946"
+        ]
+      },
+      "N84": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "linkedin:7529430970404446208"
+        ]
+      },
+      "N85": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "linkedin:7527936293842989056"
+        ]
+      },
+      "N88": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "linkedin:7529313116128665600"
+        ]
+      },
+      "N93": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "telegram:demolishthehoaxcanale:149806"
+        ]
+      },
+      "N94": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "x:2122046137666531343"
+        ]
+      },
+      "N96": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "youtube:cyRDaKBSKKg"
+        ]
+      },
+      "N98": {
+        "flagged": 2,
+        "shown": 3,
+        "reason": "share",
+        "flagged_post_ids": [
+          "x:2123190373912559811",
+          "x:2122828395012628486"
+        ]
+      },
+      "N99": {
+        "flagged": 3,
+        "shown": 3,
+        "reason": "share",
+        "flagged_post_ids": [
+          "x:2122085872342360542",
+          "youtube:_pBdZek4DcM",
+          "x:2121345549643235510"
+        ]
+      },
+      "N100": {
+        "flagged": 3,
+        "shown": 3,
+        "reason": "share",
+        "flagged_post_ids": [
+          "x:2121366757403418763",
+          "x:2121350975331909745",
+          "x:2121686704293867894"
+        ]
+      },
+      "N101": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "youtube:3FVBns_b0_w"
+        ]
+      },
+      "N104": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "youtube:t2Z23POpCgQ"
+        ]
+      },
+      "N113": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "youtube:QmGSs_TBpl0"
+        ]
+      },
+      "N115": {
+        "flagged": 2,
+        "shown": 3,
+        "reason": "share",
+        "flagged_post_ids": [
+          "youtube:EYndoyT53zo",
+          "youtube:AVtX0msT5cM"
+        ]
+      },
+      "N117": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "youtube:comment:Ugy5MA6AP11dH3h8ySp4AaABAg"
+        ]
+      },
+      "N122": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "youtube:comment:Ugw4K0NdRwhqqp1iCJt4AaABAg"
+        ]
+      },
+      "N124": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "youtube:comment:Ugza1vKNYYknIVEdpkB4AaABAg"
+        ]
+      },
+      "N126": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "youtube:comment:UgwbfkD3EI-IyP6cfj14AaABAg"
+        ]
+      },
+      "N127": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "youtube:comment:Ugz0DTWL34yezrHyoR94AaABAg"
+        ]
+      },
+      "N133": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "youtube:comment:UgyWJlDLV5kCdmylcXN4AaABAg"
+        ]
+      },
+      "N135": {
+        "flagged": 1,
+        "shown": 3,
+        "reason": "size",
+        "flagged_post_ids": [
+          "youtube:comment:Ugy-OIU2wUt5jzdct5R4AaABAg"
+        ]
+      }
+    }
+  },
+  "replay": false,
+  "error": null
+}

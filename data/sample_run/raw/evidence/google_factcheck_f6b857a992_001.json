@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "Bank of America failed to report on time more than $5 billion in suspicious transactions.",
+ "params": {
+  "query": "Bank of America failed to report on time more than $5 billion in suspicious transactions.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:01Z",
+ "error": null,
+ "response": {}
+}

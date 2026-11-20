@@ -1,0 +1,116 @@
+{
+  "_note": "DOC EXAMPLE, NOT LIVE. Shape built from the TwitterAPI.io OpenAPI schema (docs.twitterapi.io/api-reference/openapi.json, components.schemas.Tweet/UserInfo/TweetEntities, retrieved 2026-11-18). Values are synthetic. 'extendedEntities' is NOT in the documented schema: it is the classic X media shape and is UNVERIFIED for this provider. Page 1 of 2.",
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "1900000000000000001",
+      "url": "https://x.com/example_user/status/1900000000000000001",
+      "text": "Quoting this report on the topic https://t.co/abc https://t.co/q",
+      "source": "",
+      "retweetCount": 3,
+      "replyCount": 1,
+      "likeCount": 10,
+      "quoteCount": 0,
+      "viewCount": 500,
+      "createdAt": "Tue Nov 10 07:00:30 +0000 2026",
+      "lang": "en",
+      "bookmarkCount": 2,
+      "isReply": false,
+      "isRetweet": false,
+      "isQuote": true,
+      "possiblySensitive": false,
+      "inReplyToId": "",
+      "conversationId": "1900000000000000001",
+      "displayTextRange": [0, 60],
+      "inReplyToUserId": "",
+      "inReplyToUsername": "",
+      "author": {
+        "type": "user",
+        "userName": "example_user",
+        "url": "https://x.com/example_user",
+        "id": "111",
+        "name": "Example User",
+        "isBlueVerified": false,
+        "protected": false,
+        "profilePicture": "https://pbs.twimg.com/profile_images/111/example_normal.jpg",
+        "description": "",
+        "location": "",
+        "followers": 42,
+        "following": 10,
+        "createdAt": "Wed Dec 19 20:20:32 +0000 2007",
+        "statusesCount": 100
+      },
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {"display_url": "example.org/report", "expanded_url": "https://example.org/report", "indices": [33, 49], "url": "https://t.co/abc"},
+          {"display_url": "x.com/source_acct/st…", "expanded_url": "https://twitter.com/source_acct/status/1899999999999999999", "indices": [50, 62], "url": "https://t.co/q"}
+        ],
+        "user_mentions": []
+      },
+      "extendedEntities": {
+        "media": [
+          {"type": "photo", "media_url_https": "https://pbs.twimg.com/media/example1.jpg"},
+          {"type": "video", "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/example2.jpg",
+           "video_info": {"variants": [
+             {"content_type": "application/x-mpegURL", "url": "https://video.twimg.com/example2.m3u8"},
+             {"content_type": "video/mp4", "bitrate": 256000, "url": "https://video.twimg.com/example2_low.mp4"},
+             {"content_type": "video/mp4", "bitrate": 2176000, "url": "https://video.twimg.com/example2_high.mp4"}
+           ]}}
+        ]
+      },
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "1899999999999999999",
+        "url": "https://x.com/source_acct/status/1899999999999999999",
+        "text": "Original claim about the topic",
+        "retweetCount": 50,
+        "replyCount": 5,
+        "likeCount": 120,
+        "quoteCount": 7,
+        "viewCount": 9000,
+        "createdAt": "Mon Nov 09 12:00:00 +0000 2026",
+        "lang": "en",
+        "isReply": false,
+        "inReplyToId": "",
+        "author": {"type": "user", "userName": "source_acct", "id": "222", "name": "Source Account",
+                   "profilePicture": "https://pbs.twimg.com/profile_images/222/src_normal.jpg",
+                   "createdAt": "Thu Nov 05 08:00:00 +0000 2026"},
+        "entities": {"hashtags": [], "urls": [], "user_mentions": []},
+        "quoted_tweet": null,
+        "retweeted_tweet": null
+      },
+      "retweeted_tweet": null,
+      "isLimitedReply": false
+    },
+    {
+      "type": "tweet",
+      "id": "1900000000000000002",
+      "url": "https://x.com/replier/status/1900000000000000002",
+      "text": "@example_user ثم هذا رد على المنشور",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 20,
+      "createdAt": "Tue Nov 10 08:15:00 +0000 2026",
+      "lang": "ar",
+      "isReply": true,
+      "isRetweet": false,
+      "isQuote": false,
+      "inReplyToId": "1900000000000000001",
+      "conversationId": "1900000000000000001",
+      "inReplyToUserId": "111",
+      "inReplyToUsername": "example_user",
+      "author": {"type": "user", "userName": "replier", "id": "333", "name": "Replier",
+                 "profilePicture": "https://pbs.twimg.com/profile_images/333/r_normal.jpg",
+                 "createdAt": "Sun Nov 01 00:00:00 +0000 2026"},
+      "entities": {"hashtags": [], "urls": [],
+                   "user_mentions": [{"id_str": "111", "name": "Example User", "screen_name": "example_user"}]},
+      "quoted_tweet": null,
+      "retweeted_tweet": null
+    }
+  ],
+  "has_next_page": true,
+  "next_cursor": "DOC_EXAMPLE_CURSOR_PAGE_2"
+}

@@ -1,0 +1,86 @@
+{
+ "provider": "serper",
+ "query": "A disaster in the United States is currently occurring and was expected to arrive sooner.",
+ "params": {
+  "q": "A disaster in the United States is currently occurring and was expected to arrive sooner.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:20Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "A disaster in the United States is currently occurring and was expected to arrive sooner.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Governor Newsom proclaims state of emergency to bolster statewide El Nino preparedness, protect California",
+    "link": "https://www.gov.ca.gov/2026/09/21/governor-newsom-proclaims-state-of-emergency-to-bolster-statewide-el-nino-preparedness-protect-california/",
+    "date": "Sep 21, 2026",
+    "source": "California State Portal | CA.gov",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "The Trump Administration Is Interfering in the 2026 Midterm Elections To Entrench the Imperial Presidency",
+    "link": "https://www.americanprogress.org/article/the-trump-administration-is-interfering-in-the-2026-midterm-elections-to-entrench-the-imperial-presidency/",
+    "date": "Aug 12, 2026",
+    "source": "Center for American Progress",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "'The Big One' is coming, but when? Study suggests major CA earthquake could hit sooner rather than later",
+    "link": "https://abc7.com/post/big-is-coming-when-study-suggests-major-ca-earthquake-could-hit-sooner-later/19615388/",
+    "date": "Aug 2, 2026",
+    "source": "ABC7 Los Angeles",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "The Budget and Economic Outlook: 2026 to 2036",
+    "link": "https://www.cbo.gov/publication/62105",
+    "date": "Feb 11, 2026",
+    "source": "Congressional Budget Office (.gov)",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "The Effects of Climate Change",
+    "link": "https://science.nasa.gov/climate-change/effects/",
+    "date": "Oct 23, 2024",
+    "source": "NASA Science (.gov)",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "How AI Is Changing Our Approach to Disasters",
+    "link": "https://www.rand.org/pubs/commentary/2025/08/how-ai-is-changing-our-approach-to-disasters.html",
+    "date": "Aug 27, 2025",
+    "source": "RAND",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Homelessness Data & Trends",
+    "link": "https://www.usich.gov/guidance-reports-data/data-trends",
+    "date": "Oct 30, 2023",
+    "source": "United States Interagency Council on Homelessness (.gov)",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "The Changes Coming to the ACA, Medicaid, and Medicare",
+    "link": "https://publichealth.jhu.edu/2025/the-changes-coming-to-the-aca-medicaid-and-medicare",
+    "date": "Jul 30, 2025",
+    "source": "Johns Hopkins Bloomberg School of Public Health",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Climate Change Impacts in the Northwest",
+    "link": "https://www.climatehubs.usda.gov/hubs/northwest/topic/climate-change-impacts-northwest",
+    "date": "Sep 4, 2022",
+    "source": "USDA Climate Hubs (.gov)",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

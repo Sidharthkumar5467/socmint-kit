@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "An AI system could drain millions of dollars from bank accounts in a fraction of a second.",
+ "params": {
+  "query": "An AI system could drain millions of dollars from bank accounts in a fraction of a second.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:55Z",
+ "error": null,
+ "response": {}
+}

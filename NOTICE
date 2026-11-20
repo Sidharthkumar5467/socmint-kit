@@ -1,0 +1,22 @@
+SOCMINT Narrative & Coordination Module — third-party attributions
+==================================================================
+
+socmint/data/underground_channels.json
+--------------------------------------
+Derived from deepdarkCTI — a collection of Cyber Threat Intelligence sources
+from the Deep and Dark Web.
+
+  Source:  https://github.com/fastfire/deepdarkCTI
+  Author:  fastfire and deepdarkCTI contributors
+  License: GNU General Public License v3.0 (GPL-3.0)
+
+Only the public Telegram channel identifiers (username, status, category and
+label) were extracted from the project's Telegram source lists. Invite-only
+("t.me/+…") and offline/expired/seized entries were removed, because this tool
+reads public channels only and never joins. No other deepdarkCTI content is
+included. The data is used as reference (a starting list of channels to search);
+every post the tool keeps comes from a live, date-bounded search with the
+platform's own timestamp.
+
+As a work incorporating GPL-3.0 data, redistribution of this list is subject to
+the terms of the GPL-3.0. See the upstream project for the full license text.

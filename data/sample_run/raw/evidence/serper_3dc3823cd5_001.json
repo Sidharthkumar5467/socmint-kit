@@ -1,0 +1,37 @@
+{
+ "provider": "serper",
+ "query": "An AI system could drain millions of dollars from bank accounts in a fraction of a second.",
+ "params": {
+  "q": "An AI system could drain millions of dollars from bank accounts in a fraction of a second.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:24Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "An AI system could drain millions of dollars from bank accounts in a fraction of a second.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "We did the math on AI’s energy footprint. Here’s the story you haven’t heard.",
+    "link": "https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/",
+    "date": "May 20, 2025",
+    "source": "MIT Technology Review",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Programmable Money, Smart Contracts, and Stablecoins — A Leadership Guide for Banking & Finance",
+    "link": "https://medium.com/@adnanmasood/programmable-money-smart-contracts-and-stablecoins-a-leadership-guide-for-banking-finance-ec0791847977",
+    "date": "Sep 13, 2025",
+    "source": "Medium",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

@@ -1,0 +1,3 @@
+"""SOCMINT Narrative & Coordination Module."""
+
+__version__ = "0.1.0"

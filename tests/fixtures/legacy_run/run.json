@@ -1,0 +1,58 @@
+{
+  "run_id": "2026-11-19-bank-of-america-5a2e34",
+  "topic": "bank of america",
+  "start": "2026-11-13",
+  "end": "2026-11-19",
+  "sources": [
+    "x",
+    "telegram",
+    "youtube",
+    "linkedin",
+    "linkedin_ads"
+  ],
+  "created_at": "2026-11-19T14:19:09Z",
+  "finished_at": "2026-11-19T14:25:14Z",
+  "status": "complete",
+  "versions": {
+    "socmint": "0.1.0"
+  },
+  "timings": {
+    "collect": 136.13,
+    "verify": 3.06,
+    "narratives": 82.41,
+    "coordination": 0.55,
+    "origin": 10.87,
+    "claims": 130.48,
+    "total": 364.89,
+    "export": 0.11,
+    "report": 0.1
+  },
+  "costs": {
+    "x": 0.0,
+    "telegram": 0.0,
+    "youtube": 0.0,
+    "linkedin": 0.0,
+    "linkedin_ads": 0.0,
+    "llm_calls": 354.0,
+    "llm_input_tokens": 501176.0,
+    "llm_output_tokens": 108701.0
+  },
+  "counts": {
+    "posts_in_scope": 1935,
+    "narratives": 272,
+    "clusters": 20,
+    "origin_traces": 272,
+    "claims": 24,
+    "posts": 1960,
+    "posts_analysable": 1644,
+    "posts_unverified_timestamp": 291,
+    "posts_out_of_window": 2
+  },
+  "options": {
+    "limit": 300,
+    "match": "phrase",
+    "llm": "claude-haiku-5-5"
+  },
+  "replay": false,
+  "error": null
+}

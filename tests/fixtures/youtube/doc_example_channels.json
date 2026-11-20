@@ -1,0 +1,35 @@
+{
+  "_fixture_note": "Built by hand from the documented channel resource (developers.google.com/youtube/v3/docs/channels). Synthetic.",
+  "kind": "youtube#channelListResponse",
+  "etag": "etag-ch",
+  "pageInfo": {"totalResults": 2, "resultsPerPage": 2},
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "etag-c1",
+      "id": "UCchannelOne0000000000",
+      "snippet": {
+        "title": "Channel One",
+        "description": "News and explainers",
+        "customUrl": "@channelone",
+        "publishedAt": "2026-10-20T12:00:00Z",
+        "thumbnails": {"default": {"url": "https://yt3.ggpht.com/c1-default.jpg", "width": 88, "height": 88},
+                       "high": {"url": "https://yt3.ggpht.com/c1-high.jpg", "width": 800, "height": 800}}
+      },
+      "statistics": {"viewCount": "100000", "subscriberCount": "2000", "hiddenSubscriberCount": false, "videoCount": "12"}
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "etag-c2",
+      "id": "UCchannelTwo0000000000",
+      "snippet": {
+        "title": "Channel Two",
+        "description": "",
+        "customUrl": "@channeltwo",
+        "publishedAt": "2015-03-01T00:00:00.000Z",
+        "thumbnails": {"default": {"url": "https://yt3.ggpht.com/c2-default.jpg", "width": 88, "height": 88}}
+      },
+      "statistics": {"viewCount": "500", "subscriberCount": "10", "hiddenSubscriberCount": false, "videoCount": "3"}
+    }
+  ]
+}

@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "CL1",
+    "text": "Bank of America, JP Morgan Chase and Wells Fargo experienced service outages or disruptions for customers.",
+    "narrative_id": "N5",
+    "related_post_ids": [
+      "x:2121388441955082657",
+      "youtube:in1NTrDXAEk",
+      "x:2122477382082736171",
+      "x:2122478983950569595",
+      "youtube:comment:Ugysi8frxJJ5ggUpKi14AaABAg",
+      "youtube:comment:UgwhKxRHuORTPwY6DGF4AaABAg",
+      "youtube:comment:Ugy61o1UGndMc4GSnpp4AaABAg",
+      "linkedin:7528408217966780416",
+      "linkedin:7528446215839993859",
+      "x:2122827129490461051",
+      "x:2122829226147778879",
+      "x:2122830573567963543",
+      "x:2122830991865589764",
+      "x:2122840818411069469",
+      "linkedin:7528808206735888385",
+      "x:2123162950861279422",
+      "x:2123165668279521426",
+      "youtube:OCZwlJ7K9N0",
+      "x:2123189326318371180",
+      "youtube:-6aZpiF9sJM",
+      "youtube:wSbjbvmBC2k",
+      "youtube:rcY50aHP_Q0",
+      "telegram:qnewsofficialtv:162747",
+      "telegram:whistleblowerdocs:1220",
+      "telegram:rogers_info_selection:50476",
+      "telegram:wahrheit_wird_kommen:92638",
+      "telegram:cw8_ats:88686",
+      "telegram:projektcamelot:47844",
+      "telegram:awakeningproject:56480",
+      "telegram:tomdelonq17:10329",
+      "telegram:sprachnachrichten:12625",
+      "telegram:cqlqgne:270597",
+      "telegram:terraherz:42531",
+      "telegram:bigbug_news:452701",
+      "telegram:klardenken21:57043",
+      "telegram:indieneuewelt:43247",
+      "telegram:ninfea_weltfrieden:27987",
+      "telegram:med_beds:10722",
+      "telegram:keine_maske:42909",
+      "telegram:formen_und_gestalten:9445"
+    ],
+    "stances": {
+      "assert": 22,
+      "report": 14,
+      "question": 4,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "x:2121388441955082657",
+        "youtube:in1NTrDXAEk",
+        "x:2122478983950569595",
+        "youtube:comment:Ugysi8frxJJ5ggUpKi14AaABAg",
+        "youtube:comment:UgwhKxRHuORTPwY6DGF4AaABAg",
+        "x:2122830991865589764",
+        "x:2123165668279521426",
+        "x:2123189326318371180",
+        "youtube:-6aZpiF9sJM",
+        "youtube:rcY50aHP_Q0",
+        "telegram:qnewsofficialtv:162747",
+        "telegram:whistleblowerdocs:1220",
+        "telegram:sprachnachrichten:12625",
+        "telegram:cqlqgne:270597",
+        "telegram:terraherz:42531",
+        "telegram:bigbug_news:452701",
+        "telegram:klardenken21:57043",
+        "telegram:indieneuewelt:43247",
+        "telegram:ninfea_weltfrieden:27987",
+        "telegram:med_beds:10722",
+        "telegram:keine_maske:42909",
+        "telegram:formen_und_gestalten:9445"
+      ],
+      "report": [
+        "x:2122477382082736171",
+        "linkedin:7528408217966780416",
+        "x:2122827129490461051",
+        "x:2122829226147778879",
+        "x:2122830573567963543",
+        "x:2123162950861279422",
+        "youtube:OCZwlJ7K9N0",
+        "youtube:wSbjbvmBC2k",
+        "telegram:rogers_info_selection:50476",
+        "telegram:wahrheit_wird_kommen:92638",
+        "telegram:cw8_ats:88686",
+        "telegram:projektcamelot:47844",
+        "telegram:awakeningproject:56480",
+        "telegram:tomdelonq17:10329"
+      ],
+      "question": [
+        "youtube:comment:Ugy61o1UGndMc4GSnpp4AaABAg",
+        "linkedin:7528446215839993859",
+        "x:2122840818411069469",
+        "linkedin:7528808206735888385"
+      ],
+      "debunk": []
+    },
+    "evidence": [
+      {
+        "url": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago; snippet: Customers at JPMorgan Chase, Bank of America and other major financial institutions reported difficulty accessing their accounts.",
+        "title": "Widespread service outages at major U.S. banks appear to be over",
+        "publisher": "CBS News",
+        "retrieved_at": "2026-11-20T09:18:47Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago; snippet: Thousands of customers are reporting difficulty accessing online accounts at several major U.S. banks after a technical issue at JPMorgan...",
+        "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks",
+        "publisher": "AP News",
+        "retrieved_at": "2026-11-20T09:18:47Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.reuters.com/legal/transactional/downdetector-reports-outages-major-us-banks-2026-11-16/",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago; snippet: The largest US lender added that the issue may have affected other banks receiving its slowed transactions.",
+        "title": "JPMorgan says software bug slows its transactions",
+        "publisher": "Reuters",
+        "retrieved_at": "2026-11-20T09:18:47Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.google.com/url?opi=89978449&q=CAESxQEBxCJF12Ksl00a-4GgW_2QG1s0RmLSZJs_lqR-pnXjUJyWWmWqDc8ZIN5gPtH27RvEMSRsilk50l4JMNKCcvJUT1Y4lAPPfNUif2kKikDu9snhOqa83FG3dq-S-XhjHFD2AoEZ2RggR-M3nBrXDXvq5EVNrEXx0O6vuKZlA47fRUoaXkNat6BGUOx2TdD7YOORieAx8Nt3tTyHJFshJ1YrwVXKaaEN6mNxYormRh0ihsUwjQ8mWGLPfaKWFYUKl_ZbSVc_3Q&sa=U&uoh=3&ved=2ahUKEwiP-cfZm5aYAxXQTTABHYtkAw0QxfQBegQICRAC&usg=AOvVaw2nP1jIZBE1O7WbS7jrPIt1",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago; snippet: Chase Bank said Monday it is working to fix a “software bug” in its hardware systems after thousands of users reported service outages.",
+        "title": "Chase Bank Blames Outages On ‘Software Bug’",
+        "publisher": "Forbes",
+        "retrieved_at": "2026-11-20T09:18:47Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.google.com/url?opi=89978449&q=CAESjgEBxCJF1xKhw2jAuDXmJJDTMM9nApXdrf7NRkB10bhJt_A8sthn6brJaR3ZM6Dg82mm-zzZdKMfz6tEzjFAv6fYmaE4z0JWXRzncYezxF2gJgvOOvU5QtNMjuQ3uGEPrHdCWEtidcrbzchyv7AqQCfgDRv7kXtilLBC5CuwUN1XKW6MG3gHhtSlmzvPLIZo&sa=U&uoh=3&ved=2ahUKEwiP-cfZm5aYAxXQTTABHYtkAw0QxfQBegQIAxAC&usg=AOvVaw1vzoNUC2xFuoPNg-91o6jJ",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago; snippet: Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues.",
+        "title": "Customers report difficulty accessing online services at major US banks",
+        "publisher": "The Guardian",
+        "retrieved_at": "2026-11-20T09:18:47Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      }
+    ],
+    "verdict": "supported",
+    "confidence": 0.85,
+    "rationale": "Several outlets published 2026-11-17, within the 2026-10-14 to 2026-11-27 window, reporting outages or disruptions for customers at major banks. CBS News [1] reports difficulty accessing accounts at JPMorgan Chase, Bank of America and others. AP [2] reports thousands of customers unable to access online accounts at several major banks after a JPMorgan technical issue. Reuters [3] reports Downdetector outage reports and a JPMorgan software bug that may have affected other banks. Forbes [4] reports Chase's 'software bug' and thousands of outage reports. The Guardian [5] lists Bank of America, Chase and Wells Fargo among banks whose users reported issues. Together these confirm the specific banks and the date. Confidence is slightly reduced because the snippets are brief and the Wells Fargo mention comes only from the Guardian listing. Collected social posts are context only.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "5 sources (CBS News, AP News and others) support it, but not confirmed for JP Morgan Chase.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 40 post(s) classified. Specifics check: the supporting items name the other actors the claim lists but not JP Morgan Chase; that part is unconfirmed."
+  },
+  {
+    "id": "CL2",
+    "text": "A cyberattack affected 178 organizations, including Zoom, CNN, BBC, Fox News, HSBC, Salesforce, Equifax and IKEA.",
+    "narrative_id": "N5",
+    "related_post_ids": [
+      "x:2121388441955082657",
+      "youtube:in1NTrDXAEk",
+      "x:2122477382082736171",
+      "x:2122478983950569595",
+      "youtube:comment:Ugysi8frxJJ5ggUpKi14AaABAg",
+      "youtube:comment:UgwhKxRHuORTPwY6DGF4AaABAg",
+      "youtube:comment:Ugy61o1UGndMc4GSnpp4AaABAg",
+      "linkedin:7528408217966780416",
+      "linkedin:7528446215839993859",
+      "x:2122827129490461051",
+      "x:2122829226147778879",
+      "x:2122830573567963543",
+      "x:2122830991865589764",
+      "x:2122840818411069469",
+      "linkedin:7528808206735888385",
+      "x:2123162950861279422",
+      "x:2123165668279521426",
+      "youtube:OCZwlJ7K9N0",
+      "x:2123189326318371180",
+      "youtube:-6aZpiF9sJM",
+      "youtube:wSbjbvmBC2k",
+      "youtube:rcY50aHP_Q0",
+      "telegram:qnewsofficialtv:162747",
+      "telegram:whistleblowerdocs:1220",
+      "telegram:rogers_info_selection:50476",
+      "telegram:wahrheit_wird_kommen:92638",
+      "telegram:cw8_ats:88686",
+      "telegram:projektcamelot:47844",
+      "telegram:awakeningproject:56480",
+      "telegram:tomdelonq17:10329",
+      "telegram:sprachnachrichten:12625",
+      "telegram:cqlqgne:270597",
+      "telegram:terraherz:42531",
+      "telegram:bigbug_news:452701",
+      "telegram:klardenken21:57043",
+      "telegram:indieneuewelt:43247",
+      "telegram:ninfea_weltfrieden:27987",
+      "telegram:med_beds:10722",
+      "telegram:keine_maske:42909",
+      "telegram:formen_und_gestalten:9445"
+    ],
+    "stances": {
+      "assert": 22,
+      "report": 3,
+      "question": 11,
+      "debunk": 4
+    },
+    "stance_post_ids": {
+      "assert": [
+        "youtube:comment:UgwhKxRHuORTPwY6DGF4AaABAg",
+        "linkedin:7528408217966780416",
+        "x:2122830573567963543",
+        "x:2122830991865589764",
+        "linkedin:7528808206735888385",
+        "youtube:wSbjbvmBC2k",
+        "telegram:rogers_info_selection:50476",
+        "telegram:wahrheit_wird_kommen:92638",
+        "telegram:cw8_ats:88686",
+        "telegram:projektcamelot:47844",
+        "telegram:awakeningproject:56480",
+        "telegram:tomdelonq17:10329",
+        "telegram:sprachnachrichten:12625",
+        "telegram:cqlqgne:270597",
+        "telegram:terraherz:42531",
+        "telegram:bigbug_news:452701",
+        "telegram:klardenken21:57043",
+        "telegram:indieneuewelt:43247",
+        "telegram:ninfea_weltfrieden:27987",
+        "telegram:med_beds:10722",
+        "telegram:keine_maske:42909",
+        "telegram:formen_und_gestalten:9445"
+      ],
+      "report": [
+        "x:2122827129490461051",
+        "x:2123162950861279422",
+        "x:2123165668279521426"
+      ],
+      "question": [
+        "x:2121388441955082657",
+        "youtube:in1NTrDXAEk",
+        "x:2122477382082736171",
+        "x:2122478983950569595",
+        "youtube:comment:Ugysi8frxJJ5ggUpKi14AaABAg",
+        "youtube:comment:Ugy61o1UGndMc4GSnpp4AaABAg",
+        "linkedin:7528446215839993859",
+        "x:2122840818411069469",
+        "youtube:OCZwlJ7K9N0",
+        "telegram:qnewsofficialtv:162747",
+        "telegram:whistleblowerdocs:1220"
+      ],
+      "debunk": [
+        "x:2122829226147778879",
+        "x:2123189326318371180",
+        "youtube:-6aZpiF9sJM",
+        "youtube:rcY50aHP_Q0"
+      ]
+    },
+    "evidence": [
+      {
+        "url": "https://www.newsweek.com/cyber-attack-websites-affected-12725863",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 2 days ago",
+        "title": "Cyber Attack Hits 178 Major Websites: Full List of Organizations",
+        "publisher": "Newsweek",
+        "retrieved_at": "2026-11-20T09:18:49Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.hstoday.us/subject-matter-areas/cybersecurity/cyberattack-hits-178-major-websites-including-cnn-and-zoom-in-bid-to-steal-crypto-infect-iphones/",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 1 day ago",
+        "title": "Cyberattack Hits 178 Major Websites Including CNN and Zoom in Bid to Steal Crypto, Infect iPhones",
+        "publisher": "Homeland Security Today",
+        "retrieved_at": "2026-11-20T09:18:49Z",
+        "published_at": "2026-11-19",
+        "published_raw": "1 day ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.syracuse.com/us-news/2026/11/cyberattack-on-178-organizations-take-these-5-steps-to-protect-your-credit-card-info.html",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 1 day ago",
+        "title": "Cyberattack on 178 organizations: Take these 5 steps to protect your credit card info",
+        "publisher": "Syracuse.com",
+        "retrieved_at": "2026-11-20T09:18:49Z",
+        "published_at": "2026-11-19",
+        "published_raw": "1 day ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.nbcchicago.com/consumer/malware-attack-hits-178-popular-websites-how-to-know-if-you-were-exposed/4018557/",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 1 day ago",
+        "title": "Malware attack hits 178 popular websites: How to know if you were exposed",
+        "publisher": "NBC 5 Chicago",
+        "retrieved_at": "2026-11-20T09:18:49Z",
+        "published_at": "2026-11-19",
+        "published_raw": "1 day ago",
+        "flag": null
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/crypto/articles/cyberattack-targets-payment-major-websites-170040737.html",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 day ago",
+        "title": "Cyberattack Targets Payment Info on Major Websites — What It Could Mean for Your Money",
+        "publisher": "Yahoo Finance",
+        "retrieved_at": "2026-11-20T09:18:49Z",
+        "published_at": "2026-11-19",
+        "published_raw": "1 day ago",
+        "flag": null
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.3,
+    "rationale": "Lowered to unverified: no supporting item names BBC, Fox News, HSBC, Salesforce, Equifax or IKEA. Four outlets published within the 2026-10-14 to 2026-11-27 window describe the same event: Newsweek (2026-11-18) titled it a cyber attack hitting 178 major websites with a full list of organizations, Homeland Security Today (2026-11-19) cites 178 websites including CNN and Zoom, Syracuse.com (2026-11-19) reports a cyberattack on 178 organizations, and NBC 5 Chicago (2026-11-19) reports a malware attack on 178 popular websites. Yahoo Finance (2026-11-19) covers payment-info targeting on major websites. The retrieved snippets do not show the full list, so BBC, Fox News, HSBC, Salesforce, Equifax and IKEA are not individually confirmed in the visible text, which limits confidence. No item contradicts the claim.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "4 sources (Newsweek, Homeland Security Today and others) report related events, but none names BBC, Fox News, HSBC, Salesforce, Equifax or IKEA, so the claim is unverified.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 40 post(s) classified. Specifics check: no supporting item names BBC, Fox News, HSBC, Salesforce, Equifax or IKEA, so the verdict 'supported' is set to unverified (related coverage is not confirmation of the claim's specific actor or figure)."
+  },
+  {
+    "id": "CL3",
+    "text": "Microsoft, the FAA and the NSA experienced outages or technical disruptions in the same period as the bank outages.",
+    "narrative_id": "N5",
+    "related_post_ids": [
+      "x:2121388441955082657",
+      "youtube:in1NTrDXAEk",
+      "x:2122477382082736171",
+      "x:2122478983950569595",
+      "youtube:comment:Ugysi8frxJJ5ggUpKi14AaABAg",
+      "youtube:comment:UgwhKxRHuORTPwY6DGF4AaABAg",
+      "youtube:comment:Ugy61o1UGndMc4GSnpp4AaABAg",
+      "linkedin:7528408217966780416",
+      "linkedin:7528446215839993859",
+      "x:2122827129490461051",
+      "x:2122829226147778879",
+      "x:2122830573567963543",
+      "x:2122830991865589764",
+      "x:2122840818411069469",
+      "linkedin:7528808206735888385",
+      "x:2123162950861279422",
+      "x:2123165668279521426",
+      "youtube:OCZwlJ7K9N0",
+      "x:2123189326318371180",
+      "youtube:-6aZpiF9sJM",
+      "youtube:wSbjbvmBC2k",
+      "youtube:rcY50aHP_Q0",
+      "telegram:qnewsofficialtv:162747",
+      "telegram:whistleblowerdocs:1220",
+      "telegram:rogers_info_selection:50476",
+      "telegram:wahrheit_wird_kommen:92638",
+      "telegram:cw8_ats:88686",
+      "telegram:projektcamelot:47844",
+      "telegram:awakeningproject:56480",
+      "telegram:tomdelonq17:10329",
+      "telegram:sprachnachrichten:12625",
+      "telegram:cqlqgne:270597",
+      "telegram:terraherz:42531",
+      "telegram:bigbug_news:452701",
+      "telegram:klardenken21:57043",
+      "telegram:indieneuewelt:43247",
+      "telegram:ninfea_weltfrieden:27987",
+      "telegram:med_beds:10722",
+      "telegram:keine_maske:42909",
+      "telegram:formen_und_gestalten:9445"
+    ],
+    "stances": {
+      "assert": 19,
+      "report": 13,
+      "question": 7,
+      "debunk": 1
+    },
+    "stance_post_ids": {
+      "assert": [
+        "x:2121388441955082657",
+        "youtube:comment:Ugysi8frxJJ5ggUpKi14AaABAg",
+        "youtube:comment:UgwhKxRHuORTPwY6DGF4AaABAg",
+        "x:2122830991865589764",
+        "x:2123165668279521426",
+        "x:2123189326318371180",
+        "youtube:rcY50aHP_Q0",
+        "telegram:qnewsofficialtv:162747",
+        "telegram:whistleblowerdocs:1220",
+        "telegram:sprachnachrichten:12625",
+        "telegram:cqlqgne:270597",
+        "telegram:terraherz:42531",
+        "telegram:bigbug_news:452701",
+        "telegram:klardenken21:57043",
+        "telegram:indieneuewelt:43247",
+        "telegram:ninfea_weltfrieden:27987",
+        "telegram:med_beds:10722",
+        "telegram:keine_maske:42909",
+        "telegram:formen_und_gestalten:9445"
+      ],
+      "report": [
+        "linkedin:7528408217966780416",
+        "x:2122827129490461051",
+        "x:2122829226147778879",
+        "x:2122830573567963543",
+        "x:2123162950861279422",
+        "youtube:OCZwlJ7K9N0",
+        "youtube:wSbjbvmBC2k",
+        "telegram:rogers_info_selection:50476",
+        "telegram:wahrheit_wird_kommen:92638",
+        "telegram:cw8_ats:88686",
+        "telegram:projektcamelot:47844",
+        "telegram:awakeningproject:56480",
+        "telegram:tomdelonq17:10329"
+      ],
+      "question": [
+        "youtube:in1NTrDXAEk",
+        "x:2122477382082736171",
+        "x:2122478983950569595",
+        "youtube:comment:Ugy61o1UGndMc4GSnpp4AaABAg",
+        "linkedin:7528446215839993859",
+        "x:2122840818411069469",
+        "linkedin:7528808206735888385"
+      ],
+      "debunk": [
+        "youtube:-6aZpiF9sJM"
+      ]
+    },
+    "evidence": [
+      {
+        "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 2 days ago; snippet: Over four days, outages disrupted Microsoft services, the FAA, JPMorgan Chase transactions and Apple. Security researchers say AI is...",
+        "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+        "publisher": "CNBC",
+        "retrieved_at": "2026-11-20T09:18:51Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.politico.com/news/2026/11/17/tech-outages-2026-nsa-faa-apple-what-we-know-01170887",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 2 days ago; snippet: First, Outlook users couldn't access their inboxes. A day later, the Federal Aviation Administration was forced to halt departures...",
+        "title": "6 major outages in 6 days: From Outlook to the NSA, what we know so far",
+        "publisher": "Politico",
+        "retrieved_at": "2026-11-20T09:18:51Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.washingtonpost.com/ripple/2026/11/19/us-tech-outage-wave-explained/",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 hours ago; snippet: A wave of tech outages in the U.S. federal government and private sector over the past week have made a lot of people understandably nervous...",
+        "title": "The U.S. tech outage wave, explained",
+        "publisher": "The Washington Post",
+        "retrieved_at": "2026-11-20T09:18:51Z",
+        "published_at": "2026-11-20T06:18:51Z",
+        "published_raw": "3 hours ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.google.com/url?opi=89978449&q=CAESuQEBxCJF1wo1dU_yiL_Vllspi4Sr9MFTui7Fa4BQpVMJTb-dL8SPs2HA9_sVkYytdDMgmlIN0GC8xGTtULxp4D3rOp_35QcnY-sASq89_Sb6AvrIsfsDZhouRi9iQKGirMQO7nVXHsxy2oYDW7YPRgkRzKGAXZ7J_3Qikk-bgSm4MasXOhMtu7Vb0E5a-yhg6T4Hm7BameWvx1ZzBLbD76Udk8Nh3uZkuRAXCjPxZ5laQydu788avSN0Kw&sa=U&uoh=3&ved=2ahUKEwiEx8vbm5aYAxWnkmoFHbf3MBUQxfQBegQICRAC&usg=AOvVaw2hscR3n44SR5ahs5EKl4rM",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 2 days ago; snippet: A week of outages hit Microsoft, the FAA and airlines, and a cyberattack hit a website tool used by major companies. KPRC 2's ENOUGH team...",
+        "title": "Recent tech outages: Are Microsoft, FAA, Chase and United disruptions connected?",
+        "publisher": "Click2Houston",
+        "retrieved_at": "2026-11-20T09:18:51Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.google.com/url?opi=89978449&q=CAESzAEBxCJF18fSOuPpNzziK_AIWYnfzdFzjI6RYQGFHBETHiUjcO-srNhvLxNBzvLGSeDrfBQresC1Gaa44A87hJTA4eEnTF94yUFpfT2BPVulWh_Ia7PrWv5Vahetmb-4w8tc5ijhChP2CsHCcoxeYT34cStDUZcTENHZ8j-StJbWFO2mjO36OUBHkVUOx8y2qIr_wtdWux6uMULxKU1rA4VPu4m52MXwr1TqhfyqpO8z2PKC8DVaODkTcpUkdThJ550ePrXtBjOptoj7Nag&sa=U&uoh=3&ved=2ahUKEwiEx8vbm5aYAxWnkmoFHbf3MBUQxfQBegQIBBAC&usg=AOvVaw1j70sbp3s4TEcb1oe8x2SY",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 2 days ago; snippet: A new era of disruptive cyber outages is making the nonstop data breaches of just a few years ago seem quaint.",
+        "title": "Cyberattacks and outages: Here are all of the major national disruptions in November",
+        "publisher": "Yahoo Finance",
+        "retrieved_at": "2026-11-20T09:18:51Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      }
+    ],
+    "verdict": "supported",
+    "confidence": 0.8,
+    "rationale": "Several retrieved outlets published 2026-11-18 (CNBC [1], Politico [2], Click2Houston [4], Yahoo Finance [5]) report that Microsoft services, the FAA, and the NSA suffered outages in the same week, with CNBC [1] and Politico [2] describing JPMorgan/bank transaction disruptions alongside them. The Washington Post [3], published 2026-11-20, describes the same wave of federal and private-sector tech outages. All items fall within the 2026-10-14 to 2026-11-27 window. Confirmation of the exact bank-outage link is partial, so confidence is moderate rather than high.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "Multiple outlets dated 2026-11-18 report Microsoft, FAA and NSA outages in the same week as JPMorgan/bank disruptions, though sources differ on whether the events are connected.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 40 post(s) classified."
+  },
+  {
+    "id": "CL4",
+    "text": "Bank of America is offering multiple remote full-time or contract technology positions in the USA for candidates with 0–5 years of experience.",
+    "narrative_id": "N7",
+    "related_post_ids": [
+      "linkedin:7527028956626161664",
+      "linkedin:7527029207735107584",
+      "linkedin:7527064226281021440",
+      "linkedin:7527744234687225856",
+      "linkedin:7527988676832686081",
+      "linkedin:7528190907070939136",
+      "linkedin:7528465109858451458",
+      "linkedin:7528529903617646592",
+      "linkedin:7528741853832134656",
+      "linkedin:7528829920505008128",
+      "linkedin:7528882919193522176",
+      "linkedin:7529181426156679168",
+      "linkedin:7529184672673853440",
+      "linkedin:7529191281005338624",
+      "linkedin:7529199103939928065",
+      "linkedin:7529230903869456384",
+      "telegram:jobhunt_ukaspirely:12857",
+      "linkedin:7529306531197083648",
+      "linkedin:7529325745597308929",
+      "linkedin:7529347430526439424",
+      "linkedin:7529358947082940416",
+      "linkedin:7529370002584625152",
+      "linkedin:7529374035076558848",
+      "linkedin:7529423574403641344",
+      "telegram:coursejoiner:44613",
+      "linkedin:7529435660563320832",
+      "linkedin:7529451224912498688",
+      "linkedin:7529453347557277696",
+      "linkedin:7529466449652957187",
+      "linkedin:7529467328036585472",
+      "linkedin:7529471553495781376"
+    ],
+    "stances": {
+      "assert": 15,
+      "report": 16,
+      "question": 0,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "linkedin:7527028956626161664",
+        "linkedin:7527029207735107584",
+        "linkedin:7527064226281021440",
+        "linkedin:7527744234687225856",
+        "linkedin:7527988676832686081",
+        "linkedin:7528465109858451458",
+        "linkedin:7528529903617646592",
+        "linkedin:7528741853832134656",
+        "linkedin:7528829920505008128",
+        "linkedin:7528882919193522176",
+        "linkedin:7529181426156679168",
+        "linkedin:7529184672673853440",
+        "linkedin:7529191281005338624",
+        "linkedin:7529199103939928065",
+        "linkedin:7529230903869456384"
+      ],
+      "report": [
+        "linkedin:7528190907070939136",
+        "telegram:jobhunt_ukaspirely:12857",
+        "linkedin:7529306531197083648",
+        "linkedin:7529325745597308929",
+        "linkedin:7529347430526439424",
+        "linkedin:7529358947082940416",
+        "linkedin:7529370002584625152",
+        "linkedin:7529374035076558848",
+        "linkedin:7529423574403641344",
+        "telegram:coursejoiner:44613",
+        "linkedin:7529435660563320832",
+        "linkedin:7529451224912498688",
+        "linkedin:7529453347557277696",
+        "linkedin:7529466449652957187",
+        "linkedin:7529467328036585472",
+        "linkedin:7529471553495781376"
+      ],
+      "question": [],
+      "debunk": []
+    },
+    "evidence": [
+      {
+        "url": "https://www.thepennyhoarder.com/make-money/career/work-from-home-companies/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 month ago; snippet: Find legit work-from-home jobs: common roles and pay, vetted companies that hire remotely, where to find listings and how to spot scams.",
+        "title": "Legit Work-From-Home Jobs: 38 Companies That Hire Remotely in 2026",
+        "publisher": "The Penny Hoarder",
+        "retrieved_at": "2026-11-20T09:18:54Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.moneytalksnews.com/slideshows/26-work-from-home-jobs-that-can-pay-100000-or-more/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 4 months ago; snippet: Editor's Note: This story originally appeared on FlexJobs.com. Many professionals, especially those with sought-after credentials and...",
+        "title": "30 High-Paying Remote Jobs With $100,000 (or Higher) Salaries",
+        "publisher": "Money Talks News",
+        "retrieved_at": "2026-11-20T09:18:54Z",
+        "published_at": "2026-07-23",
+        "published_raw": "4 months ago",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://www.aarp.org/work/job-search/in-demand-jobs-2026/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 10 months ago; snippet: Seasonal opportunities are expected to spike with the World Cup and a milestone July 4th ahead, with many roles offering part-time and...",
+        "title": "20 Jobs That Will Be in Demand in 2026 and Beyond",
+        "publisher": "AARP",
+        "retrieved_at": "2026-11-20T09:18:54Z",
+        "published_at": "2026-01-24",
+        "published_raw": "10 months ago",
+        "flag": "old_event"
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "None of the three retrieved items addresses Bank of America or its job postings. The Penny Hoarder list [1] (published 2026-10-21) covers legit work-from-home employers generally, and Money Talks News [2] (2026-07-23) and AARP [3] (2026-01-24) cover high-paying remote roles and in-demand jobs. None names Bank of America, confirms current openings, or addresses the 0–5 years experience level, and none falls in the 2026-10-14 to 2026-11-27 window with a Bank of America link. The collected posts (assert=15, report=16) are context only. The evidence is indirect, so the claim cannot be confirmed or contradicted from these sources.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "No retrieved source mentions Bank of America job openings; the general remote-job articles found do not confirm or refute the claim.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 31 post(s) classified."
+  },
+  {
+    "id": "CL5",
+    "text": "Bank of America is hiring for a Team Leader full-time role in Gurugram, Haryana, India.",
+    "narrative_id": "N7",
+    "related_post_ids": [
+      "linkedin:7527028956626161664",
+      "linkedin:7527029207735107584",
+      "linkedin:7527064226281021440",
+      "linkedin:7527744234687225856",
+      "linkedin:7527988676832686081",
+      "linkedin:7528190907070939136",
+      "linkedin:7528465109858451458",
+      "linkedin:7528529903617646592",
+      "linkedin:7528741853832134656",
+      "linkedin:7528829920505008128",
+      "linkedin:7528882919193522176",
+      "linkedin:7529181426156679168",
+      "linkedin:7529184672673853440",
+      "linkedin:7529191281005338624",
+      "linkedin:7529199103939928065",
+      "linkedin:7529230903869456384",
+      "telegram:jobhunt_ukaspirely:12857",
+      "linkedin:7529306531197083648",
+      "linkedin:7529325745597308929",
+      "linkedin:7529347430526439424",
+      "linkedin:7529358947082940416",
+      "linkedin:7529370002584625152",
+      "linkedin:7529374035076558848",
+      "linkedin:7529423574403641344",
+      "telegram:coursejoiner:44613",
+      "linkedin:7529435660563320832",
+      "linkedin:7529451224912498688",
+      "linkedin:7529453347557277696",
+      "linkedin:7529466449652957187",
+      "linkedin:7529467328036585472",
+      "linkedin:7529471553495781376"
+    ],
+    "stances": {
+      "assert": 25,
+      "report": 6,
+      "question": 0,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "linkedin:7527028956626161664",
+        "linkedin:7527029207735107584",
+        "linkedin:7527064226281021440",
+        "linkedin:7527744234687225856",
+        "linkedin:7527988676832686081",
+        "linkedin:7528190907070939136",
+        "linkedin:7528465109858451458",
+        "linkedin:7528529903617646592",
+        "linkedin:7528741853832134656",
+        "linkedin:7528829920505008128",
+        "linkedin:7528882919193522176",
+        "linkedin:7529181426156679168",
+        "linkedin:7529184672673853440",
+        "linkedin:7529191281005338624",
+        "linkedin:7529199103939928065",
+        "linkedin:7529306531197083648",
+        "linkedin:7529325745597308929",
+        "linkedin:7529347430526439424",
+        "linkedin:7529358947082940416",
+        "linkedin:7529370002584625152",
+        "linkedin:7529374035076558848",
+        "linkedin:7529423574403641344",
+        "linkedin:7529451224912498688",
+        "linkedin:7529467328036585472",
+        "linkedin:7529471553495781376"
+      ],
+      "report": [
+        "linkedin:7529230903869456384",
+        "telegram:jobhunt_ukaspirely:12857",
+        "telegram:coursejoiner:44613",
+        "linkedin:7529435660563320832",
+        "linkedin:7529453347557277696",
+        "linkedin:7529466449652957187"
+      ],
+      "question": [],
+      "debunk": []
+    },
+    "evidence": [
+      {
+        "url": "https://hrtoday.in/sumeet-kumar-mishra-elevated-to-avp-talent-acquisition-at-natwest-group/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 month ago",
+        "title": "Sumeet Kumar Mishra Elevated to AVP – Talent Acquisition at NatWest Group",
+        "publisher": "https://hrtoday.in/",
+        "retrieved_at": "2026-11-20T09:18:57Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": "unrelated"
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "The only retrieved item is [1] (hrtoday.in, published 2026-10-21 per the '1 month ago' note), a news result about a NatWest Group promotion to AVP Talent Acquisition. It shares no key term with the claim about a Bank of America Team Leader role in Gurugram and does not address it. The collected posts (25 assert, 6 report) are context only and cannot count as evidence. Nothing retrieved confirms or contradicts the hiring claim.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "No retrieved evidence addresses the Bank of America Gurugram Team Leader hiring claim; the one item found concerns NatWest Group and is likely a search miss.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 31 post(s) classified. Relevance check: 1 item(s) share no key term with the claim and were treated as unrelated (context only): https://hrtoday.in/."
+  },
+  {
+    "id": "CL6",
+    "text": "Bank of America India has job openings in Mumbai, Gurugram, Chennai, and Hyderabad for finance and banking professionals.",
+    "narrative_id": "N7",
+    "related_post_ids": [
+      "linkedin:7527028956626161664",
+      "linkedin:7527029207735107584",
+      "linkedin:7527064226281021440",
+      "linkedin:7527744234687225856",
+      "linkedin:7527988676832686081",
+      "linkedin:7528190907070939136",
+      "linkedin:7528465109858451458",
+      "linkedin:7528529903617646592",
+      "linkedin:7528741853832134656",
+      "linkedin:7528829920505008128",
+      "linkedin:7528882919193522176",
+      "linkedin:7529181426156679168",
+      "linkedin:7529184672673853440",
+      "linkedin:7529191281005338624",
+      "linkedin:7529199103939928065",
+      "linkedin:7529230903869456384",
+      "telegram:jobhunt_ukaspirely:12857",
+      "linkedin:7529306531197083648",
+      "linkedin:7529325745597308929",
+      "linkedin:7529347430526439424",
+      "linkedin:7529358947082940416",
+      "linkedin:7529370002584625152",
+      "linkedin:7529374035076558848",
+      "linkedin:7529423574403641344",
+      "telegram:coursejoiner:44613",
+      "linkedin:7529435660563320832",
+      "linkedin:7529451224912498688",
+      "linkedin:7529453347557277696",
+      "linkedin:7529466449652957187",
+      "linkedin:7529467328036585472",
+      "linkedin:7529471553495781376"
+    ],
+    "stances": {
+      "assert": 7,
+      "report": 13,
+      "question": 11,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "linkedin:7527064226281021440",
+        "linkedin:7527744234687225856",
+        "linkedin:7527988676832686081",
+        "linkedin:7528741853832134656",
+        "telegram:coursejoiner:44613",
+        "linkedin:7529435660563320832",
+        "linkedin:7529471553495781376"
+      ],
+      "report": [
+        "linkedin:7529230903869456384",
+        "telegram:jobhunt_ukaspirely:12857",
+        "linkedin:7529306531197083648",
+        "linkedin:7529325745597308929",
+        "linkedin:7529347430526439424",
+        "linkedin:7529358947082940416",
+        "linkedin:7529370002584625152",
+        "linkedin:7529374035076558848",
+        "linkedin:7529423574403641344",
+        "linkedin:7529451224912498688",
+        "linkedin:7529453347557277696",
+        "linkedin:7529466449652957187",
+        "linkedin:7529467328036585472"
+      ],
+      "question": [
+        "linkedin:7527028956626161664",
+        "linkedin:7527029207735107584",
+        "linkedin:7528190907070939136",
+        "linkedin:7528465109858451458",
+        "linkedin:7528529903617646592",
+        "linkedin:7528829920505008128",
+        "linkedin:7528882919193522176",
+        "linkedin:7529181426156679168",
+        "linkedin:7529184672673853440",
+        "linkedin:7529191281005338624",
+        "linkedin:7529199103939928065"
+      ],
+      "debunk": []
+    },
+    "evidence": [
+      {
+        "url": "https://builtin.com/articles/fintech-companies-in-india",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Mar 6, 2024",
+        "title": "29 Fintech Companies in India to Know",
+        "publisher": "Built In",
+        "retrieved_at": "2026-11-20T09:18:59Z",
+        "published_at": "2024-03-06",
+        "published_raw": "Mar 6, 2024",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://www.business-standard.com/companies/news/us-banking-giant-jp-morganchase-to-set-up-asia-s-largest-gcc-in-india-125121601102_1.html",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Dec 22, 2025",
+        "title": "American banking giant JP Morgan to set up Asia's largest GCC in India",
+        "publisher": "Business Standard",
+        "retrieved_at": "2026-11-20T09:18:59Z",
+        "published_at": "2025-12-22",
+        "published_raw": "Dec 22, 2025",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://www.jaroeducation.com/blog/investment-banker-salary",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: May 23, 2026",
+        "title": "Investment Banker Salary in India 2026: Freshers Guide",
+        "publisher": "Jaro Education",
+        "retrieved_at": "2026-11-20T09:18:59Z",
+        "published_at": "2026-05-23",
+        "published_raw": "May 23, 2026",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://timesofindia.indiatimes.com/business/india-business/gcc-hiring-outlook-40000-jobs-120-new-mid-sized-centres-by-2026-bengaluru-hyderabad-among-top-hubs/articleshow/122155395.cms",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Jun 30, 2025",
+        "title": "GCC hiring outlook: 40,000 jobs, 120 new mid-sized centres by 2026; Bengaluru, Hyderabad among top hubs",
+        "publisher": "The Times of India",
+        "retrieved_at": "2026-11-20T09:18:59Z",
+        "published_at": "2025-06-30",
+        "published_raw": "Jun 30, 2025",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://www.shiksha.com/online-courses/articles/highest-paying-jobs-in-india/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Jun 14, 2023",
+        "title": "Top 10 Highest Paying Jobs in India in 2025",
+        "publisher": "Shiksha.com",
+        "retrieved_at": "2026-11-20T09:18:59Z",
+        "published_at": "2023-06-14",
+        "published_raw": "Jun 14, 2023",
+        "flag": "old_event"
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "None of the five retrieved items addresses Bank of America India job openings in Mumbai, Gurugram, Chennai or Hyderabad. Item [1] (Built In, 2024-03-06) is a generic list of fintech companies in India and is outside the 2026-10-14 to 2026-11-27 window. Item [2] (Business Standard, 2025-12-22) covers JP Morgan's GCC expansion, not Bank of America, and is also outside the window. Item [3] (Jaro Education, 2026-05-23) is a salary guide for investment bankers and does not name Bank of America or specific openings. Item [4] (Times of India, 2025-06-30) discusses GCC hiring in general terms, with Hyderabad as a hub, but not Bank of America. Item [5] (Shiksha, 2023-06-14) lists high-paying jobs and is outside the window. No item confirms the specific employer, cities, or dates.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "The retrieved sources do not address Bank of America India hiring in Mumbai, Gurugram, Chennai or Hyderabad; the claim remains unconfirmed.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 31 post(s) classified."
+  },
+  {
+    "id": "CL7",
+    "text": "Bank of America held 13,260 shares of the Volatility Shares XRP ETF, worth about $106,600, as of September 30, 2026.",
+    "narrative_id": "N24",
+    "related_post_ids": [
+      "youtube:fcvJrysT3QQ",
+      "x:2122477854365782198",
+      "x:2122828012336947320",
+      "x:2122828209062617459",
+      "x:2122834327054786841",
+      "youtube:CswVYy03rvw",
+      "x:2123188950743372042",
+      "x:2123202841598726190",
+      "telegram:jeanjacquestv:473",
+      "telegram:thierrymeyssan:1262",
+      "telegram:blockchainworldcryptowatch:156073",
+      "x:2123534623460266453"
+    ],
+    "stances": {
+      "assert": 6,
+      "report": 6,
+      "question": 0,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "x:2122828012336947320",
+        "x:2122828209062617459",
+        "x:2122834327054786841",
+        "youtube:CswVYy03rvw",
+        "x:2123202841598726190",
+        "telegram:blockchainworldcryptowatch:156073"
+      ],
+      "report": [
+        "youtube:fcvJrysT3QQ",
+        "x:2122477854365782198",
+        "x:2123188950743372042",
+        "telegram:jeanjacquestv:473",
+        "telegram:thierrymeyssan:1262",
+        "x:2123534623460266453"
+      ],
+      "question": [],
+      "debunk": []
+    },
+    "evidence": [
+      {
+        "url": "https://www.tradingview.com/news/u_today:3c7a96020094b:0-xrp-out-at-royal-bank-of-canada-leveraged-fund-cut-to-zero/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 20 hours ago",
+        "title": "XRP Out at Royal Bank of Canada: Leveraged Fund Cut to Zero",
+        "publisher": "TradingView",
+        "retrieved_at": "2026-11-20T09:19:01Z",
+        "published_at": "2026-11-19T13:19:01Z",
+        "published_raw": "20 hours ago",
+        "flag": null
+      },
+      {
+        "url": "https://finance.biggo.com/news/28cacc95-5feb-4f58-82f3-1564a520911e",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 2 days ago",
+        "title": "Bank of America Discloses $106,600 XRP ETF Position as Goldman Sachs Lifts Stake to $144 Million",
+        "publisher": "BigGo Finance",
+        "retrieved_at": "2026-11-20T09:19:01Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.bitget.com/news/detail/12560606205207",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 day ago",
+        "title": "Goldman Sachs boosts XRP ETF holdings to $144 million in Q3, filings show",
+        "publisher": "Bitget",
+        "retrieved_at": "2026-11-20T09:19:01Z",
+        "published_at": "2026-11-19",
+        "published_raw": "1 day ago",
+        "flag": null
+      },
+      {
+        "url": "https://u.today/bank-of-america-joins-xrp-etf-holders-in-new-q3-sec-filing",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 2 days ago",
+        "title": "Bank of America Joins XRP ETF Holders in New Q3 SEC Filing",
+        "publisher": "U.Today",
+        "retrieved_at": "2026-11-20T09:19:01Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://crypto-economy.com/bank-of-america-discloses-new-xrp-etf-investment-in-q3-filing/",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 2 days ago",
+        "title": "Bank of America Discloses New XRP ETF Investment in Q3 Filing",
+        "publisher": "Crypto Economy",
+        "retrieved_at": "2026-11-20T09:19:01Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.3,
+    "rationale": "Three items published 2026-11-18 (BigGo Finance [2], U.Today [4], Crypto Economy [5]) report a Bank of America Q3 filing disclosing a roughly $106,600 XRP ETF position, which matches the claimed value and period. None of the snippets shows the 13,260-share count, so the specific figure is only partly confirmed. Goldman Sachs item [3] (2026-11-19) and RBC item [1] (2026-11-19) give context only. No retrieved source contradicts the claim.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "Several outlets dated 2026-11-18 report a Bank of America Q3 filing showing about $106,600 in an XRP ETF, but none shows the 13,260-share count, so the claim is only partly confirmed.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 12 post(s) classified."
+  },
+  {
+    "id": "CL8",
+    "text": "Goldman Sachs held $144 million in spot XRP exchange-traded funds at the end of the third quarter, up from $87 million in the second quarter.",
+    "narrative_id": "N24",
+    "related_post_ids": [
+      "youtube:fcvJrysT3QQ",
+      "x:2122477854365782198",
+      "x:2122828012336947320",
+      "x:2122828209062617459",
+      "x:2122834327054786841",
+      "youtube:CswVYy03rvw",
+      "x:2123188950743372042",
+      "x:2123202841598726190",
+      "telegram:jeanjacquestv:473",
+      "telegram:thierrymeyssan:1262",
+      "telegram:blockchainworldcryptowatch:156073",
+      "x:2123534623460266453"
+    ],
+    "stances": {
+      "assert": 2,
+      "report": 10,
+      "question": 0,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "x:2122828012336947320",
+        "youtube:CswVYy03rvw"
+      ],
+      "report": [
+        "youtube:fcvJrysT3QQ",
+        "x:2122477854365782198",
+        "x:2122828209062617459",
+        "x:2122834327054786841",
+        "x:2123188950743372042",
+        "x:2123202841598726190",
+        "telegram:jeanjacquestv:473",
+        "telegram:thierrymeyssan:1262",
+        "telegram:blockchainworldcryptowatch:156073",
+        "x:2123534623460266453"
+      ],
+      "question": [],
+      "debunk": []
+    },
+    "evidence": [
+      {
+        "url": "https://www.bitget.com/news/detail/12560606205207",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 1 day ago",
+        "title": "Goldman Sachs boosts XRP ETF holdings to $144 million in Q3, filings show",
+        "publisher": "Bitget",
+        "retrieved_at": "2026-11-20T09:19:03Z",
+        "published_at": "2026-11-19",
+        "published_raw": "1 day ago",
+        "flag": null
+      },
+      {
+        "url": "https://finance.biggo.com/news/28cacc95-5feb-4f58-82f3-1564a520911e",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 2 days ago",
+        "title": "Bank of America Discloses $106,600 XRP ETF Position as Goldman Sachs Lifts Stake to $144 Million",
+        "publisher": "BigGo Finance",
+        "retrieved_at": "2026-11-20T09:19:03Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.digitaltoday.co.kr/en/view/128507/royal-bank-of-canada-cuts-holdings-in-2x-leveraged-xrp-etf-to-zero",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 9 hours ago",
+        "title": "Royal Bank of Canada cuts holdings in 2x leveraged XRP ETF to zero",
+        "publisher": "디지털투데이",
+        "retrieved_at": "2026-11-20T09:19:03Z",
+        "published_at": "2026-11-20T00:19:03Z",
+        "published_raw": "9 hours ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.digitaltoday.co.kr/en/view/127173/bank-of-america-follows-goldman-sachs-in-expanding-xrp-etf-holdings",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 2 days ago",
+        "title": "Bank of America follows Goldman Sachs in expanding XRP ETF holdings",
+        "publisher": "디지털투데이",
+        "retrieved_at": "2026-11-20T09:19:03Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.tradingview.com/symbols/NYSE-GS/news/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Nov 12, 2021",
+        "title": "Goldman Sachs Group, Inc. (The) News — NYSE:GS",
+        "publisher": "TradingView",
+        "retrieved_at": "2026-11-20T09:19:03Z",
+        "published_at": "2021-11-12",
+        "published_raw": "Nov 12, 2021",
+        "flag": "old_event"
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.3,
+    "rationale": "Two items published within the window report Goldman Sachs holding about $144 million in spot XRP ETFs for Q3: Bitget (2026-11-19, [1]) and BigGo Finance (2026-11-18, [2]). Neither snippet shows the claimed $87 million second-quarter figure, so the comparison part of the claim is unconfirmed. Digital Today items on Royal Bank of Canada (2026-11-20, [3]) and Bank of America (2026-11-18, [4]) give context only. The TradingView page dated 2021-11-12 ([5]) is outside the window and is not relevant to this event.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "Two outlets report Goldman's Q3 XRP ETF holdings at $144 million, but no retrieved source confirms the $87 million prior-quarter figure.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 12 post(s) classified."
+  },
+  {
+    "id": "CL9",
+    "text": "Seven major banks together reported about $29.4 million in XRP-linked investment products in SEC filings as of September 30, 2026.",
+    "narrative_id": "N24",
+    "related_post_ids": [
+      "youtube:fcvJrysT3QQ",
+      "x:2122477854365782198",
+      "x:2122828012336947320",
+      "x:2122828209062617459",
+      "x:2122834327054786841",
+      "youtube:CswVYy03rvw",
+      "x:2123188950743372042",
+      "x:2123202841598726190",
+      "telegram:jeanjacquestv:473",
+      "telegram:thierrymeyssan:1262",
+      "telegram:blockchainworldcryptowatch:156073",
+      "x:2123534623460266453"
+    ],
+    "stances": {
+      "assert": 1,
+      "report": 11,
+      "question": 0,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "x:2122834327054786841"
+      ],
+      "report": [
+        "youtube:fcvJrysT3QQ",
+        "x:2122477854365782198",
+        "x:2122828012336947320",
+        "x:2122828209062617459",
+        "youtube:CswVYy03rvw",
+        "x:2123188950743372042",
+        "x:2123202841598726190",
+        "telegram:jeanjacquestv:473",
+        "telegram:thierrymeyssan:1262",
+        "telegram:blockchainworldcryptowatch:156073",
+        "x:2123534623460266453"
+      ],
+      "question": [],
+      "debunk": []
+    },
+    "evidence": [
+      {
+        "url": "https://finance.biggo.com/news/28cacc95-5feb-4f58-82f3-1564a520911e",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 2 days ago",
+        "title": "Bank of America Discloses $106,600 XRP ETF Position as Goldman Sachs Lifts Stake to $144 Million",
+        "publisher": "BigGo Finance",
+        "retrieved_at": "2026-11-20T09:19:05Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.tradingview.com/news/benzinga:cddcff61b094b:0-xrp-eyes-1-recovery-as-major-banks-disclose-etf-holdings/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 day ago",
+        "title": "XRP Eyes $1 Recovery as Major Banks Disclose ETF Holdings",
+        "publisher": "TradingView",
+        "retrieved_at": "2026-11-20T09:19:05Z",
+        "published_at": "2026-11-19",
+        "published_raw": "1 day ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.binance.com/en-NG/square/post/389067863576883",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago",
+        "title": "Seven Major Banks Disclose $29.4M in XRP ETF Holdings in SEC Filings",
+        "publisher": "Binance",
+        "retrieved_at": "2026-11-20T09:19:05Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.digitaltoday.co.kr/en/view/127173/bank-of-america-follows-goldman-sachs-in-expanding-xrp-etf-holdings",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 2 days ago",
+        "title": "Bank of America follows Goldman Sachs in expanding XRP ETF holdings",
+        "publisher": "디지털투데이",
+        "retrieved_at": "2026-11-20T09:19:05Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://crypto-economy.com/bank-of-america-discloses-new-xrp-etf-investment-in-q3-filing/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 2 days ago",
+        "title": "Bank of America Discloses New XRP ETF Investment in Q3 Filing",
+        "publisher": "Crypto Economy",
+        "retrieved_at": "2026-11-20T09:19:05Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.3,
+    "rationale": "Five items dated 2026-11-17 to 2026-11-19 fall inside the window and cover XRP ETF holdings disclosed by banks. Item [3] (Binance, 2026-11-17) has a headline matching the claim's seven banks and $29.4M, but only the headline was retrieved, so the figure is not confirmed in body text. Items [1], [2] and [4] (2026-11-18 to 2026-11-19) report Bank of America and Goldman Sachs positions with different figures and give context only. Item [5] (Crypto Economy, 2026-11-18) describes a Q3 filing and gives context on the reporting period, but does not show the seven-bank total or the September 30 date. No item contradicts the claim, so the claim is neither confirmed nor refuted on the retrieved evidence.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "Only one headline (Binance, Nov 17) matches the seven-bank $29.4M figure; other Nov 18-19 reports cover Bank of America and Goldman positions, so the total is not confirmed.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 12 post(s) classified."
+  },
+  {
+    "id": "CL10",
+    "text": "Bank of America has appeared on Ripple's institutional network listings, with a history dating back to 2016.",
+    "narrative_id": "N28",
+    "related_post_ids": [
+      "x:2121377562177986762",
+      "x:2122104003039576082",
+      "x:2122478772771258379",
+      "youtube:8iXI1B9oVwU",
+      "telegram:realcatherineaustinfitts11:853",
+      "telegram:jfk_pascal_najadi1:852",
+      "telegram:derekjohnson09:846",
+      "telegram:nesaragesaraupdates101:798"
+    ],
+    "stances": {
+      "assert": 5,
+      "report": 1,
+      "question": 2,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "x:2122104003039576082",
+        "telegram:realcatherineaustinfitts11:853",
+        "telegram:jfk_pascal_najadi1:852",
+        "telegram:derekjohnson09:846",
+        "telegram:nesaragesaraupdates101:798"
+      ],
+      "report": [
+        "x:2122478772771258379"
+      ],
+      "question": [
+        "x:2121377562177986762",
+        "youtube:8iXI1B9oVwU"
+      ],
+      "debunk": []
+    },
+    "evidence": [
+      {
+        "url": "https://www.investopedia.com/articles/investing/122315/worlds-top-10-banks-jpm-wfc.asp",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Mar 25, 2017",
+        "title": "10 Biggest Banks in the World",
+        "publisher": "Investopedia",
+        "retrieved_at": "2026-11-20T09:19:07Z",
+        "published_at": "2017-03-25",
+        "published_raw": "Mar 25, 2017",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://www.mexc.com/learn/article/what-banks-use-xrp-complete-list-of-financial-institutions-using-ripple/1",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 4 days ago",
+        "title": "What Banks Use XRP in 2026? Every Confirmed and Claimed Institution",
+        "publisher": "MEXC",
+        "retrieved_at": "2026-11-20T09:19:07Z",
+        "published_at": "2026-11-16",
+        "published_raw": "4 days ago",
+        "flag": null
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "Item [2] (MEXC, published 2026-11-16, within the window) is a list of banks reported to use or claim to use XRP and may mention Bank of America, but the retrieved snippet does not show Bank of America or a 2016 history on Ripple's institutional network listings, so it gives context only. Item [1] (Investopedia, 2017-03-25) is a general ranking of the world's largest banks, is outside the 2026 window, and does not address Ripple listings, so it is context only. No item confirms the specific actor, Ripple network listing, or 2016 date, so the claim cannot be supported or contradicted on this evidence.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "The retrieved evidence does not confirm that Bank of America appears on Ripple's institutional network listings or dates such a listing to 2016.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 8 post(s) classified."
+  },
+  {
+    "id": "CL11",
+    "text": "Bank of America has filed blockchain settlement patents exploring Ripple-related technology.",
+    "narrative_id": "N28",
+    "related_post_ids": [
+      "x:2121377562177986762",
+      "x:2122104003039576082",
+      "x:2122478772771258379",
+      "youtube:8iXI1B9oVwU",
+      "telegram:realcatherineaustinfitts11:853",
+      "telegram:jfk_pascal_najadi1:852",
+      "telegram:derekjohnson09:846",
+      "telegram:nesaragesaraupdates101:798"
+    ],
+    "stances": {
+      "assert": 5,
+      "report": 1,
+      "question": 2,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "x:2122104003039576082",
+        "telegram:realcatherineaustinfitts11:853",
+        "telegram:jfk_pascal_najadi1:852",
+        "telegram:derekjohnson09:846",
+        "telegram:nesaragesaraupdates101:798"
+      ],
+      "report": [
+        "x:2122478772771258379"
+      ],
+      "question": [
+        "x:2121377562177986762",
+        "youtube:8iXI1B9oVwU"
+      ],
+      "debunk": []
+    },
+    "evidence": [
+      {
+        "url": "https://www.coindesk.com/business/2026/03/11/wells-fargo-signals-deeper-push-into-crypto-filing-trademark-for-wfusd",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Mar 11, 2026",
+        "title": "Banking giant Wells Fargo (WFC) readies deeper move into digital assets",
+        "publisher": "CoinDesk",
+        "retrieved_at": "2026-11-20T09:19:09Z",
+        "published_at": "2026-03-11",
+        "published_raw": "Mar 11, 2026",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://www.binance.com/en/square/post/18756498780457",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Jan 10, 2025",
+        "title": "Is Bank of America Really Using Ripple (XRP) for All Internal Transactions?",
+        "publisher": "Binance",
+        "retrieved_at": "2026-11-20T09:19:09Z",
+        "published_at": "2025-01-10",
+        "published_raw": "Jan 10, 2025",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://www.ccn.com/archive/crypto/bank-of-america-patents-method-using-ripple-technology/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Mar 4, 2021",
+        "title": "Bank of America Patents Method Using Ripple Technology",
+        "publisher": "CCN.com",
+        "retrieved_at": "2026-11-20T09:19:09Z",
+        "published_at": "2021-03-04",
+        "published_raw": "Mar 4, 2021",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://thelogic.co/news/exclusive/rbc-exploring-cryptocurrency-trading-platform-for-investments-and-online-purchases/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Nov 11, 2019",
+        "title": "RBC exploring cryptocurrency trading platform for investments and online purchases",
+        "publisher": "The Logic",
+        "retrieved_at": "2026-11-20T09:19:09Z",
+        "published_at": "2019-11-11",
+        "published_raw": "Nov 11, 2019",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://www.mexc.com/learn/article/bank-of-america-xrp-the-ripple-connection-explained/1",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Mar 30, 2026",
+        "title": "Bank of America XRP: The Ripple Connection Explained",
+        "publisher": "MEXC",
+        "retrieved_at": "2026-11-20T09:19:09Z",
+        "published_at": "2026-03-30",
+        "published_raw": "Mar 30, 2026",
+        "flag": "old_event"
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "No retrieved item published within the 2026-10-14 to 2026-11-27 window addresses Bank of America blockchain settlement patents. The closest item, CCN (2021-03-04), reports a Bank of America patent using Ripple technology, but it predates the window, so it gives context only. A Binance post (2025-01-10) questions whether BofA uses Ripple for internal transactions, and a MEXC explainer (2026-03-30) covers the Ripple connection. Both are outside the window and give context only. The Wells Fargo (2026-03-11) and RBC (2019-11-11) items are unrelated.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "No evidence from the claim's window confirms BofA blockchain settlement patents; only older 2021 patent reporting and later explainers give context, so the claim remains unverified.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 8 post(s) classified."
+  },
+  {
+    "id": "CL12",
+    "text": "Ripple and Bank of America have officially confirmed a partnership.",
+    "narrative_id": "N28",
+    "related_post_ids": [
+      "x:2121377562177986762",
+      "x:2122104003039576082",
+      "x:2122478772771258379",
+      "youtube:8iXI1B9oVwU",
+      "telegram:realcatherineaustinfitts11:853",
+      "telegram:jfk_pascal_najadi1:852",
+      "telegram:derekjohnson09:846",
+      "telegram:nesaragesaraupdates101:798"
+    ],
+    "stances": {
+      "assert": 5,
+      "report": 1,
+      "question": 2,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "x:2122104003039576082",
+        "telegram:realcatherineaustinfitts11:853",
+        "telegram:jfk_pascal_najadi1:852",
+        "telegram:derekjohnson09:846",
+        "telegram:nesaragesaraupdates101:798"
+      ],
+      "report": [
+        "x:2122478772771258379"
+      ],
+      "question": [
+        "x:2121377562177986762",
+        "youtube:8iXI1B9oVwU"
+      ],
+      "debunk": []
+    },
+    "evidence": [
+      {
+        "url": "https://finance.biggo.com/news/a3418db0-1bb5-427e-a868-5bc3311686ce",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 month ago",
+        "title": "Ripple's RLUSD Enters US Banking Rails Through Cross River Partnership",
+        "publisher": "BigGo Finance",
+        "retrieved_at": "2026-11-20T09:19:12Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.tradingview.com/news/coinpedia:c485d1425094b:0-xrp-news-today-ripple-and-jeonbuk-bank-partner-to-bring-faster-payments-to-korea/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Aug 17, 2026",
+        "title": "XRP News Today : Ripple and Jeonbuk Bank Partner To Bring Faster Payments to Korea",
+        "publisher": "TradingView",
+        "retrieved_at": "2026-11-20T09:19:12Z",
+        "published_at": "2026-08-17",
+        "published_raw": "Aug 17, 2026",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://seekingalpha.com/article/4915500-xrp-the-case-for-the-most-deeply-entrenched-payment-network-in-crypto",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Jun 16, 2026",
+        "title": "XRP: The Case For The Most Deeply Entrenched Payment Network In Crypto (NYSEARCA:XRP)",
+        "publisher": "Seeking Alpha",
+        "retrieved_at": "2026-11-20T09:19:12Z",
+        "published_at": "2026-06-16",
+        "published_raw": "Jun 16, 2026",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://www.ccn.com/news/crypto/swift-ripple-partnership-2026-xrp-rumors-sibos/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 month ago",
+        "title": "SWIFT-Ripple Partnership Rumor Sends XRP Community Into Overdrive, But What’s Actually Confirmed?",
+        "publisher": "CCN.com",
+        "retrieved_at": "2026-11-20T09:19:12Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      },
+      {
+        "url": "https://memeburn.com/companies-using-ripple-for-cross-border-payments/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Jun 17, 2026",
+        "title": "Companies Using Ripple for Cross-Border Payments: The Full 2026 Picture",
+        "publisher": "Memeburn",
+        "retrieved_at": "2026-11-20T09:19:12Z",
+        "published_at": "2026-06-17",
+        "published_raw": "Jun 17, 2026",
+        "flag": "old_event"
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "None of the five retrieved items reports a Ripple and Bank of America partnership. Item [1] (BigGo, 2026-10-21) covers a Ripple RLUSD and Cross River partnership, not Bank of America. Item [2] (TradingView, 2026-08-17) covers Ripple and Jeonbuk Bank in Korea, and item [4] (CCN, 2026-10-21) covers a SWIFT-Ripple rumor and what is confirmed, with no Bank of America mention. Items [3] (Seeking Alpha, 2026-06-16) and [5] (Memeburn, 2026-06-17) are general coverage of Ripple's payment network. None of these is dated within the claim window in a way that directly addresses Bank of America, and none contradicts the claim outright. The evidence therefore does not directly address the claim.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "No retrieved source reports a Ripple and Bank of America partnership; the items cover other Ripple banking deals (Cross River, Jeonbuk Bank) and a SWIFT rumor.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 8 post(s) classified."
+  },
+  {
+    "id": "CL13",
+    "text": "Bank of America customers woke up to $0 balances in a widespread outage this week, with thousands reporting empty accounts in the app and online banking.",
+    "narrative_id": "N260",
+    "related_post_ids": [
+      "youtube:QG-gRVOSW8c",
+      "youtube:lrBVK5UhuNc",
+      "x:2122479688132043088",
+      "telegram:twobeextras2:146443",
+      "telegram:twobeextras2:146480",
+      "telegram:twobeextras2:146572",
+      "x:2123680185048588769",
+      "telegram:twobeextras2:147861",
+      "telegram:twobeextras2:147907"
+    ],
+    "stances": {
+      "assert": 3,
+      "report": 6,
+      "question": 0,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "youtube:QG-gRVOSW8c",
+        "youtube:lrBVK5UhuNc",
+        "x:2122479688132043088"
+      ],
+      "report": [
+        "telegram:twobeextras2:146443",
+        "telegram:twobeextras2:146480",
+        "telegram:twobeextras2:146572",
+        "x:2123680185048588769",
+        "telegram:twobeextras2:147861",
+        "telegram:twobeextras2:147907"
+      ],
+      "question": [],
+      "debunk": []
+    },
+    "evidence": [
+      {
+        "url": "https://www.newsweek.com/are-chase-wells-fargo-down-latest-update-on-bank-outages-12722872",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 3 days ago",
+        "title": "Bank System Outages: Chase, Wells Fargo, Capital One Services Impacted",
+        "publisher": "Newsweek",
+        "retrieved_at": "2026-11-20T09:19:13Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 3 days ago",
+        "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks",
+        "publisher": "AP News",
+        "retrieved_at": "2026-11-20T09:19:13Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://abc11.com/post/bank-america-is-down-customers-report-widespread-outage/15385210/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Oct 2, 2024",
+        "title": "Bank of America outage: Glitch caused some customers to see $0 balances in their accounts",
+        "publisher": "ABC11 News",
+        "retrieved_at": "2026-11-20T09:19:13Z",
+        "published_at": "2024-10-02",
+        "published_raw": "Oct 2, 2024",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://www.independent.co.uk/news/world/americas/bank-of-america-outage-down-b2622878.html",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Oct 2, 2024",
+        "title": "Bank of America is down: Users report their accounts showing empty balance during widespread outage",
+        "publisher": "The Independent",
+        "retrieved_at": "2026-11-20T09:19:13Z",
+        "published_at": "2024-10-02",
+        "published_raw": "Oct 2, 2024",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://digg.com/world-business/1z61qhe5",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 3 days ago",
+        "title": "Chase customers got 'Please try back later' as bank outage reports piled up",
+        "publisher": "Digg",
+        "retrieved_at": "2026-11-20T09:19:13Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "The claim concerns a Bank of America outage with $0 balances in the week of 2026-11-13 to 2026-11-20. The only Bank of America $0-balance reports in the evidence (ABC11 [3] and The Independent [4]) are dated 2024-10-02, outside the window for support, so they describe a different event and give context only. The 2026-11-17 items (Newsweek [1], AP [2], Digg [5]) report outages at Chase, Wells Fargo, Capital One and related banks tied to a JPMorgan Chase technical issue, but none mentions Bank of America or $0 balances, so they give context only. No retrieved item directly confirms the claimed Bank of America event this week.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "Evidence shows a 2024 Bank of America $0-balance outage and a 2026-11-17 multi-bank outage tied to Chase, but nothing confirms Bank of America $0 balances this week.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 9 post(s) classified."
+  },
+  {
+    "id": "CL14",
+    "text": "Partially masked Bank of America card numbers with expiry dates are listed for sale on Telegram in groups labeled 2B-EXTRAS.",
+    "narrative_id": "N260",
+    "related_post_ids": [
+      "youtube:QG-gRVOSW8c",
+      "youtube:lrBVK5UhuNc",
+      "x:2122479688132043088",
+      "telegram:twobeextras2:146443",
+      "telegram:twobeextras2:146480",
+      "telegram:twobeextras2:146572",
+      "x:2123680185048588769",
+      "telegram:twobeextras2:147861",
+      "telegram:twobeextras2:147907"
+    ],
+    "stances": {
+      "assert": 5,
+      "report": 3,
+      "question": 0,
+      "debunk": 1
+    },
+    "stance_post_ids": {
+      "assert": [
+        "telegram:twobeextras2:146443",
+        "telegram:twobeextras2:146480",
+        "telegram:twobeextras2:146572",
+        "telegram:twobeextras2:147861",
+        "telegram:twobeextras2:147907"
+      ],
+      "report": [
+        "youtube:QG-gRVOSW8c",
+        "youtube:lrBVK5UhuNc",
+        "x:2122479688132043088"
+      ],
+      "question": [],
+      "debunk": [
+        "x:2123680185048588769"
+      ]
+    },
+    "evidence": [],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "No external evidence was retrieved for this claim; stance distribution among collected posts: assert=5, report=3, question=0, debunk=1 (debunking/reporting posts are not support).",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "No news or fact-check evidence was found; 5 of 9 classified posts assert it.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=rule-based; 9 post(s) classified. Evidence providers queried: google_factcheck, serper; they returned nothing."
+  },
+  {
+    "id": "CL15",
+    "text": "A Bank of America account holding $512,384 had its balance stop displaying in November 2026, according to a social media post.",
+    "narrative_id": "N260",
+    "related_post_ids": [
+      "youtube:QG-gRVOSW8c",
+      "youtube:lrBVK5UhuNc",
+      "x:2122479688132043088",
+      "telegram:twobeextras2:146443",
+      "telegram:twobeextras2:146480",
+      "telegram:twobeextras2:146572",
+      "x:2123680185048588769",
+      "telegram:twobeextras2:147861",
+      "telegram:twobeextras2:147907"
+    ],
+    "stances": {
+      "assert": 1,
+      "report": 3,
+      "question": 5,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "x:2122479688132043088"
+      ],
+      "report": [
+        "youtube:QG-gRVOSW8c",
+        "youtube:lrBVK5UhuNc",
+        "x:2123680185048588769"
+      ],
+      "question": [
+        "telegram:twobeextras2:146443",
+        "telegram:twobeextras2:146480",
+        "telegram:twobeextras2:146572",
+        "telegram:twobeextras2:147861",
+        "telegram:twobeextras2:147907"
+      ],
+      "debunk": []
+    },
+    "evidence": [],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "No external evidence was retrieved for this claim; stance distribution among collected posts: assert=1, report=3, question=5, debunk=0 (debunking/reporting posts are not support).",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "No news or fact-check evidence was found; 1 of 9 classified posts assert it.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=rule-based; 9 post(s) classified. Evidence providers queried: google_factcheck, serper; they returned nothing."
+  },
+  {
+    "id": "CL16",
+    "text": "A disaster in the United States is currently occurring and was expected to arrive sooner.",
+    "narrative_id": "N41",
+    "related_post_ids": [
+      "youtube:comment:Ugy1wpD2fJ864iiscZB4AaABAg",
+      "youtube:comment:UgxHG-puZKMDZPcnO6B4AaABAg",
+      "youtube:comment:UgzkhKsgdJ9_Y5e7tQl4AaABAg",
+      "youtube:comment:UgzNgwZmvsWJ5G0a4GR4AaABAg",
+      "youtube:comment:UgzdDqe4EEn_GgTsf114AaABAg",
+      "youtube:comment:UgzNyrW9liB6hsuHQwd4AaABAg"
+    ],
+    "stances": {
+      "assert": 3,
+      "report": 2,
+      "question": 0,
+      "debunk": 1
+    },
+    "stance_post_ids": {
+      "assert": [
+        "youtube:comment:UgxHG-puZKMDZPcnO6B4AaABAg",
+        "youtube:comment:UgzdDqe4EEn_GgTsf114AaABAg",
+        "youtube:comment:UgzNyrW9liB6hsuHQwd4AaABAg"
+      ],
+      "report": [
+        "youtube:comment:UgzkhKsgdJ9_Y5e7tQl4AaABAg",
+        "youtube:comment:UgzNgwZmvsWJ5G0a4GR4AaABAg"
+      ],
+      "question": [],
+      "debunk": [
+        "youtube:comment:Ugy1wpD2fJ864iiscZB4AaABAg"
+      ]
+    },
+    "evidence": [
+      {
+        "url": "https://www.gov.ca.gov/2026/09/21/governor-newsom-proclaims-state-of-emergency-to-bolster-statewide-el-nino-preparedness-protect-california/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Sep 21, 2026",
+        "title": "Governor Newsom proclaims state of emergency to bolster statewide El Nino preparedness, protect California",
+        "publisher": "California State Portal | CA.gov",
+        "retrieved_at": "2026-11-20T09:19:20Z",
+        "published_at": "2026-09-21",
+        "published_raw": "Sep 21, 2026",
+        "flag": "unrelated"
+      },
+      {
+        "url": "https://www.americanprogress.org/article/the-trump-administration-is-interfering-in-the-2026-midterm-elections-to-entrench-the-imperial-presidency/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Aug 12, 2026",
+        "title": "The Trump Administration Is Interfering in the 2026 Midterm Elections To Entrench the Imperial Presidency",
+        "publisher": "Center for American Progress",
+        "retrieved_at": "2026-11-20T09:19:20Z",
+        "published_at": "2026-08-12",
+        "published_raw": "Aug 12, 2026",
+        "flag": "unrelated"
+      },
+      {
+        "url": "https://abc7.com/post/big-is-coming-when-study-suggests-major-ca-earthquake-could-hit-sooner-later/19615388/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Aug 2, 2026",
+        "title": "'The Big One' is coming, but when? Study suggests major CA earthquake could hit sooner rather than later",
+        "publisher": "ABC7 Los Angeles",
+        "retrieved_at": "2026-11-20T09:19:20Z",
+        "published_at": "2026-08-02",
+        "published_raw": "Aug 2, 2026",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://www.cbo.gov/publication/62105",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Feb 11, 2026",
+        "title": "The Budget and Economic Outlook: 2026 to 2036",
+        "publisher": "Congressional Budget Office (.gov)",
+        "retrieved_at": "2026-11-20T09:19:20Z",
+        "published_at": "2026-02-11",
+        "published_raw": "Feb 11, 2026",
+        "flag": "unrelated"
+      },
+      {
+        "url": "https://science.nasa.gov/climate-change/effects/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Oct 23, 2024",
+        "title": "The Effects of Climate Change",
+        "publisher": "NASA Science (.gov)",
+        "retrieved_at": "2026-11-20T09:19:20Z",
+        "published_at": "2024-10-23",
+        "published_raw": "Oct 23, 2024",
+        "flag": "unrelated"
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "None of the five retrieved items addresses a current US disaster occurring in the 2026-11-13 to 2026-11-20 window or an expected-sooner arrival. Item [1] (Governor Newsom El Nino state of emergency, published 2026-09-21) is within the evidence window but is a preparedness proclamation about a forecast event, not a disaster occurring now; it is context only. Item [3] (ABC7 earthquake-timing study, published 2026-08-02) falls outside the window and concerns a forecast, so it is context only. Items [2], [4] and [5] (CAP midterms piece 2026-08-12, CBO outlook 2026-02-11, NASA climate effects 2024-10-23) do not address the claim. Collected posts that assert the claim are context, not evidence, so the claim cannot be confirmed or contradicted from this set.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "No retrieved source shows a US disaster occurring in mid-November 2026; the only related items are a September El Nino emergency proclamation and an August earthquake forecast study.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 6 post(s) classified. Relevance check: 4 item(s) share no key term with the claim and were treated as unrelated (context only): California State Portal | CA.gov; Center for American Progress; Congressional Budget Office (.gov); NASA Science (.gov)."
+  },
+  {
+    "id": "CL17",
+    "text": "The Trump administration is causing the disaster in the United States.",
+    "narrative_id": "N41",
+    "related_post_ids": [
+      "youtube:comment:Ugy1wpD2fJ864iiscZB4AaABAg",
+      "youtube:comment:UgxHG-puZKMDZPcnO6B4AaABAg",
+      "youtube:comment:UgzkhKsgdJ9_Y5e7tQl4AaABAg",
+      "youtube:comment:UgzNgwZmvsWJ5G0a4GR4AaABAg",
+      "youtube:comment:UgzdDqe4EEn_GgTsf114AaABAg",
+      "youtube:comment:UgzNyrW9liB6hsuHQwd4AaABAg"
+    ],
+    "stances": {
+      "assert": 2,
+      "report": 1,
+      "question": 2,
+      "debunk": 1
+    },
+    "stance_post_ids": {
+      "assert": [
+        "youtube:comment:UgxHG-puZKMDZPcnO6B4AaABAg",
+        "youtube:comment:UgzNyrW9liB6hsuHQwd4AaABAg"
+      ],
+      "report": [
+        "youtube:comment:UgzNgwZmvsWJ5G0a4GR4AaABAg"
+      ],
+      "question": [
+        "youtube:comment:UgzkhKsgdJ9_Y5e7tQl4AaABAg",
+        "youtube:comment:UgzdDqe4EEn_GgTsf114AaABAg"
+      ],
+      "debunk": [
+        "youtube:comment:Ugy1wpD2fJ864iiscZB4AaABAg"
+      ]
+    },
+    "evidence": [
+      {
+        "url": "https://www.ms.now/opinion/trump-faa-tech-outages-leadership-covid",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 22 hours ago",
+        "title": "Opinion | Trump’s incompetence is a national security threat",
+        "publisher": "MS NOW",
+        "retrieved_at": "2026-11-20T09:19:23Z",
+        "published_at": "2026-11-19T11:19:23Z",
+        "published_raw": "22 hours ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.forbes.com/sites/conormurray/2026/11/18/outages-plague-america-cyber-attacks-are-not-to-blame-trump-official-reportedly-says-as-nsa-apple-microsoft-and-more-hit/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 day ago",
+        "title": "Why Are So Many Outages Happening? U.S. Official Denies Cyberattacks As NSA, Apple, Microsoft And More Hit",
+        "publisher": "Forbes",
+        "retrieved_at": "2026-11-20T09:19:23Z",
+        "published_at": "2026-11-19",
+        "published_raw": "1 day ago",
+        "flag": null
+      },
+      {
+        "url": "https://futurism.com/future-society/evidence-growing-outages-trump-fault",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 1 day ago",
+        "title": "Evidence Is Growing That the Massive Tech Outages Are Trump’s Fault",
+        "publisher": "Futurism",
+        "retrieved_at": "2026-11-20T09:19:23Z",
+        "published_at": "2026-11-19",
+        "published_raw": "1 day ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.thetimes.com/us/news-today/article/trumps-world-stage-triumph-is-turning-into-a-domestic-disaster-xzfdmclx5",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 13 hours ago",
+        "title": "Trump’s world stage ‘triumph’ is turning into a domestic disaster",
+        "publisher": "The Times",
+        "retrieved_at": "2026-11-20T09:19:23Z",
+        "published_at": "2026-11-19T20:19:23Z",
+        "published_raw": "13 hours ago",
+        "flag": null
+      },
+      {
+        "url": "https://newrepublic.com/post/218087/markwayne-mullin-strategy-faa-push-wild-theories",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 2 days ago",
+        "title": "Markwayne Mullin Pushes Unhinged Theories on FAA Disaster",
+        "publisher": "The New Republic",
+        "retrieved_at": "2026-11-20T09:19:23Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      }
+    ],
+    "verdict": "disputed",
+    "confidence": 0.5,
+    "rationale": "Sources published 2026-11-18 to 2026-11-19 describe widespread tech and FAA outages. Futurism (2026-11-19) and an MS NOW opinion piece (2026-11-19) argue the outages are Trump's fault, and The Times (2026-11-19) frames his administration's record as a domestic disaster; these support the claim's blame. Forbes (2026-11-19) reports a U.S. official denying cyberattacks as the cause, which gives context but does not directly rebut administration responsibility. The New Republic (2026-11-18) reports Sen. Markwayne Mullin pushing theories about the FAA disaster, which gives context. No retrieved item shows what caused the outages, so the administration's causal role is not established by an independent source; the opinion and commentary pieces are assessments rather than confirmation. Collected social posts were treated as context only.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "3 sources (MS NOW, Futurism and others) support it, but this was not judged enough to call it supported (disputed).",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 6 post(s) classified. 1 cited URL(s) were not in the retrieved evidence and were discarded. Conflict: supporting items [1] and [3] disagree with each other (as stated by the model), so the sources conflict."
+  },
+  {
+    "id": "CL18",
+    "text": "An AI system could drain millions of dollars from bank accounts in a fraction of a second.",
+    "narrative_id": "N41",
+    "related_post_ids": [
+      "youtube:comment:Ugy1wpD2fJ864iiscZB4AaABAg",
+      "youtube:comment:UgxHG-puZKMDZPcnO6B4AaABAg",
+      "youtube:comment:UgzkhKsgdJ9_Y5e7tQl4AaABAg",
+      "youtube:comment:UgzNgwZmvsWJ5G0a4GR4AaABAg",
+      "youtube:comment:UgzdDqe4EEn_GgTsf114AaABAg",
+      "youtube:comment:UgzNyrW9liB6hsuHQwd4AaABAg"
+    ],
+    "stances": {
+      "assert": 3,
+      "report": 1,
+      "question": 1,
+      "debunk": 1
+    },
+    "stance_post_ids": {
+      "assert": [
+        "youtube:comment:UgzkhKsgdJ9_Y5e7tQl4AaABAg",
+        "youtube:comment:UgzNgwZmvsWJ5G0a4GR4AaABAg",
+        "youtube:comment:UgzdDqe4EEn_GgTsf114AaABAg"
+      ],
+      "report": [
+        "youtube:comment:UgxHG-puZKMDZPcnO6B4AaABAg"
+      ],
+      "question": [
+        "youtube:comment:UgzNyrW9liB6hsuHQwd4AaABAg"
+      ],
+      "debunk": [
+        "youtube:comment:Ugy1wpD2fJ864iiscZB4AaABAg"
+      ]
+    },
+    "evidence": [
+      {
+        "url": "https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: May 20, 2025",
+        "title": "We did the math on AI’s energy footprint. Here’s the story you haven’t heard.",
+        "publisher": "MIT Technology Review",
+        "retrieved_at": "2026-11-20T09:19:24Z",
+        "published_at": "2025-05-20",
+        "published_raw": "May 20, 2025",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://medium.com/@adnanmasood/programmable-money-smart-contracts-and-stablecoins-a-leadership-guide-for-banking-finance-ec0791847977",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: Sep 13, 2025",
+        "title": "Programmable Money, Smart Contracts, and Stablecoins — A Leadership Guide for Banking & Finance",
+        "publisher": "Medium",
+        "retrieved_at": "2026-11-20T09:19:24Z",
+        "published_at": "2025-09-13",
+        "published_raw": "Sep 13, 2025",
+        "flag": "old_event"
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "Neither retrieved item addresses the claim that an AI system drained millions of dollars from bank accounts in a fraction of a second. [1] is an MIT Technology Review piece from 2025-05-20 on AI energy footprints, and [2] is a Medium leadership guide on programmable money and stablecoins from 2025-09-13. Both are dated well outside the 2026-10-14 to 2026-11-27 window and cover unrelated topics, so they give background context only. The collected social posts (assertions, a report, a question and a debunk) are context, not evidence, and no retrieved source confirms or refutes an actual incident.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "No retrieved source reports an AI system draining bank accounts; the two items found cover AI energy use and stablecoin guidance and are outside the event window.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 6 post(s) classified."
+  },
+  {
+    "id": "CL19",
+    "text": "Iran is behind the cyber-attacks and banking issues affecting Bank of America.",
+    "narrative_id": "N47",
+    "related_post_ids": [
+      "youtube:comment:Ugx5peMib-WKHrIWmSd4AaABAg",
+      "youtube:comment:Ugz5dKBhGP3_5E369Pd4AaABAg",
+      "youtube:comment:UgziScxQx9QN6xCH3g94AaABAg",
+      "youtube:comment:UgwCWQuEBuXUmtg9X7x4AaABAg",
+      "youtube:comment:UgwFu55hl2RO-aKBBZZ4AaABAg",
+      "youtube:comment:UgwhKvU_dRUdTErBoDF4AaABAg"
+    ],
+    "stances": {
+      "assert": 3,
+      "report": 1,
+      "question": 0,
+      "debunk": 2
+    },
+    "stance_post_ids": {
+      "assert": [
+        "youtube:comment:Ugx5peMib-WKHrIWmSd4AaABAg",
+        "youtube:comment:UgziScxQx9QN6xCH3g94AaABAg",
+        "youtube:comment:UgwCWQuEBuXUmtg9X7x4AaABAg"
+      ],
+      "report": [
+        "youtube:comment:Ugz5dKBhGP3_5E369Pd4AaABAg"
+      ],
+      "question": [],
+      "debunk": [
+        "youtube:comment:UgwFu55hl2RO-aKBBZZ4AaABAg",
+        "youtube:comment:UgwhKvU_dRUdTErBoDF4AaABAg"
+      ]
+    },
+    "evidence": [
+      {
+        "url": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 3 days ago",
+        "title": "Thousands report online outages at major US banks",
+        "publisher": "Al Jazeera",
+        "retrieved_at": "2026-11-20T09:19:26Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 3 days ago",
+        "title": "Widespread service outages at major U.S. banks appear to be over",
+        "publisher": "CBS News",
+        "retrieved_at": "2026-11-20T09:19:26Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.newsweek.com/dhs-says-ai-could-be-responsible-outages-faa-aviation-ground-stop-banks-12725688",
+        "source": "serper",
+        "supports": "contradicts",
+        "note": "news search result; published: 2 days ago",
+        "title": "Trump Says He’s Not Worried About Outages Affecting Banks, FAA: ‘It’s Life’",
+        "publisher": "Newsweek",
+        "retrieved_at": "2026-11-20T09:19:26Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.jpost.com/middle-east/iran-news/article-915348",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 1 day ago",
+        "title": "Iran targeted US infrastructure with cyberattacks since start of war, Homeland Security chief says",
+        "publisher": "The Jerusalem Post",
+        "retrieved_at": "2026-11-20T09:19:26Z",
+        "published_at": "2026-11-19",
+        "published_raw": "1 day ago",
+        "flag": null
+      },
+      {
+        "url": "https://edtimes.in/iran-china-or-ai-who-is-behind-cyber-attacks-on-major-systems-in-us-2/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 day ago",
+        "title": "Iran, China, Or AI: Who Is Behind Cyber Attacks On Major Systems In US?",
+        "publisher": "ED Times",
+        "retrieved_at": "2026-11-20T09:19:26Z",
+        "published_at": "2026-11-19",
+        "published_raw": "1 day ago",
+        "flag": null
+      }
+    ],
+    "verdict": "disputed",
+    "confidence": 0.4,
+    "rationale": "Outage reports from Al Jazeera (2026-11-17) and CBS News (2026-11-17) describe widespread online banking disruptions at major US banks, including Bank of America, which appeared to end without a named cause. Newsweek (2026-11-18) reports that DHS said AI could be responsible for outages affecting banks and aviation, which contradicts attributing the banking issues to Iran. The Jerusalem Post (2026-11-19) reports that the Homeland Security chief said Iran has targeted US infrastructure with cyberattacks since the start of the war, which supports Iran's general cyber activity but does not tie it to the Bank of America outages. ED Times (2026-11-19) only asks who is behind the attacks and gives context.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "Reports confirm outages at major US banks including Bank of America, but DHS suggested AI could be responsible, while Iran is only linked to general cyberattacks on US infrastructure, not these bank outages.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 6 post(s) classified."
+  },
+  {
+    "id": "CL20",
+    "text": "Israel caused the cyber-attack or banking problems, and the government is blaming Iran for them.",
+    "narrative_id": "N47",
+    "related_post_ids": [
+      "youtube:comment:Ugx5peMib-WKHrIWmSd4AaABAg",
+      "youtube:comment:Ugz5dKBhGP3_5E369Pd4AaABAg",
+      "youtube:comment:UgziScxQx9QN6xCH3g94AaABAg",
+      "youtube:comment:UgwCWQuEBuXUmtg9X7x4AaABAg",
+      "youtube:comment:UgwFu55hl2RO-aKBBZZ4AaABAg",
+      "youtube:comment:UgwhKvU_dRUdTErBoDF4AaABAg"
+    ],
+    "stances": {
+      "assert": 3,
+      "report": 1,
+      "question": 1,
+      "debunk": 1
+    },
+    "stance_post_ids": {
+      "assert": [
+        "youtube:comment:Ugz5dKBhGP3_5E369Pd4AaABAg",
+        "youtube:comment:UgwCWQuEBuXUmtg9X7x4AaABAg",
+        "youtube:comment:UgwhKvU_dRUdTErBoDF4AaABAg"
+      ],
+      "report": [
+        "youtube:comment:UgziScxQx9QN6xCH3g94AaABAg"
+      ],
+      "question": [
+        "youtube:comment:Ugx5peMib-WKHrIWmSd4AaABAg"
+      ],
+      "debunk": [
+        "youtube:comment:UgwFu55hl2RO-aKBBZZ4AaABAg"
+      ]
+    },
+    "evidence": [
+      {
+        "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 week ago; snippet: The denial comes a day after the French government blamed Iranian military hackers for last month's attack on refrigeration systems at...",
+        "title": "Iran denies it was behind cyber fridge attacks targeting France",
+        "publisher": "NPR",
+        "retrieved_at": "2026-11-20T09:19:29Z",
+        "published_at": "2026-11-13",
+        "published_raw": "1 week ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.bbc.com/news/articles/cvgwe2qpgq1o",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 3 months ago; snippet: The US president's comments come after cyber attacks on Minnesota's water systems earlier this week, with US media indicating Iran could be...",
+        "title": "Minnesota not Iran to blame for state's water issues, says Trump",
+        "publisher": "BBC",
+        "retrieved_at": "2026-11-20T09:19:29Z",
+        "published_at": "2026-08-22",
+        "published_raw": "3 months ago",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://www.reuters.com/world/middle-east/iran-says-card-based-banking-hit-by-cyberattack-three-lenders-2026-06-23/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 4 months ago; snippet: Iran's state-owned banking technology provider said ​on Tuesday that cyberattacks had disrupted card-based banking services ‌at Bank Melli,...",
+        "title": "Iran says card-based banking hit by cyberattack on three lenders",
+        "publisher": "Reuters",
+        "retrieved_at": "2026-11-20T09:19:29Z",
+        "published_at": "2026-07-23",
+        "published_raw": "4 months ago",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://www.google.com/url?opi=89978449&q=CAESpQEBxCJF13IOhTvHByazM1KxfIXWyixU4mGB74lkzsYPoca6RNOLQGyOGsIoCo0HIcueiS92Pr0hwSerlrz7TbF1dwWgh7Up7PzmyLkpu5h-r0rFfFNKCkMHq8lqcpsH-2lWf1ZU93FS2JfYb12vWwDZHcQqPT9F0DDAzcePULN9oEgHwVyXrC8BQIVd7o_G05WpwCJNQM1kA8AKhFG2LOs4SLar25U&sa=U&uoh=3&ved=2ahUKEwjD8qDtm5aYAxWekIkEHQEIL80QxfQBegQIBhAC&usg=AOvVaw0Ync7ra-_S3suTVPFA0XGd",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 2 months ago; snippet: Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases.",
+        "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+        "publisher": "The Guardian",
+        "retrieved_at": "2026-11-20T09:19:29Z",
+        "published_at": "2026-09-21",
+        "published_raw": "2 months ago",
+        "flag": "old_event"
+      },
+      {
+        "url": "https://www.google.com/url?opi=89978449&q=CAESgwEBxCJF11nHZagUlv_lPVo-cbZG_p7t9nrWM3lQHopGOwPRgB_7Rx2gnDPxASTserFjMxKlCrZppFBr9f39DvEn3TYi51Z0ko1ndbTUofnLlIpmg52GOMc1UMJ9miSnfhnyvWWOgB_mJQTBSLHZW23fSnBvbxb84BSchTSryFy3ff5YPg&sa=U&uoh=3&ved=2ahUKEwjD8qDtm5aYAxWekIkEHQEIL80QxfQBegQIBxAC&usg=AOvVaw0sSWlLP4Wh-YOZqdsg5nbF",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 3 months ago; snippet: A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war.",
+        "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
+        "publisher": "NPR",
+        "retrieved_at": "2026-11-20T09:19:29Z",
+        "published_at": "2026-08-22",
+        "published_raw": "3 months ago",
+        "flag": "old_event"
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "No retrieved item links Israel to the cyber-attacks or banking disruptions. [3] Reuters (dated 2026-07-23 in the listing; the URL suggests 2026-06-23) reports Iranian state-linked banking outages at three lenders, but it is outside the 2026-10-14 to 2026-11-27 window and does not mention Israel. [1] NPR (2026-11-13) reports Iran denying French fridge-system attacks that France blamed on Iranian hackers, a different event. [2] BBC (2026-08-22) reports Trump rejecting Iran blame for Minnesota water attacks, and [5] NPR (2026-08-22) covers US water hacks in the Iran war context; both are outside the window. [4] Guardian (2026-09-21) reports Iran-linked hackers blamed for a UK power plant attack. None of these addresses the claim's Israel attribution, so they give context only.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "The retrieved evidence covers Iran-linked cyberattacks on banks, water systems, France and the UK, but none of it attributes anything to Israel, so the claim is not addressed.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 6 post(s) classified."
+  },
+  {
+    "id": "CL21",
+    "text": "The US government is using a movie script from Leave the World Behind to deceive Americans into believing Iran is behind false flag cyber-attacks and banking issues.",
+    "narrative_id": "N47",
+    "related_post_ids": [
+      "youtube:comment:Ugx5peMib-WKHrIWmSd4AaABAg",
+      "youtube:comment:Ugz5dKBhGP3_5E369Pd4AaABAg",
+      "youtube:comment:UgziScxQx9QN6xCH3g94AaABAg",
+      "youtube:comment:UgwCWQuEBuXUmtg9X7x4AaABAg",
+      "youtube:comment:UgwFu55hl2RO-aKBBZZ4AaABAg",
+      "youtube:comment:UgwhKvU_dRUdTErBoDF4AaABAg"
+    ],
+    "stances": {
+      "assert": 4,
+      "report": 0,
+      "question": 2,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "youtube:comment:Ugz5dKBhGP3_5E369Pd4AaABAg",
+        "youtube:comment:UgziScxQx9QN6xCH3g94AaABAg",
+        "youtube:comment:UgwFu55hl2RO-aKBBZZ4AaABAg",
+        "youtube:comment:UgwhKvU_dRUdTErBoDF4AaABAg"
+      ],
+      "report": [],
+      "question": [
+        "youtube:comment:Ugx5peMib-WKHrIWmSd4AaABAg",
+        "youtube:comment:UgwCWQuEBuXUmtg9X7x4AaABAg"
+      ],
+      "debunk": []
+    },
+    "evidence": [],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "No external evidence was retrieved for this claim; stance distribution among collected posts: assert=4, report=0, question=2, debunk=0 (debunking/reporting posts are not support).",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "No news or fact-check evidence was found; 4 of 6 classified posts assert it.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=rule-based; 6 post(s) classified. Evidence providers queried: google_factcheck, serper; they returned nothing."
+  },
+  {
+    "id": "CL22",
+    "text": "Chase, US Bank, Bank of America, Truist and Wells Fargo experienced online banking connectivity issues at the same time.",
+    "narrative_id": "N2",
+    "related_post_ids": [
+      "x:2121326688344883581",
+      "x:2121331903055999408",
+      "x:2121353714292474072",
+      "x:2121357181920616483",
+      "x:2121361772363837667",
+      "x:2121370077270331787",
+      "x:2121373908448280836",
+      "x:2121374428177031404",
+      "x:2121379125726191938",
+      "youtube:J4sDguKHiTs",
+      "x:2121714803169460408",
+      "youtube:DQbIXQICJmQ",
+      "linkedin:7528167456897396738",
+      "youtube:wP_I3kbbfEs",
+      "linkedin:7528170019344662528",
+      "youtube:zWQ33aWcq2M",
+      "youtube:9OBQ0Ccq_wI",
+      "youtube:-NalJ9VO_RY",
+      "youtube:w6nlFCcV5KU",
+      "youtube:S_vVgLp7W6s",
+      "youtube:B-1JR7DCiyY",
+      "youtube:1Y-PIb9mhXI",
+      "youtube:Eq5-qpYsMa0",
+      "youtube:-89XVEr2A3w",
+      "youtube:oF-hVRMdCEQ",
+      "youtube:7A_HVbUSxuw",
+      "youtube:QrqO7bhJ-pI",
+      "telegram:oanntv:17975",
+      "youtube:xrl2XL_MmL4",
+      "youtube:MibLwF4vD9k",
+      "youtube:ALjiiIMpnyc",
+      "youtube:-NLAK9lnAww",
+      "youtube:BboxcpW7Lpk",
+      "linkedin:7528187404298457088",
+      "youtube:YR_rWzcO0Go",
+      "youtube:bDOGsffi0s0",
+      "youtube:Nty4uJ1w5AA",
+      "linkedin:7528192725758808064",
+      "youtube:WiiADllcD0k",
+      "telegram:secharvester:24465"
+    ],
+    "stances": {
+      "assert": 10,
+      "report": 21,
+      "question": 9,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "x:2121374428177031404",
+        "youtube:J4sDguKHiTs",
+        "youtube:7A_HVbUSxuw",
+        "youtube:QrqO7bhJ-pI",
+        "telegram:oanntv:17975",
+        "youtube:MibLwF4vD9k",
+        "youtube:-NLAK9lnAww",
+        "youtube:BboxcpW7Lpk",
+        "linkedin:7528187404298457088",
+        "youtube:Nty4uJ1w5AA"
+      ],
+      "report": [
+        "youtube:DQbIXQICJmQ",
+        "linkedin:7528167456897396738",
+        "youtube:wP_I3kbbfEs",
+        "linkedin:7528170019344662528",
+        "youtube:zWQ33aWcq2M",
+        "youtube:9OBQ0Ccq_wI",
+        "youtube:-NalJ9VO_RY",
+        "youtube:w6nlFCcV5KU",
+        "youtube:S_vVgLp7W6s",
+        "youtube:B-1JR7DCiyY",
+        "youtube:1Y-PIb9mhXI",
+        "youtube:Eq5-qpYsMa0",
+        "youtube:-89XVEr2A3w",
+        "youtube:oF-hVRMdCEQ",
+        "youtube:xrl2XL_MmL4",
+        "youtube:ALjiiIMpnyc",
+        "youtube:YR_rWzcO0Go",
+        "youtube:bDOGsffi0s0",
+        "linkedin:7528192725758808064",
+        "youtube:WiiADllcD0k",
+        "telegram:secharvester:24465"
+      ],
+      "question": [
+        "x:2121326688344883581",
+        "x:2121331903055999408",
+        "x:2121353714292474072",
+        "x:2121357181920616483",
+        "x:2121361772363837667",
+        "x:2121370077270331787",
+        "x:2121373908448280836",
+        "x:2121379125726191938",
+        "x:2121714803169460408"
+      ],
+      "debunk": []
+    },
+    "evidence": [
+      {
+        "url": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago",
+        "title": "Widespread service outages at major U.S. banks appear to be over",
+        "publisher": "CBS News",
+        "retrieved_at": "2026-11-20T09:19:32Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago",
+        "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks",
+        "publisher": "AP News",
+        "retrieved_at": "2026-11-20T09:19:32Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://time.com/article/2026/11/16/bank-outage-down-jpmorgan-chase-technical-issue/",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago",
+        "title": "What to Know About the Banking Service Outages Impacting Thousands of Customers",
+        "publisher": "Time Magazine",
+        "retrieved_at": "2026-11-20T09:19:32Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago",
+        "title": "US bank outage: What caused Chase problems and Zelle payment delays?",
+        "publisher": "Al Jazeera",
+        "retrieved_at": "2026-11-20T09:19:32Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.facebook.com/Boston25News/videos/when-tech-fails-banks-and-travel-grind-to-a-halt/1396454572389239/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 2 days ago",
+        "title": "Boston 25 News. . First Microsoft…then a nationwide ground stop…Now online banking disruptions…💻✈️🏦 Are we prepared when systems fail? Full story @boston25 #Cybersecurity #Technology #BackupSystems #boston25",
+        "publisher": "Facebook",
+        "retrieved_at": "2026-11-20T09:19:32Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      }
+    ],
+    "verdict": "supported",
+    "confidence": 0.8,
+    "rationale": "Four news items published 2026-11-17 (CBS News [1], AP News [2], Time [3], Al Jazeera [4]) report a technical issue at JPMorgan Chase that caused online banking delays for major US banks, with AP naming Chase, Wells Fargo and Truist and CBS naming Chase, Bank of America and Wells Fargo. The items fall within the 2026-10-14 to 2026-11-27 window. A Facebook video post by Boston 25 News dated 2026-11-18 [5] gives context only, describing online banking disruptions. None of the retrieved items names all five banks in one source, and US Bank is not explicitly confirmed, so confidence is moderate.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "Several outlets dated 2026-11-17 report a Chase technical issue causing online banking delays at major US banks; the sources name different subsets of the five banks, and US Bank is not confirmed.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 40 post(s) classified."
+  },
+  {
+    "id": "CL23",
+    "text": "Downdetector showed more than 4,300 reports for Chase alone on a Monday during a banking outage.",
+    "narrative_id": "N2",
+    "related_post_ids": [
+      "x:2121326688344883581",
+      "x:2121331903055999408",
+      "x:2121353714292474072",
+      "x:2121357181920616483",
+      "x:2121361772363837667",
+      "x:2121370077270331787",
+      "x:2121373908448280836",
+      "x:2121374428177031404",
+      "x:2121379125726191938",
+      "youtube:J4sDguKHiTs",
+      "x:2121714803169460408",
+      "youtube:DQbIXQICJmQ",
+      "linkedin:7528167456897396738",
+      "youtube:wP_I3kbbfEs",
+      "linkedin:7528170019344662528",
+      "youtube:zWQ33aWcq2M",
+      "youtube:9OBQ0Ccq_wI",
+      "youtube:-NalJ9VO_RY",
+      "youtube:w6nlFCcV5KU",
+      "youtube:S_vVgLp7W6s",
+      "youtube:B-1JR7DCiyY",
+      "youtube:1Y-PIb9mhXI",
+      "youtube:Eq5-qpYsMa0",
+      "youtube:-89XVEr2A3w",
+      "youtube:oF-hVRMdCEQ",
+      "youtube:7A_HVbUSxuw",
+      "youtube:QrqO7bhJ-pI",
+      "telegram:oanntv:17975",
+      "youtube:xrl2XL_MmL4",
+      "youtube:MibLwF4vD9k",
+      "youtube:ALjiiIMpnyc",
+      "youtube:-NLAK9lnAww",
+      "youtube:BboxcpW7Lpk",
+      "linkedin:7528187404298457088",
+      "youtube:YR_rWzcO0Go",
+      "youtube:bDOGsffi0s0",
+      "youtube:Nty4uJ1w5AA",
+      "linkedin:7528192725758808064",
+      "youtube:WiiADllcD0k",
+      "telegram:secharvester:24465"
+    ],
+    "stances": {
+      "assert": 4,
+      "report": 27,
+      "question": 9,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "x:2121374428177031404",
+        "youtube:J4sDguKHiTs",
+        "linkedin:7528170019344662528",
+        "youtube:-NalJ9VO_RY"
+      ],
+      "report": [
+        "youtube:DQbIXQICJmQ",
+        "linkedin:7528167456897396738",
+        "youtube:wP_I3kbbfEs",
+        "youtube:zWQ33aWcq2M",
+        "youtube:9OBQ0Ccq_wI",
+        "youtube:w6nlFCcV5KU",
+        "youtube:S_vVgLp7W6s",
+        "youtube:B-1JR7DCiyY",
+        "youtube:1Y-PIb9mhXI",
+        "youtube:Eq5-qpYsMa0",
+        "youtube:-89XVEr2A3w",
+        "youtube:oF-hVRMdCEQ",
+        "youtube:7A_HVbUSxuw",
+        "youtube:QrqO7bhJ-pI",
+        "telegram:oanntv:17975",
+        "youtube:xrl2XL_MmL4",
+        "youtube:MibLwF4vD9k",
+        "youtube:ALjiiIMpnyc",
+        "youtube:-NLAK9lnAww",
+        "youtube:BboxcpW7Lpk",
+        "linkedin:7528187404298457088",
+        "youtube:YR_rWzcO0Go",
+        "youtube:bDOGsffi0s0",
+        "youtube:Nty4uJ1w5AA",
+        "linkedin:7528192725758808064",
+        "youtube:WiiADllcD0k",
+        "telegram:secharvester:24465"
+      ],
+      "question": [
+        "x:2121326688344883581",
+        "x:2121331903055999408",
+        "x:2121353714292474072",
+        "x:2121357181920616483",
+        "x:2121361772363837667",
+        "x:2121370077270331787",
+        "x:2121373908448280836",
+        "x:2121379125726191938",
+        "x:2121714803169460408"
+      ],
+      "debunk": []
+    },
+    "evidence": [
+      {
+        "url": "https://fortune.com/2026/11/16/chase-bank-wells-fargo-capital-one-bank-outages/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 3 days ago",
+        "title": "Days after Microsoft and the FAA went dark, Chase and Wells Fargo customers can’t get to their money",
+        "publisher": "Fortune",
+        "retrieved_at": "2026-11-20T09:19:35Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.ilpoliticoweb.it/en/chase-bank-of-america-wells-fargo-outage-online-banking-down/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 3 days ago",
+        "title": "Chase, Bank of America, Wells Fargo down: online banking frozen for hours and nobody's saying why",
+        "publisher": "Il Politico Web",
+        "retrieved_at": "2026-11-20T09:19:35Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://fourweekmba.com/ai-chase-says-bug-not-cyberattack-behind-4700-report-outage/",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago",
+        "title": "Chase Says Bug, Not Cyberattack, Behind 4,700-Report Outage",
+        "publisher": "FourWeekMBA",
+        "retrieved_at": "2026-11-20T09:19:35Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.newsbreak.com/gizmodo-399763864/5011144042441-united-airlines-suffers-widespread-system-outage-days-after-faa-ground-stop",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 3 days ago",
+        "title": "United Airlines Suffers ‘Widespread System Outage’ Days After FAA Ground Stop",
+        "publisher": "NewsBreak: Local News & Alerts",
+        "retrieved_at": "2026-11-20T09:19:35Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.3,
+    "rationale": "Fortune [1] (published 2026-11-17) and Il Politico Web [2] (published 2026-11-17) report a Chase online-banking outage in the window but show no Downdetector figure and no day of the week. FourWeekMBA [3] (published 2026-11-17) reports a Chase outage with about 4,700 reports, attributed to a bug rather than a cyberattack. That figure is above 4,300, but the snippet does not name Downdetector as the source or confirm a Monday, so it only partly matches the claim. The United Airlines item [4] (published 2026-11-17) concerns a different company and gives context only. No retrieved source contradicts the claim.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "Sources from 2026-11-17 confirm a Chase outage with about 4,700 reports, but none shows the Downdetector source or the Monday date, so the claim remains unconfirmed.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 40 post(s) classified."
+  },
+  {
+    "id": "CL24",
+    "text": "Microsoft suffered an outage the week before the reported bank outages, and the FAA grounded all flights in the country on a Friday.",
+    "narrative_id": "N2",
+    "related_post_ids": [
+      "x:2121326688344883581",
+      "x:2121331903055999408",
+      "x:2121353714292474072",
+      "x:2121357181920616483",
+      "x:2121361772363837667",
+      "x:2121370077270331787",
+      "x:2121373908448280836",
+      "x:2121374428177031404",
+      "x:2121379125726191938",
+      "youtube:J4sDguKHiTs",
+      "x:2121714803169460408",
+      "youtube:DQbIXQICJmQ",
+      "linkedin:7528167456897396738",
+      "youtube:wP_I3kbbfEs",
+      "linkedin:7528170019344662528",
+      "youtube:zWQ33aWcq2M",
+      "youtube:9OBQ0Ccq_wI",
+      "youtube:-NalJ9VO_RY",
+      "youtube:w6nlFCcV5KU",
+      "youtube:S_vVgLp7W6s",
+      "youtube:B-1JR7DCiyY",
+      "youtube:1Y-PIb9mhXI",
+      "youtube:Eq5-qpYsMa0",
+      "youtube:-89XVEr2A3w",
+      "youtube:oF-hVRMdCEQ",
+      "youtube:7A_HVbUSxuw",
+      "youtube:QrqO7bhJ-pI",
+      "telegram:oanntv:17975",
+      "youtube:xrl2XL_MmL4",
+      "youtube:MibLwF4vD9k",
+      "youtube:ALjiiIMpnyc",
+      "youtube:-NLAK9lnAww",
+      "youtube:BboxcpW7Lpk",
+      "linkedin:7528187404298457088",
+      "youtube:YR_rWzcO0Go",
+      "youtube:bDOGsffi0s0",
+      "youtube:Nty4uJ1w5AA",
+      "linkedin:7528192725758808064",
+      "youtube:WiiADllcD0k",
+      "telegram:secharvester:24465"
+    ],
+    "stances": {
+      "assert": 5,
+      "report": 32,
+      "question": 2,
+      "debunk": 1
+    },
+    "stance_post_ids": {
+      "assert": [
+        "x:2121374428177031404",
+        "youtube:J4sDguKHiTs",
+        "linkedin:7528167456897396738",
+        "youtube:wP_I3kbbfEs",
+        "linkedin:7528170019344662528"
+      ],
+      "report": [
+        "x:2121326688344883581",
+        "x:2121331903055999408",
+        "x:2121353714292474072",
+        "x:2121357181920616483",
+        "x:2121361772363837667",
+        "x:2121373908448280836",
+        "x:2121714803169460408",
+        "youtube:DQbIXQICJmQ",
+        "youtube:zWQ33aWcq2M",
+        "youtube:9OBQ0Ccq_wI",
+        "youtube:w6nlFCcV5KU",
+        "youtube:S_vVgLp7W6s",
+        "youtube:B-1JR7DCiyY",
+        "youtube:1Y-PIb9mhXI",
+        "youtube:Eq5-qpYsMa0",
+        "youtube:-89XVEr2A3w",
+        "youtube:oF-hVRMdCEQ",
+        "youtube:7A_HVbUSxuw",
+        "youtube:QrqO7bhJ-pI",
+        "telegram:oanntv:17975",
+        "youtube:xrl2XL_MmL4",
+        "youtube:MibLwF4vD9k",
+        "youtube:ALjiiIMpnyc",
+        "youtube:-NLAK9lnAww",
+        "youtube:BboxcpW7Lpk",
+        "linkedin:7528187404298457088",
+        "youtube:YR_rWzcO0Go",
+        "youtube:bDOGsffi0s0",
+        "youtube:Nty4uJ1w5AA",
+        "linkedin:7528192725758808064",
+        "youtube:WiiADllcD0k",
+        "telegram:secharvester:24465"
+      ],
+      "question": [
+        "x:2121370077270331787",
+        "x:2121379125726191938"
+      ],
+      "debunk": [
+        "youtube:-NalJ9VO_RY"
+      ]
+    },
+    "evidence": [
+      {
+        "url": "https://fortune.com/2026/11/19/outlook-faa-chase-crashed-down-detector-outages-ai-agents-hack/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 11 hours ago",
+        "title": "‘The whole internet screams at once’: Downdetector logged 6.4 million U.S. outage reports in a week as Microsoft, the FAA, Chase, and Apple went down",
+        "publisher": "Fortune",
+        "retrieved_at": "2026-11-20T09:19:36Z",
+        "published_at": "2026-11-19T22:19:36Z",
+        "published_raw": "11 hours ago",
+        "flag": null
+      },
+      {
+        "url": "https://abc7.com/post/could-everything-broken-grounded-jets-bank-trouble-microsoft-outage-ai-chaos-make/20047717/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 2 days ago",
+        "title": "Could everything be broken? Grounded jets, bank trouble, Microsoft outage, AI chaos make some wonder",
+        "publisher": "ABC7 Los Angeles",
+        "retrieved_at": "2026-11-20T09:19:36Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 3 days ago",
+        "title": "Chase Bank Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions",
+        "publisher": "The New York Times",
+        "retrieved_at": "2026-11-20T09:19:36Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.businessinsider.com/tech-outages-list-microsoft-faa-apple-united-banking-2026-11",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 2 days ago",
+        "title": "A string of tech outages disrupted flights, banking, and major apps. Here's what officials have said about the causes.",
+        "publisher": "Business Insider",
+        "retrieved_at": "2026-11-20T09:19:36Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.foxnews.com/us/america-hits-tech-wall-outages-cripple-email-ground-flights-disrupt-major-banks",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 3 days ago",
+        "title": "America hits a tech wall as outages cripple email, ground flights and disrupt major banks",
+        "publisher": "Fox News",
+        "retrieved_at": "2026-11-20T09:19:36Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "The retrieved items (Fortune 2026-11-19, ABC7 2026-11-18, NYT 2026-11-17, Business Insider 2026-11-18, Fox News 2026-11-17) all describe a cluster of tech outages in mid-November 2026 that included Microsoft, the FAA, Chase and Apple. They do not establish the claim's specific sequence: that the Microsoft outage came the week before the bank outages, or that the FAA grounded all flights nationwide on a Friday. The snippets only reference these events in general terms, and none is shown to confirm the ordering or the nationwide Friday grounding. Nothing in the evidence contradicts the claim, so the verdict is unverified with low confidence.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "Several outlets from 17-19 Nov 2026 report Microsoft, FAA, Chase and Apple outages together, but none confirms the claimed timing or the nationwide Friday flight grounding.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 40 post(s) classified."
+  },
+  {
+    "id": "CL25",
+    "text": "A FAA nationwide ground stop grounded departing flights across the United States on November 13.",
+    "narrative_id": "N4",
+    "related_post_ids": [
+      "x:2121384535128674777",
+      "linkedin:7528189482974732288",
+      "linkedin:7528202529931808768",
+      "youtube:Ttmcw9ZL8OY",
+      "youtube:comment:Ugz2QiDRyIfX1BhGJCl4AaABAg",
+      "linkedin:7528235206164566016",
+      "x:2122478956418838868",
+      "x:2122479418614698107",
+      "youtube:comment:UgyoFBJGu8xMICbS7yZ4AaABAg",
+      "linkedin:7528315137036951552",
+      "linkedin:7528320494266322945",
+      "linkedin:7528343493094780928",
+      "linkedin:7528349806818222082",
+      "youtube:g-h8EggKzrQ",
+      "youtube:YWYtIbZb1Qc",
+      "linkedin:7528492546617069568",
+      "linkedin:7528538543720345600",
+      "x:2122826080440750342",
+      "x:2122827289880650226",
+      "x:2122827954128384420",
+      "x:2122828204863795218",
+      "x:2122829917817651427",
+      "x:2122829946188071117",
+      "x:2122830764719173743",
+      "x:2122832322550489248",
+      "x:2122833177798758824",
+      "x:2122833185402667121",
+      "x:2122834626913726466",
+      "x:2122835764807438628",
+      "x:2122836443714265383",
+      "x:2122836477969371419",
+      "x:2122836491131126176",
+      "x:2122836932468060245",
+      "x:2122841217792720905",
+      "x:2122842097363599562",
+      "linkedin:7528638277105602560",
+      "youtube:4QNrCHLaljk",
+      "x:2123161370434674689",
+      "x:2123162967105556762",
+      "x:2123166406741025195"
+    ],
+    "stances": {
+      "assert": 24,
+      "report": 10,
+      "question": 4,
+      "debunk": 2
+    },
+    "stance_post_ids": {
+      "assert": [
+        "linkedin:7528202529931808768",
+        "linkedin:7528235206164566016",
+        "linkedin:7528315137036951552",
+        "linkedin:7528320494266322945",
+        "linkedin:7528492546617069568",
+        "linkedin:7528538543720345600",
+        "x:2122826080440750342",
+        "x:2122827289880650226",
+        "x:2122827954128384420",
+        "x:2122828204863795218",
+        "x:2122829917817651427",
+        "x:2122829946188071117",
+        "x:2122830764719173743",
+        "x:2122832322550489248",
+        "x:2122833177798758824",
+        "x:2122833185402667121",
+        "x:2122834626913726466",
+        "x:2122835764807438628",
+        "x:2122836443714265383",
+        "x:2122836477969371419",
+        "x:2122836932468060245",
+        "x:2122841217792720905",
+        "linkedin:7528638277105602560",
+        "youtube:4QNrCHLaljk"
+      ],
+      "report": [
+        "x:2121384535128674777",
+        "youtube:comment:Ugz2QiDRyIfX1BhGJCl4AaABAg",
+        "x:2122478956418838868",
+        "youtube:comment:UgyoFBJGu8xMICbS7yZ4AaABAg",
+        "linkedin:7528349806818222082",
+        "youtube:g-h8EggKzrQ",
+        "youtube:YWYtIbZb1Qc",
+        "x:2122836491131126176",
+        "x:2122842097363599562",
+        "x:2123161370434674689"
+      ],
+      "question": [
+        "linkedin:7528189482974732288",
+        "youtube:Ttmcw9ZL8OY",
+        "x:2122479418614698107",
+        "x:2123162967105556762"
+      ],
+      "debunk": [
+        "linkedin:7528343493094780928",
+        "x:2123166406741025195"
+      ]
+    },
+    "evidence": [
+      {
+        "url": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 6 days ago",
+        "title": "F.A.A. Ends Nationwide Ground Stop but Delays Persist",
+        "publisher": "The New York Times",
+        "retrieved_at": "2026-11-20T09:19:38Z",
+        "published_at": "2026-11-14",
+        "published_raw": "6 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 6 days ago",
+        "title": "US to resume flights after air traffic network failure sparks chaos",
+        "publisher": "Reuters",
+        "retrieved_at": "2026-11-20T09:19:38Z",
+        "published_at": "2026-11-14",
+        "published_raw": "6 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 6 days ago",
+        "title": "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'",
+        "publisher": "NPR",
+        "retrieved_at": "2026-11-20T09:19:38Z",
+        "published_at": "2026-11-14",
+        "published_raw": "6 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 6 days ago",
+        "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
+        "publisher": "CNBC",
+        "retrieved_at": "2026-11-20T09:19:38Z",
+        "published_at": "2026-11-14",
+        "published_raw": "6 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.aljazeera.com/news/2026/11/17/us-senators-demand-faa-pause-upgrades-linked-to-nationwide-ground-stop",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 2 days ago",
+        "title": "FAA pauses router upgrades linked to nationwide ground stop",
+        "publisher": "Al Jazeera",
+        "retrieved_at": "2026-11-20T09:19:38Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      }
+    ],
+    "verdict": "supported",
+    "confidence": 0.85,
+    "rationale": "Four outlets published 2026-11-14 (NYT [1], Reuters [2], NPR [3], CNBC [4]) report an FAA nationwide ground stop on November 13 that halted flights and was later lifted after several hours. Their headlines confirm the FAA, the nationwide scope and the November 13 date. The headlines do not explicitly describe 'departing' flights, so that detail is only implied by a ground stop. Al Jazeera [5], published 2026-11-18, reports senators demanding the FAA pause router upgrades linked to the stop, which gives context only. No retrieved item contradicts the claim.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "Four outlets dated 2026-11-14 report an FAA nationwide ground stop on November 13 that was later lifted; none contradicts it, though the 'departing flights' wording is implied rather than quoted.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 40 post(s) classified."
+  },
+  {
+    "id": "CL26",
+    "text": "Chase, Bank of America, Wells Fargo and U.S. Bank customers could not log in or make payments during a disruption on Monday, November 16.",
+    "narrative_id": "N4",
+    "related_post_ids": [
+      "x:2121384535128674777",
+      "linkedin:7528189482974732288",
+      "linkedin:7528202529931808768",
+      "youtube:Ttmcw9ZL8OY",
+      "youtube:comment:Ugz2QiDRyIfX1BhGJCl4AaABAg",
+      "linkedin:7528235206164566016",
+      "x:2122478956418838868",
+      "x:2122479418614698107",
+      "youtube:comment:UgyoFBJGu8xMICbS7yZ4AaABAg",
+      "linkedin:7528315137036951552",
+      "linkedin:7528320494266322945",
+      "linkedin:7528343493094780928",
+      "linkedin:7528349806818222082",
+      "youtube:g-h8EggKzrQ",
+      "youtube:YWYtIbZb1Qc",
+      "linkedin:7528492546617069568",
+      "linkedin:7528538543720345600",
+      "x:2122826080440750342",
+      "x:2122827289880650226",
+      "x:2122827954128384420",
+      "x:2122828204863795218",
+      "x:2122829917817651427",
+      "x:2122829946188071117",
+      "x:2122830764719173743",
+      "x:2122832322550489248",
+      "x:2122833177798758824",
+      "x:2122833185402667121",
+      "x:2122834626913726466",
+      "x:2122835764807438628",
+      "x:2122836443714265383",
+      "x:2122836477969371419",
+      "x:2122836491131126176",
+      "x:2122836932468060245",
+      "x:2122841217792720905",
+      "x:2122842097363599562",
+      "linkedin:7528638277105602560",
+      "youtube:4QNrCHLaljk",
+      "x:2123161370434674689",
+      "x:2123162967105556762",
+      "x:2123166406741025195"
+    ],
+    "stances": {
+      "assert": 26,
+      "report": 11,
+      "question": 1,
+      "debunk": 2
+    },
+    "stance_post_ids": {
+      "assert": [
+        "linkedin:7528202529931808768",
+        "linkedin:7528235206164566016",
+        "x:2122478956418838868",
+        "linkedin:7528315137036951552",
+        "linkedin:7528320494266322945",
+        "linkedin:7528343493094780928",
+        "linkedin:7528349806818222082",
+        "linkedin:7528492546617069568",
+        "linkedin:7528538543720345600",
+        "x:2122826080440750342",
+        "x:2122827289880650226",
+        "x:2122827954128384420",
+        "x:2122828204863795218",
+        "x:2122829917817651427",
+        "x:2122829946188071117",
+        "x:2122832322550489248",
+        "x:2122833177798758824",
+        "x:2122833185402667121",
+        "x:2122834626913726466",
+        "x:2122835764807438628",
+        "x:2122836443714265383",
+        "x:2122836477969371419",
+        "x:2122836491131126176",
+        "x:2122836932468060245",
+        "linkedin:7528638277105602560",
+        "youtube:4QNrCHLaljk"
+      ],
+      "report": [
+        "x:2121384535128674777",
+        "linkedin:7528189482974732288",
+        "youtube:Ttmcw9ZL8OY",
+        "youtube:comment:Ugz2QiDRyIfX1BhGJCl4AaABAg",
+        "youtube:comment:UgyoFBJGu8xMICbS7yZ4AaABAg",
+        "youtube:g-h8EggKzrQ",
+        "youtube:YWYtIbZb1Qc",
+        "x:2122830764719173743",
+        "x:2122841217792720905",
+        "x:2122842097363599562",
+        "x:2123161370434674689"
+      ],
+      "question": [
+        "x:2122479418614698107"
+      ],
+      "debunk": [
+        "x:2123162967105556762",
+        "x:2123166406741025195"
+      ]
+    },
+    "evidence": [
+      {
+        "url": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago; snippet: Customers at JPMorgan Chase, Bank of America, U.S. Bank and other major financial institutions reported service outages on Monday,...",
+        "title": "Widespread service outages at major U.S. banks appear to be over",
+        "publisher": "CBS News",
+        "retrieved_at": "2026-11-20T09:19:41Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.pbs.org/newshour/nation/customers-at-major-banks-are-experiencing-issues-accessing-their-accounts",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago; snippet: Chase said Monday that the technical problems were not the result of a cyberattack, and that it was working to bring banking services back...",
+        "title": "Technical issue at JPMorgan Chase triggers online delays for major U.S. banks",
+        "publisher": "PBS",
+        "retrieved_at": "2026-11-20T09:19:41Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.cnn.com/2026/11/16/business/bank-outage-chase-us-bank-bank-of-america",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago; snippet: Thousands of Chase Bank customers reported they had trouble using their online accounts on Monday. “JPMorganChase has experienced a...",
+        "title": "Thousands of Chase Bank customers report trouble with online banking services",
+        "publisher": "CNN",
+        "retrieved_at": "2026-11-20T09:19:41Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.google.com/url?opi=89978449&q=CAESsAEBxCJF139ltX90rrCzC-7GdK9cd-XIE81qfhx1RUfG48gRi_1RDk-z_j5CxzK3IBUPFr5Xmem73RI0UZFdeLOB_QrosoFFJffILkBYbGYtnHLASAKe7bHC-Pi_lHWm_ZXFg3ocEPgOdmzlKIly2AlydKCWuUirrH2vyTvamJ-rPuJYYCtN_KMoaO1wdAratLD26odTJR7gjJkivdNyhS8KkEe06jDSOC5r8IetT-i_5A&sa=U&uoh=3&ved=2ahUKEwjjo5Xzm5aYAxWbkYkEHV9xNTEQxfQBegQIBxAC&usg=AOvVaw1ehLaLb-mqBE6a4vvlF_nM",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago; snippet: Major bank customers in the United States have reported outages caused by a software bug at JPMorgan Chase that the company indicated was...",
+        "title": "Thousands report online outages at major US banks",
+        "publisher": "Al Jazeera",
+        "retrieved_at": "2026-11-20T09:19:41Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.google.com/url?opi=89978449&q=CAESrwEBxCJF1-FodBAULOMuH1PJn2H-v-ae6_PFOMI09HekSpRCcanO7CjkdkpfohDmXo0pAnyZhfSB1kqzvAnL0s1KxzLiOMUWAf_CKTUngdXAqgVneKJg_S0NLMLE_ieDkY1E5wrQqVar-4PcFHNVj5ScLLaZJKhn78EXYDJrfCfs2zKF3XQraaQUx7nkGTMUxREKfpALgzPXfVakCd3_imt2kQm2KYEf1y3P1uJCxbuz&sa=U&uoh=3&ved=2ahUKEwjjo5Xzm5aYAxWbkYkEHV9xNTEQxfQBegQIBBAC&usg=AOvVaw0Le4mXAwL6rKUt-IJcEQxU",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 3 days ago; snippet: Customers reported difficulty accessing the online accounts at some of the nation's largest banks on Monday.",
+        "title": "A technical issue at JPMorgan Chase triggers online banking delays across major US banks",
+        "publisher": "ABC7 Los Angeles",
+        "retrieved_at": "2026-11-20T09:19:41Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.3,
+    "rationale": "Five retrieved reports, all published 2026-11-17 and inside the window, describe online banking disruptions on Monday at Chase, Bank of America and U.S. Bank, and PBS and Al Jazeera attribute it to a Chase technical or software issue. None of the snippets mention Wells Fargo, and the 'could not log in or make payments' wording is only partly matched by 'trouble accessing' accounts, so the claim is only partly confirmed. No retrieved item contradicts it.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "Five 2026-11-17 reports confirm Monday online outages at Chase, Bank of America and U.S. Bank; none of the snippets mention Wells Fargo or confirm payment failures.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 40 post(s) classified."
+  },
+  {
+    "id": "CL27",
+    "text": "JPMorgan Chase attributed its November 16 banking disruption to a internal software bug and said it was not cyber-related.",
+    "narrative_id": "N4",
+    "related_post_ids": [
+      "x:2121384535128674777",
+      "linkedin:7528189482974732288",
+      "linkedin:7528202529931808768",
+      "youtube:Ttmcw9ZL8OY",
+      "youtube:comment:Ugz2QiDRyIfX1BhGJCl4AaABAg",
+      "linkedin:7528235206164566016",
+      "x:2122478956418838868",
+      "x:2122479418614698107",
+      "youtube:comment:UgyoFBJGu8xMICbS7yZ4AaABAg",
+      "linkedin:7528315137036951552",
+      "linkedin:7528320494266322945",
+      "linkedin:7528343493094780928",
+      "linkedin:7528349806818222082",
+      "youtube:g-h8EggKzrQ",
+      "youtube:YWYtIbZb1Qc",
+      "linkedin:7528492546617069568",
+      "linkedin:7528538543720345600",
+      "x:2122826080440750342",
+      "x:2122827289880650226",
+      "x:2122827954128384420",
+      "x:2122828204863795218",
+      "x:2122829917817651427",
+      "x:2122829946188071117",
+      "x:2122830764719173743",
+      "x:2122832322550489248",
+      "x:2122833177798758824",
+      "x:2122833185402667121",
+      "x:2122834626913726466",
+      "x:2122835764807438628",
+      "x:2122836443714265383",
+      "x:2122836477969371419",
+      "x:2122836491131126176",
+      "x:2122836932468060245",
+      "x:2122841217792720905",
+      "x:2122842097363599562",
+      "linkedin:7528638277105602560",
+      "youtube:4QNrCHLaljk",
+      "x:2123161370434674689",
+      "x:2123162967105556762",
+      "x:2123166406741025195"
+    ],
+    "stances": {
+      "assert": 2,
+      "report": 21,
+      "question": 16,
+      "debunk": 1
+    },
+    "stance_post_ids": {
+      "assert": [
+        "linkedin:7528349806818222082",
+        "x:2123162967105556762"
+      ],
+      "report": [
+        "x:2121384535128674777",
+        "youtube:comment:Ugz2QiDRyIfX1BhGJCl4AaABAg",
+        "x:2122478956418838868",
+        "linkedin:7528315137036951552",
+        "linkedin:7528343493094780928",
+        "youtube:g-h8EggKzrQ",
+        "youtube:YWYtIbZb1Qc",
+        "linkedin:7528492546617069568",
+        "linkedin:7528538543720345600",
+        "x:2122826080440750342",
+        "x:2122827954128384420",
+        "x:2122828204863795218",
+        "x:2122829946188071117",
+        "x:2122832322550489248",
+        "x:2122833185402667121",
+        "x:2122834626913726466",
+        "x:2122835764807438628",
+        "x:2122836477969371419",
+        "x:2122836932468060245",
+        "linkedin:7528638277105602560",
+        "x:2123161370434674689"
+      ],
+      "question": [
+        "linkedin:7528189482974732288",
+        "linkedin:7528202529931808768",
+        "youtube:Ttmcw9ZL8OY",
+        "linkedin:7528235206164566016",
+        "x:2122479418614698107",
+        "youtube:comment:UgyoFBJGu8xMICbS7yZ4AaABAg",
+        "linkedin:7528320494266322945",
+        "x:2122827289880650226",
+        "x:2122829917817651427",
+        "x:2122830764719173743",
+        "x:2122833177798758824",
+        "x:2122836443714265383",
+        "x:2122836491131126176",
+        "x:2122841217792720905",
+        "x:2122842097363599562",
+        "youtube:4QNrCHLaljk"
+      ],
+      "debunk": [
+        "x:2123166406741025195"
+      ]
+    },
+    "evidence": [
+      {
+        "url": "https://thekatynews.com/2026/11/17/are-we-being-hacked-major-technology-outages-hit-u-s-banks-airlines-apple-microsoft-and-national-security-systems/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 2 days ago",
+        "title": "Are We Being Hacked? Major Technology Outages Hit U.S. Banks, Airlines, Apple, Microsoft and National Security Systems",
+        "publisher": "The Katy News",
+        "retrieved_at": "2026-11-20T09:19:43Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://superpowerdaily.com/posts/homeland-security-chief-relays-unverified-ai-theory-for-recent-outages",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 day ago",
+        "title": "Homeland Security chief relays unverified AI theory for recent outages",
+        "publisher": "Superpower Daily",
+        "retrieved_at": "2026-11-20T09:19:43Z",
+        "published_at": "2026-11-19",
+        "published_raw": "1 day ago",
+        "flag": null
+      },
+      {
+        "url": "https://beinsure.com/news/jpmorgan-chase-outage-disrupts-banking-services-across-the-us/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 2 days ago",
+        "title": "JPMorgan Chase outage disrupts banking services across the US",
+        "publisher": "Beinsure",
+        "retrieved_at": "2026-11-20T09:19:43Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://hacked.com/news/chase-bank-outage-zelle-ai-dependencies-november-2026/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 3 days ago",
+        "title": "Chase Bank Outage: Zelle Delays, AI and What to Do",
+        "publisher": "Hacked.com",
+        "retrieved_at": "2026-11-20T09:19:43Z",
+        "published_at": "2026-11-17",
+        "published_raw": "3 days ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.techrepublic.com/article/news-chase-software-bug-zelle-payment-delays/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 2 days ago",
+        "title": "Chase Software Bug Delays Zelle Payments: What Went Wrong?",
+        "publisher": "TechRepublic",
+        "retrieved_at": "2026-11-20T09:19:43Z",
+        "published_at": "2026-11-18",
+        "published_raw": "2 days ago",
+        "flag": null
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "The retrieved items concern a Chase/JPMorgan outage in mid-November 2026 with a Zelle delay and a software bug reference in TechRepublic [5] (published 2026-11-18), which partly overlaps the claim's 'internal software bug' wording. However, none of the items clearly confirms that JPMorgan itself attributed the November 16 disruption to an internal bug or said it was not cyber-related. The Katy News [1] and Superpower Daily [2] pieces discuss hacking speculation and an unverified AI theory rather than a company statement, and Beinsure [3] and Hacked.com [4] describe the outage without a cause attribution. Nothing contradicts the claim directly, so the verdict stays unverified.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "Coverage of the Chase outage mentions a software bug in TechRepublic (Nov 18) but no retrieved item confirms JPMorgan's own cause statement or a 'not cyber-related' denial.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 40 post(s) classified."
+  },
+  {
+    "id": "CL28",
+    "text": "Bank of America was fined about $1.2 billion over anti-money laundering and sanctions compliance failures.",
+    "narrative_id": "N12",
+    "related_post_ids": [
+      "linkedin:7527008663375421441",
+      "youtube:ZCYd-smZIsw",
+      "youtube:jqlUYTdDOdA",
+      "x:2121752287886344498",
+      "youtube:rWlFGmbKxio",
+      "youtube:Or7QCXGRhFA",
+      "youtube:SWaHzIkXzQU",
+      "x:2122477416115511562",
+      "x:2122841100352356683",
+      "linkedin:7529031003076616193",
+      "youtube:nNUQoGel_DA",
+      "youtube:NHREzyHwffA",
+      "youtube:comment:Ugy761Qsb2VX7X4_ycl4AaABAg",
+      "linkedin:7529438799077072896"
+    ],
+    "stances": {
+      "assert": 6,
+      "report": 6,
+      "question": 1,
+      "debunk": 1
+    },
+    "stance_post_ids": {
+      "assert": [
+        "linkedin:7527008663375421441",
+        "youtube:ZCYd-smZIsw",
+        "youtube:Or7QCXGRhFA",
+        "x:2122477416115511562",
+        "youtube:nNUQoGel_DA",
+        "linkedin:7529438799077072896"
+      ],
+      "report": [
+        "youtube:jqlUYTdDOdA",
+        "x:2121752287886344498",
+        "youtube:rWlFGmbKxio",
+        "linkedin:7529031003076616193",
+        "youtube:NHREzyHwffA",
+        "youtube:comment:Ugy761Qsb2VX7X4_ycl4AaABAg"
+      ],
+      "question": [
+        "x:2122841100352356683"
+      ],
+      "debunk": [
+        "youtube:SWaHzIkXzQU"
+      ]
+    },
+    "evidence": [
+      {
+        "url": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 1 month ago",
+        "title": "Bank of America fined $1.2 billion over money laundering violations",
+        "publisher": "CNBC",
+        "retrieved_at": "2026-11-20T09:19:45Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.pbs.org/newshour/economy/u-s-hits-bank-of-america-with-1-2-billion-fine-saying-it-violated-money-laundering-and-sanctions-laws",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 1 month ago",
+        "title": "U.S. hits Bank of America with $1.2 billion fine, saying it violated money laundering and sanctions laws",
+        "publisher": "PBS",
+        "retrieved_at": "2026-11-20T09:19:45Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      },
+      {
+        "url": "https://finance.yahoo.com/markets/article/bank-of-america-hit-with-12-billion-penalty-over-money-laundering-failures-201623796.html",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 1 month ago",
+        "title": "Bank of America hit with $1.2 billion penalty over money laundering failures",
+        "publisher": "Yahoo Finance",
+        "retrieved_at": "2026-11-20T09:19:45Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.reuters.com/legal/legalindustry/bofa-fined-12-billion-by-us-government-failing-police-suspicious-activity-2026-10-13/",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 1 month ago",
+        "title": "Bank of America fined $1.2 billion by US government for failing to police suspicious activity",
+        "publisher": "Reuters",
+        "retrieved_at": "2026-11-20T09:19:45Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      },
+      {
+        "url": "https://iclg.com/news/bank-of-america-fined-1-2-billion-over-money-laundering-failures/",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 1 month ago",
+        "title": "Bank of America fined $1.2 billion over money-laundering failures",
+        "publisher": "ICLG",
+        "retrieved_at": "2026-11-20T09:19:45Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      }
+    ],
+    "verdict": "supported",
+    "confidence": 0.85,
+    "rationale": "Five news items in the evidence list all report a $1.2 billion fine on Bank of America for money laundering failures. All were published 2026-10-21 per the search metadata, inside the 2026-10-14 to 2026-11-27 window; their URLs suggest the underlying announcement was 2026-10-13. The PBS item (headline) also names sanctions violations, which covers the sanctions part of the claim. The other four name money laundering and do not mention sanctions, so that part rests on PBS alone. No item contradicts the claim.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "Five outlets (CNBC, PBS, Yahoo Finance, Reuters, ICLG) report a $1.2 billion fine on Bank of America for money laundering failures; only PBS names sanctions violations too.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 14 post(s) classified."
+  },
+  {
+    "id": "CL29",
+    "text": "Bank of America failed to report on time more than $5 billion in suspicious transactions.",
+    "narrative_id": "N12",
+    "related_post_ids": [
+      "linkedin:7527008663375421441",
+      "youtube:ZCYd-smZIsw",
+      "youtube:jqlUYTdDOdA",
+      "x:2121752287886344498",
+      "youtube:rWlFGmbKxio",
+      "youtube:Or7QCXGRhFA",
+      "youtube:SWaHzIkXzQU",
+      "x:2122477416115511562",
+      "x:2122841100352356683",
+      "linkedin:7529031003076616193",
+      "youtube:nNUQoGel_DA",
+      "youtube:NHREzyHwffA",
+      "youtube:comment:Ugy761Qsb2VX7X4_ycl4AaABAg",
+      "linkedin:7529438799077072896"
+    ],
+    "stances": {
+      "assert": 4,
+      "report": 6,
+      "question": 3,
+      "debunk": 1
+    },
+    "stance_post_ids": {
+      "assert": [
+        "linkedin:7527008663375421441",
+        "youtube:ZCYd-smZIsw",
+        "x:2122477416115511562",
+        "youtube:nNUQoGel_DA"
+      ],
+      "report": [
+        "youtube:jqlUYTdDOdA",
+        "x:2121752287886344498",
+        "youtube:rWlFGmbKxio",
+        "youtube:Or7QCXGRhFA",
+        "youtube:NHREzyHwffA",
+        "linkedin:7529438799077072896"
+      ],
+      "question": [
+        "x:2122841100352356683",
+        "linkedin:7529031003076616193",
+        "youtube:comment:Ugy761Qsb2VX7X4_ycl4AaABAg"
+      ],
+      "debunk": [
+        "youtube:SWaHzIkXzQU"
+      ]
+    },
+    "evidence": [
+      {
+        "url": "https://www.reuters.com/legal/legalindustry/bofa-fined-12-billion-by-us-government-failing-police-suspicious-activity-2026-10-13/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 month ago",
+        "title": "Bank of America fined $1.2 billion by US government for failing to police suspicious activity",
+        "publisher": "Reuters",
+        "retrieved_at": "2026-11-20T09:19:46Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 month ago",
+        "title": "Bank of America fined $1.2 billion over money laundering violations",
+        "publisher": "CNBC",
+        "retrieved_at": "2026-11-20T09:19:46Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.dandodiary.com/2026/10/articles/securities-litigation/aml-penalties-related-securities-suit-hits-bank-of-america/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 month ago",
+        "title": "AML Penalties-Related Securities Suit Hits Bank of America",
+        "publisher": "The D&O Diary",
+        "retrieved_at": "2026-11-20T09:19:46Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      },
+      {
+        "url": "https://foleyhoag.com/news-and-insights/blogs/white-collar-law-and-investigations/2026/october/record-penalty-against-bank-of-america-demonstrates-that-core-aml-violations-remain-an-enforcement-p/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 3 weeks ago",
+        "title": "Record Penalty Against Bank of America Demonstrates that Core AML Violations Remain an Enforcement Priority",
+        "publisher": "Foley Hoag",
+        "retrieved_at": "2026-11-20T09:19:46Z",
+        "published_at": "2026-10-30",
+        "published_raw": "3 weeks ago",
+        "flag": null
+      },
+      {
+        "url": "https://lynnwoodtimes.com/2026/10/21/bank-america/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 month ago",
+        "title": "Bank of America fined $1.21 Billion by US Treasury for anti-money laundering violations",
+        "publisher": "Lynnwood Times",
+        "retrieved_at": "2026-11-20T09:19:46Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.0,
+    "rationale": "Sources [1] Reuters, [2] CNBC, [3] The D&O Diary, [4] Foley Hoag and [5] Lynnwood Times (all published 2026-10-21 or 2026-10-30, within the window) report a $1.2 billion US penalty against Bank of America for failing to police suspicious activity and anti-money laundering violations. None of them shows the claimed figure of more than $5 billion in suspicious transactions, nor a finding of late reporting, so the evidence covers the same event without confirming the claim's specific figure or timing.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "Outlets report a $1.2 billion AML penalty against Bank of America for failing to police suspicious activity, but none confirms the claimed $5 billion in late-reported transactions.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 14 post(s) classified."
+  },
+  {
+    "id": "CL30",
+    "text": "On October 13, 2026, the U.S. Treasury announced more than $1.21 billion in penalties against Bank of America across three agencies.",
+    "narrative_id": "N12",
+    "related_post_ids": [
+      "linkedin:7527008663375421441",
+      "youtube:ZCYd-smZIsw",
+      "youtube:jqlUYTdDOdA",
+      "x:2121752287886344498",
+      "youtube:rWlFGmbKxio",
+      "youtube:Or7QCXGRhFA",
+      "youtube:SWaHzIkXzQU",
+      "x:2122477416115511562",
+      "x:2122841100352356683",
+      "linkedin:7529031003076616193",
+      "youtube:nNUQoGel_DA",
+      "youtube:NHREzyHwffA",
+      "youtube:comment:Ugy761Qsb2VX7X4_ycl4AaABAg",
+      "linkedin:7529438799077072896"
+    ],
+    "stances": {
+      "assert": 7,
+      "report": 7,
+      "question": 0,
+      "debunk": 0
+    },
+    "stance_post_ids": {
+      "assert": [
+        "linkedin:7527008663375421441",
+        "youtube:ZCYd-smZIsw",
+        "youtube:Or7QCXGRhFA",
+        "youtube:SWaHzIkXzQU",
+        "x:2122477416115511562",
+        "youtube:nNUQoGel_DA",
+        "linkedin:7529438799077072896"
+      ],
+      "report": [
+        "youtube:jqlUYTdDOdA",
+        "x:2121752287886344498",
+        "youtube:rWlFGmbKxio",
+        "x:2122841100352356683",
+        "linkedin:7529031003076616193",
+        "youtube:NHREzyHwffA",
+        "youtube:comment:Ugy761Qsb2VX7X4_ycl4AaABAg"
+      ],
+      "question": [],
+      "debunk": []
+    },
+    "evidence": [
+      {
+        "url": "https://www.dandodiary.com/2026/10/articles/securities-litigation/aml-penalties-related-securities-suit-hits-bank-of-america/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 month ago",
+        "title": "AML Penalties-Related Securities Suit Hits Bank of America",
+        "publisher": "The D&O Diary",
+        "retrieved_at": "2026-11-20T09:19:48Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 1 month ago",
+        "title": "Bank of America fined $1.2 billion over money laundering violations",
+        "publisher": "CNBC",
+        "retrieved_at": "2026-11-20T09:19:48Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.pymnts.com/legal/bank-regulation/2026/us-fines-bank-of-america-1-2-billion-alleging-aml-and-sanctions-violations/",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 month ago",
+        "title": "US Fines Bank of America $1.2 Billion, Alleging AML and Sanctions Violations",
+        "publisher": "PYMNTS.com",
+        "retrieved_at": "2026-11-20T09:19:48Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations",
+        "source": "serper",
+        "supports": "context",
+        "note": "news search result; published: 1 month ago",
+        "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+        "publisher": "Al Jazeera",
+        "retrieved_at": "2026-11-20T09:19:48Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      },
+      {
+        "url": "https://www.vitallaw.com/news/bank-secrecy-act-bank-of-america-sanctions-penalties-top-1-21-billion/blw0114c8f554bedb4f8e88b79b58df4335b8",
+        "source": "serper",
+        "supports": "supports",
+        "note": "news search result; published: 1 month ago",
+        "title": "BANK SECRECY ACT—Bank of America sanctions penalties top $1.21 billion (Oct 14, 2026)",
+        "publisher": "VitalLaw.com",
+        "retrieved_at": "2026-11-20T09:19:48Z",
+        "published_at": "2026-10-21",
+        "published_raw": "1 month ago",
+        "flag": null
+      }
+    ],
+    "verdict": "unverified",
+    "confidence": 0.3,
+    "rationale": "Five retrieved items cover the same Bank of America AML and sanctions penalty, all dated within the window (listed as 2026-10-21, with the CNBC URL path showing 2026/10/13 and Al Jazeera and VitalLaw dated Oct 14, 2026). VitalLaw's headline gives the figure as 'top $1.21 billion', which matches the claim. CNBC and Al Jazeera report about $1.2 billion. The snippets do not show that the Treasury announced the penalties, that three agencies were involved, or the Oct 13 announcement date in the text, so the claim's specific actor and date are only partly confirmed.",
+    "method": "llm:claude-haiku-5-5",
+    "bottom_line": "Several outlets report a roughly $1.2 billion AML and sanctions penalty on Bank of America in mid-October 2026, and VitalLaw cites $1.21 billion, but the snippets do not confirm Treasury or three agencies.",
+    "method_notes": "Method: extraction=llm; stance=llm; verdict=llm; 14 post(s) classified."
+  }
+]

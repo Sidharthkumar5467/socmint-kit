@@ -1,0 +1,228 @@
+{
+  "_note": "DOC EXAMPLE, NOT LIVE. Hand-built from the publicly documented / widely observed shape of x.com's GraphQL SearchTimeline response (data.search_by_raw_query.search_timeline.timeline.instructions[]). Values are synthetic. Every field is UNVERIFIED until a live capture (live_search_timeline*.json) replaces this file. Page 2 of 2: on later pages cursors arrive as TimelineReplaceEntry instructions; tweet A repeats to exercise dedupe.",
+  "data": {
+    "search_by_raw_query": {
+      "search_timeline": {
+        "timeline": {
+          "instructions": [
+            {
+              "type": "TimelineAddEntries",
+              "entries": [
+                {
+                  "entryId": "tweet-1900000000000001008",
+                  "sortIndex": "1",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1900000000000001008",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjo2002",
+                                "rest_id": "2002",
+                                "legacy": {
+                                  "created_at": "Wed Dec 19 20:20:32 +0000 2007",
+                                  "name": "Example Legacy",
+                                  "screen_name": "example_legacy",
+                                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2002/legacy_normal.jpg",
+                                  "followers_count": 3,
+                                  "friends_count": 7
+                                }
+                              }
+                            }
+                          },
+                          "legacy": {
+                            "id_str": "1900000000000001008",
+                            "user_id_str": "2002",
+                            "conversation_id_str": "1900000000000001008",
+                            "full_text": "A later post on page two",
+                            "created_at": "Sun Nov 08 18:00:00 +0000 2026",
+                            "lang": "en",
+                            "favorite_count": 0,
+                            "retweet_count": 0,
+                            "reply_count": 0,
+                            "quote_count": 0,
+                            "bookmark_count": 0,
+                            "is_quote_status": false,
+                            "display_text_range": [
+                              0,
+                              24
+                            ],
+                            "entities": {
+                              "urls": [],
+                              "user_mentions": [],
+                              "hashtags": [],
+                              "symbols": []
+                            }
+                          },
+                          "views": {
+                            "count": "5",
+                            "state": "EnabledWithCount"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet"
+                    }
+                  }
+                },
+                {
+                  "entryId": "tweet-1900000000000001001",
+                  "sortIndex": "1",
+                  "content": {
+                    "entryType": "TimelineTimelineItem",
+                    "__typename": "TimelineTimelineItem",
+                    "itemContent": {
+                      "itemType": "TimelineTweet",
+                      "__typename": "TimelineTweet",
+                      "tweet_results": {
+                        "result": {
+                          "__typename": "Tweet",
+                          "rest_id": "1900000000000001001",
+                          "core": {
+                            "user_results": {
+                              "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjo2001",
+                                "rest_id": "2001",
+                                "core": {
+                                  "created_at": "Mon Jan 05 08:00:00 +0000 2015",
+                                  "name": "Example New Shape",
+                                  "screen_name": "example_newshape"
+                                },
+                                "avatar": {
+                                  "image_url": "https://pbs.twimg.com/profile_images/2001/new_normal.jpg"
+                                },
+                                "legacy": {
+                                  "followers_count": 10,
+                                  "friends_count": 5
+                                }
+                              }
+                            }
+                          },
+                          "legacy": {
+                            "id_str": "1900000000000001001",
+                            "user_id_str": "2001",
+                            "conversation_id_str": "1900000000000001001",
+                            "full_text": "Example claim about the topic https://t.co/0 @example_mention #ExampleTag https://t.co/p",
+                            "created_at": "Mon Nov 02 10:00:00 +0000 2026",
+                            "lang": "en",
+                            "favorite_count": 12,
+                            "retweet_count": 3,
+                            "reply_count": 1,
+                            "quote_count": 2,
+                            "bookmark_count": 4,
+                            "is_quote_status": false,
+                            "display_text_range": [
+                              0,
+                              88
+                            ],
+                            "entities": {
+                              "urls": [
+                                {
+                                  "url": "https://t.co/0",
+                                  "expanded_url": "https://news.example.org/story",
+                                  "display_url": "news.example.org/sto",
+                                  "indices": [
+                                    0,
+                                    1
+                                  ]
+                                }
+                              ],
+                              "user_mentions": [
+                                {
+                                  "screen_name": "example_mention",
+                                  "name": "example_mention",
+                                  "id_str": "90",
+                                  "indices": [
+                                    0,
+                                    1
+                                  ]
+                                }
+                              ],
+                              "hashtags": [
+                                {
+                                  "text": "ExampleTag",
+                                  "indices": [
+                                    0,
+                                    1
+                                  ]
+                                }
+                              ],
+                              "symbols": [],
+                              "media": [
+                                {
+                                  "type": "photo",
+                                  "id_str": "3001",
+                                  "media_key": "3_3001",
+                                  "media_url_https": "https://pbs.twimg.com/media/example_photo.jpg",
+                                  "url": "https://t.co/p",
+                                  "expanded_url": "https://x.com/example_newshape/status/1900000000000001001/photo/1"
+                                }
+                              ]
+                            },
+                            "extended_entities": {
+                              "media": [
+                                {
+                                  "type": "photo",
+                                  "id_str": "3001",
+                                  "media_key": "3_3001",
+                                  "media_url_https": "https://pbs.twimg.com/media/example_photo.jpg",
+                                  "url": "https://t.co/p",
+                                  "expanded_url": "https://x.com/example_newshape/status/1900000000000001001/photo/1"
+                                }
+                              ]
+                            }
+                          },
+                          "views": {
+                            "count": "1234",
+                            "state": "EnabledWithCount"
+                          }
+                        }
+                      },
+                      "tweetDisplayType": "Tweet"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-top-1",
+              "entry": {
+                "entryId": "cursor-top-1",
+                "sortIndex": "0",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAADDAABCgABEXAMPLETOP2",
+                  "cursorType": "Top"
+                }
+              }
+            },
+            {
+              "type": "TimelineReplaceEntry",
+              "entry_id_to_replace": "cursor-bottom-0",
+              "entry": {
+                "entryId": "cursor-bottom-0",
+                "sortIndex": "0",
+                "content": {
+                  "entryType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "DAADDAABCgABEXAMPLEBOTTOM2",
+                  "cursorType": "Bottom"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

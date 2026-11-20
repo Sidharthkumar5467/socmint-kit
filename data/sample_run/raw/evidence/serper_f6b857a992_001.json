@@ -1,0 +1,93 @@
+{
+ "provider": "serper",
+ "query": "Bank of America failed to report on time more than $5 billion in suspicious transactions.",
+ "params": {
+  "q": "Bank of America failed to report on time more than $5 billion in suspicious transactions.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:46Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Bank of America failed to report on time more than $5 billion in suspicious transactions.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Bank of America fined $1.2 billion by US government for failing to police suspicious activity",
+    "link": "https://www.reuters.com/legal/legalindustry/bofa-fined-12-billion-by-us-government-failing-police-suspicious-activity-2026-10-13/",
+    "date": "1 month ago",
+    "source": "Reuters",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America fined $1.2 billion over money laundering violations",
+    "link": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
+    "date": "1 month ago",
+    "source": "CNBC",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "AML Penalties-Related Securities Suit Hits Bank of America",
+    "link": "https://www.dandodiary.com/2026/10/articles/securities-litigation/aml-penalties-related-securities-suit-hits-bank-of-america/",
+    "date": "1 month ago",
+    "source": "The D&O Diary",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Record Penalty Against Bank of America Demonstrates that Core AML Violations Remain an Enforcement Priority",
+    "link": "https://foleyhoag.com/news-and-insights/blogs/white-collar-law-and-investigations/2026/october/record-penalty-against-bank-of-america-demonstrates-that-core-aml-violations-remain-an-enforcement-p/",
+    "date": "3 weeks ago",
+    "source": "Foley Hoag",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America fined $1.21 Billion by US Treasury for anti-money laundering violations",
+    "link": "https://lynnwoodtimes.com/2026/10/21/bank-america/",
+    "date": "1 month ago",
+    "source": "Lynnwood Times",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "BofA fined $1.21B over AML flaws",
+    "link": "https://www.bankingdive.com/news/bofa-fined-1-21-billion-over-aml-bsa-occ-treasury/832915/",
+    "date": "1 month ago",
+    "source": "Banking Dive",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "BofA fined $1.2 billion by US government for failing to police suspicious activity",
+    "link": "https://finance.yahoo.com/news/bofa-fined-1-2-billion-204055846.html",
+    "date": "1 month ago",
+    "source": "Yahoo Finance",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "BofA's mega-fine blunted by Team Trump history",
+    "link": "https://www.breakingviews.com/columns/breaking-view/bofas-mega-fine-blunted-by-team-trump-history-2026-10-14/",
+    "date": "1 month ago",
+    "source": "Breakingviews",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America hammered by huge $1.2 billion AML penalty",
+    "link": "https://www.insurancebusinessmag.com/us/news/breaking-news/bank-of-america-hammered-by-huge-1-2-billion-aml-penalty-593373.aspx",
+    "date": "1 month ago",
+    "source": "Insurance Business",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   },
+   {
+    "title": "Bank of America fined $1.2 billion over money-laundering failures",
+    "link": "https://iclg.com/news/bank-of-america-fined-1-2-billion-over-money-laundering-failures/",
+    "date": "1 month ago",
+    "source": "ICLG",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***"
+   }
+  ],
+  "credits": 1
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "provider": "serper",
+ "query": "Bank of America, JP Morgan Chase and Wells Fargo experienced service outages or disruptions for customers.",
+ "params": {
+  "q": "Bank of America, JP Morgan Chase and Wells Fargo experienced service outages or disruptions for customers.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:47Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Bank of America, JP Morgan Chase and Wells Fargo experienced service outages or disruptions for customers.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Widespread service outages at major U.S. banks appear to be over",
+    "link": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+    "snippet": "Customers at JPMorgan Chase, Bank of America and other major financial institutions reported difficulty accessing their accounts.",
+    "date": "3 days ago",
+    "source": "CBS News",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 1
+   },
+   {
+    "title": "A technical issue at JPMorgan Chase triggers online banking delays for major US banks",
+    "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+    "snippet": "Thousands of customers are reporting difficulty accessing online accounts at several major U.S. banks after a technical issue at JPMorgan...",
+    "date": "3 days ago",
+    "source": "AP News",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 2
+   },
+   {
+    "title": "JPMorgan says software bug slows its transactions",
+    "link": "https://www.reuters.com/legal/transactional/downdetector-reports-outages-major-us-banks-2026-11-16/",
+    "snippet": "The largest US lender added that the issue may have affected other banks receiving its slowed transactions.",
+    "date": "3 days ago",
+    "source": "Reuters",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 3
+   },
+   {
+    "title": "Chase Bank Blames Outages On ‘Software Bug’",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESxQEBxCJF12Ksl00a-4GgW_2QG1s0RmLSZJs_lqR-pnXjUJyWWmWqDc8ZIN5gPtH27RvEMSRsilk50l4JMNKCcvJUT1Y4lAPPfNUif2kKikDu9snhOqa83FG3dq-S-XhjHFD2AoEZ2RggR-M3nBrXDXvq5EVNrEXx0O6vuKZlA47fRUoaXkNat6BGUOx2TdD7YOORieAx8Nt3tTyHJFshJ1YrwVXKaaEN6mNxYormRh0ihsUwjQ8mWGLPfaKWFYUKl_ZbSVc_3Q&sa=U&uoh=3&ved=2ahUKEwiP-cfZm5aYAxXQTTABHYtkAw0QxfQBegQICRAC&usg=AOvVaw2nP1jIZBE1O7WbS7jrPIt1",
+    "snippet": "Chase Bank said Monday it is working to fix a “software bug” in its hardware systems after thousands of users reported service outages.",
+    "date": "3 days ago",
+    "source": "Forbes",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 4
+   },
+   {
+    "title": "Customers report difficulty accessing online services at major US banks",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESjgEBxCJF1xKhw2jAuDXmJJDTMM9nApXdrf7NRkB10bhJt_A8sthn6brJaR3ZM6Dg82mm-zzZdKMfz6tEzjFAv6fYmaE4z0JWXRzncYezxF2gJgvOOvU5QtNMjuQ3uGEPrHdCWEtidcrbzchyv7AqQCfgDRv7kXtilLBC5CuwUN1XKW6MG3gHhtSlmzvPLIZo&sa=U&uoh=3&ved=2ahUKEwiP-cfZm5aYAxXQTTABHYtkAw0QxfQBegQIAxAC&usg=AOvVaw1vzoNUC2xFuoPNg-91o6jJ",
+    "snippet": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues.",
+    "date": "3 days ago",
+    "source": "The Guardian",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 5
+   },
+   {
+    "title": "What to Know About the Banking Service Outages Impacting Thousands of Customers",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESkQEBxCJF1xO_a0MCxBb1vGuq6d4JsWIzGqBFimLrZMwiIBWWhRnHAD3Q9gGcYvh_5sf-_rJsYZ4K--kqX75a_NTlzDe3tiAQZBdoTBLlX-cHSj3PAB0GHnkHhag9UTps9gtJ5XVTcrILnDU6Z5WNfqGd__nlXnYqtUaEokDfzfH9v05slB5AUPo8uzkzqKWItIGy&sa=U&uoh=3&ved=2ahUKEwiP-cfZm5aYAxXQTTABHYtkAw0QxfQBegQIBhAC&usg=AOvVaw0MwoEsuyxh23d0Bh13diAn",
+    "snippet": "Thousands of customers at multiple major U.S. banks are reporting problems afterJPMorgan Chase said it was experiencing a technical issue.",
+    "date": "3 days ago",
+    "source": "Time Magazine",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 6
+   },
+   {
+    "title": "Chase Bank Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESeQHEIkXX7xCkHjxt3ZNZSNbPMf1-xKMGqgTbAyOQ7qtDxcx2Q_AFUmO_SzcqThyw0niaUM92iNXVe_FyB9j5KIZmO8Ee8licyZF4ro-HlbRmbQ7FO6scttetv3ki-Lwc8xxuYvdjpa_shINASjLIO0o0Bfx6QrYzcOY&sa=U&uoh=3&ved=2ahUKEwiP-cfZm5aYAxXQTTABHYtkAw0QxfQBegQIBBAC&usg=AOvVaw2Mvs5a2o3vM-0U1mKuEbr6",
+    "snippet": "After technical problems grounded flights nationwide and Microsoft products failed, the banking issues added to a sense of doom about the...",
+    "date": "3 days ago",
+    "source": "The New York Times",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 7
+   },
+   {
+    "title": "What would happen if you couldn’t access your bank tomorrow? Following recent technology outages that affected banks, airlines and major companies, experts recommend keeping cash at home for emergencies. Would your family be prepared if ATMs and b",
+    "link": "https://www.google.com/url?opi=89978449&q=CAES0QEBxCJF16uhLGUCF4H3EcolK4zgMt_eHzArAJ9lHFMmLBPs67T7FZlzEsXp9nRgjcc1D71KAxKx-64eqiwHuPUL6YVeHIx7IRX5kdGVLPYZMTPnYueHMXm4ZCHHrewNWaDpqByXc7bGP4rD93_pvUiN2fHrMg1E7csP4r93bwGb-5642Zb_pD4CuvlBY_Q9Uys1K8cYq4Taa-vQhJo97zXKK2YZw_ay37s8t0GQo6FdlrAHR95LoFzvrLRnEC1iq6cDePFWbM1oXjspNmT4ZAfM8g&sa=U&uoh=3&ved=2ahUKEwiP-cfZm5aYAxXQTTABHYtkAw0QxfQBegQICBAC&usg=AOvVaw3FWaxcmvYpdVI5sk0xLeUa",
+    "snippet": "1 day ago",
+    "date": "1 day ago",
+    "source": "Facebook",
+    "position": 8
+   },
+   {
+    "title": "Thousands report online outages at major US banks",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESsAEBxCJF18eQfBsJkRg5GHWmc5-Ymfvc3KFIDLqdkuf5dNpbC1ngiaCDej5UMp_b2L9tXF4NfgJukmhzOVIL2NBqSOwQaKD-BTi144fYAREoI08mcVFPoHkTCZgabSQjLuPMJjuwbgtwVTG0LLpVPHGDSbZoAg-TBzYUJqmwtiNyiQoApgMaPoPHj4jtbmtlu52lzm5tOXON7QziKBF0UEaFhy3l-aZy4rHVYif9nNp-bw&sa=U&uoh=3&ved=2ahUKEwiP-cfZm5aYAxXQTTABHYtkAw0QxfQBegQICxAC&usg=AOvVaw1KcPXltTDWwEXeIDoPr87t",
+    "snippet": "Major bank customers in the United States have reported outages caused by a software bug at JPMorgan Chase that the company indicated was...",
+    "date": "3 days ago",
+    "source": "Al Jazeera",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 9
+   },
+   {
+    "title": "Chase Says New Data Breach Unrelated to Banking Outage",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESrgEBxCJF1zesZXtJRrToBxSjsm0khdD7eTvTvNjYyzvpF1MoF5rroxORxry5mCL0tCm0kn_-cQTY_JlodJ_173KVHx4uCmDUWweIiMt6FK2K4seXoQPEIAXriNoMtIHARXMaylN3_dt20Ap62DU5L28OUUDuCs-PCgwbTSyygioxKDZ9QzYILM-WfL-wwQaGzAn1Zcgf8impOs_WfoZ-JvWv9YqW4wUNSUUsvuS9pfU&sa=U&uoh=3&ved=2ahUKEwiP-cfZm5aYAxXQTTABHYtkAw0QxfQBegQIDBAC&usg=AOvVaw3NSx5NlXaza3E4MwJ4Amzz",
+    "snippet": "Chase says hackers may have accessed customer data through third-party vendors, but insists the breach is unrelated to Monday's outage.",
+    "date": "15 hours ago",
+    "source": "Gizmodo",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

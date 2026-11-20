@@ -1,0 +1,113 @@
+{
+ "provider": "serper",
+ "query": "Israel caused the cyber-attack or banking problems, and the government is blaming Iran for them.",
+ "params": {
+  "q": "Israel caused the cyber-attack or banking problems, and the government is blaming Iran for them.",
+  "num": 10
+ },
+ "retrieved_at": "2026-11-20T09:19:29Z",
+ "error": null,
+ "response": {
+  "searchParameters": {
+   "q": "Israel caused the cyber-attack or banking problems, and the government is blaming Iran for them.",
+   "type": "news",
+   "num": 10,
+   "page": 1,
+   "allowSuggested": true,
+   "engine": "google"
+  },
+  "news": [
+   {
+    "title": "Iran denies it was behind cyber fridge attacks targeting France",
+    "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+    "snippet": "The denial comes a day after the French government blamed Iranian military hackers for last month's attack on refrigeration systems at...",
+    "date": "1 week ago",
+    "source": "NPR",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 1
+   },
+   {
+    "title": "Minnesota not Iran to blame for state's water issues, says Trump",
+    "link": "https://www.bbc.com/news/articles/cvgwe2qpgq1o",
+    "snippet": "The US president's comments come after cyber attacks on Minnesota's water systems earlier this week, with US media indicating Iran could be...",
+    "date": "3 months ago",
+    "source": "BBC",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 2
+   },
+   {
+    "title": "Iran says card-based banking hit by cyberattack on three lenders",
+    "link": "https://www.reuters.com/world/middle-east/iran-says-card-based-banking-hit-by-cyberattack-three-lenders-2026-06-23/",
+    "snippet": "Iran's state-owned banking technology provider said ​on Tuesday that cyberattacks had disrupted card-based banking services ‌at Bank Melli,...",
+    "date": "4 months ago",
+    "source": "Reuters",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 3
+   },
+   {
+    "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESpQEBxCJF13IOhTvHByazM1KxfIXWyixU4mGB74lkzsYPoca6RNOLQGyOGsIoCo0HIcueiS92Pr0hwSerlrz7TbF1dwWgh7Up7PzmyLkpu5h-r0rFfFNKCkMHq8lqcpsH-2lWf1ZU93FS2JfYb12vWwDZHcQqPT9F0DDAzcePULN9oEgHwVyXrC8BQIVd7o_G05WpwCJNQM1kA8AKhFG2LOs4SLar25U&sa=U&uoh=3&ved=2ahUKEwjD8qDtm5aYAxWekIkEHQEIL80QxfQBegQIBhAC&usg=AOvVaw0Ync7ra-_S3suTVPFA0XGd",
+    "snippet": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases.",
+    "date": "2 months ago",
+    "source": "The Guardian",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 4
+   },
+   {
+    "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESgwEBxCJF11nHZagUlv_lPVo-cbZG_p7t9nrWM3lQHopGOwPRgB_7Rx2gnDPxASTserFjMxKlCrZppFBr9f39DvEn3TYi51Z0ko1ndbTUofnLlIpmg52GOMc1UMJ9miSnfhnyvWWOgB_mJQTBSLHZW23fSnBvbxb84BSchTSryFy3ff5YPg&sa=U&uoh=3&ved=2ahUKEwjD8qDtm5aYAxWekIkEHQEIL80QxfQBegQIBxAC&usg=AOvVaw0sSWlLP4Wh-YOZqdsg5nbF",
+    "snippet": "A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war.",
+    "date": "3 months ago",
+    "source": "NPR",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 5
+   },
+   {
+    "title": "Did Iran hack water systems in at least seven US states?",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESagHEIkXXO_3Rlnt6Oec5iqb6maXau4MuXiX3C5Tjc0lyQMD0CfNpE8_a2dr_tym_PLftWpGVuWQz6iL23vkvd7O1hkOhwS1T9yZoefz41dpXjEJhR4ppaceEpLSVSCBhCRxTyzIVi1Fj07Q&sa=U&uoh=3&ved=2ahUKEwjD8qDtm5aYAxWekIkEHQEIL80QxfQBegQIBBAC&usg=AOvVaw35JoW6wQMCCXxH31jojVSd",
+    "snippet": "President Donald Trump has said Iran is not to blame, but cyber experts tell the BBC it is likely the attack was directed by Tehran.",
+    "date": "3 months ago",
+    "source": "BBC",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 6
+   },
+   {
+    "title": "Three UK airports hit by cyber-attack with data of 8.7m customers accessed",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESpQEBxCJF1zm6F7_3FKcWJ8D4HFl9I52yybZIOKUcwxiLyMLOLJjXPLReeoOJrz70D3enXq6SUIyi224Cr_NsZEmZMSFFghzfWyh7F92Ll65ZpR3OlJa0IListi5nSsYeSV3cvi0CmEsGZa-M9QvGXB9x35H6ZU3KtPk8YkgSB3sL1SfoAzVu-EhCd85KMDw_5AJXtzCQ3Gc23n3q3sCMMxHq7ET0C4I&sa=U&uoh=3&ved=2ahUKEwjD8qDtm5aYAxWekIkEHQEIL80QxfQBegQIBRAC&usg=AOvVaw0BsHC-gkID2tT5mRk1NNch",
+    "snippet": "Manchester, London Stansted and East Midlands airports have been hit by a cyber-attack in which hackers accessed the data of about 8.7...",
+    "date": "2 months ago",
+    "source": "The Guardian",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 7
+   },
+   {
+    "title": "'Israel reacts with fury' and 'air traffic collapse'",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESbAHEIkXXLdc6vxRyWYPuB5YizAvkElkGp2Hz4fD5ZysZV_ncGh4dZzTJzIgYGd_69p-PDbbezT5m0zbtrpJpZaTImkenRXixlLiXSbVfuuLjKahx3906lnUSObk2MZsAX2ZKVoxI0rK4qbkq5g&sa=U&uoh=3&ved=2ahUKEwjD8qDtm5aYAxWekIkEHQEIL80QxfQBegQICxAC&usg=AOvVaw1VrM4dd2jnSRGq-nU9Cogl",
+    "snippet": "Many of Wednesday's papers lead on the government's announcement it will ban trade with illegal Jewish settlement in the occupied West Bank.",
+    "date": "2 months ago",
+    "source": "BBC",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 8
+   },
+   {
+    "title": "Experts react: The US and Israel just unleashed a major attack on Iran. What’s next?",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESuAEBxCJF17vsn9qheGXXMwXfIuZc0aTsCmTPb72t5Idli4ICQECfIsKolfLCAczfUeXOxyY60qa-2IF8DEomAI4gqS2MyU3ypCD3MgDPvLnyza_MhDReKjg1NBKpSND6D1RiOK8tNM5PK4UBC6_OnzcfvhG6Cbr2vbd_4DAGCt9ZIImEzQstmhLFDRF_SFCHHCdC_p8yxkZdlJZs787rfPV1_T2gOXe3XsU2zbGhMQvn0O8hCXvbT2KQ&sa=U&uoh=3&ved=2ahUKEwjD8qDtm5aYAxWekIkEHQEIL80QxfQBegQICRAC&usg=AOvVaw0OSkRSgnzXl-sTYKIs5DaS",
+    "snippet": "Atlantic Council experts assess the unfolding Operation Epic Fury against the Iranian regime and where it goes from here.",
+    "date": "8 months ago",
+    "source": "Atlantic Council",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 9
+   },
+   {
+    "title": "Live Updates: U.S.-Israel conflict with Iran widens",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESkAEBxCJF1wBQcxbEDNiw_evEOBxt9NJR97DnRV8fBwLZVyXkitpFXiBSObTSsUNYBAkRb4ghvfgyev1YjodKuZi4HEkJxBWg4p595KFp_Ys2pv2zCOb-7pCm6HOprFa5TljZWLWOIboPk35U7Gjrk9eYMird-w07xxsRTXha-oQO-07MPfLaFL74Frf4YjLOE_c&sa=U&uoh=3&ved=2ahUKEwjD8qDtm5aYAxWekIkEHQEIL80QxfQBegQICBAC&usg=AOvVaw2-zZDuMTCDlVO6pmKEGUnn",
+    "snippet": "Iran and Iranian-backed militias fired missiles at Israel and Arab states, apparently hitting the U.S. Embassy compound in Kuwait,...",
+    "date": "8 months ago",
+    "source": "PBS",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:***",
+    "position": 10
+   }
+  ],
+  "credits": 1
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "provider": "google_factcheck",
+ "query": "Seven major banks together reported about $29.4 million in XRP-linked investment products in SEC filings as of September 30, 2026.",
+ "params": {
+  "query": "Seven major banks together reported about $29.4 million in XRP-linked investment products in SEC filings as of September 30, 2026.",
+  "pageSize": 10
+ },
+ "retrieved_at": "2026-11-20T09:18:50Z",
+ "error": null,
+ "response": {}
+}
